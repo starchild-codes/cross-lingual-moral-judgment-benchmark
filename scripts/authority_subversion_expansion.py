@@ -26,7 +26,7 @@ VALIDATION_SOURCE = (
     / "scenario_validation_trial2"
     / "scenario_validation_merged_3coders.csv"
 )
-MANUSCRIPT_REFERENCE = ROOT / "PHASE1_FINAL_EVIDENCE_REPORT_CORRECTED.md"
+MANUSCRIPT_REFERENCE = ROOT / "phase1_evidence_report_provenance.md"
 LEGACY_BREAKDOWN = (
     PROCESSED / "phase1_final_evidence" / "s11_s30_breakdowns.csv"
 )
@@ -1384,7 +1384,7 @@ def write_reports(
 
 - Qualitative source: `results/processed/full_merged_with_human_mft_codes.csv`
 - Scenario-validation source: `results/processed/scenario_validation_trial2/scenario_validation_merged_3coders.csv`
-- Manuscript reference inspected, not modified: `PHASE1_FINAL_EVIDENCE_REPORT_CORRECTED.md`
+- Manuscript reference inspected, not modified: `phase1_evidence_report_provenance.md`
 - S11 explanations: **100**
 - S30 explanations: **100**
 - Unique explanation rows: **200**

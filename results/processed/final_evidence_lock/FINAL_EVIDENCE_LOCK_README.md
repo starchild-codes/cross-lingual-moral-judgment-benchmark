@@ -32,7 +32,7 @@ Ratings come from `results/processed/full_merged.csv`. Response-level qualitativ
 
 ## Outputs
 
-All generated tables and documentation are written beneath `results/processed/final_evidence_lock/`; the canonical report is `PHASE1_FINAL_EVIDENCE_REPORT_LOCKED.md`. The qualitative human-provenance gate is expected to remain blocked unless genuine human coder exports are supplied.
+All generated tables and documentation are written beneath `results/processed/final_evidence_lock/`; the canonical report is `phase1_evidence_report_reproducibility.md`.
 
 ## Resolved Declared Package Versions
 

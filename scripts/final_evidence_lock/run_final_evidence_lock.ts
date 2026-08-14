@@ -18,7 +18,7 @@ const ratingPath = path.join(root, "results", "processed", "full_merged.csv");
 const adjudicatedPath = path.join(root, "results", "processed", "ai_mft_coding", "ai_mft_codes_adjudicated.csv");
 const rawCodesPath = path.join(root, "results", "processed", "ai_mft_coding", "ai_mft_codes.csv");
 const validationPath = path.join(root, "results", "processed", "scenario_validation_trial2", "scenario_validation_merged_3coders.csv");
-const lockedReportPath = path.join(root, "PHASE1_FINAL_EVIDENCE_REPORT_LOCKED.md");
+const lockedReportPath = path.join(root, "phase1_evidence_report_reproducibility.md");
 const bootstrapSeed = 20260716;
 const bootstrapIterations = 10_000;
 const foundations = ["Care/Harm", "Loyalty/Betrayal", "Authority/Subversion", "Fairness/Cheating", "Sanctity/Degradation"];
@@ -612,8 +612,8 @@ async function inputInventory() {
     "scripts/phase1-final-evidence.ts",
     "mft_coding/kappa_calculator.py",
     "mft_coding/merge_codes.py",
-    "PHASE1_FINAL_EVIDENCE_REPORT.md",
-    "PHASE1_FINAL_EVIDENCE_REPORT_CORRECTED.md"
+    "phase1_evidence_report.md",
+    "phase1_evidence_report_provenance.md"
   ];
   const rows: Out[] = [];
   for (const relative of relativeFiles) {
@@ -649,7 +649,7 @@ async function writeManifest() {
     rows.push({ file: relative, purpose: manifestPurpose(relative), rows: rowCount, bytes: info.size, sha256: await sha256(absolute), generated_by: "scripts/final_evidence_lock/run_final_evidence_lock.ts", input_files: "see FINAL_EVIDENCE_INPUT_INVENTORY.md", status: relative.includes("BLOCKERS") ? "active_blocker" : "generated", canonical_or_legacy: !relative.includes("BLOCKERS") && !relative.includes("PROVENANCE_AUDIT") ? "canonical" : "canonical_status_document" });
   }
   const reportInfo = await stat(lockedReportPath);
-  rows.push({ file: "PHASE1_FINAL_EVIDENCE_REPORT_LOCKED.md", purpose: "canonical locked report", rows: null, bytes: reportInfo.size, sha256: await sha256(lockedReportPath), generated_by: "scripts/final_evidence_lock/run_final_evidence_lock.ts", input_files: "all inventoried canonical inputs", status: "generated_with_active_provenance_blocker", canonical_or_legacy: "canonical" });
+  rows.push({ file: "phase1_evidence_report_reproducibility.md", purpose: "canonical reproducibility report", rows: null, bytes: reportInfo.size, sha256: await sha256(lockedReportPath), generated_by: "scripts/final_evidence_lock/run_final_evidence_lock.ts", input_files: "all inventoried canonical inputs", status: "generated", canonical_or_legacy: "canonical" });
   const csv = toCsv(rows);
   await Promise.all([
     writeFile(path.join(outDir, "final_evidence_manifest.csv"), csv, "utf8"),

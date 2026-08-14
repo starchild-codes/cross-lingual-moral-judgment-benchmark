@@ -54,7 +54,7 @@ Copy `.env.local.example` to `.env.local` only when model or database access is 
 
 The repository includes both TypeScript and Python analysis pipelines. Key paper-level evidence is summarized in:
 
-- `PHASE1_FINAL_EVIDENCE_REPORT_CORRECTED.md`
+- `phase1_evidence_report_provenance.md`
 - `paper_materials/01_all_results.md`
 - `reports/authority_subversion_expansion_report.md`
 - `reports/adaptation_edit_rate_report.md`

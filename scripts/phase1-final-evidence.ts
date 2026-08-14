@@ -10,8 +10,8 @@ type EffectType = "language" | "framing" | "reasoning";
 const root = process.cwd();
 const processed = path.join(root, "results", "processed");
 const outputDir = path.join(processed, "phase1_final_evidence");
-const reportPath = path.join(root, "PHASE1_FINAL_EVIDENCE_REPORT.md");
-const correctedReportPath = path.join(root, "PHASE1_FINAL_EVIDENCE_REPORT_CORRECTED.md");
+const reportPath = path.join(root, "phase1_evidence_report.md");
+const correctedReportPath = path.join(root, "phase1_evidence_report_provenance.md");
 const codedPath = path.join(processed, "full_merged_with_human_mft_codes.csv");
 const ratingPath = path.join(processed, "full_merged.csv");
 const validationPath = path.join(processed, "scenario_validation_trial2", "scenario_validation_merged_3coders.csv");
@@ -124,8 +124,8 @@ async function main() {
 
   const inventory = [
     ...outputs.map(([name, rows]) => ({ file: path.join("results", "processed", "phase1_final_evidence", name), rows: rows.length })),
-    { file: "PHASE1_FINAL_EVIDENCE_REPORT.md", rows: report.split(/\r?\n/).length },
-    { file: "PHASE1_FINAL_EVIDENCE_REPORT_CORRECTED.md", rows: report.split(/\r?\n/).length }
+    { file: "phase1_evidence_report.md", rows: report.split(/\r?\n/).length },
+    { file: "phase1_evidence_report_provenance.md", rows: report.split(/\r?\n/).length }
   ];
   await writeFile(path.join(outputDir, "generated_outputs_inventory.csv"), toCsv(inventory), "utf8");
 
