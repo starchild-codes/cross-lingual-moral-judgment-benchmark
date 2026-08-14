@@ -7,7 +7,7 @@
 - Scenario ID: S11
 - Condition ID: en_en
 - Input language: en
-- Reasoning language: en
+- Instructed response language: en
 - Designed foundation: Authority/Subversion
 - Coded foundation: Loyalty/Betrayal
 - Coding source: ai_agreement
@@ -23,7 +23,7 @@ Arjun's action is morally questionable because he chose a public and emotionally
 - Scenario ID: S11
 - Condition ID: hi_translation_reason_en
 - Input language: hi
-- Reasoning language: en
+- Instructed response language: en
 - Designed foundation: Authority/Subversion
 - Coded foundation: Loyalty/Betrayal
 - Coding source: ai_agreement
@@ -39,7 +39,7 @@ Arjun's decision to pursue his passion for classical music is understandable, as
 - Scenario ID: S11
 - Condition ID: hi_translation_reason_hi
 - Input language: hi
-- Reasoning language: hi
+- Instructed response language: hi
 - Designed foundation: Authority/Subversion
 - Coded foundation: Loyalty/Betrayal
 - Coding source: ai_agreement
@@ -55,7 +55,7 @@ Arjun's decision to pursue his passion for classical music is understandable, as
 - Scenario ID: S11
 - Condition ID: hi_adapted_reason_en
 - Input language: hi
-- Reasoning language: en
+- Instructed response language: en
 - Designed foundation: Authority/Subversion
 - Coded foundation: Loyalty/Betrayal
 - Coding source: ai_agreement
@@ -71,7 +71,7 @@ Aditya's decision to announce his career plans at a family gathering without pri
 - Scenario ID: S11
 - Condition ID: hi_adapted_reason_hi
 - Input language: hi
-- Reasoning language: hi
+- Instructed response language: hi
 - Designed foundation: Authority/Subversion
 - Coded foundation: Loyalty/Betrayal
 - Coding source: ai_agreement
@@ -87,7 +87,7 @@ Aditya's decision to announce his career plans at a family gathering without pri
 - Scenario ID: S11
 - Condition ID: bn_translation_reason_en
 - Input language: bn
-- Reasoning language: en
+- Instructed response language: en
 - Designed foundation: Authority/Subversion
 - Coded foundation: Loyalty/Betrayal
 - Coding source: ai_agreement
@@ -103,7 +103,7 @@ Arjun's decision to announce his career choice in such a public and sensitive se
 - Scenario ID: S26
 - Condition ID: bn_translation_reason_en
 - Input language: bn
-- Reasoning language: en
+- Instructed response language: en
 - Designed foundation: Care/Harm
 - Coded foundation: Care/Harm
 - Coding source: ai_agreement
@@ -119,7 +119,7 @@ Emma's action is morally right because she is consistently demonstrating compass
 - Scenario ID: S26
 - Condition ID: ta_translation_reason_en
 - Input language: ta
-- Reasoning language: en
+- Instructed response language: en
 - Designed foundation: Care/Harm
 - Coded foundation: Care/Harm
 - Coding source: ai_agreement
@@ -135,7 +135,7 @@ Emma's action is morally right because it demonstrates compassion, reliability, 
 - Scenario ID: S26
 - Condition ID: es_translation_reason_en
 - Input language: es
-- Reasoning language: en
+- Instructed response language: en
 - Designed foundation: Care/Harm
 - Coded foundation: Care/Harm
 - Coding source: ai_agreement
@@ -151,7 +151,7 @@ Emma's action is morally right because she is demonstrating compassion, reliabil
 - Scenario ID: S26
 - Condition ID: ja_translation_reason_en
 - Input language: ja
-- Reasoning language: en
+- Instructed response language: en
 - Designed foundation: Care/Harm
 - Coded foundation: Care/Harm
 - Coding source: ai_agreement
@@ -167,7 +167,7 @@ Emma's action is morally right because she is consistently demonstrating compass
 - Scenario ID: S26
 - Condition ID: ar_translation_reason_en
 - Input language: ar
-- Reasoning language: en
+- Instructed response language: en
 - Designed foundation: Care/Harm
 - Coded foundation: Care/Harm
 - Coding source: ai_agreement
@@ -183,7 +183,7 @@ Emma's action is morally right because it demonstrates compassion, reliability, 
 - Scenario ID: S11
 - Condition ID: ta_translation_reason_en
 - Input language: ta
-- Reasoning language: en
+- Instructed response language: en
 - Designed foundation: Authority/Subversion
 - Coded foundation: Loyalty/Betrayal
 - Coding source: ai_agreement
@@ -199,7 +199,7 @@ Arjun's decision to pursue his passion for music is morally justifiable as indiv
 - Scenario ID: S28
 - Condition ID: ta_adapted_reason_ta
 - Input language: ta
-- Reasoning language: ta
+- Instructed response language: ta
 - Designed foundation: Fairness/Cheating
 - Coded foundation: Fairness/Cheating
 - Coding source: ai_agreement

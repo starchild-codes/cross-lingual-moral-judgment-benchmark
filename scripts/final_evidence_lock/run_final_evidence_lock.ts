@@ -225,10 +225,12 @@ function s11S30Breakdowns(rows: Row[], labels: Map<string, ScenarioLabel>): Out[
   return output;
 }
 
-type SensitivityRow = Out & {
+type SensitivityRow = {
+  [key: string]: string | number | boolean | null | undefined | Pair[];
   analysis_version: string;
   effect_type: Effect;
   language: string;
+  model_key: string;
   mft_foundation: string;
   mean_diff: number | null;
   median_diff: number | null;
@@ -336,7 +338,7 @@ function effectPairs(rows: Row[], effect: Effect, language: string): Pair[] {
     for (const target of targets) {
       const a = Number(target.parsedRating);
       const b = baseline.get(`${target.modelKey}|${target.scenarioId}`);
-      if (Number.isFinite(a) && Number.isFinite(b)) output.push({ scenarioId: target.scenarioId, modelKey: target.modelKey, language: selected, diff: a - b });
+      if (Number.isFinite(a) && typeof b === "number" && Number.isFinite(b)) output.push({ scenarioId: target.scenarioId, modelKey: target.modelKey, language: selected, diff: a - b });
     }
   }
   return output;
@@ -365,7 +367,7 @@ function applyBh(rows: SensitivityRow[], pColumn: "p_value_ttest" | "p_value_wil
 }
 
 function clusterBootstrap(rows: SensitivityRow[]): Out[] {
-  return rows.map((row, index) => {
+  return rows.map<Out>((row, index) => {
     const clusters = new Map<string, number[]>();
     for (const pair of row._pairs) {
       const values = clusters.get(pair.scenarioId) ?? [];
@@ -373,7 +375,7 @@ function clusterBootstrap(rows: SensitivityRow[]): Out[] {
       clusters.set(pair.scenarioId, values);
     }
     const clusterStats = [...clusters].map(([scenarioId, values]) => ({ scenarioId, sum: values.reduce((a, b) => a + b, 0), n: values.length }));
-    if (!clusterStats.length) return { analysis_version: row.analysis_version, effect_type: row.effect_type, language: row.language, mft_foundation: row.mft_foundation, scenario_clusters: 0, bootstrap_iterations: bootstrapIterations, bootstrap_seed: bootstrapSeed + index, bootstrap_mean: null, bootstrap_ci_lower: null, bootstrap_ci_upper: null, proportion_above_zero: null };
+    if (!clusterStats.length) return { analysis_version: row.analysis_version, effect_type: row.effect_type, language: row.language, mft_foundation: row.mft_foundation, scenario_clusters: 0, bootstrap_iterations: bootstrapIterations, bootstrap_seed: bootstrapSeed + index, bootstrap_mean: null, bootstrap_ci_lower: null, bootstrap_ci_upper: null, proportion_above_zero: null } as Out;
     const rng = mulberry32(bootstrapSeed + index);
     const estimates = new Float64Array(bootstrapIterations);
     let above = 0;

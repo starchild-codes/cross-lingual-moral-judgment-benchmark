@@ -1,5 +1,7 @@
 # Paper-Ready Statistical Results
 
+> **ROBUSTNESS-TRACK NOTE:** This file uses the later exact-Wilcoxon robustness policy. The final manuscript's declared primary inferential framework is the manuscript-era paired-t analysis documented in `reports/statistical_policy_reconciliation.md`.
+
 Use exact rows in `foundation_sensitivity_final.csv` and `headline_finding_sensitivity_final.csv`. The primary ordinal inference is the exact Wilcoxon p-value with `q_w_primary_105`; paired-t estimates and both BH families are retained as sensitivity analyses. Scenario-cluster bootstrap intervals are in `foundation_scenario_cluster_bootstrap_final.csv`.
 
 | finding | classification | analysis_version | effect_type | language | mft_foundation | mean_diff | ci_lower | ci_upper | p_value_ttest | q_t_primary_105 | p_value_wilcoxon | q_w_primary_105 | q_w_effect_35 | cohens_d | n | nonzero_n | bootstrap_ci_lower | bootstrap_ci_upper |

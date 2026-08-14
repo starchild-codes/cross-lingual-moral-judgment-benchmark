@@ -1,5 +1,7 @@
 # Final Claim-Evidence Matrix
 
+> **ROBUSTNESS-TRACK NOTE:** This file uses the later exact-Wilcoxon robustness policy. The final manuscript's declared primary inferential framework is the manuscript-era paired-t analysis documented in `reports/statistical_policy_reconciliation.md`.
+
 Verdicts use only **Supported**, **Supported with qualification**, and **Not supported**.
 
 | claim | verdict | evidence | denominator | sensitivity_version | limitation | paper_safe_wording | wording_to_avoid |

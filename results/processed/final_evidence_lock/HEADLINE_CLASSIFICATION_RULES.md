@@ -1,5 +1,7 @@
 # Headline Classification Rules
 
+> **ROBUSTNESS-TRACK NOTE:** This file uses the later exact-Wilcoxon robustness policy. The final manuscript's declared primary inferential framework is the manuscript-era paired-t analysis documented in `reports/statistical_policy_reconciliation.md`.
+
 The classification uses corrected exact-Wilcoxon `q_w_primary_105` values and paired-t confidence intervals.
 
 - **Stable:** same direction, q<.05 in all versions, similar magnitude.

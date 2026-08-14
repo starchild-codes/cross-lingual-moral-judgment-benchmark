@@ -23,7 +23,7 @@ The authoritative design is [FINAL_STUDY_SPECIFICATION.md](paper_materials/FINAL
 | Human-adjudicated qualitative labels | `data/processed/qualitative_human_adjudicated_final.csv` | Exactly 1,000 explanations; see `data/processed/QUALITATIVE_DATA_PROVENANCE.md`. |
 | Rating results | `results/processed/full_merged.csv` | 5,000 rating observations. |
 | Scenario validation | `results/processed/scenario_validation_trial2/` | Three blinded external human coders assessed the 50 English scenarios. |
-| Statistical policy | `reports/statistical_policy_reconciliation.md` | Separates manuscript and later robustness inference tracks. |
+| Statistical policy | `reports/statistical_policy_reconciliation.md` | The manuscript reports paired-t inference as the primary analysis, with exact-Wilcoxon and cluster-bootstrap analyses retained as robustness checks. |
 
 The 1,000 explanations were coded independently by two human coders, with 96.2% raw agreement and Cohen's kappa = 0.948, then human-adjudicated. Historical filenames and fields containing `ai_mft`, `llama`, or `deepseek` do not describe the final coding process. They are retained only for traceability.
 
@@ -74,6 +74,8 @@ The standalone experiment packages contain their own validators, dry-run command
 ## Security and Data Policy
 
 Never commit API keys, Supabase service-role keys, coder tokens, private administration URLs, raw active databases, or `.env.local`. Example environment files must contain placeholders only.
+
+Previously exposed scenario-validation credentials were removed from the current tracked tree. Any credential that was ever committed must be rotated/revoked by the repository owner.
 
 ## Citation and License
 
