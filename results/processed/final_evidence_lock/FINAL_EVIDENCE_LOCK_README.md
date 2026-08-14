@@ -1,4 +1,8 @@
-# Final Evidence Lock Reproducibility
+# Historical Final Evidence Lock Reproducibility
+
+> **ARCHIVAL ROBUSTNESS PACKAGE - NOT THE CANONICAL QUALITATIVE PROVENANCE.**
+>
+> This package preserves a later exact-Wilcoxon robustness analysis. Its historical source-path and generated-prose claims about qualitative coding are superseded by `data/processed/QUALITATIVE_DATA_PROVENANCE.md`. Its statistical policy is reconciled, without changing results, in `reports/statistical_policy_reconciliation.md`.
 
 ## Software
 
@@ -15,7 +19,7 @@ corepack pnpm exec tsx scripts/final_evidence_lock/run_final_evidence_lock.ts
 
 ## Inputs And Mappings
 
-Ratings come from `results/processed/full_merged.csv`. Response-level qualitative codes come from `full_merged_with_ai_mft_codes.csv` and map exactly to `ai_mft_codes_adjudicated.csv`: `llama_label -> ai_mft_llama_label`, `deepseek_label -> ai_mft_deepseek_label`, and `adjudicated_label -> ai_mft_final_label`. These are not human-coder mappings. Human scenario-majority labels come from `scenario_validation_merged_3coders.csv`.
+Ratings come from `results/processed/full_merged.csv`. The final qualitative coding source is `data/processed/qualitative_human_adjudicated_final.csv`; see its provenance note for the two independent human coders and human adjudication. Historical field names in older input artifacts are retained only for traceability. Human scenario-majority labels come from `scenario_validation_merged_3coders.csv`.
 
 ## Fixed Analysis Settings
 

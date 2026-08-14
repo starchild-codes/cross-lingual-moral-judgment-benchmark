@@ -289,7 +289,7 @@ Authority/Subversion may be comparatively difficult to isolate because hierarchy
 
 ## Manuscript-Ready Limitations
 
-Only two qualitative scenarios were originally designed as Authority/Subversion, and one (S11) did not retain that label under human validation; consequently, only one human-validated Authority/Subversion scenario remained in the qualitative subset. Single-label explanation coding can obscure mixed-foundation reasoning, as indicated by the supplementary lexical co-occurrence audit. Five non-English reasoning languages depended on machine-translated coder-facing text during the original coding workflow, and subtle authority cues may not transfer perfectly. Coder A was the first author, which should be considered when evaluating interpretive independence, although Coder B coded independently and both coders were blind to model, language, condition, and intended foundation.
+Only two qualitative scenarios were originally designed as Authority/Subversion, and one (S11) did not retain that label under human validation; consequently, only one human-validated Authority/Subversion scenario remained in the qualitative subset. Single-label explanation coding can obscure mixed-foundation reasoning, as indicated by the supplementary lexical co-occurrence audit. Five non-English instructed response languages depended on machine-translated coder-facing text during the original coding workflow, and subtle authority cues may not transfer perfectly. Coder A was the first author, which should be considered when evaluating interpretive independence, although Coder B coded independently and both coders were blind to model, language, condition, and intended foundation.
 
 ## Manuscript-Ready Conclusion
 

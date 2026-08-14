@@ -45,10 +45,10 @@ Add these variables to `.env.local` for local setup and to the deployment platfo
 ```text
 SUPABASE_URL=https://YOUR_PROJECT.supabase.co
 SUPABASE_SERVICE_ROLE_KEY=YOUR_SERVER_ONLY_SERVICE_ROLE_KEY
-SCENARIO_VALIDATION_CODER_A_TOKEN=UNIQUE_RANDOM_TOKEN_A
-SCENARIO_VALIDATION_CODER_B_TOKEN=UNIQUE_RANDOM_TOKEN_B
-SCENARIO_VALIDATION_CODER_C_TOKEN=UNIQUE_RANDOM_TOKEN_C
-SCENARIO_VALIDATION_ADMIN_TOKEN=UNIQUE_RANDOM_ADMIN_TOKEN
+SCENARIO_VALIDATION_CODER_A_TOKEN=REPLACE_WITH_NEW_PRIVATE_TOKEN
+SCENARIO_VALIDATION_CODER_B_TOKEN=REPLACE_WITH_NEW_PRIVATE_TOKEN
+SCENARIO_VALIDATION_CODER_C_TOKEN=REPLACE_WITH_NEW_PRIVATE_TOKEN
+SCENARIO_VALIDATION_ADMIN_TOKEN=REPLACE_WITH_NEW_PRIVATE_TOKEN
 ```
 
 Never expose `SUPABASE_SERVICE_ROLE_KEY` or rename it with a `NEXT_PUBLIC_` prefix.
@@ -94,9 +94,9 @@ The same setup also works on another hosting service that supports Next.js serve
 After deployment, links have this form:
 
 ```text
-https://YOUR_DEPLOYMENT/validate/Coder_A?token=TOKEN_A
-https://YOUR_DEPLOYMENT/validate/Coder_B?token=TOKEN_B
-https://YOUR_DEPLOYMENT/validate/Coder_C?token=TOKEN_C
+https://YOUR_DEPLOYMENT/validate/Coder_A?token=REPLACE_WITH_PRIVATE_TOKEN
+https://YOUR_DEPLOYMENT/validate/Coder_B?token=REPLACE_WITH_PRIVATE_TOKEN
+https://YOUR_DEPLOYMENT/validate/Coder_C?token=REPLACE_WITH_PRIVATE_TOKEN
 ```
 
 Coder IDs are always stored exactly as `Coder_A`, `Coder_B`, and `Coder_C`. Each deterministic scenario order differs by coder ID.

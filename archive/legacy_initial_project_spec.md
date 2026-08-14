@@ -1,3 +1,7 @@
+> **ARCHIVAL DOCUMENT - NOT THE FINAL STUDY SPECIFICATION.**
+>
+> This file describes an earlier 25-scenario implementation and contains obsolete terminology and design assumptions. It is retained only for provenance. See [the repository README](../README.md) and [the final study specification](../paper_materials/FINAL_STUDY_SPECIFICATION.md) for the final 50-scenario study.
+
 # Cross-Lingual Moral Judgment Benchmark - Project Specification
 
 This document is the complete technical specification for an automated coding agent (Codex) to implement, run, and validate. It assumes no prior context beyond what is written here. Read this entire document before writing any code.

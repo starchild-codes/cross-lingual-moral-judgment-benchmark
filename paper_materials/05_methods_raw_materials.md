@@ -45,7 +45,7 @@
 
 ## Condition Design
 
-The design used 25 conditions per scenario: one English baseline condition (`en_en`) plus, for each of six non-English languages, four conditions crossing scenario version and reasoning language: literal translation with English reasoning, literal translation with same-language reasoning, cultural adaptation with English reasoning, and cultural adaptation with same-language reasoning. This holds either scenario content or reasoning language constant depending on the effect being estimated.
+The design used 25 conditions per scenario: one English baseline condition (`en_en`) plus, for each of six non-English languages, four conditions crossing scenario version and instructed response language: literal translation with English response, literal translation with same-language response, cultural adaptation with English response, and cultural adaptation with same-language response. This holds either scenario content or instructed response language constant depending on the effect being estimated.
 
 ## Data Processing Pipeline
 
@@ -58,7 +58,7 @@ The design used 25 conditions per scenario: one English baseline condition (`en_
 7. Original and extension runs were exported into processed rating and qualitative CSVs.
 8. `post-expansion-analysis` merged original plus extension results into `results/processed/full_merged.csv` and regenerated the six statistical result tables.
 9. Research figures 1-4 were generated from `results/figures/data/*.csv`.
-10. Qualitative responses were coded by two independent non-evaluated LLM coders using the same MFT guide prompt.
-11. Invalid labels and disagreements were manually adjudicated, producing `ai_mft_codes_adjudicated.csv`.
-12. Final adjudicated MFT codes were merged into `full_merged_with_ai_mft_codes.csv`.
+10. Qualitative responses were coded independently by two human coders using the MFT coding guide while blind to model, input language, condition, and intended foundation.
+11. Disagreements and invalid or uncertain cases were resolved through human adjudication.
+12. Final human-adjudicated MFT codes are provided in `data/processed/qualitative_human_adjudicated_final.csv`; historical filenames are retained only for traceability.
 13. Final coded analysis generated foundation match rates, transition matrices, and Figure 5.

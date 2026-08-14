@@ -1,8 +1,7 @@
-# Paper Integration Decisions
+# Historical Evidence-Lock Decisions
 
-1. Do not call the 1,000 explanation labels human-coded, human-adjudicated, or human ground truth. Describe them as two independent non-evaluated LLM coders with manual adjudication.
-2. Reserve “human coders” for the distinct blinded 50-scenario validation.
-3. Report corrected exact Wilcoxon results and the 105-test BH family as primary; the 35-test family is supplementary.
-4. Replace “lost significance” with the lock classifications, including “weakened to suggestive” where q is between .05 and .10.
-5. Qualify Authority/Subversion generalization because scenario validation retained only half of intended Authority scenarios and the qualitative subset has two Authority-designed targets.
-6. Treat S30 as strong descriptive evidence for one human-validated scenario, not a population estimate.
+> **ARCHIVAL INTERPRETATION - NOT THE CANONICAL QUALITATIVE PROVENANCE OR MANUSCRIPT STATISTICAL POLICY.**
+>
+> This generated file contained a historical interpretation that conflicts with the final human-coding record. It is retained as evidence of that historical track. For the canonical 1,000 human-adjudicated labels, use `data/processed/qualitative_human_adjudicated_final.csv` and `data/processed/QUALITATIVE_DATA_PROVENANCE.md`. For statistical-policy status, use `reports/statistical_policy_reconciliation.md`.
+
+The final study documentation describes the 1,000 explanations as independently coded by two human coders and resolved through human adjudication. The three-coder scenario validation is a separate human validation exercise. Exact-Wilcoxon outputs in this directory are a later robustness track and must not be silently substituted for manuscript-era paired-t results.

@@ -390,7 +390,7 @@ function limitations(rows: Row[], languageReview: any) {
 
 ## Current Data And Analysis Caveats
 
-- MFT labels are LLM-assisted qualitative codes, not human-only ground truth. Two independent non-evaluated LLM coders were used to reduce model-contamination risk, but the coded foundation should still be described as an adjudicated AI-assisted coding measure.
+- MFT labels were coded independently by two human coders and finalized through human adjudication. Historical fields containing \`ai_mft\`, \`llama\`, or \`deepseek\` do not describe the final coding process.
 - The final qualitative dataset covers ${qualitativeScenarios.length} designated target scenarios (${qualitativeScenarios.join(", ")}), not all 50 scenarios.
 - The original requested 7,500 rating-row expectation was arithmetically inconsistent with the final design; the actual final rating data contain ${ratingRows.length} rows: 50 scenarios x 25 conditions x 4 models.
 - Gemini Pro is used as the reference model in reference-divergence analyses; it is not one of the three primary evaluated models for the main effect estimates.
@@ -409,8 +409,8 @@ ${markdownTable(sampleSizes)}
 
 ## Historical/Open Items Found In Documentation
 
-- Earlier README/PROJECT_SPEC notes said qualitative MFT coding should be human-reviewed and that expanding the qualitative subsample was undecided; the final workflow used AI-assisted dual coding plus adjudication over 1,000 qualitative rows.
-- PROJECT_SPEC warns not to treat automated MFT classification as ground truth; the paper should explicitly frame MFT labels as AI-assisted/adjudicated qualitative coding.
+- Earlier README/PROJECT_SPEC notes said qualitative MFT coding should be human-reviewed and that expanding the qualitative subsample was undecided; the final workflow used independent human coding and human adjudication over 1,000 qualitative rows.
+- The archived PROJECT_SPEC warns not to treat automated MFT classification as ground truth; final labels are human-adjudicated qualitative codes.
 - PROJECT_SPEC warns language compliance cannot be perfectly verified automatically; the final language-compliance review is a sampled manual/Codex-assisted inspection, not an exhaustive proof.
 - PROJECT_SPEC emphasizes UTF-8/non-Latin script validation and Arabic RTL handling; preserve this as a reproducibility caveat.
 
