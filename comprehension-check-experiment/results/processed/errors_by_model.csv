@@ -1,0 +1,4 @@
+﻿model_key,incorrect_items,percentage_of_all_errors
+chatgpt,59,0.5619047619047619
+claude,26,0.24761904761904763
+gemini_flash,20,0.19047619047619047

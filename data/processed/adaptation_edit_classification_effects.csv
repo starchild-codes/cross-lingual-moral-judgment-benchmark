@@ -1,0 +1,5 @@
+﻿edit_classification,model_rows,scenario_language_pairs,mean_absolute_effect,median_absolute_effect,standard_deviation,interquartile_range
+mixed,96,32,0.3020833333333333,0.0,0.5452144274776893,1.0
+structural,792,264,0.5265151515151515,0.0,0.7537878908198428,1.0
+surface-dominant,3,1,0.0,0.0,0.0,0.0
+uncertain,9,3,0.3333333333333333,0.0,0.5,1.0

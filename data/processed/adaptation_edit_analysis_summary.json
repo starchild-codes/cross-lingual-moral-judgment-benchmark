@@ -1,0 +1,52 @@
+{
+  "status": "PASS",
+  "source_validation": {
+    "scenario_rows": 50,
+    "scenario_language_pairs": 300,
+    "ignored_non_scenario_footer_rows": 1,
+    "duplicate_pairs": 0,
+    "missing_pairs": 0
+  },
+  "merge_diagnostics": {
+    "rows": 900,
+    "unique_model_scenario_language_keys": 900,
+    "duplicates": 0,
+    "missing_signed_effects": 0,
+    "unauthorized_models": []
+  },
+  "primary_descriptive": {
+    "scope": "Overall",
+    "pairs": 300,
+    "mean": 0.5145444226559815,
+    "median": 0.5373288787483703,
+    "standard_deviation": 0.1626858128195405,
+    "interquartile_range": 0.20464507434557871,
+    "minimum": 0.012658227848101266,
+    "maximum": 0.88,
+    "scenario_cluster_bootstrap_mean_ci_lower_95": 0.49623573427238776,
+    "scenario_cluster_bootstrap_mean_ci_upper_95": 0.5327897819106137
+  },
+  "pooled_correlation": {
+    "analysis": "pooled",
+    "group": "Overall",
+    "edit_metric": "normalized_character_edit_rate",
+    "n": 900,
+    "scenario_clusters": 50,
+    "spearman_rho": 0.2018850150989112,
+    "two_sided_p_value": 9.890648973016519e-10,
+    "scenario_cluster_bootstrap_ci_lower_95": 0.12493007857845155,
+    "scenario_cluster_bootstrap_ci_upper_95": 0.27296593984788015,
+    "bootstrap_repetitions": 10000
+  },
+  "classification_omnibus": {
+    "test": "Kruskal-Wallis",
+    "statistic": 8.282656218628942,
+    "p_value": 0.015901718253855487,
+    "groups_tested": 3
+  },
+  "robustness_rows": 71,
+  "extreme_audit_rows": 242,
+  "figure_count": 7,
+  "plotting_data_count": 7,
+  "no_api_calls": true
+}

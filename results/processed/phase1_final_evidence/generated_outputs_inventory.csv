@@ -1,0 +1,14 @@
+file,rows
+results\processed\phase1_final_evidence\qualitative_reproduction_summary.csv,32
+results\processed\phase1_final_evidence\qualitative_reproduction_transitions.csv,125
+results\processed\phase1_final_evidence\s11_s30_foundation_distribution.csv,10
+results\processed\phase1_final_evidence\s11_s30_breakdowns.csv,240
+results\processed\phase1_final_evidence\qualitative_match_comparison.csv,64
+results\processed\phase1_final_evidence\qualitative_transitions_comparison.csv,250
+results\processed\phase1_final_evidence\qualitative_human_majority_exclusions.csv,10
+results\processed\phase1_final_evidence\quantitative_foundation_sensitivity.csv,315
+results\processed\phase1_final_evidence\quantitative_effect_consistency_summary.csv,12
+results\processed\phase1_final_evidence\headline_finding_sensitivity.csv,30
+results\processed\phase1_final_evidence\scenario_label_versions.csv,50
+PHASE1_FINAL_EVIDENCE_REPORT.md,156
+PHASE1_FINAL_EVIDENCE_REPORT_CORRECTED.md,156

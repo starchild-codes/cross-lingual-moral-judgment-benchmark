@@ -1,0 +1,13 @@
+analysis_version,effect_type,tests,t_q_primary_lt_05,t_q_primary_lt_10,wilcoxon_q_primary_lt_05,wilcoxon_q_primary_lt_10,wilcoxon_q_effect_lt_05,wilcoxon_q_effect_lt_10,same_direction_all_versions,wilcoxon_q_primary_lt_05_all_versions
+v1_original_intended,language,35,5,10,4,8,8,9,,
+v1_original_intended,framing,35,5,7,3,5,3,5,,
+v1_original_intended,reasoning,35,4,8,3,5,3,4,,
+v2_validated_subset,language,35,2,3,1,3,1,3,,
+v2_validated_subset,framing,35,4,5,3,5,4,6,,
+v2_validated_subset,reasoning,35,1,5,0,4,0,6,,
+v3_human_scenario_majority,language,35,1,1,1,1,1,1,,
+v3_human_scenario_majority,framing,35,6,7,5,7,7,8,,
+v3_human_scenario_majority,reasoning,35,3,3,3,4,3,4,,
+all_three_versions,language,35,,,,,,,30,1
+all_three_versions,framing,35,,,,,,,30,2
+all_three_versions,reasoning,35,,,,,,,34,0

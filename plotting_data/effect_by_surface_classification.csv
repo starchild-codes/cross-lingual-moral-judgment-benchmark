@@ -1,0 +1,901 @@
+﻿scenario_id,language,model,edit_classification,absolute_adaptation_effect,classification_n
+S01,Hindi,GPT-4o,structural,0.0,792
+S01,Hindi,Claude Sonnet 4.6,structural,0.0,792
+S01,Hindi,Gemini 3.5 Flash,structural,0.0,792
+S01,Bengali,GPT-4o,structural,1.0,792
+S01,Bengali,Claude Sonnet 4.6,structural,1.0,792
+S01,Bengali,Gemini 3.5 Flash,structural,0.0,792
+S01,Tamil,GPT-4o,structural,1.0,792
+S01,Tamil,Claude Sonnet 4.6,structural,0.0,792
+S01,Tamil,Gemini 3.5 Flash,structural,0.0,792
+S01,Spanish,GPT-4o,structural,0.0,792
+S01,Spanish,Claude Sonnet 4.6,structural,1.0,792
+S01,Spanish,Gemini 3.5 Flash,structural,1.0,792
+S01,Japanese,GPT-4o,mixed,0.0,96
+S01,Japanese,Claude Sonnet 4.6,mixed,1.0,96
+S01,Japanese,Gemini 3.5 Flash,mixed,1.0,96
+S01,Arabic,GPT-4o,mixed,0.0,96
+S01,Arabic,Claude Sonnet 4.6,mixed,0.0,96
+S01,Arabic,Gemini 3.5 Flash,mixed,1.0,96
+S02,Hindi,GPT-4o,structural,0.0,792
+S02,Hindi,Claude Sonnet 4.6,structural,0.0,792
+S02,Hindi,Gemini 3.5 Flash,structural,0.0,792
+S02,Bengali,GPT-4o,structural,1.0,792
+S02,Bengali,Claude Sonnet 4.6,structural,0.0,792
+S02,Bengali,Gemini 3.5 Flash,structural,0.0,792
+S02,Tamil,GPT-4o,structural,0.0,792
+S02,Tamil,Claude Sonnet 4.6,structural,0.0,792
+S02,Tamil,Gemini 3.5 Flash,structural,0.0,792
+S02,Spanish,GPT-4o,uncertain,0.0,9
+S02,Spanish,Claude Sonnet 4.6,uncertain,0.0,9
+S02,Spanish,Gemini 3.5 Flash,uncertain,0.0,9
+S02,Japanese,GPT-4o,structural,0.0,792
+S02,Japanese,Claude Sonnet 4.6,structural,0.0,792
+S02,Japanese,Gemini 3.5 Flash,structural,0.0,792
+S02,Arabic,GPT-4o,structural,0.0,792
+S02,Arabic,Claude Sonnet 4.6,structural,0.0,792
+S02,Arabic,Gemini 3.5 Flash,structural,0.0,792
+S03,Hindi,GPT-4o,mixed,1.0,96
+S03,Hindi,Claude Sonnet 4.6,mixed,1.0,96
+S03,Hindi,Gemini 3.5 Flash,mixed,0.0,96
+S03,Bengali,GPT-4o,structural,0.0,792
+S03,Bengali,Claude Sonnet 4.6,structural,0.0,792
+S03,Bengali,Gemini 3.5 Flash,structural,1.0,792
+S03,Tamil,GPT-4o,structural,1.0,792
+S03,Tamil,Claude Sonnet 4.6,structural,0.0,792
+S03,Tamil,Gemini 3.5 Flash,structural,0.0,792
+S03,Spanish,GPT-4o,mixed,0.0,96
+S03,Spanish,Claude Sonnet 4.6,mixed,1.0,96
+S03,Spanish,Gemini 3.5 Flash,mixed,0.0,96
+S03,Japanese,GPT-4o,structural,1.0,792
+S03,Japanese,Claude Sonnet 4.6,structural,1.0,792
+S03,Japanese,Gemini 3.5 Flash,structural,1.0,792
+S03,Arabic,GPT-4o,structural,1.0,792
+S03,Arabic,Claude Sonnet 4.6,structural,0.0,792
+S03,Arabic,Gemini 3.5 Flash,structural,1.0,792
+S04,Hindi,GPT-4o,structural,0.0,792
+S04,Hindi,Claude Sonnet 4.6,structural,0.0,792
+S04,Hindi,Gemini 3.5 Flash,structural,0.0,792
+S04,Bengali,GPT-4o,structural,0.0,792
+S04,Bengali,Claude Sonnet 4.6,structural,0.0,792
+S04,Bengali,Gemini 3.5 Flash,structural,0.0,792
+S04,Tamil,GPT-4o,structural,0.0,792
+S04,Tamil,Claude Sonnet 4.6,structural,0.0,792
+S04,Tamil,Gemini 3.5 Flash,structural,0.0,792
+S04,Spanish,GPT-4o,mixed,0.0,96
+S04,Spanish,Claude Sonnet 4.6,mixed,0.0,96
+S04,Spanish,Gemini 3.5 Flash,mixed,0.0,96
+S04,Japanese,GPT-4o,structural,0.0,792
+S04,Japanese,Claude Sonnet 4.6,structural,0.0,792
+S04,Japanese,Gemini 3.5 Flash,structural,1.0,792
+S04,Arabic,GPT-4o,structural,0.0,792
+S04,Arabic,Claude Sonnet 4.6,structural,0.0,792
+S04,Arabic,Gemini 3.5 Flash,structural,0.0,792
+S05,Hindi,GPT-4o,structural,0.0,792
+S05,Hindi,Claude Sonnet 4.6,structural,0.0,792
+S05,Hindi,Gemini 3.5 Flash,structural,0.0,792
+S05,Bengali,GPT-4o,structural,1.0,792
+S05,Bengali,Claude Sonnet 4.6,structural,0.0,792
+S05,Bengali,Gemini 3.5 Flash,structural,0.0,792
+S05,Tamil,GPT-4o,structural,0.0,792
+S05,Tamil,Claude Sonnet 4.6,structural,0.0,792
+S05,Tamil,Gemini 3.5 Flash,structural,0.0,792
+S05,Spanish,GPT-4o,mixed,0.0,96
+S05,Spanish,Claude Sonnet 4.6,mixed,0.0,96
+S05,Spanish,Gemini 3.5 Flash,mixed,0.0,96
+S05,Japanese,GPT-4o,structural,0.0,792
+S05,Japanese,Claude Sonnet 4.6,structural,0.0,792
+S05,Japanese,Gemini 3.5 Flash,structural,0.0,792
+S05,Arabic,GPT-4o,structural,0.0,792
+S05,Arabic,Claude Sonnet 4.6,structural,0.0,792
+S05,Arabic,Gemini 3.5 Flash,structural,1.0,792
+S06,Hindi,GPT-4o,mixed,0.0,96
+S06,Hindi,Claude Sonnet 4.6,mixed,0.0,96
+S06,Hindi,Gemini 3.5 Flash,mixed,0.0,96
+S06,Bengali,GPT-4o,structural,0.0,792
+S06,Bengali,Claude Sonnet 4.6,structural,0.0,792
+S06,Bengali,Gemini 3.5 Flash,structural,0.0,792
+S06,Tamil,GPT-4o,mixed,0.0,96
+S06,Tamil,Claude Sonnet 4.6,mixed,0.0,96
+S06,Tamil,Gemini 3.5 Flash,mixed,0.0,96
+S06,Spanish,GPT-4o,structural,0.0,792
+S06,Spanish,Claude Sonnet 4.6,structural,0.0,792
+S06,Spanish,Gemini 3.5 Flash,structural,0.0,792
+S06,Japanese,GPT-4o,structural,0.0,792
+S06,Japanese,Claude Sonnet 4.6,structural,0.0,792
+S06,Japanese,Gemini 3.5 Flash,structural,1.0,792
+S06,Arabic,GPT-4o,structural,0.0,792
+S06,Arabic,Claude Sonnet 4.6,structural,0.0,792
+S06,Arabic,Gemini 3.5 Flash,structural,0.0,792
+S07,Hindi,GPT-4o,mixed,0.0,96
+S07,Hindi,Claude Sonnet 4.6,mixed,0.0,96
+S07,Hindi,Gemini 3.5 Flash,mixed,0.0,96
+S07,Bengali,GPT-4o,structural,0.0,792
+S07,Bengali,Claude Sonnet 4.6,structural,0.0,792
+S07,Bengali,Gemini 3.5 Flash,structural,0.0,792
+S07,Tamil,GPT-4o,structural,0.0,792
+S07,Tamil,Claude Sonnet 4.6,structural,1.0,792
+S07,Tamil,Gemini 3.5 Flash,structural,0.0,792
+S07,Spanish,GPT-4o,structural,0.0,792
+S07,Spanish,Claude Sonnet 4.6,structural,0.0,792
+S07,Spanish,Gemini 3.5 Flash,structural,0.0,792
+S07,Japanese,GPT-4o,structural,0.0,792
+S07,Japanese,Claude Sonnet 4.6,structural,0.0,792
+S07,Japanese,Gemini 3.5 Flash,structural,0.0,792
+S07,Arabic,GPT-4o,structural,0.0,792
+S07,Arabic,Claude Sonnet 4.6,structural,0.0,792
+S07,Arabic,Gemini 3.5 Flash,structural,0.0,792
+S08,Hindi,GPT-4o,mixed,0.0,96
+S08,Hindi,Claude Sonnet 4.6,mixed,1.0,96
+S08,Hindi,Gemini 3.5 Flash,mixed,0.0,96
+S08,Bengali,GPT-4o,structural,0.0,792
+S08,Bengali,Claude Sonnet 4.6,structural,0.0,792
+S08,Bengali,Gemini 3.5 Flash,structural,0.0,792
+S08,Tamil,GPT-4o,structural,0.0,792
+S08,Tamil,Claude Sonnet 4.6,structural,0.0,792
+S08,Tamil,Gemini 3.5 Flash,structural,0.0,792
+S08,Spanish,GPT-4o,mixed,0.0,96
+S08,Spanish,Claude Sonnet 4.6,mixed,0.0,96
+S08,Spanish,Gemini 3.5 Flash,mixed,0.0,96
+S08,Japanese,GPT-4o,structural,0.0,792
+S08,Japanese,Claude Sonnet 4.6,structural,0.0,792
+S08,Japanese,Gemini 3.5 Flash,structural,0.0,792
+S08,Arabic,GPT-4o,structural,0.0,792
+S08,Arabic,Claude Sonnet 4.6,structural,1.0,792
+S08,Arabic,Gemini 3.5 Flash,structural,0.0,792
+S09,Hindi,GPT-4o,mixed,0.0,96
+S09,Hindi,Claude Sonnet 4.6,mixed,0.0,96
+S09,Hindi,Gemini 3.5 Flash,mixed,0.0,96
+S09,Bengali,GPT-4o,structural,0.0,792
+S09,Bengali,Claude Sonnet 4.6,structural,0.0,792
+S09,Bengali,Gemini 3.5 Flash,structural,0.0,792
+S09,Tamil,GPT-4o,structural,0.0,792
+S09,Tamil,Claude Sonnet 4.6,structural,0.0,792
+S09,Tamil,Gemini 3.5 Flash,structural,0.0,792
+S09,Spanish,GPT-4o,structural,0.0,792
+S09,Spanish,Claude Sonnet 4.6,structural,0.0,792
+S09,Spanish,Gemini 3.5 Flash,structural,1.0,792
+S09,Japanese,GPT-4o,structural,0.0,792
+S09,Japanese,Claude Sonnet 4.6,structural,0.0,792
+S09,Japanese,Gemini 3.5 Flash,structural,0.0,792
+S09,Arabic,GPT-4o,structural,0.0,792
+S09,Arabic,Claude Sonnet 4.6,structural,0.0,792
+S09,Arabic,Gemini 3.5 Flash,structural,0.0,792
+S10,Hindi,GPT-4o,mixed,1.0,96
+S10,Hindi,Claude Sonnet 4.6,mixed,0.0,96
+S10,Hindi,Gemini 3.5 Flash,mixed,0.0,96
+S10,Bengali,GPT-4o,structural,0.0,792
+S10,Bengali,Claude Sonnet 4.6,structural,1.0,792
+S10,Bengali,Gemini 3.5 Flash,structural,0.0,792
+S10,Tamil,GPT-4o,structural,0.0,792
+S10,Tamil,Claude Sonnet 4.6,structural,1.0,792
+S10,Tamil,Gemini 3.5 Flash,structural,0.0,792
+S10,Spanish,GPT-4o,structural,3.0,792
+S10,Spanish,Claude Sonnet 4.6,structural,1.0,792
+S10,Spanish,Gemini 3.5 Flash,structural,1.0,792
+S10,Japanese,GPT-4o,structural,2.0,792
+S10,Japanese,Claude Sonnet 4.6,structural,0.0,792
+S10,Japanese,Gemini 3.5 Flash,structural,2.0,792
+S10,Arabic,GPT-4o,structural,1.0,792
+S10,Arabic,Claude Sonnet 4.6,structural,1.0,792
+S10,Arabic,Gemini 3.5 Flash,structural,1.0,792
+S11,Hindi,GPT-4o,structural,1.0,792
+S11,Hindi,Claude Sonnet 4.6,structural,0.0,792
+S11,Hindi,Gemini 3.5 Flash,structural,0.0,792
+S11,Bengali,GPT-4o,structural,1.0,792
+S11,Bengali,Claude Sonnet 4.6,structural,0.0,792
+S11,Bengali,Gemini 3.5 Flash,structural,0.0,792
+S11,Tamil,GPT-4o,structural,0.0,792
+S11,Tamil,Claude Sonnet 4.6,structural,0.0,792
+S11,Tamil,Gemini 3.5 Flash,structural,0.0,792
+S11,Spanish,GPT-4o,structural,1.0,792
+S11,Spanish,Claude Sonnet 4.6,structural,0.0,792
+S11,Spanish,Gemini 3.5 Flash,structural,1.0,792
+S11,Japanese,GPT-4o,structural,2.0,792
+S11,Japanese,Claude Sonnet 4.6,structural,0.0,792
+S11,Japanese,Gemini 3.5 Flash,structural,1.0,792
+S11,Arabic,GPT-4o,structural,0.0,792
+S11,Arabic,Claude Sonnet 4.6,structural,0.0,792
+S11,Arabic,Gemini 3.5 Flash,structural,1.0,792
+S12,Hindi,GPT-4o,structural,0.0,792
+S12,Hindi,Claude Sonnet 4.6,structural,0.0,792
+S12,Hindi,Gemini 3.5 Flash,structural,1.0,792
+S12,Bengali,GPT-4o,structural,0.0,792
+S12,Bengali,Claude Sonnet 4.6,structural,0.0,792
+S12,Bengali,Gemini 3.5 Flash,structural,0.0,792
+S12,Tamil,GPT-4o,mixed,0.0,96
+S12,Tamil,Claude Sonnet 4.6,mixed,0.0,96
+S12,Tamil,Gemini 3.5 Flash,mixed,0.0,96
+S12,Spanish,GPT-4o,structural,0.0,792
+S12,Spanish,Claude Sonnet 4.6,structural,0.0,792
+S12,Spanish,Gemini 3.5 Flash,structural,1.0,792
+S12,Japanese,GPT-4o,structural,0.0,792
+S12,Japanese,Claude Sonnet 4.6,structural,0.0,792
+S12,Japanese,Gemini 3.5 Flash,structural,0.0,792
+S12,Arabic,GPT-4o,structural,1.0,792
+S12,Arabic,Claude Sonnet 4.6,structural,0.0,792
+S12,Arabic,Gemini 3.5 Flash,structural,1.0,792
+S13,Hindi,GPT-4o,structural,1.0,792
+S13,Hindi,Claude Sonnet 4.6,structural,0.0,792
+S13,Hindi,Gemini 3.5 Flash,structural,0.0,792
+S13,Bengali,GPT-4o,structural,1.0,792
+S13,Bengali,Claude Sonnet 4.6,structural,0.0,792
+S13,Bengali,Gemini 3.5 Flash,structural,1.0,792
+S13,Tamil,GPT-4o,structural,0.0,792
+S13,Tamil,Claude Sonnet 4.6,structural,0.0,792
+S13,Tamil,Gemini 3.5 Flash,structural,1.0,792
+S13,Spanish,GPT-4o,structural,0.0,792
+S13,Spanish,Claude Sonnet 4.6,structural,1.0,792
+S13,Spanish,Gemini 3.5 Flash,structural,0.0,792
+S13,Japanese,GPT-4o,structural,0.0,792
+S13,Japanese,Claude Sonnet 4.6,structural,0.0,792
+S13,Japanese,Gemini 3.5 Flash,structural,0.0,792
+S13,Arabic,GPT-4o,structural,1.0,792
+S13,Arabic,Claude Sonnet 4.6,structural,1.0,792
+S13,Arabic,Gemini 3.5 Flash,structural,1.0,792
+S14,Hindi,GPT-4o,mixed,0.0,96
+S14,Hindi,Claude Sonnet 4.6,mixed,0.0,96
+S14,Hindi,Gemini 3.5 Flash,mixed,0.0,96
+S14,Bengali,GPT-4o,structural,0.0,792
+S14,Bengali,Claude Sonnet 4.6,structural,1.0,792
+S14,Bengali,Gemini 3.5 Flash,structural,0.0,792
+S14,Tamil,GPT-4o,structural,0.0,792
+S14,Tamil,Claude Sonnet 4.6,structural,0.0,792
+S14,Tamil,Gemini 3.5 Flash,structural,0.0,792
+S14,Spanish,GPT-4o,structural,1.0,792
+S14,Spanish,Claude Sonnet 4.6,structural,1.0,792
+S14,Spanish,Gemini 3.5 Flash,structural,0.0,792
+S14,Japanese,GPT-4o,structural,1.0,792
+S14,Japanese,Claude Sonnet 4.6,structural,0.0,792
+S14,Japanese,Gemini 3.5 Flash,structural,0.0,792
+S14,Arabic,GPT-4o,structural,1.0,792
+S14,Arabic,Claude Sonnet 4.6,structural,0.0,792
+S14,Arabic,Gemini 3.5 Flash,structural,0.0,792
+S15,Hindi,GPT-4o,structural,1.0,792
+S15,Hindi,Claude Sonnet 4.6,structural,0.0,792
+S15,Hindi,Gemini 3.5 Flash,structural,0.0,792
+S15,Bengali,GPT-4o,structural,0.0,792
+S15,Bengali,Claude Sonnet 4.6,structural,0.0,792
+S15,Bengali,Gemini 3.5 Flash,structural,0.0,792
+S15,Tamil,GPT-4o,structural,0.0,792
+S15,Tamil,Claude Sonnet 4.6,structural,0.0,792
+S15,Tamil,Gemini 3.5 Flash,structural,0.0,792
+S15,Spanish,GPT-4o,structural,1.0,792
+S15,Spanish,Claude Sonnet 4.6,structural,1.0,792
+S15,Spanish,Gemini 3.5 Flash,structural,0.0,792
+S15,Japanese,GPT-4o,structural,0.0,792
+S15,Japanese,Claude Sonnet 4.6,structural,0.0,792
+S15,Japanese,Gemini 3.5 Flash,structural,0.0,792
+S15,Arabic,GPT-4o,structural,1.0,792
+S15,Arabic,Claude Sonnet 4.6,structural,0.0,792
+S15,Arabic,Gemini 3.5 Flash,structural,0.0,792
+S16,Hindi,GPT-4o,mixed,0.0,96
+S16,Hindi,Claude Sonnet 4.6,mixed,1.0,96
+S16,Hindi,Gemini 3.5 Flash,mixed,0.0,96
+S16,Bengali,GPT-4o,structural,1.0,792
+S16,Bengali,Claude Sonnet 4.6,structural,0.0,792
+S16,Bengali,Gemini 3.5 Flash,structural,1.0,792
+S16,Tamil,GPT-4o,structural,0.0,792
+S16,Tamil,Claude Sonnet 4.6,structural,0.0,792
+S16,Tamil,Gemini 3.5 Flash,structural,1.0,792
+S16,Spanish,GPT-4o,structural,0.0,792
+S16,Spanish,Claude Sonnet 4.6,structural,1.0,792
+S16,Spanish,Gemini 3.5 Flash,structural,2.0,792
+S16,Japanese,GPT-4o,structural,0.0,792
+S16,Japanese,Claude Sonnet 4.6,structural,0.0,792
+S16,Japanese,Gemini 3.5 Flash,structural,1.0,792
+S16,Arabic,GPT-4o,structural,2.0,792
+S16,Arabic,Claude Sonnet 4.6,structural,2.0,792
+S16,Arabic,Gemini 3.5 Flash,structural,2.0,792
+S17,Hindi,GPT-4o,structural,0.0,792
+S17,Hindi,Claude Sonnet 4.6,structural,1.0,792
+S17,Hindi,Gemini 3.5 Flash,structural,0.0,792
+S17,Bengali,GPT-4o,structural,1.0,792
+S17,Bengali,Claude Sonnet 4.6,structural,0.0,792
+S17,Bengali,Gemini 3.5 Flash,structural,1.0,792
+S17,Tamil,GPT-4o,structural,0.0,792
+S17,Tamil,Claude Sonnet 4.6,structural,0.0,792
+S17,Tamil,Gemini 3.5 Flash,structural,1.0,792
+S17,Spanish,GPT-4o,structural,1.0,792
+S17,Spanish,Claude Sonnet 4.6,structural,1.0,792
+S17,Spanish,Gemini 3.5 Flash,structural,1.0,792
+S17,Japanese,GPT-4o,structural,1.0,792
+S17,Japanese,Claude Sonnet 4.6,structural,0.0,792
+S17,Japanese,Gemini 3.5 Flash,structural,0.0,792
+S17,Arabic,GPT-4o,structural,1.0,792
+S17,Arabic,Claude Sonnet 4.6,structural,0.0,792
+S17,Arabic,Gemini 3.5 Flash,structural,1.0,792
+S18,Hindi,GPT-4o,structural,1.0,792
+S18,Hindi,Claude Sonnet 4.6,structural,1.0,792
+S18,Hindi,Gemini 3.5 Flash,structural,1.0,792
+S18,Bengali,GPT-4o,structural,0.0,792
+S18,Bengali,Claude Sonnet 4.6,structural,0.0,792
+S18,Bengali,Gemini 3.5 Flash,structural,0.0,792
+S18,Tamil,GPT-4o,structural,0.0,792
+S18,Tamil,Claude Sonnet 4.6,structural,0.0,792
+S18,Tamil,Gemini 3.5 Flash,structural,0.0,792
+S18,Spanish,GPT-4o,structural,0.0,792
+S18,Spanish,Claude Sonnet 4.6,structural,0.0,792
+S18,Spanish,Gemini 3.5 Flash,structural,0.0,792
+S18,Japanese,GPT-4o,structural,0.0,792
+S18,Japanese,Claude Sonnet 4.6,structural,0.0,792
+S18,Japanese,Gemini 3.5 Flash,structural,0.0,792
+S18,Arabic,GPT-4o,structural,1.0,792
+S18,Arabic,Claude Sonnet 4.6,structural,1.0,792
+S18,Arabic,Gemini 3.5 Flash,structural,1.0,792
+S19,Hindi,GPT-4o,structural,0.0,792
+S19,Hindi,Claude Sonnet 4.6,structural,0.0,792
+S19,Hindi,Gemini 3.5 Flash,structural,1.0,792
+S19,Bengali,GPT-4o,structural,0.0,792
+S19,Bengali,Claude Sonnet 4.6,structural,1.0,792
+S19,Bengali,Gemini 3.5 Flash,structural,1.0,792
+S19,Tamil,GPT-4o,structural,1.0,792
+S19,Tamil,Claude Sonnet 4.6,structural,0.0,792
+S19,Tamil,Gemini 3.5 Flash,structural,0.0,792
+S19,Spanish,GPT-4o,structural,1.0,792
+S19,Spanish,Claude Sonnet 4.6,structural,0.0,792
+S19,Spanish,Gemini 3.5 Flash,structural,1.0,792
+S19,Japanese,GPT-4o,structural,0.0,792
+S19,Japanese,Claude Sonnet 4.6,structural,0.0,792
+S19,Japanese,Gemini 3.5 Flash,structural,0.0,792
+S19,Arabic,GPT-4o,structural,2.0,792
+S19,Arabic,Claude Sonnet 4.6,structural,1.0,792
+S19,Arabic,Gemini 3.5 Flash,structural,1.0,792
+S20,Hindi,GPT-4o,mixed,0.0,96
+S20,Hindi,Claude Sonnet 4.6,mixed,1.0,96
+S20,Hindi,Gemini 3.5 Flash,mixed,0.0,96
+S20,Bengali,GPT-4o,structural,0.0,792
+S20,Bengali,Claude Sonnet 4.6,structural,0.0,792
+S20,Bengali,Gemini 3.5 Flash,structural,0.0,792
+S20,Tamil,GPT-4o,structural,1.0,792
+S20,Tamil,Claude Sonnet 4.6,structural,0.0,792
+S20,Tamil,Gemini 3.5 Flash,structural,0.0,792
+S20,Spanish,GPT-4o,structural,0.0,792
+S20,Spanish,Claude Sonnet 4.6,structural,0.0,792
+S20,Spanish,Gemini 3.5 Flash,structural,0.0,792
+S20,Japanese,GPT-4o,structural,0.0,792
+S20,Japanese,Claude Sonnet 4.6,structural,1.0,792
+S20,Japanese,Gemini 3.5 Flash,structural,1.0,792
+S20,Arabic,GPT-4o,structural,1.0,792
+S20,Arabic,Claude Sonnet 4.6,structural,2.0,792
+S20,Arabic,Gemini 3.5 Flash,structural,1.0,792
+S21,Hindi,GPT-4o,mixed,0.0,96
+S21,Hindi,Claude Sonnet 4.6,mixed,0.0,96
+S21,Hindi,Gemini 3.5 Flash,mixed,0.0,96
+S21,Bengali,GPT-4o,structural,1.0,792
+S21,Bengali,Claude Sonnet 4.6,structural,1.0,792
+S21,Bengali,Gemini 3.5 Flash,structural,1.0,792
+S21,Tamil,GPT-4o,structural,0.0,792
+S21,Tamil,Claude Sonnet 4.6,structural,0.0,792
+S21,Tamil,Gemini 3.5 Flash,structural,0.0,792
+S21,Spanish,GPT-4o,structural,1.0,792
+S21,Spanish,Claude Sonnet 4.6,structural,1.0,792
+S21,Spanish,Gemini 3.5 Flash,structural,2.0,792
+S21,Japanese,GPT-4o,structural,1.0,792
+S21,Japanese,Claude Sonnet 4.6,structural,0.0,792
+S21,Japanese,Gemini 3.5 Flash,structural,0.0,792
+S21,Arabic,GPT-4o,structural,0.0,792
+S21,Arabic,Claude Sonnet 4.6,structural,1.0,792
+S21,Arabic,Gemini 3.5 Flash,structural,1.0,792
+S22,Hindi,GPT-4o,structural,1.0,792
+S22,Hindi,Claude Sonnet 4.6,structural,0.0,792
+S22,Hindi,Gemini 3.5 Flash,structural,0.0,792
+S22,Bengali,GPT-4o,structural,1.0,792
+S22,Bengali,Claude Sonnet 4.6,structural,1.0,792
+S22,Bengali,Gemini 3.5 Flash,structural,1.0,792
+S22,Tamil,GPT-4o,uncertain,1.0,9
+S22,Tamil,Claude Sonnet 4.6,uncertain,1.0,9
+S22,Tamil,Gemini 3.5 Flash,uncertain,1.0,9
+S22,Spanish,GPT-4o,structural,0.0,792
+S22,Spanish,Claude Sonnet 4.6,structural,1.0,792
+S22,Spanish,Gemini 3.5 Flash,structural,0.0,792
+S22,Japanese,GPT-4o,structural,0.0,792
+S22,Japanese,Claude Sonnet 4.6,structural,1.0,792
+S22,Japanese,Gemini 3.5 Flash,structural,0.0,792
+S22,Arabic,GPT-4o,structural,2.0,792
+S22,Arabic,Claude Sonnet 4.6,structural,1.0,792
+S22,Arabic,Gemini 3.5 Flash,structural,1.0,792
+S23,Hindi,GPT-4o,structural,0.0,792
+S23,Hindi,Claude Sonnet 4.6,structural,0.0,792
+S23,Hindi,Gemini 3.5 Flash,structural,0.0,792
+S23,Bengali,GPT-4o,structural,0.0,792
+S23,Bengali,Claude Sonnet 4.6,structural,0.0,792
+S23,Bengali,Gemini 3.5 Flash,structural,0.0,792
+S23,Tamil,GPT-4o,structural,1.0,792
+S23,Tamil,Claude Sonnet 4.6,structural,0.0,792
+S23,Tamil,Gemini 3.5 Flash,structural,0.0,792
+S23,Spanish,GPT-4o,structural,2.0,792
+S23,Spanish,Claude Sonnet 4.6,structural,2.0,792
+S23,Spanish,Gemini 3.5 Flash,structural,1.0,792
+S23,Japanese,GPT-4o,structural,1.0,792
+S23,Japanese,Claude Sonnet 4.6,structural,0.0,792
+S23,Japanese,Gemini 3.5 Flash,structural,1.0,792
+S23,Arabic,GPT-4o,structural,2.0,792
+S23,Arabic,Claude Sonnet 4.6,structural,2.0,792
+S23,Arabic,Gemini 3.5 Flash,structural,3.0,792
+S24,Hindi,GPT-4o,mixed,1.0,96
+S24,Hindi,Claude Sonnet 4.6,mixed,0.0,96
+S24,Hindi,Gemini 3.5 Flash,mixed,1.0,96
+S24,Bengali,GPT-4o,structural,0.0,792
+S24,Bengali,Claude Sonnet 4.6,structural,0.0,792
+S24,Bengali,Gemini 3.5 Flash,structural,1.0,792
+S24,Tamil,GPT-4o,structural,0.0,792
+S24,Tamil,Claude Sonnet 4.6,structural,0.0,792
+S24,Tamil,Gemini 3.5 Flash,structural,0.0,792
+S24,Spanish,GPT-4o,structural,0.0,792
+S24,Spanish,Claude Sonnet 4.6,structural,0.0,792
+S24,Spanish,Gemini 3.5 Flash,structural,1.0,792
+S24,Japanese,GPT-4o,structural,0.0,792
+S24,Japanese,Claude Sonnet 4.6,structural,0.0,792
+S24,Japanese,Gemini 3.5 Flash,structural,0.0,792
+S24,Arabic,GPT-4o,structural,0.0,792
+S24,Arabic,Claude Sonnet 4.6,structural,0.0,792
+S24,Arabic,Gemini 3.5 Flash,structural,0.0,792
+S25,Hindi,GPT-4o,structural,1.0,792
+S25,Hindi,Claude Sonnet 4.6,structural,0.0,792
+S25,Hindi,Gemini 3.5 Flash,structural,2.0,792
+S25,Bengali,GPT-4o,structural,1.0,792
+S25,Bengali,Claude Sonnet 4.6,structural,0.0,792
+S25,Bengali,Gemini 3.5 Flash,structural,1.0,792
+S25,Tamil,GPT-4o,uncertain,0.0,9
+S25,Tamil,Claude Sonnet 4.6,uncertain,0.0,9
+S25,Tamil,Gemini 3.5 Flash,uncertain,0.0,9
+S25,Spanish,GPT-4o,structural,0.0,792
+S25,Spanish,Claude Sonnet 4.6,structural,1.0,792
+S25,Spanish,Gemini 3.5 Flash,structural,1.0,792
+S25,Japanese,GPT-4o,structural,0.0,792
+S25,Japanese,Claude Sonnet 4.6,structural,0.0,792
+S25,Japanese,Gemini 3.5 Flash,structural,1.0,792
+S25,Arabic,GPT-4o,structural,0.0,792
+S25,Arabic,Claude Sonnet 4.6,structural,1.0,792
+S25,Arabic,Gemini 3.5 Flash,structural,1.0,792
+S26,Hindi,GPT-4o,structural,0.0,792
+S26,Hindi,Claude Sonnet 4.6,structural,1.0,792
+S26,Hindi,Gemini 3.5 Flash,structural,2.0,792
+S26,Bengali,GPT-4o,structural,0.0,792
+S26,Bengali,Claude Sonnet 4.6,structural,0.0,792
+S26,Bengali,Gemini 3.5 Flash,structural,0.0,792
+S26,Tamil,GPT-4o,structural,0.0,792
+S26,Tamil,Claude Sonnet 4.6,structural,0.0,792
+S26,Tamil,Gemini 3.5 Flash,structural,0.0,792
+S26,Spanish,GPT-4o,structural,0.0,792
+S26,Spanish,Claude Sonnet 4.6,structural,0.0,792
+S26,Spanish,Gemini 3.5 Flash,structural,0.0,792
+S26,Japanese,GPT-4o,structural,0.0,792
+S26,Japanese,Claude Sonnet 4.6,structural,0.0,792
+S26,Japanese,Gemini 3.5 Flash,structural,0.0,792
+S26,Arabic,GPT-4o,structural,0.0,792
+S26,Arabic,Claude Sonnet 4.6,structural,0.0,792
+S26,Arabic,Gemini 3.5 Flash,structural,0.0,792
+S27,Hindi,GPT-4o,structural,1.0,792
+S27,Hindi,Claude Sonnet 4.6,structural,0.0,792
+S27,Hindi,Gemini 3.5 Flash,structural,0.0,792
+S27,Bengali,GPT-4o,structural,1.0,792
+S27,Bengali,Claude Sonnet 4.6,structural,0.0,792
+S27,Bengali,Gemini 3.5 Flash,structural,0.0,792
+S27,Tamil,GPT-4o,structural,2.0,792
+S27,Tamil,Claude Sonnet 4.6,structural,1.0,792
+S27,Tamil,Gemini 3.5 Flash,structural,1.0,792
+S27,Spanish,GPT-4o,structural,3.0,792
+S27,Spanish,Claude Sonnet 4.6,structural,1.0,792
+S27,Spanish,Gemini 3.5 Flash,structural,1.0,792
+S27,Japanese,GPT-4o,structural,1.0,792
+S27,Japanese,Claude Sonnet 4.6,structural,1.0,792
+S27,Japanese,Gemini 3.5 Flash,structural,2.0,792
+S27,Arabic,GPT-4o,structural,2.0,792
+S27,Arabic,Claude Sonnet 4.6,structural,1.0,792
+S27,Arabic,Gemini 3.5 Flash,structural,0.0,792
+S28,Hindi,GPT-4o,structural,2.0,792
+S28,Hindi,Claude Sonnet 4.6,structural,0.0,792
+S28,Hindi,Gemini 3.5 Flash,structural,0.0,792
+S28,Bengali,GPT-4o,structural,2.0,792
+S28,Bengali,Claude Sonnet 4.6,structural,1.0,792
+S28,Bengali,Gemini 3.5 Flash,structural,1.0,792
+S28,Tamil,GPT-4o,structural,4.0,792
+S28,Tamil,Claude Sonnet 4.6,structural,1.0,792
+S28,Tamil,Gemini 3.5 Flash,structural,1.0,792
+S28,Spanish,GPT-4o,structural,3.0,792
+S28,Spanish,Claude Sonnet 4.6,structural,0.0,792
+S28,Spanish,Gemini 3.5 Flash,structural,0.0,792
+S28,Japanese,GPT-4o,structural,2.0,792
+S28,Japanese,Claude Sonnet 4.6,structural,2.0,792
+S28,Japanese,Gemini 3.5 Flash,structural,0.0,792
+S28,Arabic,GPT-4o,structural,0.0,792
+S28,Arabic,Claude Sonnet 4.6,structural,4.0,792
+S28,Arabic,Gemini 3.5 Flash,structural,0.0,792
+S29,Hindi,GPT-4o,structural,0.0,792
+S29,Hindi,Claude Sonnet 4.6,structural,1.0,792
+S29,Hindi,Gemini 3.5 Flash,structural,1.0,792
+S29,Bengali,GPT-4o,structural,0.0,792
+S29,Bengali,Claude Sonnet 4.6,structural,0.0,792
+S29,Bengali,Gemini 3.5 Flash,structural,0.0,792
+S29,Tamil,GPT-4o,structural,0.0,792
+S29,Tamil,Claude Sonnet 4.6,structural,0.0,792
+S29,Tamil,Gemini 3.5 Flash,structural,0.0,792
+S29,Spanish,GPT-4o,structural,0.0,792
+S29,Spanish,Claude Sonnet 4.6,structural,0.0,792
+S29,Spanish,Gemini 3.5 Flash,structural,0.0,792
+S29,Japanese,GPT-4o,structural,0.0,792
+S29,Japanese,Claude Sonnet 4.6,structural,0.0,792
+S29,Japanese,Gemini 3.5 Flash,structural,0.0,792
+S29,Arabic,GPT-4o,structural,0.0,792
+S29,Arabic,Claude Sonnet 4.6,structural,1.0,792
+S29,Arabic,Gemini 3.5 Flash,structural,0.0,792
+S30,Hindi,GPT-4o,structural,1.0,792
+S30,Hindi,Claude Sonnet 4.6,structural,1.0,792
+S30,Hindi,Gemini 3.5 Flash,structural,1.0,792
+S30,Bengali,GPT-4o,structural,0.0,792
+S30,Bengali,Claude Sonnet 4.6,structural,1.0,792
+S30,Bengali,Gemini 3.5 Flash,structural,0.0,792
+S30,Tamil,GPT-4o,structural,1.0,792
+S30,Tamil,Claude Sonnet 4.6,structural,1.0,792
+S30,Tamil,Gemini 3.5 Flash,structural,0.0,792
+S30,Spanish,GPT-4o,mixed,2.0,96
+S30,Spanish,Claude Sonnet 4.6,mixed,1.0,96
+S30,Spanish,Gemini 3.5 Flash,mixed,1.0,96
+S30,Japanese,GPT-4o,mixed,0.0,96
+S30,Japanese,Claude Sonnet 4.6,mixed,0.0,96
+S30,Japanese,Gemini 3.5 Flash,mixed,2.0,96
+S30,Arabic,GPT-4o,structural,3.0,792
+S30,Arabic,Claude Sonnet 4.6,structural,1.0,792
+S30,Arabic,Gemini 3.5 Flash,structural,0.0,792
+S31,Hindi,GPT-4o,structural,1.0,792
+S31,Hindi,Claude Sonnet 4.6,structural,0.0,792
+S31,Hindi,Gemini 3.5 Flash,structural,1.0,792
+S31,Bengali,GPT-4o,structural,1.0,792
+S31,Bengali,Claude Sonnet 4.6,structural,0.0,792
+S31,Bengali,Gemini 3.5 Flash,structural,0.0,792
+S31,Tamil,GPT-4o,mixed,0.0,96
+S31,Tamil,Claude Sonnet 4.6,mixed,0.0,96
+S31,Tamil,Gemini 3.5 Flash,mixed,1.0,96
+S31,Spanish,GPT-4o,structural,1.0,792
+S31,Spanish,Claude Sonnet 4.6,structural,1.0,792
+S31,Spanish,Gemini 3.5 Flash,structural,2.0,792
+S31,Japanese,GPT-4o,structural,1.0,792
+S31,Japanese,Claude Sonnet 4.6,structural,1.0,792
+S31,Japanese,Gemini 3.5 Flash,structural,2.0,792
+S31,Arabic,GPT-4o,structural,1.0,792
+S31,Arabic,Claude Sonnet 4.6,structural,1.0,792
+S31,Arabic,Gemini 3.5 Flash,structural,1.0,792
+S32,Hindi,GPT-4o,structural,0.0,792
+S32,Hindi,Claude Sonnet 4.6,structural,0.0,792
+S32,Hindi,Gemini 3.5 Flash,structural,1.0,792
+S32,Bengali,GPT-4o,structural,2.0,792
+S32,Bengali,Claude Sonnet 4.6,structural,0.0,792
+S32,Bengali,Gemini 3.5 Flash,structural,0.0,792
+S32,Tamil,GPT-4o,structural,3.0,792
+S32,Tamil,Claude Sonnet 4.6,structural,0.0,792
+S32,Tamil,Gemini 3.5 Flash,structural,1.0,792
+S32,Spanish,GPT-4o,structural,1.0,792
+S32,Spanish,Claude Sonnet 4.6,structural,1.0,792
+S32,Spanish,Gemini 3.5 Flash,structural,0.0,792
+S32,Japanese,GPT-4o,structural,1.0,792
+S32,Japanese,Claude Sonnet 4.6,structural,0.0,792
+S32,Japanese,Gemini 3.5 Flash,structural,0.0,792
+S32,Arabic,GPT-4o,structural,0.0,792
+S32,Arabic,Claude Sonnet 4.6,structural,1.0,792
+S32,Arabic,Gemini 3.5 Flash,structural,1.0,792
+S33,Hindi,GPT-4o,structural,2.0,792
+S33,Hindi,Claude Sonnet 4.6,structural,1.0,792
+S33,Hindi,Gemini 3.5 Flash,structural,1.0,792
+S33,Bengali,GPT-4o,structural,2.0,792
+S33,Bengali,Claude Sonnet 4.6,structural,1.0,792
+S33,Bengali,Gemini 3.5 Flash,structural,1.0,792
+S33,Tamil,GPT-4o,structural,1.0,792
+S33,Tamil,Claude Sonnet 4.6,structural,2.0,792
+S33,Tamil,Gemini 3.5 Flash,structural,1.0,792
+S33,Spanish,GPT-4o,mixed,1.0,96
+S33,Spanish,Claude Sonnet 4.6,mixed,1.0,96
+S33,Spanish,Gemini 3.5 Flash,mixed,0.0,96
+S33,Japanese,GPT-4o,structural,1.0,792
+S33,Japanese,Claude Sonnet 4.6,structural,2.0,792
+S33,Japanese,Gemini 3.5 Flash,structural,1.0,792
+S33,Arabic,GPT-4o,structural,1.0,792
+S33,Arabic,Claude Sonnet 4.6,structural,0.0,792
+S33,Arabic,Gemini 3.5 Flash,structural,0.0,792
+S34,Hindi,GPT-4o,mixed,0.0,96
+S34,Hindi,Claude Sonnet 4.6,mixed,0.0,96
+S34,Hindi,Gemini 3.5 Flash,mixed,0.0,96
+S34,Bengali,GPT-4o,structural,0.0,792
+S34,Bengali,Claude Sonnet 4.6,structural,1.0,792
+S34,Bengali,Gemini 3.5 Flash,structural,0.0,792
+S34,Tamil,GPT-4o,structural,0.0,792
+S34,Tamil,Claude Sonnet 4.6,structural,1.0,792
+S34,Tamil,Gemini 3.5 Flash,structural,0.0,792
+S34,Spanish,GPT-4o,structural,0.0,792
+S34,Spanish,Claude Sonnet 4.6,structural,1.0,792
+S34,Spanish,Gemini 3.5 Flash,structural,1.0,792
+S34,Japanese,GPT-4o,structural,0.0,792
+S34,Japanese,Claude Sonnet 4.6,structural,0.0,792
+S34,Japanese,Gemini 3.5 Flash,structural,0.0,792
+S34,Arabic,GPT-4o,structural,0.0,792
+S34,Arabic,Claude Sonnet 4.6,structural,0.0,792
+S34,Arabic,Gemini 3.5 Flash,structural,0.0,792
+S35,Hindi,GPT-4o,structural,0.0,792
+S35,Hindi,Claude Sonnet 4.6,structural,0.0,792
+S35,Hindi,Gemini 3.5 Flash,structural,1.0,792
+S35,Bengali,GPT-4o,structural,1.0,792
+S35,Bengali,Claude Sonnet 4.6,structural,0.0,792
+S35,Bengali,Gemini 3.5 Flash,structural,1.0,792
+S35,Tamil,GPT-4o,structural,3.0,792
+S35,Tamil,Claude Sonnet 4.6,structural,0.0,792
+S35,Tamil,Gemini 3.5 Flash,structural,1.0,792
+S35,Spanish,GPT-4o,structural,1.0,792
+S35,Spanish,Claude Sonnet 4.6,structural,0.0,792
+S35,Spanish,Gemini 3.5 Flash,structural,0.0,792
+S35,Japanese,GPT-4o,structural,0.0,792
+S35,Japanese,Claude Sonnet 4.6,structural,0.0,792
+S35,Japanese,Gemini 3.5 Flash,structural,0.0,792
+S35,Arabic,GPT-4o,structural,0.0,792
+S35,Arabic,Claude Sonnet 4.6,structural,0.0,792
+S35,Arabic,Gemini 3.5 Flash,structural,0.0,792
+S36,Hindi,GPT-4o,structural,0.0,792
+S36,Hindi,Claude Sonnet 4.6,structural,0.0,792
+S36,Hindi,Gemini 3.5 Flash,structural,1.0,792
+S36,Bengali,GPT-4o,structural,0.0,792
+S36,Bengali,Claude Sonnet 4.6,structural,0.0,792
+S36,Bengali,Gemini 3.5 Flash,structural,0.0,792
+S36,Tamil,GPT-4o,structural,0.0,792
+S36,Tamil,Claude Sonnet 4.6,structural,0.0,792
+S36,Tamil,Gemini 3.5 Flash,structural,0.0,792
+S36,Spanish,GPT-4o,structural,0.0,792
+S36,Spanish,Claude Sonnet 4.6,structural,0.0,792
+S36,Spanish,Gemini 3.5 Flash,structural,0.0,792
+S36,Japanese,GPT-4o,structural,0.0,792
+S36,Japanese,Claude Sonnet 4.6,structural,0.0,792
+S36,Japanese,Gemini 3.5 Flash,structural,1.0,792
+S36,Arabic,GPT-4o,structural,0.0,792
+S36,Arabic,Claude Sonnet 4.6,structural,0.0,792
+S36,Arabic,Gemini 3.5 Flash,structural,1.0,792
+S37,Hindi,GPT-4o,structural,2.0,792
+S37,Hindi,Claude Sonnet 4.6,structural,1.0,792
+S37,Hindi,Gemini 3.5 Flash,structural,0.0,792
+S37,Bengali,GPT-4o,structural,0.0,792
+S37,Bengali,Claude Sonnet 4.6,structural,1.0,792
+S37,Bengali,Gemini 3.5 Flash,structural,1.0,792
+S37,Tamil,GPT-4o,structural,3.0,792
+S37,Tamil,Claude Sonnet 4.6,structural,2.0,792
+S37,Tamil,Gemini 3.5 Flash,structural,1.0,792
+S37,Spanish,GPT-4o,structural,2.0,792
+S37,Spanish,Claude Sonnet 4.6,structural,0.0,792
+S37,Spanish,Gemini 3.5 Flash,structural,0.0,792
+S37,Japanese,GPT-4o,structural,3.0,792
+S37,Japanese,Claude Sonnet 4.6,structural,2.0,792
+S37,Japanese,Gemini 3.5 Flash,structural,3.0,792
+S37,Arabic,GPT-4o,mixed,1.0,96
+S37,Arabic,Claude Sonnet 4.6,mixed,0.0,96
+S37,Arabic,Gemini 3.5 Flash,mixed,0.0,96
+S38,Hindi,GPT-4o,structural,2.0,792
+S38,Hindi,Claude Sonnet 4.6,structural,0.0,792
+S38,Hindi,Gemini 3.5 Flash,structural,0.0,792
+S38,Bengali,GPT-4o,structural,2.0,792
+S38,Bengali,Claude Sonnet 4.6,structural,0.0,792
+S38,Bengali,Gemini 3.5 Flash,structural,0.0,792
+S38,Tamil,GPT-4o,structural,0.0,792
+S38,Tamil,Claude Sonnet 4.6,structural,0.0,792
+S38,Tamil,Gemini 3.5 Flash,structural,0.0,792
+S38,Spanish,GPT-4o,structural,0.0,792
+S38,Spanish,Claude Sonnet 4.6,structural,0.0,792
+S38,Spanish,Gemini 3.5 Flash,structural,0.0,792
+S38,Japanese,GPT-4o,structural,1.0,792
+S38,Japanese,Claude Sonnet 4.6,structural,1.0,792
+S38,Japanese,Gemini 3.5 Flash,structural,2.0,792
+S38,Arabic,GPT-4o,structural,2.0,792
+S38,Arabic,Claude Sonnet 4.6,structural,0.0,792
+S38,Arabic,Gemini 3.5 Flash,structural,1.0,792
+S39,Hindi,GPT-4o,structural,0.0,792
+S39,Hindi,Claude Sonnet 4.6,structural,1.0,792
+S39,Hindi,Gemini 3.5 Flash,structural,0.0,792
+S39,Bengali,GPT-4o,structural,0.0,792
+S39,Bengali,Claude Sonnet 4.6,structural,1.0,792
+S39,Bengali,Gemini 3.5 Flash,structural,0.0,792
+S39,Tamil,GPT-4o,structural,0.0,792
+S39,Tamil,Claude Sonnet 4.6,structural,1.0,792
+S39,Tamil,Gemini 3.5 Flash,structural,1.0,792
+S39,Spanish,GPT-4o,surface-dominant,0.0,3
+S39,Spanish,Claude Sonnet 4.6,surface-dominant,0.0,3
+S39,Spanish,Gemini 3.5 Flash,surface-dominant,0.0,3
+S39,Japanese,GPT-4o,structural,0.0,792
+S39,Japanese,Claude Sonnet 4.6,structural,1.0,792
+S39,Japanese,Gemini 3.5 Flash,structural,0.0,792
+S39,Arabic,GPT-4o,structural,1.0,792
+S39,Arabic,Claude Sonnet 4.6,structural,0.0,792
+S39,Arabic,Gemini 3.5 Flash,structural,0.0,792
+S40,Hindi,GPT-4o,structural,1.0,792
+S40,Hindi,Claude Sonnet 4.6,structural,2.0,792
+S40,Hindi,Gemini 3.5 Flash,structural,1.0,792
+S40,Bengali,GPT-4o,structural,1.0,792
+S40,Bengali,Claude Sonnet 4.6,structural,1.0,792
+S40,Bengali,Gemini 3.5 Flash,structural,0.0,792
+S40,Tamil,GPT-4o,structural,4.0,792
+S40,Tamil,Claude Sonnet 4.6,structural,2.0,792
+S40,Tamil,Gemini 3.5 Flash,structural,2.0,792
+S40,Spanish,GPT-4o,structural,0.0,792
+S40,Spanish,Claude Sonnet 4.6,structural,0.0,792
+S40,Spanish,Gemini 3.5 Flash,structural,0.0,792
+S40,Japanese,GPT-4o,structural,0.0,792
+S40,Japanese,Claude Sonnet 4.6,structural,1.0,792
+S40,Japanese,Gemini 3.5 Flash,structural,0.0,792
+S40,Arabic,GPT-4o,structural,0.0,792
+S40,Arabic,Claude Sonnet 4.6,structural,1.0,792
+S40,Arabic,Gemini 3.5 Flash,structural,1.0,792
+S41,Hindi,GPT-4o,structural,0.0,792
+S41,Hindi,Claude Sonnet 4.6,structural,0.0,792
+S41,Hindi,Gemini 3.5 Flash,structural,1.0,792
+S41,Bengali,GPT-4o,structural,1.0,792
+S41,Bengali,Claude Sonnet 4.6,structural,1.0,792
+S41,Bengali,Gemini 3.5 Flash,structural,0.0,792
+S41,Tamil,GPT-4o,structural,0.0,792
+S41,Tamil,Claude Sonnet 4.6,structural,1.0,792
+S41,Tamil,Gemini 3.5 Flash,structural,0.0,792
+S41,Spanish,GPT-4o,structural,0.0,792
+S41,Spanish,Claude Sonnet 4.6,structural,1.0,792
+S41,Spanish,Gemini 3.5 Flash,structural,0.0,792
+S41,Japanese,GPT-4o,structural,0.0,792
+S41,Japanese,Claude Sonnet 4.6,structural,1.0,792
+S41,Japanese,Gemini 3.5 Flash,structural,1.0,792
+S41,Arabic,GPT-4o,mixed,0.0,96
+S41,Arabic,Claude Sonnet 4.6,mixed,0.0,96
+S41,Arabic,Gemini 3.5 Flash,mixed,0.0,96
+S42,Hindi,GPT-4o,structural,0.0,792
+S42,Hindi,Claude Sonnet 4.6,structural,0.0,792
+S42,Hindi,Gemini 3.5 Flash,structural,0.0,792
+S42,Bengali,GPT-4o,mixed,2.0,96
+S42,Bengali,Claude Sonnet 4.6,mixed,0.0,96
+S42,Bengali,Gemini 3.5 Flash,mixed,0.0,96
+S42,Tamil,GPT-4o,structural,0.0,792
+S42,Tamil,Claude Sonnet 4.6,structural,0.0,792
+S42,Tamil,Gemini 3.5 Flash,structural,1.0,792
+S42,Spanish,GPT-4o,structural,0.0,792
+S42,Spanish,Claude Sonnet 4.6,structural,1.0,792
+S42,Spanish,Gemini 3.5 Flash,structural,1.0,792
+S42,Japanese,GPT-4o,structural,0.0,792
+S42,Japanese,Claude Sonnet 4.6,structural,0.0,792
+S42,Japanese,Gemini 3.5 Flash,structural,0.0,792
+S42,Arabic,GPT-4o,structural,0.0,792
+S42,Arabic,Claude Sonnet 4.6,structural,1.0,792
+S42,Arabic,Gemini 3.5 Flash,structural,1.0,792
+S43,Hindi,GPT-4o,structural,3.0,792
+S43,Hindi,Claude Sonnet 4.6,structural,2.0,792
+S43,Hindi,Gemini 3.5 Flash,structural,0.0,792
+S43,Bengali,GPT-4o,structural,1.0,792
+S43,Bengali,Claude Sonnet 4.6,structural,1.0,792
+S43,Bengali,Gemini 3.5 Flash,structural,1.0,792
+S43,Tamil,GPT-4o,mixed,1.0,96
+S43,Tamil,Claude Sonnet 4.6,mixed,0.0,96
+S43,Tamil,Gemini 3.5 Flash,mixed,1.0,96
+S43,Spanish,GPT-4o,structural,0.0,792
+S43,Spanish,Claude Sonnet 4.6,structural,1.0,792
+S43,Spanish,Gemini 3.5 Flash,structural,1.0,792
+S43,Japanese,GPT-4o,structural,0.0,792
+S43,Japanese,Claude Sonnet 4.6,structural,1.0,792
+S43,Japanese,Gemini 3.5 Flash,structural,0.0,792
+S43,Arabic,GPT-4o,structural,4.0,792
+S43,Arabic,Claude Sonnet 4.6,structural,2.0,792
+S43,Arabic,Gemini 3.5 Flash,structural,2.0,792
+S44,Hindi,GPT-4o,structural,0.0,792
+S44,Hindi,Claude Sonnet 4.6,structural,1.0,792
+S44,Hindi,Gemini 3.5 Flash,structural,0.0,792
+S44,Bengali,GPT-4o,structural,0.0,792
+S44,Bengali,Claude Sonnet 4.6,structural,1.0,792
+S44,Bengali,Gemini 3.5 Flash,structural,0.0,792
+S44,Tamil,GPT-4o,structural,0.0,792
+S44,Tamil,Claude Sonnet 4.6,structural,1.0,792
+S44,Tamil,Gemini 3.5 Flash,structural,1.0,792
+S44,Spanish,GPT-4o,structural,0.0,792
+S44,Spanish,Claude Sonnet 4.6,structural,0.0,792
+S44,Spanish,Gemini 3.5 Flash,structural,1.0,792
+S44,Japanese,GPT-4o,mixed,0.0,96
+S44,Japanese,Claude Sonnet 4.6,mixed,0.0,96
+S44,Japanese,Gemini 3.5 Flash,mixed,1.0,96
+S44,Arabic,GPT-4o,structural,0.0,792
+S44,Arabic,Claude Sonnet 4.6,structural,1.0,792
+S44,Arabic,Gemini 3.5 Flash,structural,0.0,792
+S45,Hindi,GPT-4o,structural,0.0,792
+S45,Hindi,Claude Sonnet 4.6,structural,0.0,792
+S45,Hindi,Gemini 3.5 Flash,structural,0.0,792
+S45,Bengali,GPT-4o,structural,4.0,792
+S45,Bengali,Claude Sonnet 4.6,structural,0.0,792
+S45,Bengali,Gemini 3.5 Flash,structural,1.0,792
+S45,Tamil,GPT-4o,structural,0.0,792
+S45,Tamil,Claude Sonnet 4.6,structural,1.0,792
+S45,Tamil,Gemini 3.5 Flash,structural,1.0,792
+S45,Spanish,GPT-4o,structural,0.0,792
+S45,Spanish,Claude Sonnet 4.6,structural,1.0,792
+S45,Spanish,Gemini 3.5 Flash,structural,0.0,792
+S45,Japanese,GPT-4o,structural,0.0,792
+S45,Japanese,Claude Sonnet 4.6,structural,0.0,792
+S45,Japanese,Gemini 3.5 Flash,structural,0.0,792
+S45,Arabic,GPT-4o,structural,0.0,792
+S45,Arabic,Claude Sonnet 4.6,structural,0.0,792
+S45,Arabic,Gemini 3.5 Flash,structural,0.0,792
+S46,Hindi,GPT-4o,structural,0.0,792
+S46,Hindi,Claude Sonnet 4.6,structural,0.0,792
+S46,Hindi,Gemini 3.5 Flash,structural,0.0,792
+S46,Bengali,GPT-4o,structural,0.0,792
+S46,Bengali,Claude Sonnet 4.6,structural,0.0,792
+S46,Bengali,Gemini 3.5 Flash,structural,0.0,792
+S46,Tamil,GPT-4o,structural,2.0,792
+S46,Tamil,Claude Sonnet 4.6,structural,3.0,792
+S46,Tamil,Gemini 3.5 Flash,structural,1.0,792
+S46,Spanish,GPT-4o,structural,0.0,792
+S46,Spanish,Claude Sonnet 4.6,structural,1.0,792
+S46,Spanish,Gemini 3.5 Flash,structural,1.0,792
+S46,Japanese,GPT-4o,structural,0.0,792
+S46,Japanese,Claude Sonnet 4.6,structural,0.0,792
+S46,Japanese,Gemini 3.5 Flash,structural,1.0,792
+S46,Arabic,GPT-4o,structural,0.0,792
+S46,Arabic,Claude Sonnet 4.6,structural,1.0,792
+S46,Arabic,Gemini 3.5 Flash,structural,0.0,792
+S47,Hindi,GPT-4o,mixed,0.0,96
+S47,Hindi,Claude Sonnet 4.6,mixed,0.0,96
+S47,Hindi,Gemini 3.5 Flash,mixed,0.0,96
+S47,Bengali,GPT-4o,structural,0.0,792
+S47,Bengali,Claude Sonnet 4.6,structural,0.0,792
+S47,Bengali,Gemini 3.5 Flash,structural,0.0,792
+S47,Tamil,GPT-4o,structural,0.0,792
+S47,Tamil,Claude Sonnet 4.6,structural,0.0,792
+S47,Tamil,Gemini 3.5 Flash,structural,0.0,792
+S47,Spanish,GPT-4o,structural,0.0,792
+S47,Spanish,Claude Sonnet 4.6,structural,0.0,792
+S47,Spanish,Gemini 3.5 Flash,structural,0.0,792
+S47,Japanese,GPT-4o,structural,0.0,792
+S47,Japanese,Claude Sonnet 4.6,structural,0.0,792
+S47,Japanese,Gemini 3.5 Flash,structural,0.0,792
+S47,Arabic,GPT-4o,structural,0.0,792
+S47,Arabic,Claude Sonnet 4.6,structural,0.0,792
+S47,Arabic,Gemini 3.5 Flash,structural,0.0,792
+S48,Hindi,GPT-4o,structural,3.0,792
+S48,Hindi,Claude Sonnet 4.6,structural,1.0,792
+S48,Hindi,Gemini 3.5 Flash,structural,2.0,792
+S48,Bengali,GPT-4o,structural,1.0,792
+S48,Bengali,Claude Sonnet 4.6,structural,0.0,792
+S48,Bengali,Gemini 3.5 Flash,structural,1.0,792
+S48,Tamil,GPT-4o,structural,0.0,792
+S48,Tamil,Claude Sonnet 4.6,structural,0.0,792
+S48,Tamil,Gemini 3.5 Flash,structural,1.0,792
+S48,Spanish,GPT-4o,structural,0.0,792
+S48,Spanish,Claude Sonnet 4.6,structural,2.0,792
+S48,Spanish,Gemini 3.5 Flash,structural,2.0,792
+S48,Japanese,GPT-4o,structural,0.0,792
+S48,Japanese,Claude Sonnet 4.6,structural,2.0,792
+S48,Japanese,Gemini 3.5 Flash,structural,0.0,792
+S48,Arabic,GPT-4o,structural,3.0,792
+S48,Arabic,Claude Sonnet 4.6,structural,1.0,792
+S48,Arabic,Gemini 3.5 Flash,structural,1.0,792
+S49,Hindi,GPT-4o,mixed,0.0,96
+S49,Hindi,Claude Sonnet 4.6,mixed,0.0,96
+S49,Hindi,Gemini 3.5 Flash,mixed,0.0,96
+S49,Bengali,GPT-4o,structural,0.0,792
+S49,Bengali,Claude Sonnet 4.6,structural,1.0,792
+S49,Bengali,Gemini 3.5 Flash,structural,1.0,792
+S49,Tamil,GPT-4o,structural,1.0,792
+S49,Tamil,Claude Sonnet 4.6,structural,1.0,792
+S49,Tamil,Gemini 3.5 Flash,structural,0.0,792
+S49,Spanish,GPT-4o,structural,0.0,792
+S49,Spanish,Claude Sonnet 4.6,structural,1.0,792
+S49,Spanish,Gemini 3.5 Flash,structural,0.0,792
+S49,Japanese,GPT-4o,structural,0.0,792
+S49,Japanese,Claude Sonnet 4.6,structural,0.0,792
+S49,Japanese,Gemini 3.5 Flash,structural,0.0,792
+S49,Arabic,GPT-4o,structural,0.0,792
+S49,Arabic,Claude Sonnet 4.6,structural,1.0,792
+S49,Arabic,Gemini 3.5 Flash,structural,0.0,792
+S50,Hindi,GPT-4o,structural,1.0,792
+S50,Hindi,Claude Sonnet 4.6,structural,0.0,792
+S50,Hindi,Gemini 3.5 Flash,structural,1.0,792
+S50,Bengali,GPT-4o,structural,1.0,792
+S50,Bengali,Claude Sonnet 4.6,structural,0.0,792
+S50,Bengali,Gemini 3.5 Flash,structural,1.0,792
+S50,Tamil,GPT-4o,mixed,2.0,96
+S50,Tamil,Claude Sonnet 4.6,mixed,0.0,96
+S50,Tamil,Gemini 3.5 Flash,mixed,0.0,96
+S50,Spanish,GPT-4o,structural,3.0,792
+S50,Spanish,Claude Sonnet 4.6,structural,0.0,792
+S50,Spanish,Gemini 3.5 Flash,structural,0.0,792
+S50,Japanese,GPT-4o,structural,0.0,792
+S50,Japanese,Claude Sonnet 4.6,structural,0.0,792
+S50,Japanese,Gemini 3.5 Flash,structural,0.0,792
+S50,Arabic,GPT-4o,structural,2.0,792
+S50,Arabic,Claude Sonnet 4.6,structural,0.0,792
+S50,Arabic,Gemini 3.5 Flash,structural,1.0,792

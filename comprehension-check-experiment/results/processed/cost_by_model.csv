@@ -1,0 +1,4 @@
+﻿model_key,model_id,successful_rows,successful_cost_usd,prompt_tokens,completion_tokens,total_tokens
+chatgpt,openai/gpt-4o-2024-11-20,240,0.293005,111442,1440,112882
+claude,anthropic/claude-sonnet-4.6,240,0.692775,218925,2400,221325
+gemini_flash,google/gemini-3.5-flash,240,0.1526355,91677,1680,93357

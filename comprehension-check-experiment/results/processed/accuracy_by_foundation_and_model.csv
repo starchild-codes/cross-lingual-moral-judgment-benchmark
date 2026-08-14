@@ -1,0 +1,16 @@
+﻿foundation,model_key,correct_items,total_items,work_units_4_of_4,total_work_units,accuracy,4_of_4_proportion
+Authority/Subversion,chatgpt,182,192,38,48,0.9479166666666666,0.7916666666666666
+Authority/Subversion,claude,190,192,46,48,0.9895833333333334,0.9583333333333334
+Authority/Subversion,gemini_flash,190,192,46,48,0.9895833333333334,0.9583333333333334
+Care/Harm,chatgpt,175,192,36,48,0.9114583333333334,0.75
+Care/Harm,claude,189,192,45,48,0.984375,0.9375
+Care/Harm,gemini_flash,188,192,44,48,0.9791666666666666,0.9166666666666666
+Fairness/Cheating,chatgpt,166,192,22,48,0.8645833333333334,0.4583333333333333
+Fairness/Cheating,claude,173,192,29,48,0.9010416666666666,0.6041666666666666
+Fairness/Cheating,gemini_flash,178,192,34,48,0.9270833333333334,0.7083333333333334
+Loyalty/Betrayal,chatgpt,192,192,48,48,1.0,1.0
+Loyalty/Betrayal,claude,191,192,47,48,0.9947916666666666,0.9791666666666666
+Loyalty/Betrayal,gemini_flash,192,192,48,48,1.0,1.0
+Sanctity/Degradation,chatgpt,186,192,42,48,0.96875,0.875
+Sanctity/Degradation,claude,191,192,47,48,0.9947916666666666,0.9791666666666666
+Sanctity/Degradation,gemini_flash,192,192,48,48,1.0,1.0

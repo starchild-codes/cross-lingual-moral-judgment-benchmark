@@ -1,0 +1,262 @@
+{
+  "status": "PASS",
+  "audit": {
+    "unique_work_units": 720,
+    "item_level_responses": 2880,
+    "incorrect_items": 105,
+    "overall_accuracy": 0.9635416666666666,
+    "work_unit_4_of_4_rate": 0.8611111111111112,
+    "normalized_outputs": 150,
+    "normalization_reproducible": true,
+    "response_order_preserved": true,
+    "answer_content_inferred": false,
+    "ambiguous_free_text_converted": false,
+    "raw_output_trace_complete": true
+  },
+  "rating_shift_merge": {
+    "rows": 720,
+    "unique_work_units": 720,
+    "missing_shifts": 0,
+    "exactly_one_match_per_work_unit": true
+  },
+  "analyses": {
+    "spearman": {
+      "rho": -0.23791756857008017,
+      "two_sided_p_value": 1.0064679726305255e-10,
+      "n": 720,
+      "scenario_cluster_bootstrap_ci_95": [
+        -0.4012694553120259,
+        0.013409595755127434
+      ],
+      "bootstrap_repetitions": 10000,
+      "proportion_rho": -0.23791756857008017,
+      "proportion_two_sided_p_value": 1.0064679726305255e-10,
+      "rescaling_identical": true
+    },
+    "group_comparison": {
+      "groups": {
+        "4_of_4": {
+          "n": 620,
+          "mean": 0.603225806451613,
+          "median": 0.0,
+          "standard_deviation": 0.9497840485673146,
+          "interquartile_range": 1.0
+        },
+        "less_than_4_of_4": {
+          "n": 100,
+          "mean": 1.35,
+          "median": 1.0,
+          "standard_deviation": 1.313296415417127,
+          "interquartile_range": 2.0
+        }
+      },
+      "mann_whitney_u": 20112.5,
+      "mann_whitney_two_sided_p_value": 3.0411614370707154e-10,
+      "mean_difference_error_minus_full": 0.7467741935483871,
+      "scenario_cluster_bootstrap_ci_95": [
+        0.0007870379302361567,
+        1.3653200714947702
+      ],
+      "bootstrap_repetitions": 10000
+    },
+    "primary_regression": [
+      {
+        "model": "primary_comprehension_score",
+        "term": "Intercept",
+        "coefficient": 3.6364332985022783,
+        "clustered_se": 1.1486971806154185,
+        "ci_lower_95": 1.2321824682432019,
+        "ci_upper_95": 6.040684128761354,
+        "p_value": 0.005090581573978941,
+        "n": 720,
+        "scenario_clusters": 20,
+        "r_squared": 0.07410543035062889
+      },
+      {
+        "model": "primary_comprehension_score",
+        "term": "correct_count_0_4",
+        "coefficient": -0.7600835945663553,
+        "clustered_se": 0.2713072966153148,
+        "ci_lower_95": -1.327936292518699,
+        "ci_upper_95": -0.1922308966140116,
+        "p_value": 0.01138491764446143,
+        "n": 720,
+        "scenario_clusters": 20,
+        "r_squared": 0.07410543035062889
+      }
+    ],
+    "sensitivity_regression": [
+      {
+        "model": "sensitivity_any_error",
+        "term": "Intercept",
+        "coefficient": 0.6032258064516125,
+        "clustered_se": 0.1377044007334746,
+        "ci_lower_95": 0.31500718331856903,
+        "ci_upper_95": 0.891444429584656,
+        "p_value": 0.0003216131675967902,
+        "n": 720,
+        "scenario_clusters": 20,
+        "r_squared": 0.0617908838233151
+      },
+      {
+        "model": "sensitivity_any_error",
+        "term": "any_comprehension_error",
+        "coefficient": 0.7467741935483906,
+        "clustered_se": 0.3098164648772935,
+        "ci_lower_95": 0.0983208801084684,
+        "ci_upper_95": 1.3952275069883129,
+        "p_value": 0.02623236043276892,
+        "n": 720,
+        "scenario_clusters": 20,
+        "r_squared": 0.0617908838233151
+      }
+    ],
+    "adjusted_diagnostic_regression": [
+      {
+        "model": "adjusted_diagnostic",
+        "term": "Intercept",
+        "coefficient": 3.2735544261341403,
+        "clustered_se": 0.9381353841009509,
+        "ci_lower_95": 1.310014500919272,
+        "ci_upper_95": 5.2370943513490085,
+        "p_value": 0.0024535083593245186,
+        "n": 720,
+        "scenario_clusters": 20,
+        "r_squared": 0.2610268892015273
+      },
+      {
+        "model": "adjusted_diagnostic",
+        "term": "C(model_key)[T.claude]",
+        "coefficient": -0.060056663586426584,
+        "clustered_se": 0.15801916498801688,
+        "ci_lower_95": -0.39079457696386116,
+        "ci_upper_95": 0.270681249791008,
+        "p_value": 0.7081165476544159,
+        "n": 720,
+        "scenario_clusters": 20,
+        "r_squared": 0.2610268892015273
+      },
+      {
+        "model": "adjusted_diagnostic",
+        "term": "C(model_key)[T.gemini_flash]",
+        "coefficient": 0.056675458185738,
+        "clustered_se": 0.18825889249655167,
+        "ci_lower_95": -0.33735493226581253,
+        "ci_upper_95": 0.4507058486372885,
+        "p_value": 0.7666456494089066,
+        "n": 720,
+        "scenario_clusters": 20,
+        "r_squared": 0.2610268892015273
+      },
+      {
+        "model": "adjusted_diagnostic",
+        "term": "C(input_language)[T.bn]",
+        "coefficient": -0.18346424354432883,
+        "clustered_se": 0.08716491196520515,
+        "ci_lower_95": -0.3659025009878858,
+        "ci_upper_95": -0.0010259861007718418,
+        "p_value": 0.048848122431487916,
+        "n": 720,
+        "scenario_clusters": 20,
+        "r_squared": 0.2610268892015273
+      },
+      {
+        "model": "adjusted_diagnostic",
+        "term": "C(input_language)[T.es]",
+        "coefficient": -0.11666666666666599,
+        "clustered_se": 0.10487034000972634,
+        "ci_lower_95": -0.3361628109010013,
+        "ci_upper_95": 0.10282947756766932,
+        "p_value": 0.279807893312893,
+        "n": 720,
+        "scenario_clusters": 20,
+        "r_squared": 0.2610268892015273
+      },
+      {
+        "model": "adjusted_diagnostic",
+        "term": "C(input_language)[T.hi]",
+        "coefficient": -0.2082024231223331,
+        "clustered_se": 0.17137447680009688,
+        "ci_lower_95": -0.5668933253765744,
+        "ci_upper_95": 0.15048847913190827,
+        "p_value": 0.2392879654469013,
+        "n": 720,
+        "scenario_clusters": 20,
+        "r_squared": 0.2610268892015273
+      },
+      {
+        "model": "adjusted_diagnostic",
+        "term": "C(input_language)[T.ja]",
+        "coefficient": -0.11662302992966712,
+        "clustered_se": 0.09522596793241714,
+        "ci_lower_95": -0.31593327141653044,
+        "ci_upper_95": 0.08268721155719617,
+        "p_value": 0.23565695624030097,
+        "n": 720,
+        "scenario_clusters": 20,
+        "r_squared": 0.2610268892015273
+      },
+      {
+        "model": "adjusted_diagnostic",
+        "term": "C(input_language)[T.ta]",
+        "coefficient": -0.14594242517582953,
+        "clustered_se": 0.09335536592888229,
+        "ci_lower_95": -0.34133745167307006,
+        "ci_upper_95": 0.049452601321410966,
+        "p_value": 0.13448501238347654,
+        "n": 720,
+        "scenario_clusters": 20,
+        "r_squared": 0.2610268892015273
+      },
+      {
+        "model": "adjusted_diagnostic",
+        "term": "C(scenario_version)[T.literal]",
+        "coefficient": -0.10146888957338379,
+        "clustered_se": 0.04915848873182366,
+        "ci_lower_95": -0.20435878896745052,
+        "ci_upper_95": 0.0014210098206829253,
+        "p_value": 0.05293381231171362,
+        "n": 720,
+        "scenario_clusters": 20,
+        "r_squared": 0.2610268892015273
+      },
+      {
+        "model": "adjusted_diagnostic",
+        "term": "C(shift_tier_manuscript)[T.Lower-shift]",
+        "coefficient": -0.89818201653062,
+        "clustered_se": 0.22550635476542874,
+        "ci_lower_95": -1.3701722414765962,
+        "ci_upper_95": -0.42619179158464393,
+        "p_value": 0.0007966100552610839,
+        "n": 720,
+        "scenario_clusters": 20,
+        "r_squared": 0.2610268892015273
+      },
+      {
+        "model": "adjusted_diagnostic",
+        "term": "correct_count_0_4",
+        "coefficient": -0.5026182042199155,
+        "clustered_se": 0.22017487635032187,
+        "ci_lower_95": -0.9634495165975143,
+        "ci_upper_95": -0.04178689184231682,
+        "p_value": 0.03413222521317596,
+        "n": 720,
+        "scenario_clusters": 20,
+        "r_squared": 0.2610268892015273
+      }
+    ]
+  },
+  "error_concentration": {
+    "total_errors": 105,
+    "questions_with_any_error": 15,
+    "questions_missed_at_least_10_percent": 7,
+    "questions_accounting_for_at_least_half_of_errors": 3,
+    "top_question_error_share": 0.2571428571428571
+  },
+  "bootstrap": {
+    "repetitions": 10000,
+    "seed": 20260727,
+    "cluster": "scenario_id"
+  },
+  "no_api_requests_made": true
+}

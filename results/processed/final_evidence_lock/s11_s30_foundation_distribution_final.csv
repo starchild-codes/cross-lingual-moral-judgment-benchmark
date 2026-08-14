@@ -1,0 +1,11 @@
+scenario_id,intended_foundation,human_scenario_majority_foundation,response_coded_foundation,count,total,percentage,response_label_provenance
+S11,Authority/Subversion,Care/Harm,Care/Harm,1,100,0.01,dual LLM coding with manual adjudication
+S11,Authority/Subversion,Care/Harm,Loyalty/Betrayal,86,100,0.86,dual LLM coding with manual adjudication
+S11,Authority/Subversion,Care/Harm,Authority/Subversion,13,100,0.13,dual LLM coding with manual adjudication
+S11,Authority/Subversion,Care/Harm,Fairness/Cheating,0,100,0,dual LLM coding with manual adjudication
+S11,Authority/Subversion,Care/Harm,Sanctity/Degradation,0,100,0,dual LLM coding with manual adjudication
+S30,Authority/Subversion,Authority/Subversion,Care/Harm,100,100,1,dual LLM coding with manual adjudication
+S30,Authority/Subversion,Authority/Subversion,Loyalty/Betrayal,0,100,0,dual LLM coding with manual adjudication
+S30,Authority/Subversion,Authority/Subversion,Authority/Subversion,0,100,0,dual LLM coding with manual adjudication
+S30,Authority/Subversion,Authority/Subversion,Fairness/Cheating,0,100,0,dual LLM coding with manual adjudication
+S30,Authority/Subversion,Authority/Subversion,Sanctity/Degradation,0,100,0,dual LLM coding with manual adjudication

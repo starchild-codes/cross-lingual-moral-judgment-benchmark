@@ -1,0 +1,439 @@
+[
+  {
+    "verification_run": "2026-07-27T07:48:24.058726+00:00",
+    "attempt_number": 1,
+    "model_key": "chatgpt",
+    "model": "openai/gpt-4o-2024-11-20",
+    "request_temperature": 0.0,
+    "request_max_tokens": 16,
+    "reasoning_effort": null,
+    "http_status": 200,
+    "raw_output": "1",
+    "error_note": null,
+    "response_json": {
+      "id": "gen-1785138505-rzPmjwQiOwA4ZLbSuIWo",
+      "object": "chat.completion",
+      "created": 1785138505,
+      "model": "openai/gpt-4o-2024-11-20",
+      "provider": "OpenAI",
+      "system_fingerprint": "fp_1e6c79a6d6",
+      "service_tier": null,
+      "choices": [
+        {
+          "index": 0,
+          "logprobs": null,
+          "finish_reason": "stop",
+          "native_finish_reason": "stop",
+          "message": {
+            "role": "assistant",
+            "content": "1",
+            "refusal": null,
+            "reasoning": null
+          }
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 32,
+        "completion_tokens": 1,
+        "total_tokens": 33,
+        "cost": 9e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 9e-05,
+          "upstream_inference_prompt_cost": 8e-05,
+          "upstream_inference_completions_cost": 1e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    },
+    "tested_at": "2026-07-27T07:48:27.306341+00:00"
+  },
+  {
+    "verification_run": "2026-07-27T07:48:24.058726+00:00",
+    "attempt_number": 1,
+    "model_key": "claude",
+    "model": "anthropic/claude-sonnet-4.6",
+    "request_temperature": 0.0,
+    "request_max_tokens": 16,
+    "reasoning_effort": null,
+    "http_status": 200,
+    "raw_output": "1",
+    "error_note": null,
+    "response_json": {
+      "id": "gen-1785138507-oEV9D8rHk1UtcmiaUadJ",
+      "object": "chat.completion",
+      "created": 1785138507,
+      "model": "anthropic/claude-sonnet-4.6",
+      "provider": "Anthropic",
+      "system_fingerprint": null,
+      "service_tier": "default",
+      "choices": [
+        {
+          "index": 0,
+          "logprobs": null,
+          "finish_reason": "stop",
+          "native_finish_reason": "end_turn",
+          "message": {
+            "role": "assistant",
+            "content": "1",
+            "refusal": null,
+            "reasoning": null
+          }
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 29,
+        "completion_tokens": 5,
+        "total_tokens": 34,
+        "cost": 0.000162,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.000162,
+          "upstream_inference_prompt_cost": 8.7e-05,
+          "upstream_inference_completions_cost": 7.5e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    },
+    "tested_at": "2026-07-27T07:48:33.039889+00:00"
+  },
+  {
+    "verification_run": "2026-07-27T07:48:24.058726+00:00",
+    "attempt_number": 1,
+    "model_key": "gemini_flash",
+    "model": "google/gemini-3.5-flash",
+    "request_temperature": 0.0,
+    "request_max_tokens": 16,
+    "reasoning_effort": "minimal",
+    "http_status": 200,
+    "raw_output": "1of",
+    "error_note": null,
+    "response_json": {
+      "id": "gen-1785138512-vJzZ03oYtKIQ1uOjRPKK",
+      "object": "chat.completion",
+      "created": 1785138512,
+      "model": "google/gemini-3.5-flash",
+      "provider": "Google",
+      "system_fingerprint": null,
+      "service_tier": "default",
+      "choices": [
+        {
+          "index": 0,
+          "logprobs": null,
+          "finish_reason": "stop",
+          "native_finish_reason": "STOP",
+          "message": {
+            "role": "assistant",
+            "content": "1of",
+            "refusal": null,
+            "reasoning": null,
+            "reasoning_details": [
+              {
+                "type": "reasoning.text",
+                "signature": "AY89a18XnhIayG8AWwE5oOa5/oZH446NpHXisr459C03WShsoS6Egpm3YUqfsuZOBvM=",
+                "format": "google-gemini-v1",
+                "index": 0
+              }
+            ]
+          }
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 2,
+        "total_tokens": 23,
+        "cost": 4.95e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 4.95e-05,
+          "upstream_inference_prompt_cost": 3.15e-05,
+          "upstream_inference_completions_cost": 1.8e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    },
+    "tested_at": "2026-07-27T07:48:36.664105+00:00"
+  },
+  {
+    "verification_run": "2026-07-27T07:48:24.058726+00:00",
+    "attempt_number": 2,
+    "model_key": "gemini_flash",
+    "model": "google/gemini-3.5-flash",
+    "request_temperature": 0.0,
+    "request_max_tokens": 16,
+    "reasoning_effort": "minimal",
+    "http_status": 200,
+    "raw_output": "1",
+    "error_note": null,
+    "response_json": {
+      "id": "gen-1785138517-GBaFHC7QtgA7bOS8hK4T",
+      "object": "chat.completion",
+      "created": 1785138517,
+      "model": "google/gemini-3.5-flash",
+      "provider": "Google",
+      "system_fingerprint": null,
+      "service_tier": "default",
+      "choices": [
+        {
+          "index": 0,
+          "logprobs": null,
+          "finish_reason": "stop",
+          "native_finish_reason": "STOP",
+          "message": {
+            "role": "assistant",
+            "content": "1",
+            "refusal": null,
+            "reasoning": null,
+            "reasoning_details": [
+              {
+                "type": "reasoning.text",
+                "signature": "AY89a1/CDDPSL6TkKcsffvxUAJwqLWB2PyFbK0NLSMkxlGPsq4nXYpREPoqHffm4SUA=",
+                "format": "google-gemini-v1",
+                "index": 0
+              }
+            ]
+          }
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 1,
+        "total_tokens": 22,
+        "cost": 4.05e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 4.05e-05,
+          "upstream_inference_prompt_cost": 3.15e-05,
+          "upstream_inference_completions_cost": 9e-06
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    },
+    "tested_at": "2026-07-27T07:48:40.347488+00:00"
+  },
+  {
+    "verification_run": "2026-07-27T07:51:59.015645+00:00",
+    "attempt_number": 1,
+    "model_key": "chatgpt",
+    "model": "openai/gpt-4o-2024-11-20",
+    "request_temperature": 0.0,
+    "request_max_tokens": 16,
+    "reasoning_effort": null,
+    "http_status": 200,
+    "raw_output": "1",
+    "error_note": null,
+    "response_json": {
+      "id": "gen-1785138719-4lnif4F87b42kHzxHDAW",
+      "object": "chat.completion",
+      "created": 1785138719,
+      "model": "openai/gpt-4o-2024-11-20",
+      "provider": "OpenAI",
+      "system_fingerprint": "fp_1e6c79a6d6",
+      "service_tier": null,
+      "choices": [
+        {
+          "index": 0,
+          "logprobs": null,
+          "finish_reason": "stop",
+          "native_finish_reason": "stop",
+          "message": {
+            "role": "assistant",
+            "content": "1",
+            "refusal": null,
+            "reasoning": null
+          }
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 32,
+        "completion_tokens": 1,
+        "total_tokens": 33,
+        "cost": 9e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 9e-05,
+          "upstream_inference_prompt_cost": 8e-05,
+          "upstream_inference_completions_cost": 1e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    },
+    "tested_at": "2026-07-27T07:52:01.284222+00:00"
+  },
+  {
+    "verification_run": "2026-07-27T07:51:59.015645+00:00",
+    "attempt_number": 1,
+    "model_key": "claude",
+    "model": "anthropic/claude-sonnet-4.6",
+    "request_temperature": 0.0,
+    "request_max_tokens": 16,
+    "reasoning_effort": null,
+    "http_status": 200,
+    "raw_output": "1",
+    "error_note": null,
+    "response_json": {
+      "id": "gen-1785138721-IgSp9xOeQBT0qbIHg32Y",
+      "object": "chat.completion",
+      "created": 1785138721,
+      "model": "anthropic/claude-sonnet-4.6",
+      "provider": "Anthropic",
+      "system_fingerprint": null,
+      "service_tier": "default",
+      "choices": [
+        {
+          "index": 0,
+          "logprobs": null,
+          "finish_reason": "stop",
+          "native_finish_reason": "end_turn",
+          "message": {
+            "role": "assistant",
+            "content": "1",
+            "refusal": null,
+            "reasoning": null
+          }
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 29,
+        "completion_tokens": 5,
+        "total_tokens": 34,
+        "cost": 0.000162,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0.000162,
+          "upstream_inference_prompt_cost": 8.7e-05,
+          "upstream_inference_completions_cost": 7.5e-05
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    },
+    "tested_at": "2026-07-27T07:52:04.148079+00:00"
+  },
+  {
+    "verification_run": "2026-07-27T07:51:59.015645+00:00",
+    "attempt_number": 1,
+    "model_key": "gemini_flash",
+    "model": "google/gemini-3.5-flash",
+    "request_temperature": 0.0,
+    "request_max_tokens": 16,
+    "reasoning_effort": "minimal",
+    "http_status": 200,
+    "raw_output": "1",
+    "error_note": null,
+    "response_json": {
+      "id": "gen-1785138723-gR0KodU6qKHqovHjvoH8",
+      "object": "chat.completion",
+      "created": 1785138723,
+      "model": "google/gemini-3.5-flash",
+      "provider": "Google",
+      "system_fingerprint": null,
+      "service_tier": "default",
+      "choices": [
+        {
+          "index": 0,
+          "logprobs": null,
+          "finish_reason": "stop",
+          "native_finish_reason": "STOP",
+          "message": {
+            "role": "assistant",
+            "content": "1",
+            "refusal": null,
+            "reasoning": null,
+            "reasoning_details": [
+              {
+                "type": "reasoning.text",
+                "signature": "AY89a1/JfAEKLObXFcbQT/JyVEq6gMF/GevvjvONhGwKSCmV3VvGAQmDXrGY9NRJ6U4=",
+                "format": "google-gemini-v1",
+                "index": 0
+              }
+            ]
+          }
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 21,
+        "completion_tokens": 1,
+        "total_tokens": 22,
+        "cost": 4.05e-05,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 4.05e-05,
+          "upstream_inference_prompt_cost": 3.15e-05,
+          "upstream_inference_completions_cost": 9e-06
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      }
+    },
+    "tested_at": "2026-07-27T07:52:06.711853+00:00"
+  }
+]

@@ -1,0 +1,6 @@
+intended_mft_foundation,n,coder_a_intended_agreement,coder_a_intended_agreement_percent,coder_b_intended_agreement,coder_b_intended_agreement_percent,average_coder_intended_agreement,average_coder_intended_agreement_percent,both_coders_match_intended_rate,at_least_one_coder_matches_intended_rate,coder_a_b_raw_agreement,coder_a_b_raw_agreement_percent
+Care/Harm,11,0.818182,81.82%,0.818182,81.82%,0.818182,81.82%,0.727273,0.909091,0.818182,81.82%
+Fairness/Cheating,10,0.8,80.00%,1,100.00%,0.9,90.00%,0.8,1,0.8,80.00%
+Loyalty/Betrayal,10,0.8,80.00%,0.7,70.00%,0.75,75.00%,0.7,0.8,0.9,90.00%
+Authority/Subversion,10,0.3,30.00%,0.7,70.00%,0.5,50.00%,0.3,0.7,0.5,50.00%
+Sanctity/Degradation,9,0.888889,88.89%,0.888889,88.89%,0.888889,88.89%,0.777778,1,0.777778,77.78%

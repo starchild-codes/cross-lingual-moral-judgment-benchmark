@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="500" viewBox="0 0 920 500">
+    <rect width="100%" height="100%" fill="#FFFFFF"/>
+    <text x="170" y="36" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#17252A">Reasoning-language effects</text>
+    <text x="170" y="62" font-family="Arial, sans-serif" font-size="14" fill="#546E7A">Native-language reasoning minus English reasoning</text>
+    <g font-family="Arial, sans-serif"><line x1="170" y1="80" x2="170" y2="440" stroke="#D8DEE3" stroke-width="1"/><text x="170" y="470" text-anchor="middle" font-size="13" fill="#455A64">-0.50</text><line x1="340" y1="80" x2="340" y2="440" stroke="#D8DEE3" stroke-width="1"/><text x="340" y="470" text-anchor="middle" font-size="13" fill="#455A64">-0.25</text><line x1="510" y1="80" x2="510" y2="440" stroke="#263238" stroke-width="1.5"/><text x="510" y="470" text-anchor="middle" font-size="13" fill="#455A64">0.00</text><line x1="680" y1="80" x2="680" y2="440" stroke="#D8DEE3" stroke-width="1"/><text x="680" y="470" text-anchor="middle" font-size="13" fill="#455A64">0.25</text><line x1="850" y1="80" x2="850" y2="440" stroke="#D8DEE3" stroke-width="1"/><text x="850" y="470" text-anchor="middle" font-size="13" fill="#455A64">0.50</text><text x="152" y="127.91666666666667" text-anchor="end" font-size="15" fill="#263238">Hindi</text>
+        <line x1="460.8017087115171" y1="122.91666666666667" x2="552.3982912884829" y2="122.91666666666667" stroke="#16697A" stroke-width="4"/>
+        <line x1="460.8017087115171" y1="115.91666666666667" x2="460.8017087115171" y2="129.91666666666669" stroke="#16697A" stroke-width="2"/>
+        <line x1="552.3982912884829" y1="115.91666666666667" x2="552.3982912884829" y2="129.91666666666669" stroke="#16697A" stroke-width="2"/>
+        <circle cx="506.6" cy="122.91666666666667" r="7" fill="#16697A"/>
+        <text x="564.3982912884829" y="127.91666666666667" font-size="12" fill="#455A64">n=200</text><text x="152" y="183.75" text-anchor="end" font-size="15" fill="#263238">Bengali</text>
+        <line x1="513.8192432549542" y1="178.75" x2="608.1807567450458" y2="178.75" stroke="#D1495B" stroke-width="4"/>
+        <line x1="513.8192432549542" y1="171.75" x2="513.8192432549542" y2="185.75" stroke="#D1495B" stroke-width="2"/>
+        <line x1="608.1807567450458" y1="171.75" x2="608.1807567450458" y2="185.75" stroke="#D1495B" stroke-width="2"/>
+        <circle cx="561" cy="178.75" r="7" fill="#D1495B"/>
+        <text x="620.1807567450458" y="183.75" font-size="12" fill="#455A64">n=200</text><text x="152" y="239.58333333333334" text-anchor="end" font-size="15" fill="#263238">Tamil</text>
+        <line x1="486.4616810850855" y1="234.58333333333334" x2="587.9383189149145" y2="234.58333333333334" stroke="#2A9D8F" stroke-width="4"/>
+        <line x1="486.4616810850855" y1="227.58333333333334" x2="486.4616810850855" y2="241.58333333333334" stroke="#2A9D8F" stroke-width="2"/>
+        <line x1="587.9383189149145" y1="227.58333333333334" x2="587.9383189149145" y2="241.58333333333334" stroke="#2A9D8F" stroke-width="2"/>
+        <circle cx="537.2" cy="234.58333333333334" r="7" fill="#2A9D8F"/>
+        <text x="599.9383189149145" y="239.58333333333334" font-size="12" fill="#455A64">n=200</text><text x="152" y="295.4166666666667" text-anchor="end" font-size="15" fill="#263238">Spanish</text>
+        <line x1="479.325403312064" y1="290.4166666666667" x2="567.874596687936" y2="290.4166666666667" stroke="#7A5195" stroke-width="4"/>
+        <line x1="479.325403312064" y1="283.4166666666667" x2="479.325403312064" y2="297.4166666666667" stroke="#7A5195" stroke-width="2"/>
+        <line x1="567.874596687936" y1="283.4166666666667" x2="567.874596687936" y2="297.4166666666667" stroke="#7A5195" stroke-width="2"/>
+        <circle cx="523.6" cy="290.4166666666667" r="7" fill="#7A5195"/>
+        <text x="579.874596687936" y="295.4166666666667" font-size="12" fill="#455A64">n=200</text><text x="152" y="351.25" text-anchor="end" font-size="15" fill="#263238">Japanese</text>
+        <line x1="500.2379175290516" y1="346.25" x2="601.3620824709484" y2="346.25" stroke="#E09F3E" stroke-width="4"/>
+        <line x1="500.2379175290516" y1="339.25" x2="500.2379175290516" y2="353.25" stroke="#E09F3E" stroke-width="2"/>
+        <line x1="601.3620824709484" y1="339.25" x2="601.3620824709484" y2="353.25" stroke="#E09F3E" stroke-width="2"/>
+        <circle cx="550.8" cy="346.25" r="7" fill="#E09F3E"/>
+        <text x="613.3620824709484" y="351.25" font-size="12" fill="#455A64">n=200</text><text x="152" y="407.08333333333337" text-anchor="end" font-size="15" fill="#263238">Arabic</text>
+        <line x1="588.5748825033893" y1="402.08333333333337" x2="696.6251174966108" y2="402.08333333333337" stroke="#3D5A80" stroke-width="4"/>
+        <line x1="588.5748825033893" y1="395.08333333333337" x2="588.5748825033893" y2="409.08333333333337" stroke="#3D5A80" stroke-width="2"/>
+        <line x1="696.6251174966108" y1="395.08333333333337" x2="696.6251174966108" y2="409.08333333333337" stroke="#3D5A80" stroke-width="2"/>
+        <circle cx="642.6" cy="402.08333333333337" r="7" fill="#3D5A80"/>
+        <text x="708.6251174966108" y="407.08333333333337" font-size="12" fill="#455A64">n=200</text></g>
+    <text x="510" y="492" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#263238">Mean paired rating difference (95% CI)</text>
+  </svg>

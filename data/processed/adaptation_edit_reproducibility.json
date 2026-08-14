@@ -1,0 +1,80 @@
+{
+  "status": "PASS",
+  "bootstrap_repetitions": 10000,
+  "random_seed": 20260727,
+  "cluster": "scenario_id",
+  "source_validation": {
+    "scenario_rows": 50,
+    "scenario_language_pairs": 300,
+    "ignored_non_scenario_footer_rows": 1,
+    "duplicate_pairs": 0,
+    "missing_pairs": 0
+  },
+  "merge_diagnostics": {
+    "rows": 900,
+    "unique_model_scenario_language_keys": 900,
+    "duplicates": 0,
+    "missing_signed_effects": 0,
+    "unauthorized_models": []
+  },
+  "source_hashes_sha256": {
+    "data\\scenarios.csv": "a6a012ac134ec027d72ab4902c5e7794273f553e552620ede600103b55aa594b",
+    "data\\scenarios_extension.csv": "e64d3e0479dd3a7efd910ab1376a7f78b3f218a295409b11acd96376770f7b52",
+    "results\\processed\\full_1782215308316_vrq93w.ratings.csv": "971ea311e52ecd6bd79c8cfb177fd38d9b3330defe3ebaf1d662f66ae72166af",
+    "results\\processed\\extension_full_1782729062659_xqetbf.ratings.csv": "4fd4f75ef784da7828f40f562d445e5933260d7d658983dfa8cb59154b967b8b"
+  },
+  "analysis_script_sha256": "2f02e3dcc9eb5969ecf09b625c87e1f59770c41a34e6128dcf1a10cf39a00982",
+  "output_hashes_sha256": {
+    "data\\processed\\adaptation_edit_analysis_summary.json": "ebf91af7cd2773abd4847223068972d299e28caed8db997d17043abebb0b8327",
+    "data\\processed\\adaptation_edit_audit_300.csv": "2d8f53f9c6780bebfa6a23f365062825fd9df0f07e054f76db35cda8dd535116",
+    "data\\processed\\adaptation_edit_classification_effects.csv": "9d4efd717e4e9ea03d04305ef041c5f7147bdfba1fcf97a000ee87bce49d03dd",
+    "data\\processed\\adaptation_edit_correlations.csv": "4023a4fe16dd9f960593b5a1a552f759d1d620c3a43e00f9c57b5b6d056d3435",
+    "data\\processed\\adaptation_edit_descriptive_classification.csv": "c4c585b39b1b1b07432a80e579f0ef7edc8add3d5bfea7982c800183ecd3ae54",
+    "data\\processed\\adaptation_edit_descriptive_foundation.csv": "e04bfa194df3c2ca2c8e9ac266c38c6086cca3a6ff80486d97aade2c6623f136",
+    "data\\processed\\adaptation_edit_descriptive_language.csv": "33a52b0893d197095415a6521cffdb7c153c58f0c4db0cb38c936c286ca958d1",
+    "data\\processed\\adaptation_edit_descriptive_overall.csv": "7a68308bb535c619fb63977c6c2b65e038e9ef2343490c3905e27c4e5a3d5bcf",
+    "data\\processed\\adaptation_edit_descriptive_scenario.csv": "92ea43245aaaf3b76e5c2279f31b77e600bfe0533cc28f8173bb50d1d79b7f03",
+    "data\\processed\\adaptation_edit_extreme_pairs.csv": "db9f6977c76e6f2d1c4f53ed1e48604d5e3c1055681d625d04f6a406ad7e5b05",
+    "data\\processed\\adaptation_edit_model_merge_900.csv": "ce50b04efd1ba8ff5afc59b6127559c44a82407b488903e8976ff4af3e7d2edf",
+    "data\\processed\\adaptation_edit_regressions.csv": "2464111f68e75f02b2e5974229c5708e907f395e7a4fb6ca254817bd9845d5dc",
+    "data\\processed\\adaptation_edit_robustness_results.csv": "c6e7c4031cbe9bc8dc7b41438803b893dc1d632ca6d511abee552942f60e59dc",
+    "data\\processed\\adaptation_edit_surface_classification.csv": "09717a1063c71fad58fd6a4534d46e11ba366c8bfa1c5ef66be4162f14478d0d",
+    "figures\\absolute_adaptation_effect_vs_edit_rate.png": "0d660abec2bbf85a9e00c9133dc063cff4fe74289a844e9ef43fa6ecf1a99494",
+    "figures\\adaptation_edit_rate_by_foundation.png": "5a187d80ba542d82cb16d38c0906ebc49e1ff434199ada97a52347e12c90d6c4",
+    "figures\\adaptation_edit_rate_by_language.png": "4a4c7219acf9d71862b5588127cf387701eaca403fd306e194c1eef986ddf77a",
+    "figures\\adaptation_edit_rate_distribution.png": "13b2b5c35681c26bcefb48e638fa32ce5d3125b51c19aa468af6a8f72c1ad3fe",
+    "figures\\adaptation_effect_by_edit_classification.png": "07cb20b924f9774ed09d883265cdce925796b7819ece81d1ea8de83084a73135",
+    "figures\\scenario_language_edit_rate_heatmap.png": "894a4154d6ecbe0930354fc46e24b66a4109eaf9b7b15cc83c09801462971522",
+    "figures\\signed_adaptation_effect_vs_edit_rate.png": "82d2d1e20d60cd202bf2da2e4fb117c2f0d79d0e6768ce3607dbc0c973421b0c",
+    "plotting_data\\absolute_effect_vs_edit_rate.csv": "f81a73fe5a93c358cf79c2856fb0cd5b91acc24f2c99f1596649f82f067dc000",
+    "plotting_data\\edit_rate_by_foundation.csv": "422be2c754eb8a8ddf67607c7e331e4fb40f116216099aad1ecbd5d8e9d6b0ab",
+    "plotting_data\\edit_rate_by_language.csv": "13132e68ef60d7318e0a60a91511b0c8df3c1aff9f3b95c13a7824769f7e007f",
+    "plotting_data\\edit_rate_distribution.csv": "122ed9b15ead5a7404f12407b3df7ced13764c4c68787d132de5946985794ca8",
+    "plotting_data\\effect_by_surface_classification.csv": "f1407cfef84672ec2754a8e2019da68f8662c51e95c40b00087cd8a9e5267b08",
+    "plotting_data\\scenario_language_edit_rate_heatmap.csv": "a69cf38e67c46224cd002754aebc4d21b3086490d2632f9a508ea8e4d8795f75",
+    "plotting_data\\signed_effect_vs_edit_rate.csv": "f81a73fe5a93c358cf79c2856fb0cd5b91acc24f2c99f1596649f82f067dc000",
+    "reports\\adaptation_edit_rate_methods.md": "eefd5a534512da8f16a1f1be8f4f31f6ae582d72c47adab40a2bb24e04050af9",
+    "reports\\adaptation_edit_rate_report.md": "87c216e97cc25e9badec99b0640e28e1f2c982feab873f20c4775ccb5c5e5e2d",
+    "reports\\adaptation_edit_rate_reproducibility.md": "8940fe7e4aa704dbdff796b3fd7ff3e705c31651330aac30c951130ab98cba03"
+  },
+  "package_versions": {
+    "python": "3.12.3",
+    "numpy": "2.4.4",
+    "pandas": "3.0.2",
+    "scipy": "1.17.1",
+    "statsmodels": "0.14.6",
+    "matplotlib": "3.10.8",
+    "seaborn": "0.13.2"
+  },
+  "commands": [
+    "py -3 scripts\\adaptation_edit_audit.py",
+    "Set-Location neutral-control-experiment; py -3 -m pytest",
+    "Set-Location comprehension-check-experiment; py -3 -m pytest"
+  ],
+  "test_results": {
+    "neutral_control_experiment": "38 passed",
+    "comprehension_check_experiment": "31 passed",
+    "root_aggregate_note": "Parent-root collection is not a valid aggregate test context because neutral-control-experiment imports its project-local src package."
+  },
+  "no_api_calls": true
+}

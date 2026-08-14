@@ -1,0 +1,171 @@
+﻿scenario_id,dimension,group_value,theme,count,denominator,percentage
+S11,overall,Overall,authority_core_explicit,11,100,11.0
+S11,overall,Overall,authority_rule_or_obligation,6,100,6.0
+S11,overall,Overall,authority_theme_any,17,100,17.0
+S11,overall,Overall,care_harm_theme,67,100,67.0
+S11,overall,Overall,loyalty_betrayal_theme,75,100,75.0
+S30,overall,Overall,authority_core_explicit,4,100,4.0
+S30,overall,Overall,authority_rule_or_obligation,100,100,100.0
+S30,overall,Overall,authority_theme_any,100,100,100.0
+S30,overall,Overall,care_harm_theme,100,100,100.0
+S30,overall,Overall,loyalty_betrayal_theme,27,100,27.0
+S11,model,Claude Sonnet 4.6,authority_core_explicit,2,25,8.0
+S11,model,Claude Sonnet 4.6,authority_rule_or_obligation,0,25,0.0
+S11,model,Claude Sonnet 4.6,authority_theme_any,2,25,8.0
+S11,model,Claude Sonnet 4.6,care_harm_theme,15,25,60.0
+S11,model,Claude Sonnet 4.6,loyalty_betrayal_theme,19,25,76.0
+S11,model,GPT-4o,authority_core_explicit,4,25,16.0
+S11,model,GPT-4o,authority_rule_or_obligation,1,25,4.0
+S11,model,GPT-4o,authority_theme_any,5,25,20.0
+S11,model,GPT-4o,care_harm_theme,20,25,80.0
+S11,model,GPT-4o,loyalty_betrayal_theme,15,25,60.0
+S11,model,Gemini 3.1 Pro,authority_core_explicit,3,25,12.0
+S11,model,Gemini 3.1 Pro,authority_rule_or_obligation,0,25,0.0
+S11,model,Gemini 3.1 Pro,authority_theme_any,3,25,12.0
+S11,model,Gemini 3.1 Pro,care_harm_theme,15,25,60.0
+S11,model,Gemini 3.1 Pro,loyalty_betrayal_theme,20,25,80.0
+S11,model,Gemini 3.5 Flash,authority_core_explicit,2,25,8.0
+S11,model,Gemini 3.5 Flash,authority_rule_or_obligation,5,25,20.0
+S11,model,Gemini 3.5 Flash,authority_theme_any,7,25,28.000000000000004
+S11,model,Gemini 3.5 Flash,care_harm_theme,17,25,68.0
+S11,model,Gemini 3.5 Flash,loyalty_betrayal_theme,21,25,84.0
+S30,model,Claude Sonnet 4.6,authority_core_explicit,1,25,4.0
+S30,model,Claude Sonnet 4.6,authority_rule_or_obligation,25,25,100.0
+S30,model,Claude Sonnet 4.6,authority_theme_any,25,25,100.0
+S30,model,Claude Sonnet 4.6,care_harm_theme,25,25,100.0
+S30,model,Claude Sonnet 4.6,loyalty_betrayal_theme,7,25,28.000000000000004
+S30,model,GPT-4o,authority_core_explicit,1,25,4.0
+S30,model,GPT-4o,authority_rule_or_obligation,25,25,100.0
+S30,model,GPT-4o,authority_theme_any,25,25,100.0
+S30,model,GPT-4o,care_harm_theme,25,25,100.0
+S30,model,GPT-4o,loyalty_betrayal_theme,0,25,0.0
+S30,model,Gemini 3.1 Pro,authority_core_explicit,0,25,0.0
+S30,model,Gemini 3.1 Pro,authority_rule_or_obligation,25,25,100.0
+S30,model,Gemini 3.1 Pro,authority_theme_any,25,25,100.0
+S30,model,Gemini 3.1 Pro,care_harm_theme,25,25,100.0
+S30,model,Gemini 3.1 Pro,loyalty_betrayal_theme,9,25,36.0
+S30,model,Gemini 3.5 Flash,authority_core_explicit,2,25,8.0
+S30,model,Gemini 3.5 Flash,authority_rule_or_obligation,25,25,100.0
+S30,model,Gemini 3.5 Flash,authority_theme_any,25,25,100.0
+S30,model,Gemini 3.5 Flash,care_harm_theme,25,25,100.0
+S30,model,Gemini 3.5 Flash,loyalty_betrayal_theme,11,25,44.0
+S11,input_language,Arabic,authority_core_explicit,3,16,18.75
+S11,input_language,Arabic,authority_rule_or_obligation,0,16,0.0
+S11,input_language,Arabic,authority_theme_any,3,16,18.75
+S11,input_language,Arabic,care_harm_theme,11,16,68.75
+S11,input_language,Arabic,loyalty_betrayal_theme,10,16,62.5
+S11,input_language,Bengali,authority_core_explicit,1,16,6.25
+S11,input_language,Bengali,authority_rule_or_obligation,3,16,18.75
+S11,input_language,Bengali,authority_theme_any,4,16,25.0
+S11,input_language,Bengali,care_harm_theme,13,16,81.25
+S11,input_language,Bengali,loyalty_betrayal_theme,15,16,93.75
+S11,input_language,English,authority_core_explicit,0,4,0.0
+S11,input_language,English,authority_rule_or_obligation,0,4,0.0
+S11,input_language,English,authority_theme_any,0,4,0.0
+S11,input_language,English,care_harm_theme,3,4,75.0
+S11,input_language,English,loyalty_betrayal_theme,4,4,100.0
+S11,input_language,Hindi,authority_core_explicit,3,16,18.75
+S11,input_language,Hindi,authority_rule_or_obligation,1,16,6.25
+S11,input_language,Hindi,authority_theme_any,4,16,25.0
+S11,input_language,Hindi,care_harm_theme,12,16,75.0
+S11,input_language,Hindi,loyalty_betrayal_theme,13,16,81.25
+S11,input_language,Japanese,authority_core_explicit,3,16,18.75
+S11,input_language,Japanese,authority_rule_or_obligation,0,16,0.0
+S11,input_language,Japanese,authority_theme_any,3,16,18.75
+S11,input_language,Japanese,care_harm_theme,11,16,68.75
+S11,input_language,Japanese,loyalty_betrayal_theme,8,16,50.0
+S11,input_language,Spanish,authority_core_explicit,0,16,0.0
+S11,input_language,Spanish,authority_rule_or_obligation,0,16,0.0
+S11,input_language,Spanish,authority_theme_any,0,16,0.0
+S11,input_language,Spanish,care_harm_theme,9,16,56.25
+S11,input_language,Spanish,loyalty_betrayal_theme,13,16,81.25
+S11,input_language,Tamil,authority_core_explicit,1,16,6.25
+S11,input_language,Tamil,authority_rule_or_obligation,2,16,12.5
+S11,input_language,Tamil,authority_theme_any,3,16,18.75
+S11,input_language,Tamil,care_harm_theme,8,16,50.0
+S11,input_language,Tamil,loyalty_betrayal_theme,12,16,75.0
+S30,input_language,Arabic,authority_core_explicit,0,16,0.0
+S30,input_language,Arabic,authority_rule_or_obligation,16,16,100.0
+S30,input_language,Arabic,authority_theme_any,16,16,100.0
+S30,input_language,Arabic,care_harm_theme,16,16,100.0
+S30,input_language,Arabic,loyalty_betrayal_theme,6,16,37.5
+S30,input_language,Bengali,authority_core_explicit,1,16,6.25
+S30,input_language,Bengali,authority_rule_or_obligation,16,16,100.0
+S30,input_language,Bengali,authority_theme_any,16,16,100.0
+S30,input_language,Bengali,care_harm_theme,16,16,100.0
+S30,input_language,Bengali,loyalty_betrayal_theme,1,16,6.25
+S30,input_language,English,authority_core_explicit,0,4,0.0
+S30,input_language,English,authority_rule_or_obligation,4,4,100.0
+S30,input_language,English,authority_theme_any,4,4,100.0
+S30,input_language,English,care_harm_theme,4,4,100.0
+S30,input_language,English,loyalty_betrayal_theme,1,4,25.0
+S30,input_language,Hindi,authority_core_explicit,2,16,12.5
+S30,input_language,Hindi,authority_rule_or_obligation,16,16,100.0
+S30,input_language,Hindi,authority_theme_any,16,16,100.0
+S30,input_language,Hindi,care_harm_theme,16,16,100.0
+S30,input_language,Hindi,loyalty_betrayal_theme,5,16,31.25
+S30,input_language,Japanese,authority_core_explicit,0,16,0.0
+S30,input_language,Japanese,authority_rule_or_obligation,16,16,100.0
+S30,input_language,Japanese,authority_theme_any,16,16,100.0
+S30,input_language,Japanese,care_harm_theme,16,16,100.0
+S30,input_language,Japanese,loyalty_betrayal_theme,5,16,31.25
+S30,input_language,Spanish,authority_core_explicit,0,16,0.0
+S30,input_language,Spanish,authority_rule_or_obligation,16,16,100.0
+S30,input_language,Spanish,authority_theme_any,16,16,100.0
+S30,input_language,Spanish,care_harm_theme,16,16,100.0
+S30,input_language,Spanish,loyalty_betrayal_theme,7,16,43.75
+S30,input_language,Tamil,authority_core_explicit,1,16,6.25
+S30,input_language,Tamil,authority_rule_or_obligation,16,16,100.0
+S30,input_language,Tamil,authority_theme_any,16,16,100.0
+S30,input_language,Tamil,care_harm_theme,16,16,100.0
+S30,input_language,Tamil,loyalty_betrayal_theme,2,16,12.5
+S11,condition_type,"Adapted, English response",authority_core_explicit,3,24,12.5
+S11,condition_type,"Adapted, English response",authority_rule_or_obligation,1,24,4.166666666666666
+S11,condition_type,"Adapted, English response",authority_theme_any,4,24,16.666666666666664
+S11,condition_type,"Adapted, English response",care_harm_theme,11,24,45.83333333333333
+S11,condition_type,"Adapted, English response",loyalty_betrayal_theme,19,24,79.16666666666666
+S11,condition_type,"Adapted, Same-language response",authority_core_explicit,5,24,20.833333333333336
+S11,condition_type,"Adapted, Same-language response",authority_rule_or_obligation,2,24,8.333333333333332
+S11,condition_type,"Adapted, Same-language response",authority_theme_any,7,24,29.166666666666668
+S11,condition_type,"Adapted, Same-language response",care_harm_theme,19,24,79.16666666666666
+S11,condition_type,"Adapted, Same-language response",loyalty_betrayal_theme,13,24,54.166666666666664
+S11,condition_type,English baseline,authority_core_explicit,0,4,0.0
+S11,condition_type,English baseline,authority_rule_or_obligation,0,4,0.0
+S11,condition_type,English baseline,authority_theme_any,0,4,0.0
+S11,condition_type,English baseline,care_harm_theme,3,4,75.0
+S11,condition_type,English baseline,loyalty_betrayal_theme,4,4,100.0
+S11,condition_type,"Literal, English response",authority_core_explicit,2,24,8.333333333333332
+S11,condition_type,"Literal, English response",authority_rule_or_obligation,1,24,4.166666666666666
+S11,condition_type,"Literal, English response",authority_theme_any,3,24,12.5
+S11,condition_type,"Literal, English response",care_harm_theme,13,24,54.166666666666664
+S11,condition_type,"Literal, English response",loyalty_betrayal_theme,21,24,87.5
+S11,condition_type,"Literal, Same-language response",authority_core_explicit,1,24,4.166666666666666
+S11,condition_type,"Literal, Same-language response",authority_rule_or_obligation,2,24,8.333333333333332
+S11,condition_type,"Literal, Same-language response",authority_theme_any,3,24,12.5
+S11,condition_type,"Literal, Same-language response",care_harm_theme,21,24,87.5
+S11,condition_type,"Literal, Same-language response",loyalty_betrayal_theme,18,24,75.0
+S30,condition_type,"Adapted, English response",authority_core_explicit,0,24,0.0
+S30,condition_type,"Adapted, English response",authority_rule_or_obligation,24,24,100.0
+S30,condition_type,"Adapted, English response",authority_theme_any,24,24,100.0
+S30,condition_type,"Adapted, English response",care_harm_theme,24,24,100.0
+S30,condition_type,"Adapted, English response",loyalty_betrayal_theme,8,24,33.33333333333333
+S30,condition_type,"Adapted, Same-language response",authority_core_explicit,2,24,8.333333333333332
+S30,condition_type,"Adapted, Same-language response",authority_rule_or_obligation,24,24,100.0
+S30,condition_type,"Adapted, Same-language response",authority_theme_any,24,24,100.0
+S30,condition_type,"Adapted, Same-language response",care_harm_theme,24,24,100.0
+S30,condition_type,"Adapted, Same-language response",loyalty_betrayal_theme,6,24,25.0
+S30,condition_type,English baseline,authority_core_explicit,0,4,0.0
+S30,condition_type,English baseline,authority_rule_or_obligation,4,4,100.0
+S30,condition_type,English baseline,authority_theme_any,4,4,100.0
+S30,condition_type,English baseline,care_harm_theme,4,4,100.0
+S30,condition_type,English baseline,loyalty_betrayal_theme,1,4,25.0
+S30,condition_type,"Literal, English response",authority_core_explicit,0,24,0.0
+S30,condition_type,"Literal, English response",authority_rule_or_obligation,24,24,100.0
+S30,condition_type,"Literal, English response",authority_theme_any,24,24,100.0
+S30,condition_type,"Literal, English response",care_harm_theme,24,24,100.0
+S30,condition_type,"Literal, English response",loyalty_betrayal_theme,8,24,33.33333333333333
+S30,condition_type,"Literal, Same-language response",authority_core_explicit,2,24,8.333333333333332
+S30,condition_type,"Literal, Same-language response",authority_rule_or_obligation,24,24,100.0
+S30,condition_type,"Literal, Same-language response",authority_theme_any,24,24,100.0
+S30,condition_type,"Literal, Same-language response",care_harm_theme,24,24,100.0
+S30,condition_type,"Literal, Same-language response",loyalty_betrayal_theme,4,24,16.666666666666664

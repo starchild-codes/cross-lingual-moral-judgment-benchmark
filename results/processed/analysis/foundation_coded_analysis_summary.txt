@@ -1,0 +1,15 @@
+Final coded MFT analysis
+Qualitative responses coded: 1000
+Foundation matches: 728/1000 (72.8%)
+
+Match rate by source model:
+- chatgpt: 180/250 (72.0%)
+- claude: 182/250 (72.8%)
+- gemini_flash: 181/250 (72.4%)
+- gemini_pro: 185/250 (74.0%)
+
+Largest designed -> invoked shifts:
+- Authority/Subversion -> Care/Harm: 101
+- Authority/Subversion -> Loyalty/Betrayal: 86
+- Sanctity/Degradation -> Care/Harm: 84
+- Fairness/Cheating -> Care/Harm: 1

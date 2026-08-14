@@ -1,0 +1,106 @@
+﻿work_unit_id,scenario_id,foundation,shift_tier,model_key,model_id,input_language,scenario_version,question_id,question_type,selected_option,correct_option,item_correct,raw_response
+S02__ar__adapted__chatgpt,S02,Care/Harm,low,chatgpt,openai/gpt-4o-2024-11-20,ar,adapted,S02_Q1,Actor,A,D,0,"A, A, B, C"
+S02__ar__literal__chatgpt,S02,Care/Harm,low,chatgpt,openai/gpt-4o-2024-11-20,ar,literal,S02_Q1,Actor,A,D,0,A، A، B، C
+S02__ar__adapted__claude,S02,Care/Harm,low,claude,anthropic/claude-sonnet-4.6,ar,adapted,S02_Q1,Actor,A,D,0,A، A، B، C
+S12__bn__adapted__chatgpt,S12,Authority/Subversion,low,chatgpt,openai/gpt-4o-2024-11-20,bn,adapted,S12_Q1,Actor,A,C,0,"A, D, A, B"
+S12__bn__literal__chatgpt,S12,Authority/Subversion,low,chatgpt,openai/gpt-4o-2024-11-20,bn,literal,S12_Q1,Actor,A,C,0,"A, D, A, B"
+S18__hi__adapted__chatgpt,S18,Fairness/Cheating,low,chatgpt,openai/gpt-4o-2024-11-20,hi,adapted,S18_Q1,Actor,A,C,0,"A, D, A, B"
+S18__bn__literal__chatgpt,S18,Fairness/Cheating,low,chatgpt,openai/gpt-4o-2024-11-20,bn,literal,S18_Q1,Actor,A,C,0,"A, D, A, B"
+S18__bn__literal__gemini_flash,S18,Fairness/Cheating,low,gemini_flash,google/gemini-3.5-flash,bn,literal,S18_Q1,Actor,A,C,0,"A, D, A, B"
+S18__bn__adapted__chatgpt,S18,Fairness/Cheating,low,chatgpt,openai/gpt-4o-2024-11-20,bn,adapted,S18_Q1,Actor,A,C,0,"A, D, A, B"
+S18__bn__adapted__claude,S18,Fairness/Cheating,low,claude,anthropic/claude-sonnet-4.6,bn,adapted,S18_Q1,Actor,A,C,0,"A, D, A, B"
+S18__ta__literal__chatgpt,S18,Fairness/Cheating,low,chatgpt,openai/gpt-4o-2024-11-20,ta,literal,S18_Q1,Actor,A,C,0,"A,D,A,B"
+S18__bn__literal__claude,S18,Fairness/Cheating,low,claude,anthropic/claude-sonnet-4.6,bn,literal,S18_Q1,Actor,A,C,0,"A, D, A, B"
+S18__ta__literal__claude,S18,Fairness/Cheating,low,claude,anthropic/claude-sonnet-4.6,ta,literal,S18_Q1,Actor,A,C,0,"A,D,A,B"
+S18__ta__adapted__chatgpt,S18,Fairness/Cheating,low,chatgpt,openai/gpt-4o-2024-11-20,ta,adapted,S18_Q1,Actor,A,C,0,"A,D,A,B"
+S18__es__adapted__chatgpt,S18,Fairness/Cheating,low,chatgpt,openai/gpt-4o-2024-11-20,es,adapted,S18_Q1,Actor,A,C,0,"A,D,A,B"
+S18__ja__adapted__chatgpt,S18,Fairness/Cheating,low,chatgpt,openai/gpt-4o-2024-11-20,ja,adapted,S18_Q1,Actor,A,C,0,"A, D, A, B"
+S20__hi__adapted__chatgpt,S20,Fairness/Cheating,high,chatgpt,openai/gpt-4o-2024-11-20,hi,adapted,S20_Q1,Actor,A,B,0,"A, C, D, A"
+S20__ta__literal__chatgpt,S20,Fairness/Cheating,high,chatgpt,openai/gpt-4o-2024-11-20,ta,literal,S20_Q1,Actor,A,B,0,"A,C,D,A"
+S20__ta__adapted__chatgpt,S20,Fairness/Cheating,high,chatgpt,openai/gpt-4o-2024-11-20,ta,adapted,S20_Q1,Actor,A,B,0,"A,C,D,A"
+S20__ja__literal__chatgpt,S20,Fairness/Cheating,high,chatgpt,openai/gpt-4o-2024-11-20,ja,literal,S20_Q1,Actor,A,B,0,A、C、D、A
+S20__hi__literal__chatgpt,S20,Fairness/Cheating,high,chatgpt,openai/gpt-4o-2024-11-20,hi,literal,S20_Q1,Actor,A,B,0,"ए, सी, डी, ए"
+S20__es__adapted__chatgpt,S20,Fairness/Cheating,high,chatgpt,openai/gpt-4o-2024-11-20,es,adapted,S20_Q1,Actor,A,B,0,"A,C,D,A"
+S20__es__literal__chatgpt,S20,Fairness/Cheating,high,chatgpt,openai/gpt-4o-2024-11-20,es,literal,S20_Q1,Actor,A,B,0,"A,C,D,A"
+S20__es__adapted__gemini_flash,S20,Fairness/Cheating,high,gemini_flash,google/gemini-3.5-flash,es,adapted,S20_Q1,Actor,A,B,0,"A, C, D, A"
+S20__es__literal__gemini_flash,S20,Fairness/Cheating,high,gemini_flash,google/gemini-3.5-flash,es,literal,S20_Q1,Actor,A,B,0,"A, C, D, A"
+S20__ta__literal__claude,S20,Fairness/Cheating,high,claude,anthropic/claude-sonnet-4.6,ta,literal,S20_Q1,Actor,A,B,0,"A,C,D,A"
+S20__es__literal__claude,S20,Fairness/Cheating,high,claude,anthropic/claude-sonnet-4.6,es,literal,S20_Q1,Actor,A,B,0,"A,C,D,A"
+S20__ta__adapted__claude,S20,Fairness/Cheating,high,claude,anthropic/claude-sonnet-4.6,ta,adapted,S20_Q1,Actor,A,B,0,"A,C,D,A"
+S20__es__adapted__claude,S20,Fairness/Cheating,high,claude,anthropic/claude-sonnet-4.6,es,adapted,S20_Q1,Actor,A,B,0,"A,C,D,A"
+S20__ja__literal__claude,S20,Fairness/Cheating,high,claude,anthropic/claude-sonnet-4.6,ja,literal,S20_Q1,Actor,A,B,0,A、C、D、A
+S20__ja__adapted__chatgpt,S20,Fairness/Cheating,high,chatgpt,openai/gpt-4o-2024-11-20,ja,adapted,S20_Q1,Actor,A,B,0,A、C、D、A
+S20__ja__adapted__gemini_flash,S20,Fairness/Cheating,high,gemini_flash,google/gemini-3.5-flash,ja,adapted,S20_Q1,Actor,A,B,0,"A, C, D, A"
+S20__ja__adapted__claude,S20,Fairness/Cheating,high,claude,anthropic/claude-sonnet-4.6,ja,adapted,S20_Q1,Actor,A,B,0,A、C、D、A
+S20__ar__literal__claude,S20,Fairness/Cheating,high,claude,anthropic/claude-sonnet-4.6,ar,literal,S20_Q1,Actor,A,B,0,A، C، D، A
+S20__ar__adapted__claude,S20,Fairness/Cheating,high,claude,anthropic/claude-sonnet-4.6,ar,adapted,S20_Q1,Actor,A,B,0,A، C، D، A
+S20__ar__literal__chatgpt,S20,Fairness/Cheating,high,chatgpt,openai/gpt-4o-2024-11-20,ar,literal,S20_Q1,Actor,A,B,0,A، C، D، A
+S20__ar__adapted__gemini_flash,S20,Fairness/Cheating,high,gemini_flash,google/gemini-3.5-flash,ar,adapted,S20_Q1,Actor,A,B,0,"A, C, D, A"
+S22__hi__adapted__chatgpt,S22,Sanctity/Degradation,high,chatgpt,openai/gpt-4o-2024-11-20,hi,adapted,S22_Q1,Actor,C,B,0,"C, C, D, A"
+S22__es__adapted__chatgpt,S22,Sanctity/Degradation,high,chatgpt,openai/gpt-4o-2024-11-20,es,adapted,S22_Q1,Actor,C,B,0,"C,C,D,A"
+S22__es__adapted__claude,S22,Sanctity/Degradation,high,claude,anthropic/claude-sonnet-4.6,es,adapted,S22_Q1,Actor,C,B,0,"C,C,D,A"
+S22__ja__literal__chatgpt,S22,Sanctity/Degradation,high,chatgpt,openai/gpt-4o-2024-11-20,ja,literal,S22_Q1,Actor,D,B,0,D、C、D、A
+S26__bn__literal__chatgpt,S26,Care/Harm,high,chatgpt,openai/gpt-4o-2024-11-20,bn,literal,S26_Q1,Actor,B,A,0,"B, C, C, D"
+S26__bn__literal__chatgpt,S26,Care/Harm,high,chatgpt,openai/gpt-4o-2024-11-20,bn,literal,S26_Q2,Main action,C,B,0,"B, C, C, D"
+S26__hi__adapted__gemini_flash,S26,Care/Harm,high,gemini_flash,google/gemini-3.5-flash,hi,adapted,S26_Q1,Actor,B,A,0,"B, B, C, D"
+S26__bn__adapted__chatgpt,S26,Care/Harm,high,chatgpt,openai/gpt-4o-2024-11-20,bn,adapted,S26_Q2,Main action,C,B,0,"A, C, C, D"
+S26__ta__literal__chatgpt,S26,Care/Harm,high,chatgpt,openai/gpt-4o-2024-11-20,ta,literal,S26_Q1,Actor,B,A,0,"B,C,C,D"
+S26__ta__literal__chatgpt,S26,Care/Harm,high,chatgpt,openai/gpt-4o-2024-11-20,ta,literal,S26_Q2,Main action,C,B,0,"B,C,C,D"
+S26__bn__literal__claude,S26,Care/Harm,high,claude,anthropic/claude-sonnet-4.6,bn,literal,S26_Q2,Main action,C,B,0,"A, C, C, D"
+S26__bn__adapted__claude,S26,Care/Harm,high,claude,anthropic/claude-sonnet-4.6,bn,adapted,S26_Q2,Main action,C,B,0,"A, C, C, D"
+S26__ta__adapted__chatgpt,S26,Care/Harm,high,chatgpt,openai/gpt-4o-2024-11-20,ta,adapted,S26_Q1,Actor,B,A,0,"B,C,C,D"
+S26__ta__adapted__chatgpt,S26,Care/Harm,high,chatgpt,openai/gpt-4o-2024-11-20,ta,adapted,S26_Q2,Main action,C,B,0,"B,C,C,D"
+S26__es__literal__chatgpt,S26,Care/Harm,high,chatgpt,openai/gpt-4o-2024-11-20,es,literal,S26_Q1,Actor,B,A,0,"B,B,C,D"
+S26__es__literal__gemini_flash,S26,Care/Harm,high,gemini_flash,google/gemini-3.5-flash,es,literal,S26_Q1,Actor,B,A,0,"B, B, C, D"
+S26__ja__literal__chatgpt,S26,Care/Harm,high,chatgpt,openai/gpt-4o-2024-11-20,ja,literal,S26_Q1,Actor,B,A,0,B、C、C、D
+S26__ja__literal__chatgpt,S26,Care/Harm,high,chatgpt,openai/gpt-4o-2024-11-20,ja,literal,S26_Q2,Main action,C,B,0,B、C、C、D
+S26__ja__adapted__chatgpt,S26,Care/Harm,high,chatgpt,openai/gpt-4o-2024-11-20,ja,adapted,S26_Q1,Actor,B,A,0,B、C、C、D
+S26__ja__adapted__chatgpt,S26,Care/Harm,high,chatgpt,openai/gpt-4o-2024-11-20,ja,adapted,S26_Q2,Main action,C,B,0,B、C、C、D
+S26__ar__literal__chatgpt,S26,Care/Harm,high,chatgpt,openai/gpt-4o-2024-11-20,ar,literal,S26_Q1,Actor,B,A,0,B، B، C، D
+S26__ar__adapted__chatgpt,S26,Care/Harm,high,chatgpt,openai/gpt-4o-2024-11-20,ar,adapted,S26_Q2,Main action,C,B,0,A، C، C، D
+S26__ar__literal__gemini_flash,S26,Care/Harm,high,gemini_flash,google/gemini-3.5-flash,ar,literal,S26_Q1,Actor,B,A,0,"B, B, C, D"
+S28__hi__literal__chatgpt,S28,Fairness/Cheating,high,chatgpt,openai/gpt-4o-2024-11-20,hi,literal,S28_Q1,Actor,B,A,0,"B, B, C, D"
+S26__ar__adapted__gemini_flash,S26,Care/Harm,high,gemini_flash,google/gemini-3.5-flash,ar,adapted,S26_Q2,Main action,C,B,0,"A, C, C, D"
+S28__hi__literal__gemini_flash,S28,Fairness/Cheating,high,gemini_flash,google/gemini-3.5-flash,hi,literal,S28_Q1,Actor,B,A,0,"B, B, C, D"
+S28__hi__adapted__gemini_flash,S28,Fairness/Cheating,high,gemini_flash,google/gemini-3.5-flash,hi,adapted,S28_Q1,Actor,B,A,0,"B, B, C, D"
+S28__bn__literal__chatgpt,S28,Fairness/Cheating,high,chatgpt,openai/gpt-4o-2024-11-20,bn,literal,S28_Q1,Actor,B,A,0,"B, B, C, D"
+S28__bn__adapted__chatgpt,S28,Fairness/Cheating,high,chatgpt,openai/gpt-4o-2024-11-20,bn,adapted,S28_Q1,Actor,B,A,0,"B, B, C, D"
+S28__bn__literal__gemini_flash,S28,Fairness/Cheating,high,gemini_flash,google/gemini-3.5-flash,bn,literal,S28_Q1,Actor,B,A,0,"B, B, C, D"
+S28__hi__literal__claude,S28,Fairness/Cheating,high,claude,anthropic/claude-sonnet-4.6,hi,literal,S28_Q1,Actor,B,A,0,"B, B, C, D"
+S28__bn__literal__claude,S28,Fairness/Cheating,high,claude,anthropic/claude-sonnet-4.6,bn,literal,S28_Q1,Actor,B,A,0,"B, B, C, D"
+S28__bn__adapted__gemini_flash,S28,Fairness/Cheating,high,gemini_flash,google/gemini-3.5-flash,bn,adapted,S28_Q1,Actor,B,A,0,"B, B, C, D"
+S28__ta__literal__chatgpt,S28,Fairness/Cheating,high,chatgpt,openai/gpt-4o-2024-11-20,ta,literal,S28_Q1,Actor,B,A,0,"B,B,C,D"
+S28__ta__literal__gemini_flash,S28,Fairness/Cheating,high,gemini_flash,google/gemini-3.5-flash,ta,literal,S28_Q1,Actor,B,A,0,"B, B, C, D"
+S28__ta__adapted__chatgpt,S28,Fairness/Cheating,high,chatgpt,openai/gpt-4o-2024-11-20,ta,adapted,S28_Q1,Actor,B,A,0,"B,B,C,D"
+S28__ta__literal__claude,S28,Fairness/Cheating,high,claude,anthropic/claude-sonnet-4.6,ta,literal,S28_Q1,Actor,B,A,0,"B,B,C,D"
+S28__es__literal__chatgpt,S28,Fairness/Cheating,high,chatgpt,openai/gpt-4o-2024-11-20,es,literal,S28_Q1,Actor,B,A,0,"B,B,C,D"
+S28__es__literal__gemini_flash,S28,Fairness/Cheating,high,gemini_flash,google/gemini-3.5-flash,es,literal,S28_Q1,Actor,B,A,0,"B, B, C, D"
+S28__es__adapted__chatgpt,S28,Fairness/Cheating,high,chatgpt,openai/gpt-4o-2024-11-20,es,adapted,S28_Q1,Actor,B,A,0,"B,B,C,D"
+S28__es__literal__claude,S28,Fairness/Cheating,high,claude,anthropic/claude-sonnet-4.6,es,literal,S28_Q1,Actor,B,A,0,"B,B,C,D"
+S28__es__adapted__claude,S28,Fairness/Cheating,high,claude,anthropic/claude-sonnet-4.6,es,adapted,S28_Q1,Actor,B,A,0,"B,B,C,D"
+S28__es__adapted__gemini_flash,S28,Fairness/Cheating,high,gemini_flash,google/gemini-3.5-flash,es,adapted,S28_Q1,Actor,B,A,0,"B, B, C, D"
+S28__ja__literal__chatgpt,S28,Fairness/Cheating,high,chatgpt,openai/gpt-4o-2024-11-20,ja,literal,S28_Q1,Actor,B,A,0,B、B、C、D
+S28__ja__literal__gemini_flash,S28,Fairness/Cheating,high,gemini_flash,google/gemini-3.5-flash,ja,literal,S28_Q1,Actor,B,A,0,"B, B, C, D"
+S28__ja__literal__claude,S28,Fairness/Cheating,high,claude,anthropic/claude-sonnet-4.6,ja,literal,S28_Q1,Actor,B,A,0,B、B、C、D
+S28__ar__literal__chatgpt,S28,Fairness/Cheating,high,chatgpt,openai/gpt-4o-2024-11-20,ar,literal,S28_Q1,Actor,B,A,0,B، B، C، D
+S28__ar__adapted__chatgpt,S28,Fairness/Cheating,high,chatgpt,openai/gpt-4o-2024-11-20,ar,adapted,S28_Q1,Actor,B,A,0,B، B، C، D
+S28__ar__literal__gemini_flash,S28,Fairness/Cheating,high,gemini_flash,google/gemini-3.5-flash,ar,literal,S28_Q1,Actor,B,A,0,"B, B, C, D"
+S28__ar__literal__claude,S28,Fairness/Cheating,high,claude,anthropic/claude-sonnet-4.6,ar,literal,S28_Q1,Actor,B,A,0,B، B، C، D
+S33__bn__literal__chatgpt,S33,Authority/Subversion,low,chatgpt,openai/gpt-4o-2024-11-20,bn,literal,S33_Q1,Actor,A,D,0,"A, A, B, C"
+S28__ar__adapted__claude,S28,Fairness/Cheating,high,claude,anthropic/claude-sonnet-4.6,ar,adapted,S28_Q1,Actor,B,A,0,B، B، C، D
+S33__bn__literal__claude,S33,Authority/Subversion,low,claude,anthropic/claude-sonnet-4.6,bn,literal,S33_Q4,Consequence/outcome,A,C,0,"D, A, B, A"
+S33__ta__literal__claude,S33,Authority/Subversion,low,claude,anthropic/claude-sonnet-4.6,ta,literal,S33_Q4,Consequence/outcome,B,C,0,"D,A,B,B"
+S40__ta__literal__chatgpt,S40,Care/Harm,high,chatgpt,openai/gpt-4o-2024-11-20,ta,literal,S40_Q2,Main action,A,C,0,"B,A,D,A"
+S43__hi__literal__chatgpt,S43,Authority/Subversion,high,chatgpt,openai/gpt-4o-2024-11-20,hi,literal,S43_Q1,Actor,A,B,0,"ए, सी, डी, ए"
+S43__hi__adapted__chatgpt,S43,Authority/Subversion,high,chatgpt,openai/gpt-4o-2024-11-20,hi,adapted,S43_Q1,Actor,A,B,0,"A, C, D, A"
+S43__bn__adapted__chatgpt,S43,Authority/Subversion,high,chatgpt,openai/gpt-4o-2024-11-20,bn,adapted,S43_Q1,Actor,A,B,0,"A, C, D, A"
+S43__ta__literal__chatgpt,S43,Authority/Subversion,high,chatgpt,openai/gpt-4o-2024-11-20,ta,literal,S43_Q1,Actor,A,B,0,"A,C,D,A"
+S43__ta__adapted__chatgpt,S43,Authority/Subversion,high,chatgpt,openai/gpt-4o-2024-11-20,ta,adapted,S43_Q1,Actor,A,B,0,"A,C,D,A"
+S43__ar__literal__chatgpt,S43,Authority/Subversion,high,chatgpt,openai/gpt-4o-2024-11-20,ar,literal,S43_Q1,Actor,A,B,0,A، C، D، A
+S47__ja__literal__claude,S47,Loyalty/Betrayal,low,claude,anthropic/claude-sonnet-4.6,ja,literal,S47_Q4,Consequence/outcome,A,C,0,D、A、B、A
+S48__bn__literal__gemini_flash,S48,Authority/Subversion,high,gemini_flash,google/gemini-3.5-flash,bn,literal,S48_Q1,Actor,B,A,0,"B, B, C, D"
+S48__ta__literal__chatgpt,S48,Authority/Subversion,high,chatgpt,openai/gpt-4o-2024-11-20,ta,literal,S48_Q1,Actor,B,A,0,"B,B,C,D"
+S48__ta__adapted__gemini_flash,S48,Authority/Subversion,high,gemini_flash,google/gemini-3.5-flash,ta,adapted,S48_Q1,Actor,B,A,0,"B, B, C, D"
+S49__bn__literal__chatgpt,S49,Sanctity/Degradation,low,chatgpt,openai/gpt-4o-2024-11-20,bn,literal,S49_Q1,Actor,B,C,0,"B, D, A, B"
+S49__bn__adapted__chatgpt,S49,Sanctity/Degradation,low,chatgpt,openai/gpt-4o-2024-11-20,bn,adapted,S49_Q1,Actor,B,C,0,"B, D, A, B"
+S49__ta__adapted__chatgpt,S49,Sanctity/Degradation,low,chatgpt,openai/gpt-4o-2024-11-20,ta,adapted,S49_Q1,Actor,B,C,0,"B,D,A,B"

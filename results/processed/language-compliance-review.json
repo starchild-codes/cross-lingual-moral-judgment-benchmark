@@ -1,0 +1,38 @@
+{
+  "runId": "full_1782215308316_vrq93w",
+  "reviewedAt": "2026-06-25",
+  "reviewer": "Codex-assisted manual inspection",
+  "criterion": "The response is predominantly written in the requested reasoning language. Names, numerals, punctuation, and markdown do not count as language violations.",
+  "summary": {
+    "reviewed": 24,
+    "correct": 24,
+    "incorrect": 0,
+    "truncated": 4
+  },
+  "samples": [
+    { "modelKey": "chatgpt", "language": "hi", "decision": "correct", "truncated": false },
+    { "modelKey": "chatgpt", "language": "bn", "decision": "correct", "truncated": false },
+    { "modelKey": "chatgpt", "language": "ta", "decision": "correct", "truncated": false },
+    { "modelKey": "chatgpt", "language": "es", "decision": "correct", "truncated": false },
+    { "modelKey": "chatgpt", "language": "ja", "decision": "correct", "truncated": false },
+    { "modelKey": "chatgpt", "language": "ar", "decision": "correct", "truncated": false },
+    { "modelKey": "claude", "language": "hi", "decision": "correct", "truncated": true },
+    { "modelKey": "claude", "language": "bn", "decision": "correct", "truncated": true },
+    { "modelKey": "claude", "language": "ta", "decision": "correct", "truncated": true },
+    { "modelKey": "claude", "language": "es", "decision": "correct", "truncated": false },
+    { "modelKey": "claude", "language": "ja", "decision": "correct", "truncated": false },
+    { "modelKey": "claude", "language": "ar", "decision": "correct", "truncated": true },
+    { "modelKey": "gemini_flash", "language": "hi", "decision": "correct", "truncated": false },
+    { "modelKey": "gemini_flash", "language": "bn", "decision": "correct", "truncated": false },
+    { "modelKey": "gemini_flash", "language": "ta", "decision": "correct", "truncated": false },
+    { "modelKey": "gemini_flash", "language": "es", "decision": "correct", "truncated": false },
+    { "modelKey": "gemini_flash", "language": "ja", "decision": "correct", "truncated": false },
+    { "modelKey": "gemini_flash", "language": "ar", "decision": "correct", "truncated": false },
+    { "modelKey": "gemini_pro", "language": "hi", "decision": "correct", "truncated": false },
+    { "modelKey": "gemini_pro", "language": "bn", "decision": "correct", "truncated": false },
+    { "modelKey": "gemini_pro", "language": "ta", "decision": "correct", "truncated": false },
+    { "modelKey": "gemini_pro", "language": "es", "decision": "correct", "truncated": false },
+    { "modelKey": "gemini_pro", "language": "ja", "decision": "correct", "truncated": false },
+    { "modelKey": "gemini_pro", "language": "ar", "decision": "correct", "truncated": false }
+  ]
+}

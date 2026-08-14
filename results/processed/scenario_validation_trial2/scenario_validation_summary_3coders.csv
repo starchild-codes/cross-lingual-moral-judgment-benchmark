@@ -1,0 +1,17 @@
+metric,value
+scenario_count,50
+Coder_A_vs_Coder_B_raw_agreement,0.740000
+Coder_A_vs_Coder_B_cohens_kappa,0.671551
+Coder_A_vs_Coder_C_raw_agreement,0.680000
+Coder_A_vs_Coder_C_cohens_kappa,0.597586
+Coder_B_vs_Coder_C_raw_agreement,0.700000
+Coder_B_vs_Coder_C_cohens_kappa,0.625375
+mean_pairwise_raw_agreement,0.706667
+mean_pairwise_cohens_kappa,0.631504
+fleiss_kappa,0.629297
+Coder_A_agreement_with_intended,0.740000
+Coder_B_agreement_with_intended,0.820000
+Coder_C_agreement_with_intended,0.720000
+majority_vote_agreement_with_intended,0.780000
+majority_mismatch_count,11
+all_three_disagree_count,4

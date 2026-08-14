@@ -1,0 +1,961 @@
+﻿question_id,scenario_id,language_code,scenario_version,question_type,structural_validation,critical_flag_count,critical_flags,human_review_required,review_items,native_review_status
+S26_Q1,S26,hi,literal,Actor,PASS,0,,No,,Approved
+S26_Q1,S26,hi,adapted,Actor,PASS,0,,No,,Approved
+S26_Q1,S26,bn,literal,Actor,PASS,0,,No,,Approved
+S26_Q1,S26,bn,adapted,Actor,PASS,0,,No,,Approved
+S26_Q1,S26,ta,literal,Actor,PASS,0,,No,,Approved
+S26_Q1,S26,ta,adapted,Actor,PASS,0,,No,,Approved
+S26_Q1,S26,es,literal,Actor,PASS,0,,No,,Approved
+S26_Q1,S26,es,adapted,Actor,PASS,0,,No,,Approved
+S26_Q1,S26,ja,literal,Actor,PASS,0,,No,,Approved
+S26_Q1,S26,ja,adapted,Actor,PASS,0,,No,,Approved
+S26_Q1,S26,ar,literal,Actor,PASS,0,,No,,Approved
+S26_Q1,S26,ar,adapted,Actor,PASS,0,,No,,Approved
+S26_Q2,S26,hi,literal,Main action,PASS,0,,No,,Approved
+S26_Q2,S26,hi,adapted,Main action,PASS,0,,No,,Approved
+S26_Q2,S26,bn,literal,Main action,PASS,0,,No,,Approved
+S26_Q2,S26,bn,adapted,Main action,PASS,0,,No,,Approved
+S26_Q2,S26,ta,literal,Main action,PASS,0,,No,,Approved
+S26_Q2,S26,ta,adapted,Main action,PASS,0,,No,,Approved
+S26_Q2,S26,es,literal,Main action,PASS,0,,No,,Approved
+S26_Q2,S26,es,adapted,Main action,PASS,0,,No,,Approved
+S26_Q2,S26,ja,literal,Main action,PASS,0,,No,,Approved
+S26_Q2,S26,ja,adapted,Main action,PASS,0,,No,,Approved
+S26_Q2,S26,ar,literal,Main action,PASS,0,,No,,Approved
+S26_Q2,S26,ar,adapted,Main action,PASS,0,,No,,Approved
+S26_Q3,S26,hi,literal,Affected party/object,PASS,0,,No,,Approved
+S26_Q3,S26,hi,adapted,Affected party/object,PASS,0,,No,,Approved
+S26_Q3,S26,bn,literal,Affected party/object,PASS,0,,No,,Approved
+S26_Q3,S26,bn,adapted,Affected party/object,PASS,0,,No,,Approved
+S26_Q3,S26,ta,literal,Affected party/object,PASS,0,,No,,Approved
+S26_Q3,S26,ta,adapted,Affected party/object,PASS,0,,No,,Approved
+S26_Q3,S26,es,literal,Affected party/object,PASS,0,,No,,Approved
+S26_Q3,S26,es,adapted,Affected party/object,PASS,0,,No,,Approved
+S26_Q3,S26,ja,literal,Affected party/object,PASS,0,,No,,Approved
+S26_Q3,S26,ja,adapted,Affected party/object,PASS,0,,No,,Approved
+S26_Q3,S26,ar,literal,Affected party/object,PASS,0,,No,,Approved
+S26_Q3,S26,ar,adapted,Affected party/object,PASS,0,,No,,Approved
+S26_Q4,S26,hi,literal,Consequence/outcome,PASS,0,,No,,Approved
+S26_Q4,S26,hi,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S26_Q4,S26,bn,literal,Consequence/outcome,PASS,0,,No,,Approved
+S26_Q4,S26,bn,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S26_Q4,S26,ta,literal,Consequence/outcome,PASS,0,,No,,Approved
+S26_Q4,S26,ta,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S26_Q4,S26,es,literal,Consequence/outcome,PASS,0,,No,,Approved
+S26_Q4,S26,es,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S26_Q4,S26,ja,literal,Consequence/outcome,PASS,0,,No,,Approved
+S26_Q4,S26,ja,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S26_Q4,S26,ar,literal,Consequence/outcome,PASS,0,,No,,Approved
+S26_Q4,S26,ar,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S40_Q1,S40,hi,literal,Actor,PASS,0,,No,,Approved
+S40_Q1,S40,hi,adapted,Actor,PASS,0,,No,,Approved
+S40_Q1,S40,bn,literal,Actor,PASS,0,,No,,Approved
+S40_Q1,S40,bn,adapted,Actor,PASS,0,,No,,Approved
+S40_Q1,S40,ta,literal,Actor,PASS,0,,No,,Approved
+S40_Q1,S40,ta,adapted,Actor,PASS,0,,No,,Approved
+S40_Q1,S40,es,literal,Actor,PASS,0,,No,,Approved
+S40_Q1,S40,es,adapted,Actor,PASS,0,,No,,Approved
+S40_Q1,S40,ja,literal,Actor,PASS,0,,No,,Approved
+S40_Q1,S40,ja,adapted,Actor,PASS,0,,No,,Approved
+S40_Q1,S40,ar,literal,Actor,PASS,0,,No,,Approved
+S40_Q1,S40,ar,adapted,Actor,PASS,0,,No,,Approved
+S40_Q2,S40,hi,literal,Main action,PASS,0,,No,,Approved
+S40_Q2,S40,hi,adapted,Main action,PASS,0,,No,,Approved
+S40_Q2,S40,bn,literal,Main action,PASS,0,,No,,Approved
+S40_Q2,S40,bn,adapted,Main action,PASS,0,,No,,Approved
+S40_Q2,S40,ta,literal,Main action,PASS,0,,No,,Approved
+S40_Q2,S40,ta,adapted,Main action,PASS,0,,No,,Approved
+S40_Q2,S40,es,literal,Main action,PASS,0,,No,,Approved
+S40_Q2,S40,es,adapted,Main action,PASS,0,,No,,Approved
+S40_Q2,S40,ja,literal,Main action,PASS,0,,No,,Approved
+S40_Q2,S40,ja,adapted,Main action,PASS,0,,No,,Approved
+S40_Q2,S40,ar,literal,Main action,PASS,0,,No,,Approved
+S40_Q2,S40,ar,adapted,Main action,PASS,0,,No,,Approved
+S40_Q3,S40,hi,literal,Affected party/object,PASS,0,,No,,Approved
+S40_Q3,S40,hi,adapted,Affected party/object,PASS,0,,No,,Approved
+S40_Q3,S40,bn,literal,Affected party/object,PASS,0,,No,,Approved
+S40_Q3,S40,bn,adapted,Affected party/object,PASS,0,,No,,Approved
+S40_Q3,S40,ta,literal,Affected party/object,PASS,0,,No,,Approved
+S40_Q3,S40,ta,adapted,Affected party/object,PASS,0,,No,,Approved
+S40_Q3,S40,es,literal,Affected party/object,PASS,0,,No,,Approved
+S40_Q3,S40,es,adapted,Affected party/object,PASS,0,,No,,Approved
+S40_Q3,S40,ja,literal,Affected party/object,PASS,0,,No,,Approved
+S40_Q3,S40,ja,adapted,Affected party/object,PASS,0,,No,,Approved
+S40_Q3,S40,ar,literal,Affected party/object,PASS,0,,No,,Approved
+S40_Q3,S40,ar,adapted,Affected party/object,PASS,0,,No,,Approved
+S40_Q4,S40,hi,literal,Consequence/outcome,PASS,0,,No,,Approved
+S40_Q4,S40,hi,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S40_Q4,S40,bn,literal,Consequence/outcome,PASS,0,,No,,Approved
+S40_Q4,S40,bn,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S40_Q4,S40,ta,literal,Consequence/outcome,PASS,0,,No,,Approved
+S40_Q4,S40,ta,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S40_Q4,S40,es,literal,Consequence/outcome,PASS,0,,No,,Approved
+S40_Q4,S40,es,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S40_Q4,S40,ja,literal,Consequence/outcome,PASS,0,,No,,Approved
+S40_Q4,S40,ja,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S40_Q4,S40,ar,literal,Consequence/outcome,PASS,0,,No,,Approved
+S40_Q4,S40,ar,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S05_Q1,S05,hi,literal,Actor,PASS,0,,No,,Approved
+S05_Q1,S05,hi,adapted,Actor,PASS,0,,No,,Approved
+S05_Q1,S05,bn,literal,Actor,PASS,0,,No,,Approved
+S05_Q1,S05,bn,adapted,Actor,PASS,0,,No,,Approved
+S05_Q1,S05,ta,literal,Actor,PASS,0,,No,,Approved
+S05_Q1,S05,ta,adapted,Actor,PASS,0,,No,,Approved
+S05_Q1,S05,es,literal,Actor,PASS,0,,No,,Approved
+S05_Q1,S05,es,adapted,Actor,PASS,0,,No,,Approved
+S05_Q1,S05,ja,literal,Actor,PASS,0,,No,,Approved
+S05_Q1,S05,ja,adapted,Actor,PASS,0,,No,,Approved
+S05_Q1,S05,ar,literal,Actor,PASS,0,,No,,Approved
+S05_Q1,S05,ar,adapted,Actor,PASS,0,,No,,Approved
+S05_Q2,S05,hi,literal,Main action,PASS,0,,No,,Approved
+S05_Q2,S05,hi,adapted,Main action,PASS,0,,No,,Approved
+S05_Q2,S05,bn,literal,Main action,PASS,0,,No,,Approved
+S05_Q2,S05,bn,adapted,Main action,PASS,0,,No,,Approved
+S05_Q2,S05,ta,literal,Main action,PASS,0,,No,,Approved
+S05_Q2,S05,ta,adapted,Main action,PASS,0,,No,,Approved
+S05_Q2,S05,es,literal,Main action,PASS,0,,No,,Approved
+S05_Q2,S05,es,adapted,Main action,PASS,0,,No,,Approved
+S05_Q2,S05,ja,literal,Main action,PASS,0,,No,,Approved
+S05_Q2,S05,ja,adapted,Main action,PASS,0,,No,,Approved
+S05_Q2,S05,ar,literal,Main action,PASS,0,,No,,Approved
+S05_Q2,S05,ar,adapted,Main action,PASS,0,,No,,Approved
+S05_Q3,S05,hi,literal,Affected party/object,PASS,0,,No,,Approved
+S05_Q3,S05,hi,adapted,Affected party/object,PASS,0,,No,,Approved
+S05_Q3,S05,bn,literal,Affected party/object,PASS,0,,No,,Approved
+S05_Q3,S05,bn,adapted,Affected party/object,PASS,0,,No,,Approved
+S05_Q3,S05,ta,literal,Affected party/object,PASS,0,,No,,Approved
+S05_Q3,S05,ta,adapted,Affected party/object,PASS,0,,No,,Approved
+S05_Q3,S05,es,literal,Affected party/object,PASS,0,,No,,Approved
+S05_Q3,S05,es,adapted,Affected party/object,PASS,0,,No,,Approved
+S05_Q3,S05,ja,literal,Affected party/object,PASS,0,,No,,Approved
+S05_Q3,S05,ja,adapted,Affected party/object,PASS,0,,No,,Approved
+S05_Q3,S05,ar,literal,Affected party/object,PASS,0,,No,,Approved
+S05_Q3,S05,ar,adapted,Affected party/object,PASS,0,,No,,Approved
+S05_Q4,S05,hi,literal,Consequence/outcome,PASS,0,,No,,Approved
+S05_Q4,S05,hi,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S05_Q4,S05,bn,literal,Consequence/outcome,PASS,0,,No,,Approved
+S05_Q4,S05,bn,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S05_Q4,S05,ta,literal,Consequence/outcome,PASS,0,,No,,Approved
+S05_Q4,S05,ta,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S05_Q4,S05,es,literal,Consequence/outcome,PASS,0,,No,,Approved
+S05_Q4,S05,es,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S05_Q4,S05,ja,literal,Consequence/outcome,PASS,0,,No,,Approved
+S05_Q4,S05,ja,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S05_Q4,S05,ar,literal,Consequence/outcome,PASS,0,,No,,Approved
+S05_Q4,S05,ar,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S02_Q1,S02,hi,literal,Actor,PASS,0,,No,,Approved
+S02_Q1,S02,hi,adapted,Actor,PASS,0,,No,,Approved
+S02_Q1,S02,bn,literal,Actor,PASS,0,,No,,Approved
+S02_Q1,S02,bn,adapted,Actor,PASS,0,,No,,Approved
+S02_Q1,S02,ta,literal,Actor,PASS,0,,No,,Approved
+S02_Q1,S02,ta,adapted,Actor,PASS,0,,No,,Approved
+S02_Q1,S02,es,literal,Actor,PASS,0,,No,,Approved
+S02_Q1,S02,es,adapted,Actor,PASS,0,,No,,Approved
+S02_Q1,S02,ja,literal,Actor,PASS,0,,No,,Approved
+S02_Q1,S02,ja,adapted,Actor,PASS,0,,No,,Approved
+S02_Q1,S02,ar,literal,Actor,PASS,0,,No,,Approved
+S02_Q1,S02,ar,adapted,Actor,PASS,0,,No,,Approved
+S02_Q2,S02,hi,literal,Main action,PASS,0,,No,,Approved
+S02_Q2,S02,hi,adapted,Main action,PASS,0,,No,,Approved
+S02_Q2,S02,bn,literal,Main action,PASS,0,,No,,Approved
+S02_Q2,S02,bn,adapted,Main action,PASS,0,,No,,Approved
+S02_Q2,S02,ta,literal,Main action,PASS,0,,No,,Approved
+S02_Q2,S02,ta,adapted,Main action,PASS,0,,No,,Approved
+S02_Q2,S02,es,literal,Main action,PASS,0,,No,,Approved
+S02_Q2,S02,es,adapted,Main action,PASS,0,,No,,Approved
+S02_Q2,S02,ja,literal,Main action,PASS,0,,No,,Approved
+S02_Q2,S02,ja,adapted,Main action,PASS,0,,No,,Approved
+S02_Q2,S02,ar,literal,Main action,PASS,0,,No,,Approved
+S02_Q2,S02,ar,adapted,Main action,PASS,0,,No,,Approved
+S02_Q3,S02,hi,literal,Affected party/object,PASS,0,,No,,Approved
+S02_Q3,S02,hi,adapted,Affected party/object,PASS,0,,No,,Approved
+S02_Q3,S02,bn,literal,Affected party/object,PASS,0,,No,,Approved
+S02_Q3,S02,bn,adapted,Affected party/object,PASS,0,,No,,Approved
+S02_Q3,S02,ta,literal,Affected party/object,PASS,0,,No,,Approved
+S02_Q3,S02,ta,adapted,Affected party/object,PASS,0,,No,,Approved
+S02_Q3,S02,es,literal,Affected party/object,PASS,0,,No,,Approved
+S02_Q3,S02,es,adapted,Affected party/object,PASS,0,,No,,Approved
+S02_Q3,S02,ja,literal,Affected party/object,PASS,0,,No,,Approved
+S02_Q3,S02,ja,adapted,Affected party/object,PASS,0,,No,,Approved
+S02_Q3,S02,ar,literal,Affected party/object,PASS,0,,No,,Approved
+S02_Q3,S02,ar,adapted,Affected party/object,PASS,0,,No,,Approved
+S02_Q4,S02,hi,literal,Consequence/outcome,PASS,0,,No,,Approved
+S02_Q4,S02,hi,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S02_Q4,S02,bn,literal,Consequence/outcome,PASS,0,,No,,Approved
+S02_Q4,S02,bn,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S02_Q4,S02,ta,literal,Consequence/outcome,PASS,0,,No,,Approved
+S02_Q4,S02,ta,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S02_Q4,S02,es,literal,Consequence/outcome,PASS,0,,No,,Approved
+S02_Q4,S02,es,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S02_Q4,S02,ja,literal,Consequence/outcome,PASS,0,,No,,Approved
+S02_Q4,S02,ja,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S02_Q4,S02,ar,literal,Consequence/outcome,PASS,0,,No,,Approved
+S02_Q4,S02,ar,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S28_Q1,S28,hi,literal,Actor,PASS,0,,No,,Approved
+S28_Q1,S28,hi,adapted,Actor,PASS,0,,No,,Approved
+S28_Q1,S28,bn,literal,Actor,PASS,0,,No,,Approved
+S28_Q1,S28,bn,adapted,Actor,PASS,0,,No,,Approved
+S28_Q1,S28,ta,literal,Actor,PASS,0,,No,,Approved
+S28_Q1,S28,ta,adapted,Actor,PASS,0,,No,,Approved
+S28_Q1,S28,es,literal,Actor,PASS,0,,No,,Approved
+S28_Q1,S28,es,adapted,Actor,PASS,0,,No,,Approved
+S28_Q1,S28,ja,literal,Actor,PASS,0,,No,,Approved
+S28_Q1,S28,ja,adapted,Actor,PASS,0,,No,,Approved
+S28_Q1,S28,ar,literal,Actor,PASS,0,,No,,Approved
+S28_Q1,S28,ar,adapted,Actor,PASS,0,,No,,Approved
+S28_Q2,S28,hi,literal,Main action,PASS,0,,No,,Approved
+S28_Q2,S28,hi,adapted,Main action,PASS,0,,No,,Approved
+S28_Q2,S28,bn,literal,Main action,PASS,0,,No,,Approved
+S28_Q2,S28,bn,adapted,Main action,PASS,0,,No,,Approved
+S28_Q2,S28,ta,literal,Main action,PASS,0,,No,,Approved
+S28_Q2,S28,ta,adapted,Main action,PASS,0,,No,,Approved
+S28_Q2,S28,es,literal,Main action,PASS,0,,No,,Approved
+S28_Q2,S28,es,adapted,Main action,PASS,0,,No,,Approved
+S28_Q2,S28,ja,literal,Main action,PASS,0,,No,,Approved
+S28_Q2,S28,ja,adapted,Main action,PASS,0,,No,,Approved
+S28_Q2,S28,ar,literal,Main action,PASS,0,,No,,Approved
+S28_Q2,S28,ar,adapted,Main action,PASS,0,,No,,Approved
+S28_Q3,S28,hi,literal,Affected party/object,PASS,0,,No,,Approved
+S28_Q3,S28,hi,adapted,Affected party/object,PASS,0,,No,,Approved
+S28_Q3,S28,bn,literal,Affected party/object,PASS,0,,No,,Approved
+S28_Q3,S28,bn,adapted,Affected party/object,PASS,0,,No,,Approved
+S28_Q3,S28,ta,literal,Affected party/object,PASS,0,,No,,Approved
+S28_Q3,S28,ta,adapted,Affected party/object,PASS,0,,No,,Approved
+S28_Q3,S28,es,literal,Affected party/object,PASS,0,,No,,Approved
+S28_Q3,S28,es,adapted,Affected party/object,PASS,0,,No,,Approved
+S28_Q3,S28,ja,literal,Affected party/object,PASS,0,,No,,Approved
+S28_Q3,S28,ja,adapted,Affected party/object,PASS,0,,No,,Approved
+S28_Q3,S28,ar,literal,Affected party/object,PASS,0,,No,,Approved
+S28_Q3,S28,ar,adapted,Affected party/object,PASS,0,,No,,Approved
+S28_Q4,S28,hi,literal,Consequence/outcome,PASS,0,,No,,Approved
+S28_Q4,S28,hi,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S28_Q4,S28,bn,literal,Consequence/outcome,PASS,0,,No,,Approved
+S28_Q4,S28,bn,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S28_Q4,S28,ta,literal,Consequence/outcome,PASS,0,,No,,Approved
+S28_Q4,S28,ta,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S28_Q4,S28,es,literal,Consequence/outcome,PASS,0,,No,,Approved
+S28_Q4,S28,es,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S28_Q4,S28,ja,literal,Consequence/outcome,PASS,0,,No,,Approved
+S28_Q4,S28,ja,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S28_Q4,S28,ar,literal,Consequence/outcome,PASS,0,,No,,Approved
+S28_Q4,S28,ar,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S20_Q1,S20,hi,literal,Actor,PASS,0,,No,,Approved
+S20_Q1,S20,hi,adapted,Actor,PASS,0,,No,,Approved
+S20_Q1,S20,bn,literal,Actor,PASS,0,,No,,Approved
+S20_Q1,S20,bn,adapted,Actor,PASS,0,,No,,Approved
+S20_Q1,S20,ta,literal,Actor,PASS,0,,No,,Approved
+S20_Q1,S20,ta,adapted,Actor,PASS,0,,No,,Approved
+S20_Q1,S20,es,literal,Actor,PASS,0,,No,,Approved
+S20_Q1,S20,es,adapted,Actor,PASS,0,,No,,Approved
+S20_Q1,S20,ja,literal,Actor,PASS,0,,No,,Approved
+S20_Q1,S20,ja,adapted,Actor,PASS,0,,No,,Approved
+S20_Q1,S20,ar,literal,Actor,PASS,0,,No,,Approved
+S20_Q1,S20,ar,adapted,Actor,PASS,0,,No,,Approved
+S20_Q2,S20,hi,literal,Main action,PASS,0,,No,,Approved
+S20_Q2,S20,hi,adapted,Main action,PASS,0,,No,,Approved
+S20_Q2,S20,bn,literal,Main action,PASS,0,,No,,Approved
+S20_Q2,S20,bn,adapted,Main action,PASS,0,,No,,Approved
+S20_Q2,S20,ta,literal,Main action,PASS,0,,No,,Approved
+S20_Q2,S20,ta,adapted,Main action,PASS,0,,No,,Approved
+S20_Q2,S20,es,literal,Main action,PASS,0,,No,,Approved
+S20_Q2,S20,es,adapted,Main action,PASS,0,,No,,Approved
+S20_Q2,S20,ja,literal,Main action,PASS,0,,No,,Approved
+S20_Q2,S20,ja,adapted,Main action,PASS,0,,No,,Approved
+S20_Q2,S20,ar,literal,Main action,PASS,0,,No,,Approved
+S20_Q2,S20,ar,adapted,Main action,PASS,0,,No,,Approved
+S20_Q3,S20,hi,literal,Affected party/object,PASS,0,,No,,Approved
+S20_Q3,S20,hi,adapted,Affected party/object,PASS,0,,No,,Approved
+S20_Q3,S20,bn,literal,Affected party/object,PASS,0,,No,,Approved
+S20_Q3,S20,bn,adapted,Affected party/object,PASS,0,,No,,Approved
+S20_Q3,S20,ta,literal,Affected party/object,PASS,0,,No,,Approved
+S20_Q3,S20,ta,adapted,Affected party/object,PASS,0,,No,,Approved
+S20_Q3,S20,es,literal,Affected party/object,PASS,0,,No,,Approved
+S20_Q3,S20,es,adapted,Affected party/object,PASS,0,,No,,Approved
+S20_Q3,S20,ja,literal,Affected party/object,PASS,0,,No,,Approved
+S20_Q3,S20,ja,adapted,Affected party/object,PASS,0,,No,,Approved
+S20_Q3,S20,ar,literal,Affected party/object,PASS,0,,No,,Approved
+S20_Q3,S20,ar,adapted,Affected party/object,PASS,0,,No,,Approved
+S20_Q4,S20,hi,literal,Consequence/outcome,PASS,0,,No,,Approved
+S20_Q4,S20,hi,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S20_Q4,S20,bn,literal,Consequence/outcome,PASS,0,,No,,Approved
+S20_Q4,S20,bn,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S20_Q4,S20,ta,literal,Consequence/outcome,PASS,0,,No,,Approved
+S20_Q4,S20,ta,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S20_Q4,S20,es,literal,Consequence/outcome,PASS,0,,No,,Approved
+S20_Q4,S20,es,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S20_Q4,S20,ja,literal,Consequence/outcome,PASS,0,,No,,Approved
+S20_Q4,S20,ja,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S20_Q4,S20,ar,literal,Consequence/outcome,PASS,0,,No,,Approved
+S20_Q4,S20,ar,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S18_Q1,S18,hi,literal,Actor,PASS,0,,No,,Approved
+S18_Q1,S18,hi,adapted,Actor,PASS,0,,No,,Approved
+S18_Q1,S18,bn,literal,Actor,PASS,0,,No,,Approved
+S18_Q1,S18,bn,adapted,Actor,PASS,0,,No,,Approved
+S18_Q1,S18,ta,literal,Actor,PASS,0,,No,,Approved
+S18_Q1,S18,ta,adapted,Actor,PASS,0,,No,,Approved
+S18_Q1,S18,es,literal,Actor,PASS,0,,No,,Approved
+S18_Q1,S18,es,adapted,Actor,PASS,0,,No,,Approved
+S18_Q1,S18,ja,literal,Actor,PASS,0,,No,,Approved
+S18_Q1,S18,ja,adapted,Actor,PASS,0,,No,,Approved
+S18_Q1,S18,ar,literal,Actor,PASS,0,,No,,Approved
+S18_Q1,S18,ar,adapted,Actor,PASS,0,,No,,Approved
+S18_Q2,S18,hi,literal,Main action,PASS,0,,No,,Approved
+S18_Q2,S18,hi,adapted,Main action,PASS,0,,No,,Approved
+S18_Q2,S18,bn,literal,Main action,PASS,0,,No,,Approved
+S18_Q2,S18,bn,adapted,Main action,PASS,0,,No,,Approved
+S18_Q2,S18,ta,literal,Main action,PASS,0,,No,,Approved
+S18_Q2,S18,ta,adapted,Main action,PASS,0,,No,,Approved
+S18_Q2,S18,es,literal,Main action,PASS,0,,No,,Approved
+S18_Q2,S18,es,adapted,Main action,PASS,0,,No,,Approved
+S18_Q2,S18,ja,literal,Main action,PASS,0,,No,,Approved
+S18_Q2,S18,ja,adapted,Main action,PASS,0,,No,,Approved
+S18_Q2,S18,ar,literal,Main action,PASS,0,,No,,Approved
+S18_Q2,S18,ar,adapted,Main action,PASS,0,,No,,Approved
+S18_Q3,S18,hi,literal,Affected party/object,PASS,0,,No,,Approved
+S18_Q3,S18,hi,adapted,Affected party/object,PASS,0,,No,,Approved
+S18_Q3,S18,bn,literal,Affected party/object,PASS,0,,No,,Approved
+S18_Q3,S18,bn,adapted,Affected party/object,PASS,0,,No,,Approved
+S18_Q3,S18,ta,literal,Affected party/object,PASS,0,,No,,Approved
+S18_Q3,S18,ta,adapted,Affected party/object,PASS,0,,No,,Approved
+S18_Q3,S18,es,literal,Affected party/object,PASS,0,,No,,Approved
+S18_Q3,S18,es,adapted,Affected party/object,PASS,0,,No,,Approved
+S18_Q3,S18,ja,literal,Affected party/object,PASS,0,,No,,Approved
+S18_Q3,S18,ja,adapted,Affected party/object,PASS,0,,No,,Approved
+S18_Q3,S18,ar,literal,Affected party/object,PASS,0,,No,,Approved
+S18_Q3,S18,ar,adapted,Affected party/object,PASS,0,,No,,Approved
+S18_Q4,S18,hi,literal,Consequence/outcome,PASS,0,,No,,Approved
+S18_Q4,S18,hi,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S18_Q4,S18,bn,literal,Consequence/outcome,PASS,0,,No,,Approved
+S18_Q4,S18,bn,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S18_Q4,S18,ta,literal,Consequence/outcome,PASS,0,,No,,Approved
+S18_Q4,S18,ta,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S18_Q4,S18,es,literal,Consequence/outcome,PASS,0,,No,,Approved
+S18_Q4,S18,es,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S18_Q4,S18,ja,literal,Consequence/outcome,PASS,0,,No,,Approved
+S18_Q4,S18,ja,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S18_Q4,S18,ar,literal,Consequence/outcome,PASS,0,,No,,Approved
+S18_Q4,S18,ar,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S36_Q1,S36,hi,literal,Actor,PASS,0,,No,,Approved
+S36_Q1,S36,hi,adapted,Actor,PASS,0,,No,,Approved
+S36_Q1,S36,bn,literal,Actor,PASS,0,,No,,Approved
+S36_Q1,S36,bn,adapted,Actor,PASS,0,,No,,Approved
+S36_Q1,S36,ta,literal,Actor,PASS,0,,No,,Approved
+S36_Q1,S36,ta,adapted,Actor,PASS,0,,No,,Approved
+S36_Q1,S36,es,literal,Actor,PASS,0,,No,,Approved
+S36_Q1,S36,es,adapted,Actor,PASS,0,,No,,Approved
+S36_Q1,S36,ja,literal,Actor,PASS,0,,No,,Approved
+S36_Q1,S36,ja,adapted,Actor,PASS,0,,No,,Approved
+S36_Q1,S36,ar,literal,Actor,PASS,0,,No,,Approved
+S36_Q1,S36,ar,adapted,Actor,PASS,0,,No,,Approved
+S36_Q2,S36,hi,literal,Main action,PASS,0,,No,,Approved
+S36_Q2,S36,hi,adapted,Main action,PASS,0,,No,,Approved
+S36_Q2,S36,bn,literal,Main action,PASS,0,,No,,Approved
+S36_Q2,S36,bn,adapted,Main action,PASS,0,,No,,Approved
+S36_Q2,S36,ta,literal,Main action,PASS,0,,No,,Approved
+S36_Q2,S36,ta,adapted,Main action,PASS,0,,No,,Approved
+S36_Q2,S36,es,literal,Main action,PASS,0,,No,,Approved
+S36_Q2,S36,es,adapted,Main action,PASS,0,,No,,Approved
+S36_Q2,S36,ja,literal,Main action,PASS,0,,No,,Approved
+S36_Q2,S36,ja,adapted,Main action,PASS,0,,No,,Approved
+S36_Q2,S36,ar,literal,Main action,PASS,0,,No,,Approved
+S36_Q2,S36,ar,adapted,Main action,PASS,0,,No,,Approved
+S36_Q3,S36,hi,literal,Affected party/object,PASS,0,,No,,Approved
+S36_Q3,S36,hi,adapted,Affected party/object,PASS,0,,No,,Approved
+S36_Q3,S36,bn,literal,Affected party/object,PASS,0,,No,,Approved
+S36_Q3,S36,bn,adapted,Affected party/object,PASS,0,,No,,Approved
+S36_Q3,S36,ta,literal,Affected party/object,PASS,0,,No,,Approved
+S36_Q3,S36,ta,adapted,Affected party/object,PASS,0,,No,,Approved
+S36_Q3,S36,es,literal,Affected party/object,PASS,0,,No,,Approved
+S36_Q3,S36,es,adapted,Affected party/object,PASS,0,,No,,Approved
+S36_Q3,S36,ja,literal,Affected party/object,PASS,0,,No,,Approved
+S36_Q3,S36,ja,adapted,Affected party/object,PASS,0,,No,,Approved
+S36_Q3,S36,ar,literal,Affected party/object,PASS,0,,No,,Approved
+S36_Q3,S36,ar,adapted,Affected party/object,PASS,0,,No,,Approved
+S36_Q4,S36,hi,literal,Consequence/outcome,PASS,0,,No,,Approved
+S36_Q4,S36,hi,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S36_Q4,S36,bn,literal,Consequence/outcome,PASS,0,,No,,Approved
+S36_Q4,S36,bn,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S36_Q4,S36,ta,literal,Consequence/outcome,PASS,0,,No,,Approved
+S36_Q4,S36,ta,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S36_Q4,S36,es,literal,Consequence/outcome,PASS,0,,No,,Approved
+S36_Q4,S36,es,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S36_Q4,S36,ja,literal,Consequence/outcome,PASS,0,,No,,Approved
+S36_Q4,S36,ja,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S36_Q4,S36,ar,literal,Consequence/outcome,PASS,0,,No,,Approved
+S36_Q4,S36,ar,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S37_Q1,S37,hi,literal,Actor,PASS,0,,No,,Approved
+S37_Q1,S37,hi,adapted,Actor,PASS,0,,No,,Approved
+S37_Q1,S37,bn,literal,Actor,PASS,0,,No,,Approved
+S37_Q1,S37,bn,adapted,Actor,PASS,0,,No,,Approved
+S37_Q1,S37,ta,literal,Actor,PASS,0,,No,,Approved
+S37_Q1,S37,ta,adapted,Actor,PASS,0,,No,,Approved
+S37_Q1,S37,es,literal,Actor,PASS,0,,No,,Approved
+S37_Q1,S37,es,adapted,Actor,PASS,0,,No,,Approved
+S37_Q1,S37,ja,literal,Actor,PASS,0,,No,,Approved
+S37_Q1,S37,ja,adapted,Actor,PASS,0,,No,,Approved
+S37_Q1,S37,ar,literal,Actor,PASS,0,,No,,Approved
+S37_Q1,S37,ar,adapted,Actor,PASS,0,,No,,Approved
+S37_Q2,S37,hi,literal,Main action,PASS,0,,No,,Approved
+S37_Q2,S37,hi,adapted,Main action,PASS,0,,No,,Approved
+S37_Q2,S37,bn,literal,Main action,PASS,0,,No,,Approved
+S37_Q2,S37,bn,adapted,Main action,PASS,0,,No,,Approved
+S37_Q2,S37,ta,literal,Main action,PASS,0,,No,,Approved
+S37_Q2,S37,ta,adapted,Main action,PASS,0,,No,,Approved
+S37_Q2,S37,es,literal,Main action,PASS,0,,No,,Approved
+S37_Q2,S37,es,adapted,Main action,PASS,0,,No,,Approved
+S37_Q2,S37,ja,literal,Main action,PASS,0,,No,,Approved
+S37_Q2,S37,ja,adapted,Main action,PASS,0,,No,,Approved
+S37_Q2,S37,ar,literal,Main action,PASS,0,,No,,Approved
+S37_Q2,S37,ar,adapted,Main action,PASS,0,,No,,Approved
+S37_Q3,S37,hi,literal,Affected party/object,PASS,0,,No,,Approved
+S37_Q3,S37,hi,adapted,Affected party/object,PASS,0,,No,,Approved
+S37_Q3,S37,bn,literal,Affected party/object,PASS,0,,No,,Approved
+S37_Q3,S37,bn,adapted,Affected party/object,PASS,0,,No,,Approved
+S37_Q3,S37,ta,literal,Affected party/object,PASS,0,,No,,Approved
+S37_Q3,S37,ta,adapted,Affected party/object,PASS,0,,No,,Approved
+S37_Q3,S37,es,literal,Affected party/object,PASS,0,,No,,Approved
+S37_Q3,S37,es,adapted,Affected party/object,PASS,0,,No,,Approved
+S37_Q3,S37,ja,literal,Affected party/object,PASS,0,,No,,Approved
+S37_Q3,S37,ja,adapted,Affected party/object,PASS,0,,No,,Approved
+S37_Q3,S37,ar,literal,Affected party/object,PASS,0,,No,,Approved
+S37_Q3,S37,ar,adapted,Affected party/object,PASS,0,,No,,Approved
+S37_Q4,S37,hi,literal,Consequence/outcome,PASS,0,,No,,Approved
+S37_Q4,S37,hi,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S37_Q4,S37,bn,literal,Consequence/outcome,PASS,0,,No,,Approved
+S37_Q4,S37,bn,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S37_Q4,S37,ta,literal,Consequence/outcome,PASS,0,,No,,Approved
+S37_Q4,S37,ta,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S37_Q4,S37,es,literal,Consequence/outcome,PASS,0,,No,,Approved
+S37_Q4,S37,es,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S37_Q4,S37,ja,literal,Consequence/outcome,PASS,0,,No,,Approved
+S37_Q4,S37,ja,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S37_Q4,S37,ar,literal,Consequence/outcome,PASS,0,,No,,Approved
+S37_Q4,S37,ar,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S42_Q1,S42,hi,literal,Actor,PASS,0,,No,,Approved
+S42_Q1,S42,hi,adapted,Actor,PASS,0,,No,,Approved
+S42_Q1,S42,bn,literal,Actor,PASS,0,,No,,Approved
+S42_Q1,S42,bn,adapted,Actor,PASS,0,,No,,Approved
+S42_Q1,S42,ta,literal,Actor,PASS,0,,No,,Approved
+S42_Q1,S42,ta,adapted,Actor,PASS,0,,No,,Approved
+S42_Q1,S42,es,literal,Actor,PASS,0,,No,,Approved
+S42_Q1,S42,es,adapted,Actor,PASS,0,,No,,Approved
+S42_Q1,S42,ja,literal,Actor,PASS,0,,No,,Approved
+S42_Q1,S42,ja,adapted,Actor,PASS,0,,No,,Approved
+S42_Q1,S42,ar,literal,Actor,PASS,0,,No,,Approved
+S42_Q1,S42,ar,adapted,Actor,PASS,0,,No,,Approved
+S42_Q2,S42,hi,literal,Main action,PASS,0,,No,,Approved
+S42_Q2,S42,hi,adapted,Main action,PASS,0,,No,,Approved
+S42_Q2,S42,bn,literal,Main action,PASS,0,,No,,Approved
+S42_Q2,S42,bn,adapted,Main action,PASS,0,,No,,Approved
+S42_Q2,S42,ta,literal,Main action,PASS,0,,No,,Approved
+S42_Q2,S42,ta,adapted,Main action,PASS,0,,No,,Approved
+S42_Q2,S42,es,literal,Main action,PASS,0,,No,,Approved
+S42_Q2,S42,es,adapted,Main action,PASS,0,,No,,Approved
+S42_Q2,S42,ja,literal,Main action,PASS,0,,No,,Approved
+S42_Q2,S42,ja,adapted,Main action,PASS,0,,No,,Approved
+S42_Q2,S42,ar,literal,Main action,PASS,0,,No,,Approved
+S42_Q2,S42,ar,adapted,Main action,PASS,0,,No,,Approved
+S42_Q3,S42,hi,literal,Affected party/object,PASS,0,,No,,Approved
+S42_Q3,S42,hi,adapted,Affected party/object,PASS,0,,No,,Approved
+S42_Q3,S42,bn,literal,Affected party/object,PASS,0,,No,,Approved
+S42_Q3,S42,bn,adapted,Affected party/object,PASS,0,,No,,Approved
+S42_Q3,S42,ta,literal,Affected party/object,PASS,0,,No,,Approved
+S42_Q3,S42,ta,adapted,Affected party/object,PASS,0,,No,,Approved
+S42_Q3,S42,es,literal,Affected party/object,PASS,0,,No,,Approved
+S42_Q3,S42,es,adapted,Affected party/object,PASS,0,,No,,Approved
+S42_Q3,S42,ja,literal,Affected party/object,PASS,0,,No,,Approved
+S42_Q3,S42,ja,adapted,Affected party/object,PASS,0,,No,,Approved
+S42_Q3,S42,ar,literal,Affected party/object,PASS,0,,No,,Approved
+S42_Q3,S42,ar,adapted,Affected party/object,PASS,0,,No,,Approved
+S42_Q4,S42,hi,literal,Consequence/outcome,PASS,0,,No,,Approved
+S42_Q4,S42,hi,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S42_Q4,S42,bn,literal,Consequence/outcome,PASS,0,,No,,Approved
+S42_Q4,S42,bn,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S42_Q4,S42,ta,literal,Consequence/outcome,PASS,0,,No,,Approved
+S42_Q4,S42,ta,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S42_Q4,S42,es,literal,Consequence/outcome,PASS,0,,No,,Approved
+S42_Q4,S42,es,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S42_Q4,S42,ja,literal,Consequence/outcome,PASS,0,,No,,Approved
+S42_Q4,S42,ja,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S42_Q4,S42,ar,literal,Consequence/outcome,PASS,0,,No,,Approved
+S42_Q4,S42,ar,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S06_Q1,S06,hi,literal,Actor,PASS,0,,No,,Approved
+S06_Q1,S06,hi,adapted,Actor,PASS,0,,No,,Approved
+S06_Q1,S06,bn,literal,Actor,PASS,0,,No,,Approved
+S06_Q1,S06,bn,adapted,Actor,PASS,0,,No,,Approved
+S06_Q1,S06,ta,literal,Actor,PASS,0,,No,,Approved
+S06_Q1,S06,ta,adapted,Actor,PASS,0,,No,,Approved
+S06_Q1,S06,es,literal,Actor,PASS,0,,No,,Approved
+S06_Q1,S06,es,adapted,Actor,PASS,0,,No,,Approved
+S06_Q1,S06,ja,literal,Actor,PASS,0,,No,,Approved
+S06_Q1,S06,ja,adapted,Actor,PASS,0,,No,,Approved
+S06_Q1,S06,ar,literal,Actor,PASS,0,,No,,Approved
+S06_Q1,S06,ar,adapted,Actor,PASS,0,,No,,Approved
+S06_Q2,S06,hi,literal,Main action,PASS,0,,No,,Approved
+S06_Q2,S06,hi,adapted,Main action,PASS,0,,No,,Approved
+S06_Q2,S06,bn,literal,Main action,PASS,0,,No,,Approved
+S06_Q2,S06,bn,adapted,Main action,PASS,0,,No,,Approved
+S06_Q2,S06,ta,literal,Main action,PASS,0,,No,,Approved
+S06_Q2,S06,ta,adapted,Main action,PASS,0,,No,,Approved
+S06_Q2,S06,es,literal,Main action,PASS,0,,No,,Approved
+S06_Q2,S06,es,adapted,Main action,PASS,0,,No,,Approved
+S06_Q2,S06,ja,literal,Main action,PASS,0,,No,,Approved
+S06_Q2,S06,ja,adapted,Main action,PASS,0,,No,,Approved
+S06_Q2,S06,ar,literal,Main action,PASS,0,,No,,Approved
+S06_Q2,S06,ar,adapted,Main action,PASS,0,,No,,Approved
+S06_Q3,S06,hi,literal,Affected party/object,PASS,0,,No,,Approved
+S06_Q3,S06,hi,adapted,Affected party/object,PASS,0,,No,,Approved
+S06_Q3,S06,bn,literal,Affected party/object,PASS,0,,No,,Approved
+S06_Q3,S06,bn,adapted,Affected party/object,PASS,0,,No,,Approved
+S06_Q3,S06,ta,literal,Affected party/object,PASS,0,,No,,Approved
+S06_Q3,S06,ta,adapted,Affected party/object,PASS,0,,No,,Approved
+S06_Q3,S06,es,literal,Affected party/object,PASS,0,,No,,Approved
+S06_Q3,S06,es,adapted,Affected party/object,PASS,0,,No,,Approved
+S06_Q3,S06,ja,literal,Affected party/object,PASS,0,,No,,Approved
+S06_Q3,S06,ja,adapted,Affected party/object,PASS,0,,No,,Approved
+S06_Q3,S06,ar,literal,Affected party/object,PASS,0,,No,,Approved
+S06_Q3,S06,ar,adapted,Affected party/object,PASS,0,,No,,Approved
+S06_Q4,S06,hi,literal,Consequence/outcome,PASS,0,,No,,Approved
+S06_Q4,S06,hi,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S06_Q4,S06,bn,literal,Consequence/outcome,PASS,0,,No,,Approved
+S06_Q4,S06,bn,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S06_Q4,S06,ta,literal,Consequence/outcome,PASS,0,,No,,Approved
+S06_Q4,S06,ta,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S06_Q4,S06,es,literal,Consequence/outcome,PASS,0,,No,,Approved
+S06_Q4,S06,es,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S06_Q4,S06,ja,literal,Consequence/outcome,PASS,0,,No,,Approved
+S06_Q4,S06,ja,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S06_Q4,S06,ar,literal,Consequence/outcome,PASS,0,,No,,Approved
+S06_Q4,S06,ar,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S47_Q1,S47,hi,literal,Actor,PASS,0,,No,,Approved
+S47_Q1,S47,hi,adapted,Actor,PASS,0,,No,,Approved
+S47_Q1,S47,bn,literal,Actor,PASS,0,,No,,Approved
+S47_Q1,S47,bn,adapted,Actor,PASS,0,,No,,Approved
+S47_Q1,S47,ta,literal,Actor,PASS,0,,No,,Approved
+S47_Q1,S47,ta,adapted,Actor,PASS,0,,No,,Approved
+S47_Q1,S47,es,literal,Actor,PASS,0,,No,,Approved
+S47_Q1,S47,es,adapted,Actor,PASS,0,,No,,Approved
+S47_Q1,S47,ja,literal,Actor,PASS,0,,No,,Approved
+S47_Q1,S47,ja,adapted,Actor,PASS,0,,No,,Approved
+S47_Q1,S47,ar,literal,Actor,PASS,0,,No,,Approved
+S47_Q1,S47,ar,adapted,Actor,PASS,0,,No,,Approved
+S47_Q2,S47,hi,literal,Main action,PASS,0,,No,,Approved
+S47_Q2,S47,hi,adapted,Main action,PASS,0,,No,,Approved
+S47_Q2,S47,bn,literal,Main action,PASS,0,,No,,Approved
+S47_Q2,S47,bn,adapted,Main action,PASS,0,,No,,Approved
+S47_Q2,S47,ta,literal,Main action,PASS,0,,No,,Approved
+S47_Q2,S47,ta,adapted,Main action,PASS,0,,No,,Approved
+S47_Q2,S47,es,literal,Main action,PASS,0,,No,,Approved
+S47_Q2,S47,es,adapted,Main action,PASS,0,,No,,Approved
+S47_Q2,S47,ja,literal,Main action,PASS,0,,No,,Approved
+S47_Q2,S47,ja,adapted,Main action,PASS,0,,No,,Approved
+S47_Q2,S47,ar,literal,Main action,PASS,0,,No,,Approved
+S47_Q2,S47,ar,adapted,Main action,PASS,0,,No,,Approved
+S47_Q3,S47,hi,literal,Affected party/object,PASS,0,,No,,Approved
+S47_Q3,S47,hi,adapted,Affected party/object,PASS,0,,No,,Approved
+S47_Q3,S47,bn,literal,Affected party/object,PASS,0,,No,,Approved
+S47_Q3,S47,bn,adapted,Affected party/object,PASS,0,,No,,Approved
+S47_Q3,S47,ta,literal,Affected party/object,PASS,0,,No,,Approved
+S47_Q3,S47,ta,adapted,Affected party/object,PASS,0,,No,,Approved
+S47_Q3,S47,es,literal,Affected party/object,PASS,0,,No,,Approved
+S47_Q3,S47,es,adapted,Affected party/object,PASS,0,,No,,Approved
+S47_Q3,S47,ja,literal,Affected party/object,PASS,0,,No,,Approved
+S47_Q3,S47,ja,adapted,Affected party/object,PASS,0,,No,,Approved
+S47_Q3,S47,ar,literal,Affected party/object,PASS,0,,No,,Approved
+S47_Q3,S47,ar,adapted,Affected party/object,PASS,0,,No,,Approved
+S47_Q4,S47,hi,literal,Consequence/outcome,PASS,0,,No,,Approved
+S47_Q4,S47,hi,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S47_Q4,S47,bn,literal,Consequence/outcome,PASS,0,,No,,Approved
+S47_Q4,S47,bn,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S47_Q4,S47,ta,literal,Consequence/outcome,PASS,0,,No,,Approved
+S47_Q4,S47,ta,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S47_Q4,S47,es,literal,Consequence/outcome,PASS,0,,No,,Approved
+S47_Q4,S47,es,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S47_Q4,S47,ja,literal,Consequence/outcome,PASS,0,,No,,Approved
+S47_Q4,S47,ja,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S47_Q4,S47,ar,literal,Consequence/outcome,PASS,0,,No,,Approved
+S47_Q4,S47,ar,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S48_Q1,S48,hi,literal,Actor,PASS,0,,No,,Approved
+S48_Q1,S48,hi,adapted,Actor,PASS,0,,No,,Approved
+S48_Q1,S48,bn,literal,Actor,PASS,0,,No,,Approved
+S48_Q1,S48,bn,adapted,Actor,PASS,0,,No,,Approved
+S48_Q1,S48,ta,literal,Actor,PASS,0,,No,,Approved
+S48_Q1,S48,ta,adapted,Actor,PASS,0,,No,,Approved
+S48_Q1,S48,es,literal,Actor,PASS,0,,No,,Approved
+S48_Q1,S48,es,adapted,Actor,PASS,0,,No,,Approved
+S48_Q1,S48,ja,literal,Actor,PASS,0,,No,,Approved
+S48_Q1,S48,ja,adapted,Actor,PASS,0,,No,,Approved
+S48_Q1,S48,ar,literal,Actor,PASS,0,,No,,Approved
+S48_Q1,S48,ar,adapted,Actor,PASS,0,,No,,Approved
+S48_Q2,S48,hi,literal,Main action,PASS,0,,No,,Approved
+S48_Q2,S48,hi,adapted,Main action,PASS,0,,No,,Approved
+S48_Q2,S48,bn,literal,Main action,PASS,0,,No,,Approved
+S48_Q2,S48,bn,adapted,Main action,PASS,0,,No,,Approved
+S48_Q2,S48,ta,literal,Main action,PASS,0,,No,,Approved
+S48_Q2,S48,ta,adapted,Main action,PASS,0,,No,,Approved
+S48_Q2,S48,es,literal,Main action,PASS,0,,No,,Approved
+S48_Q2,S48,es,adapted,Main action,PASS,0,,No,,Approved
+S48_Q2,S48,ja,literal,Main action,PASS,0,,No,,Approved
+S48_Q2,S48,ja,adapted,Main action,PASS,0,,No,,Approved
+S48_Q2,S48,ar,literal,Main action,PASS,0,,No,,Approved
+S48_Q2,S48,ar,adapted,Main action,PASS,0,,No,,Approved
+S48_Q3,S48,hi,literal,Affected party/object,PASS,0,,No,,Approved
+S48_Q3,S48,hi,adapted,Affected party/object,PASS,0,,No,,Approved
+S48_Q3,S48,bn,literal,Affected party/object,PASS,0,,No,,Approved
+S48_Q3,S48,bn,adapted,Affected party/object,PASS,0,,No,,Approved
+S48_Q3,S48,ta,literal,Affected party/object,PASS,0,,No,,Approved
+S48_Q3,S48,ta,adapted,Affected party/object,PASS,0,,No,,Approved
+S48_Q3,S48,es,literal,Affected party/object,PASS,0,,No,,Approved
+S48_Q3,S48,es,adapted,Affected party/object,PASS,0,,No,,Approved
+S48_Q3,S48,ja,literal,Affected party/object,PASS,0,,No,,Approved
+S48_Q3,S48,ja,adapted,Affected party/object,PASS,0,,No,,Approved
+S48_Q3,S48,ar,literal,Affected party/object,PASS,0,,No,,Approved
+S48_Q3,S48,ar,adapted,Affected party/object,PASS,0,,No,,Approved
+S48_Q4,S48,hi,literal,Consequence/outcome,PASS,0,,No,,Approved
+S48_Q4,S48,hi,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S48_Q4,S48,bn,literal,Consequence/outcome,PASS,0,,No,,Approved
+S48_Q4,S48,bn,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S48_Q4,S48,ta,literal,Consequence/outcome,PASS,0,,No,,Approved
+S48_Q4,S48,ta,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S48_Q4,S48,es,literal,Consequence/outcome,PASS,0,,No,,Approved
+S48_Q4,S48,es,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S48_Q4,S48,ja,literal,Consequence/outcome,PASS,0,,No,,Approved
+S48_Q4,S48,ja,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S48_Q4,S48,ar,literal,Consequence/outcome,PASS,0,,No,,Approved
+S48_Q4,S48,ar,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S43_Q1,S43,hi,literal,Actor,PASS,0,,No,,Approved
+S43_Q1,S43,hi,adapted,Actor,PASS,0,,No,,Approved
+S43_Q1,S43,bn,literal,Actor,PASS,0,,No,,Approved
+S43_Q1,S43,bn,adapted,Actor,PASS,0,,No,,Approved
+S43_Q1,S43,ta,literal,Actor,PASS,0,,No,,Approved
+S43_Q1,S43,ta,adapted,Actor,PASS,0,,No,,Approved
+S43_Q1,S43,es,literal,Actor,PASS,0,,No,,Approved
+S43_Q1,S43,es,adapted,Actor,PASS,0,,No,,Approved
+S43_Q1,S43,ja,literal,Actor,PASS,0,,No,,Approved
+S43_Q1,S43,ja,adapted,Actor,PASS,0,,No,,Approved
+S43_Q1,S43,ar,literal,Actor,PASS,0,,No,,Approved
+S43_Q1,S43,ar,adapted,Actor,PASS,0,,No,,Approved
+S43_Q2,S43,hi,literal,Main action,PASS,0,,No,,Approved
+S43_Q2,S43,hi,adapted,Main action,PASS,0,,No,,Approved
+S43_Q2,S43,bn,literal,Main action,PASS,0,,No,,Approved
+S43_Q2,S43,bn,adapted,Main action,PASS,0,,No,,Approved
+S43_Q2,S43,ta,literal,Main action,PASS,0,,No,,Approved
+S43_Q2,S43,ta,adapted,Main action,PASS,0,,No,,Approved
+S43_Q2,S43,es,literal,Main action,PASS,0,,No,,Approved
+S43_Q2,S43,es,adapted,Main action,PASS,0,,No,,Approved
+S43_Q2,S43,ja,literal,Main action,PASS,0,,No,,Approved
+S43_Q2,S43,ja,adapted,Main action,PASS,0,,No,,Approved
+S43_Q2,S43,ar,literal,Main action,PASS,0,,No,,Approved
+S43_Q2,S43,ar,adapted,Main action,PASS,0,,No,,Approved
+S43_Q3,S43,hi,literal,Affected party/object,PASS,0,,No,,Approved
+S43_Q3,S43,hi,adapted,Affected party/object,PASS,0,,No,,Approved
+S43_Q3,S43,bn,literal,Affected party/object,PASS,0,,No,,Approved
+S43_Q3,S43,bn,adapted,Affected party/object,PASS,0,,No,,Approved
+S43_Q3,S43,ta,literal,Affected party/object,PASS,0,,No,,Approved
+S43_Q3,S43,ta,adapted,Affected party/object,PASS,0,,No,,Approved
+S43_Q3,S43,es,literal,Affected party/object,PASS,0,,No,,Approved
+S43_Q3,S43,es,adapted,Affected party/object,PASS,0,,No,,Approved
+S43_Q3,S43,ja,literal,Affected party/object,PASS,0,,No,,Approved
+S43_Q3,S43,ja,adapted,Affected party/object,PASS,0,,No,,Approved
+S43_Q3,S43,ar,literal,Affected party/object,PASS,0,,No,,Approved
+S43_Q3,S43,ar,adapted,Affected party/object,PASS,0,,No,,Approved
+S43_Q4,S43,hi,literal,Consequence/outcome,PASS,0,,No,,Approved
+S43_Q4,S43,hi,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S43_Q4,S43,bn,literal,Consequence/outcome,PASS,0,,No,,Approved
+S43_Q4,S43,bn,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S43_Q4,S43,ta,literal,Consequence/outcome,PASS,0,,No,,Approved
+S43_Q4,S43,ta,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S43_Q4,S43,es,literal,Consequence/outcome,PASS,0,,No,,Approved
+S43_Q4,S43,es,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S43_Q4,S43,ja,literal,Consequence/outcome,PASS,0,,No,,Approved
+S43_Q4,S43,ja,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S43_Q4,S43,ar,literal,Consequence/outcome,PASS,0,,No,,Approved
+S43_Q4,S43,ar,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S12_Q1,S12,hi,literal,Actor,PASS,0,,No,,Approved
+S12_Q1,S12,hi,adapted,Actor,PASS,0,,No,,Approved
+S12_Q1,S12,bn,literal,Actor,PASS,0,,No,,Approved
+S12_Q1,S12,bn,adapted,Actor,PASS,0,,No,,Approved
+S12_Q1,S12,ta,literal,Actor,PASS,0,,No,,Approved
+S12_Q1,S12,ta,adapted,Actor,PASS,0,,No,,Approved
+S12_Q1,S12,es,literal,Actor,PASS,0,,No,,Approved
+S12_Q1,S12,es,adapted,Actor,PASS,0,,No,,Approved
+S12_Q1,S12,ja,literal,Actor,PASS,0,,No,,Approved
+S12_Q1,S12,ja,adapted,Actor,PASS,0,,No,,Approved
+S12_Q1,S12,ar,literal,Actor,PASS,0,,No,,Approved
+S12_Q1,S12,ar,adapted,Actor,PASS,0,,No,,Approved
+S12_Q2,S12,hi,literal,Main action,PASS,0,,No,,Approved
+S12_Q2,S12,hi,adapted,Main action,PASS,0,,No,,Approved
+S12_Q2,S12,bn,literal,Main action,PASS,0,,No,,Approved
+S12_Q2,S12,bn,adapted,Main action,PASS,0,,No,,Approved
+S12_Q2,S12,ta,literal,Main action,PASS,0,,No,,Approved
+S12_Q2,S12,ta,adapted,Main action,PASS,0,,No,,Approved
+S12_Q2,S12,es,literal,Main action,PASS,0,,No,,Approved
+S12_Q2,S12,es,adapted,Main action,PASS,0,,No,,Approved
+S12_Q2,S12,ja,literal,Main action,PASS,0,,No,,Approved
+S12_Q2,S12,ja,adapted,Main action,PASS,0,,No,,Approved
+S12_Q2,S12,ar,literal,Main action,PASS,0,,No,,Approved
+S12_Q2,S12,ar,adapted,Main action,PASS,0,,No,,Approved
+S12_Q3,S12,hi,literal,Affected party/object,PASS,0,,No,,Approved
+S12_Q3,S12,hi,adapted,Affected party/object,PASS,0,,No,,Approved
+S12_Q3,S12,bn,literal,Affected party/object,PASS,0,,No,,Approved
+S12_Q3,S12,bn,adapted,Affected party/object,PASS,0,,No,,Approved
+S12_Q3,S12,ta,literal,Affected party/object,PASS,0,,No,,Approved
+S12_Q3,S12,ta,adapted,Affected party/object,PASS,0,,No,,Approved
+S12_Q3,S12,es,literal,Affected party/object,PASS,0,,No,,Approved
+S12_Q3,S12,es,adapted,Affected party/object,PASS,0,,No,,Approved
+S12_Q3,S12,ja,literal,Affected party/object,PASS,0,,No,,Approved
+S12_Q3,S12,ja,adapted,Affected party/object,PASS,0,,No,,Approved
+S12_Q3,S12,ar,literal,Affected party/object,PASS,0,,No,,Approved
+S12_Q3,S12,ar,adapted,Affected party/object,PASS,0,,No,,Approved
+S12_Q4,S12,hi,literal,Consequence/outcome,PASS,0,,No,,Approved
+S12_Q4,S12,hi,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S12_Q4,S12,bn,literal,Consequence/outcome,PASS,0,,No,,Approved
+S12_Q4,S12,bn,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S12_Q4,S12,ta,literal,Consequence/outcome,PASS,0,,No,,Approved
+S12_Q4,S12,ta,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S12_Q4,S12,es,literal,Consequence/outcome,PASS,0,,No,,Approved
+S12_Q4,S12,es,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S12_Q4,S12,ja,literal,Consequence/outcome,PASS,0,,No,,Approved
+S12_Q4,S12,ja,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S12_Q4,S12,ar,literal,Consequence/outcome,PASS,0,,No,,Approved
+S12_Q4,S12,ar,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S33_Q1,S33,hi,literal,Actor,PASS,0,,No,,Approved
+S33_Q1,S33,hi,adapted,Actor,PASS,0,,No,,Approved
+S33_Q1,S33,bn,literal,Actor,PASS,0,,No,,Approved
+S33_Q1,S33,bn,adapted,Actor,PASS,0,,No,,Approved
+S33_Q1,S33,ta,literal,Actor,PASS,0,,No,,Approved
+S33_Q1,S33,ta,adapted,Actor,PASS,0,,No,,Approved
+S33_Q1,S33,es,literal,Actor,PASS,0,,No,,Approved
+S33_Q1,S33,es,adapted,Actor,PASS,0,,No,,Approved
+S33_Q1,S33,ja,literal,Actor,PASS,0,,No,,Approved
+S33_Q1,S33,ja,adapted,Actor,PASS,0,,No,,Approved
+S33_Q1,S33,ar,literal,Actor,PASS,0,,No,,Approved
+S33_Q1,S33,ar,adapted,Actor,PASS,0,,No,,Approved
+S33_Q2,S33,hi,literal,Main action,PASS,0,,No,,Approved
+S33_Q2,S33,hi,adapted,Main action,PASS,0,,No,,Approved
+S33_Q2,S33,bn,literal,Main action,PASS,0,,No,,Approved
+S33_Q2,S33,bn,adapted,Main action,PASS,0,,No,,Approved
+S33_Q2,S33,ta,literal,Main action,PASS,0,,No,,Approved
+S33_Q2,S33,ta,adapted,Main action,PASS,0,,No,,Approved
+S33_Q2,S33,es,literal,Main action,PASS,0,,No,,Approved
+S33_Q2,S33,es,adapted,Main action,PASS,0,,No,,Approved
+S33_Q2,S33,ja,literal,Main action,PASS,0,,No,,Approved
+S33_Q2,S33,ja,adapted,Main action,PASS,0,,No,,Approved
+S33_Q2,S33,ar,literal,Main action,PASS,0,,No,,Approved
+S33_Q2,S33,ar,adapted,Main action,PASS,0,,No,,Approved
+S33_Q3,S33,hi,literal,Affected party/object,PASS,0,,No,,Approved
+S33_Q3,S33,hi,adapted,Affected party/object,PASS,0,,No,,Approved
+S33_Q3,S33,bn,literal,Affected party/object,PASS,0,,No,,Approved
+S33_Q3,S33,bn,adapted,Affected party/object,PASS,0,,No,,Approved
+S33_Q3,S33,ta,literal,Affected party/object,PASS,0,,No,,Approved
+S33_Q3,S33,ta,adapted,Affected party/object,PASS,0,,No,,Approved
+S33_Q3,S33,es,literal,Affected party/object,PASS,0,,No,,Approved
+S33_Q3,S33,es,adapted,Affected party/object,PASS,0,,No,,Approved
+S33_Q3,S33,ja,literal,Affected party/object,PASS,0,,No,,Approved
+S33_Q3,S33,ja,adapted,Affected party/object,PASS,0,,No,,Approved
+S33_Q3,S33,ar,literal,Affected party/object,PASS,0,,No,,Approved
+S33_Q3,S33,ar,adapted,Affected party/object,PASS,0,,No,,Approved
+S33_Q4,S33,hi,literal,Consequence/outcome,PASS,0,,No,,Approved
+S33_Q4,S33,hi,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S33_Q4,S33,bn,literal,Consequence/outcome,PASS,0,,No,,Approved
+S33_Q4,S33,bn,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S33_Q4,S33,ta,literal,Consequence/outcome,PASS,0,,No,,Approved
+S33_Q4,S33,ta,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S33_Q4,S33,es,literal,Consequence/outcome,PASS,0,,No,,Approved
+S33_Q4,S33,es,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S33_Q4,S33,ja,literal,Consequence/outcome,PASS,0,,No,,Approved
+S33_Q4,S33,ja,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S33_Q4,S33,ar,literal,Consequence/outcome,PASS,0,,No,,Approved
+S33_Q4,S33,ar,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S23_Q1,S23,hi,literal,Actor,PASS,0,,No,,Approved
+S23_Q1,S23,hi,adapted,Actor,PASS,0,,No,,Approved
+S23_Q1,S23,bn,literal,Actor,PASS,0,,No,,Approved
+S23_Q1,S23,bn,adapted,Actor,PASS,0,,No,,Approved
+S23_Q1,S23,ta,literal,Actor,PASS,0,,No,,Approved
+S23_Q1,S23,ta,adapted,Actor,PASS,0,,No,,Approved
+S23_Q1,S23,es,literal,Actor,PASS,0,,No,,Approved
+S23_Q1,S23,es,adapted,Actor,PASS,0,,No,,Approved
+S23_Q1,S23,ja,literal,Actor,PASS,0,,No,,Approved
+S23_Q1,S23,ja,adapted,Actor,PASS,0,,No,,Approved
+S23_Q1,S23,ar,literal,Actor,PASS,0,,No,,Approved
+S23_Q1,S23,ar,adapted,Actor,PASS,0,,No,,Approved
+S23_Q2,S23,hi,literal,Main action,PASS,0,,No,,Approved
+S23_Q2,S23,hi,adapted,Main action,PASS,0,,No,,Approved
+S23_Q2,S23,bn,literal,Main action,PASS,0,,No,,Approved
+S23_Q2,S23,bn,adapted,Main action,PASS,0,,No,,Approved
+S23_Q2,S23,ta,literal,Main action,PASS,0,,No,,Approved
+S23_Q2,S23,ta,adapted,Main action,PASS,0,,No,,Approved
+S23_Q2,S23,es,literal,Main action,PASS,0,,No,,Approved
+S23_Q2,S23,es,adapted,Main action,PASS,0,,No,,Approved
+S23_Q2,S23,ja,literal,Main action,PASS,0,,No,,Approved
+S23_Q2,S23,ja,adapted,Main action,PASS,0,,No,,Approved
+S23_Q2,S23,ar,literal,Main action,PASS,0,,No,,Approved
+S23_Q2,S23,ar,adapted,Main action,PASS,0,,No,,Approved
+S23_Q3,S23,hi,literal,Affected party/object,PASS,0,,No,,Approved
+S23_Q3,S23,hi,adapted,Affected party/object,PASS,0,,No,,Approved
+S23_Q3,S23,bn,literal,Affected party/object,PASS,0,,No,,Approved
+S23_Q3,S23,bn,adapted,Affected party/object,PASS,0,,No,,Approved
+S23_Q3,S23,ta,literal,Affected party/object,PASS,0,,No,,Approved
+S23_Q3,S23,ta,adapted,Affected party/object,PASS,0,,No,,Approved
+S23_Q3,S23,es,literal,Affected party/object,PASS,0,,No,,Approved
+S23_Q3,S23,es,adapted,Affected party/object,PASS,0,,No,,Approved
+S23_Q3,S23,ja,literal,Affected party/object,PASS,0,,No,,Approved
+S23_Q3,S23,ja,adapted,Affected party/object,PASS,0,,No,,Approved
+S23_Q3,S23,ar,literal,Affected party/object,PASS,0,,No,,Approved
+S23_Q3,S23,ar,adapted,Affected party/object,PASS,0,,No,,Approved
+S23_Q4,S23,hi,literal,Consequence/outcome,PASS,0,,No,,Approved
+S23_Q4,S23,hi,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S23_Q4,S23,bn,literal,Consequence/outcome,PASS,0,,No,,Approved
+S23_Q4,S23,bn,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S23_Q4,S23,ta,literal,Consequence/outcome,PASS,0,,No,,Approved
+S23_Q4,S23,ta,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S23_Q4,S23,es,literal,Consequence/outcome,PASS,0,,No,,Approved
+S23_Q4,S23,es,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S23_Q4,S23,ja,literal,Consequence/outcome,PASS,0,,No,,Approved
+S23_Q4,S23,ja,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S23_Q4,S23,ar,literal,Consequence/outcome,PASS,0,,No,,Approved
+S23_Q4,S23,ar,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S22_Q1,S22,hi,literal,Actor,PASS,0,,No,,Approved
+S22_Q1,S22,hi,adapted,Actor,PASS,0,,No,,Approved
+S22_Q1,S22,bn,literal,Actor,PASS,0,,No,,Approved
+S22_Q1,S22,bn,adapted,Actor,PASS,0,,No,,Approved
+S22_Q1,S22,ta,literal,Actor,PASS,0,,No,,Approved
+S22_Q1,S22,ta,adapted,Actor,PASS,0,,No,,Approved
+S22_Q1,S22,es,literal,Actor,PASS,0,,No,,Approved
+S22_Q1,S22,es,adapted,Actor,PASS,0,,No,,Approved
+S22_Q1,S22,ja,literal,Actor,PASS,0,,No,,Approved
+S22_Q1,S22,ja,adapted,Actor,PASS,0,,No,,Approved
+S22_Q1,S22,ar,literal,Actor,PASS,0,,No,,Approved
+S22_Q1,S22,ar,adapted,Actor,PASS,0,,No,,Approved
+S22_Q2,S22,hi,literal,Main action,PASS,0,,No,,Approved
+S22_Q2,S22,hi,adapted,Main action,PASS,0,,No,,Approved
+S22_Q2,S22,bn,literal,Main action,PASS,0,,No,,Approved
+S22_Q2,S22,bn,adapted,Main action,PASS,0,,No,,Approved
+S22_Q2,S22,ta,literal,Main action,PASS,0,,No,,Approved
+S22_Q2,S22,ta,adapted,Main action,PASS,0,,No,,Approved
+S22_Q2,S22,es,literal,Main action,PASS,0,,No,,Approved
+S22_Q2,S22,es,adapted,Main action,PASS,0,,No,,Approved
+S22_Q2,S22,ja,literal,Main action,PASS,0,,No,,Approved
+S22_Q2,S22,ja,adapted,Main action,PASS,0,,No,,Approved
+S22_Q2,S22,ar,literal,Main action,PASS,0,,No,,Approved
+S22_Q2,S22,ar,adapted,Main action,PASS,0,,No,,Approved
+S22_Q3,S22,hi,literal,Affected party/object,PASS,0,,No,,Approved
+S22_Q3,S22,hi,adapted,Affected party/object,PASS,0,,No,,Approved
+S22_Q3,S22,bn,literal,Affected party/object,PASS,0,,No,,Approved
+S22_Q3,S22,bn,adapted,Affected party/object,PASS,0,,No,,Approved
+S22_Q3,S22,ta,literal,Affected party/object,PASS,0,,No,,Approved
+S22_Q3,S22,ta,adapted,Affected party/object,PASS,0,,No,,Approved
+S22_Q3,S22,es,literal,Affected party/object,PASS,0,,No,,Approved
+S22_Q3,S22,es,adapted,Affected party/object,PASS,0,,No,,Approved
+S22_Q3,S22,ja,literal,Affected party/object,PASS,0,,No,,Approved
+S22_Q3,S22,ja,adapted,Affected party/object,PASS,0,,No,,Approved
+S22_Q3,S22,ar,literal,Affected party/object,PASS,0,,No,,Approved
+S22_Q3,S22,ar,adapted,Affected party/object,PASS,0,,No,,Approved
+S22_Q4,S22,hi,literal,Consequence/outcome,PASS,0,,No,,Approved
+S22_Q4,S22,hi,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S22_Q4,S22,bn,literal,Consequence/outcome,PASS,0,,No,,Approved
+S22_Q4,S22,bn,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S22_Q4,S22,ta,literal,Consequence/outcome,PASS,0,,No,,Approved
+S22_Q4,S22,ta,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S22_Q4,S22,es,literal,Consequence/outcome,PASS,0,,No,,Approved
+S22_Q4,S22,es,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S22_Q4,S22,ja,literal,Consequence/outcome,PASS,0,,No,,Approved
+S22_Q4,S22,ja,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S22_Q4,S22,ar,literal,Consequence/outcome,PASS,0,,No,,Approved
+S22_Q4,S22,ar,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S49_Q1,S49,hi,literal,Actor,PASS,0,,No,,Approved
+S49_Q1,S49,hi,adapted,Actor,PASS,0,,No,,Approved
+S49_Q1,S49,bn,literal,Actor,PASS,0,,No,,Approved
+S49_Q1,S49,bn,adapted,Actor,PASS,0,,No,,Approved
+S49_Q1,S49,ta,literal,Actor,PASS,0,,No,,Approved
+S49_Q1,S49,ta,adapted,Actor,PASS,0,,No,,Approved
+S49_Q1,S49,es,literal,Actor,PASS,0,,No,,Approved
+S49_Q1,S49,es,adapted,Actor,PASS,0,,No,,Approved
+S49_Q1,S49,ja,literal,Actor,PASS,0,,No,,Approved
+S49_Q1,S49,ja,adapted,Actor,PASS,0,,No,,Approved
+S49_Q1,S49,ar,literal,Actor,PASS,0,,No,,Approved
+S49_Q1,S49,ar,adapted,Actor,PASS,0,,No,,Approved
+S49_Q2,S49,hi,literal,Main action,PASS,0,,No,,Approved
+S49_Q2,S49,hi,adapted,Main action,PASS,0,,No,,Approved
+S49_Q2,S49,bn,literal,Main action,PASS,0,,No,,Approved
+S49_Q2,S49,bn,adapted,Main action,PASS,0,,No,,Approved
+S49_Q2,S49,ta,literal,Main action,PASS,0,,No,,Approved
+S49_Q2,S49,ta,adapted,Main action,PASS,0,,No,,Approved
+S49_Q2,S49,es,literal,Main action,PASS,0,,No,,Approved
+S49_Q2,S49,es,adapted,Main action,PASS,0,,No,,Approved
+S49_Q2,S49,ja,literal,Main action,PASS,0,,No,,Approved
+S49_Q2,S49,ja,adapted,Main action,PASS,0,,No,,Approved
+S49_Q2,S49,ar,literal,Main action,PASS,0,,No,,Approved
+S49_Q2,S49,ar,adapted,Main action,PASS,0,,No,,Approved
+S49_Q3,S49,hi,literal,Affected party/object,PASS,0,,No,,Approved
+S49_Q3,S49,hi,adapted,Affected party/object,PASS,0,,No,,Approved
+S49_Q3,S49,bn,literal,Affected party/object,PASS,0,,No,,Approved
+S49_Q3,S49,bn,adapted,Affected party/object,PASS,0,,No,,Approved
+S49_Q3,S49,ta,literal,Affected party/object,PASS,0,,No,,Approved
+S49_Q3,S49,ta,adapted,Affected party/object,PASS,0,,No,,Approved
+S49_Q3,S49,es,literal,Affected party/object,PASS,0,,No,,Approved
+S49_Q3,S49,es,adapted,Affected party/object,PASS,0,,No,,Approved
+S49_Q3,S49,ja,literal,Affected party/object,PASS,0,,No,,Approved
+S49_Q3,S49,ja,adapted,Affected party/object,PASS,0,,No,,Approved
+S49_Q3,S49,ar,literal,Affected party/object,PASS,0,,No,,Approved
+S49_Q3,S49,ar,adapted,Affected party/object,PASS,0,,No,,Approved
+S49_Q4,S49,hi,literal,Consequence/outcome,PASS,0,,No,,Approved
+S49_Q4,S49,hi,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S49_Q4,S49,bn,literal,Consequence/outcome,PASS,0,,No,,Approved
+S49_Q4,S49,bn,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S49_Q4,S49,ta,literal,Consequence/outcome,PASS,0,,No,,Approved
+S49_Q4,S49,ta,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S49_Q4,S49,es,literal,Consequence/outcome,PASS,0,,No,,Approved
+S49_Q4,S49,es,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S49_Q4,S49,ja,literal,Consequence/outcome,PASS,0,,No,,Approved
+S49_Q4,S49,ja,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S49_Q4,S49,ar,literal,Consequence/outcome,PASS,0,,No,,Approved
+S49_Q4,S49,ar,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S24_Q1,S24,hi,literal,Actor,PASS,0,,No,,Approved
+S24_Q1,S24,hi,adapted,Actor,PASS,0,,No,,Approved
+S24_Q1,S24,bn,literal,Actor,PASS,0,,No,,Approved
+S24_Q1,S24,bn,adapted,Actor,PASS,0,,No,,Approved
+S24_Q1,S24,ta,literal,Actor,PASS,0,,No,,Approved
+S24_Q1,S24,ta,adapted,Actor,PASS,0,,No,,Approved
+S24_Q1,S24,es,literal,Actor,PASS,0,,No,,Approved
+S24_Q1,S24,es,adapted,Actor,PASS,0,,No,,Approved
+S24_Q1,S24,ja,literal,Actor,PASS,0,,No,,Approved
+S24_Q1,S24,ja,adapted,Actor,PASS,0,,No,,Approved
+S24_Q1,S24,ar,literal,Actor,PASS,0,,No,,Approved
+S24_Q1,S24,ar,adapted,Actor,PASS,0,,No,,Approved
+S24_Q2,S24,hi,literal,Main action,PASS,0,,No,,Approved
+S24_Q2,S24,hi,adapted,Main action,PASS,0,,No,,Approved
+S24_Q2,S24,bn,literal,Main action,PASS,0,,No,,Approved
+S24_Q2,S24,bn,adapted,Main action,PASS,0,,No,,Approved
+S24_Q2,S24,ta,literal,Main action,PASS,0,,No,,Approved
+S24_Q2,S24,ta,adapted,Main action,PASS,0,,No,,Approved
+S24_Q2,S24,es,literal,Main action,PASS,0,,No,,Approved
+S24_Q2,S24,es,adapted,Main action,PASS,0,,No,,Approved
+S24_Q2,S24,ja,literal,Main action,PASS,0,,No,,Approved
+S24_Q2,S24,ja,adapted,Main action,PASS,0,,No,,Approved
+S24_Q2,S24,ar,literal,Main action,PASS,0,,No,,Approved
+S24_Q2,S24,ar,adapted,Main action,PASS,0,,No,,Approved
+S24_Q3,S24,hi,literal,Affected party/object,PASS,0,,No,,Approved
+S24_Q3,S24,hi,adapted,Affected party/object,PASS,0,,No,,Approved
+S24_Q3,S24,bn,literal,Affected party/object,PASS,0,,No,,Approved
+S24_Q3,S24,bn,adapted,Affected party/object,PASS,0,,No,,Approved
+S24_Q3,S24,ta,literal,Affected party/object,PASS,0,,No,,Approved
+S24_Q3,S24,ta,adapted,Affected party/object,PASS,0,,No,,Approved
+S24_Q3,S24,es,literal,Affected party/object,PASS,0,,No,,Approved
+S24_Q3,S24,es,adapted,Affected party/object,PASS,0,,No,,Approved
+S24_Q3,S24,ja,literal,Affected party/object,PASS,0,,No,,Approved
+S24_Q3,S24,ja,adapted,Affected party/object,PASS,0,,No,,Approved
+S24_Q3,S24,ar,literal,Affected party/object,PASS,0,,No,,Approved
+S24_Q3,S24,ar,adapted,Affected party/object,PASS,0,,No,,Approved
+S24_Q4,S24,hi,literal,Consequence/outcome,PASS,0,,No,,Approved
+S24_Q4,S24,hi,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S24_Q4,S24,bn,literal,Consequence/outcome,PASS,0,,No,,Approved
+S24_Q4,S24,bn,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S24_Q4,S24,ta,literal,Consequence/outcome,PASS,0,,No,,Approved
+S24_Q4,S24,ta,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S24_Q4,S24,es,literal,Consequence/outcome,PASS,0,,No,,Approved
+S24_Q4,S24,es,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S24_Q4,S24,ja,literal,Consequence/outcome,PASS,0,,No,,Approved
+S24_Q4,S24,ja,adapted,Consequence/outcome,PASS,0,,No,,Approved
+S24_Q4,S24,ar,literal,Consequence/outcome,PASS,0,,No,,Approved
+S24_Q4,S24,ar,adapted,Consequence/outcome,PASS,0,,No,,Approved

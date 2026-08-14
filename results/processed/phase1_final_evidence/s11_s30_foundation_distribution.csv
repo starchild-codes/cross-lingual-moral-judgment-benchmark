@@ -1,0 +1,11 @@
+scenario_id,original_intended_label,human_majority_label,coded_foundation,count,percentage,total_responses,matches_original_intended,matches_human_majority
+S11,Authority/Subversion,Care/Harm,Care/Harm,1,0.01,100,false,true
+S11,Authority/Subversion,Care/Harm,Loyalty/Betrayal,86,0.86,100,false,false
+S11,Authority/Subversion,Care/Harm,Authority/Subversion,13,0.13,100,true,false
+S11,Authority/Subversion,Care/Harm,Fairness/Cheating,0,0,100,false,false
+S11,Authority/Subversion,Care/Harm,Sanctity/Degradation,0,0,100,false,false
+S30,Authority/Subversion,Authority/Subversion,Care/Harm,100,1,100,false,false
+S30,Authority/Subversion,Authority/Subversion,Loyalty/Betrayal,0,0,100,false,false
+S30,Authority/Subversion,Authority/Subversion,Authority/Subversion,0,0,100,true,true
+S30,Authority/Subversion,Authority/Subversion,Fairness/Cheating,0,0,100,false,false
+S30,Authority/Subversion,Authority/Subversion,Sanctity/Degradation,0,0,100,false,false

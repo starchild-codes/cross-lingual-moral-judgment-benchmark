@@ -1,0 +1,2 @@
+coder_a,coder_b,valid_paired_rows,exact_agreements,raw_agreement,cohens_kappa,provenance_type
+meta-llama/llama-3.3-70b-instruct,deepseek/deepseek-chat,996,959,0.9628514056224899,0.9481502533957279,LLM-to-LLM reliability; not human inter-rater reliability

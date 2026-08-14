@@ -1,0 +1,19 @@
+{
+  "temperature": 0,
+  "max_tokens": 24,
+  "retry_limit": 3,
+  "models": {
+    "chatgpt": {
+      "model_id": "openai/gpt-4o-2024-11-20"
+    },
+    "claude": {
+      "model_id": "anthropic/claude-sonnet-4.6"
+    },
+    "gemini_flash": {
+      "model_id": "google/gemini-3.5-flash",
+      "reasoning": {
+        "effort": "minimal"
+      }
+    }
+  }
+}

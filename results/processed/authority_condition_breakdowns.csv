@@ -1,0 +1,481 @@
+﻿scenario_id,dimension,group_value,foundation,count,denominator,percentage
+S11,overall,Overall,Care/Harm,1,100,1.0
+S11,overall,Overall,Loyalty/Betrayal,86,100,86.0
+S11,overall,Overall,Authority/Subversion,13,100,13.0
+S11,overall,Overall,Fairness/Cheating,0,100,0.0
+S11,overall,Overall,Sanctity/Degradation,0,100,0.0
+S30,overall,Overall,Care/Harm,100,100,100.0
+S30,overall,Overall,Loyalty/Betrayal,0,100,0.0
+S30,overall,Overall,Authority/Subversion,0,100,0.0
+S30,overall,Overall,Fairness/Cheating,0,100,0.0
+S30,overall,Overall,Sanctity/Degradation,0,100,0.0
+S11,model,Claude Sonnet 4.6,Care/Harm,0,25,0.0
+S11,model,Claude Sonnet 4.6,Loyalty/Betrayal,21,25,84.0
+S11,model,Claude Sonnet 4.6,Authority/Subversion,4,25,16.0
+S11,model,Claude Sonnet 4.6,Fairness/Cheating,0,25,0.0
+S11,model,Claude Sonnet 4.6,Sanctity/Degradation,0,25,0.0
+S11,model,GPT-4o,Care/Harm,1,25,4.0
+S11,model,GPT-4o,Loyalty/Betrayal,21,25,84.0
+S11,model,GPT-4o,Authority/Subversion,3,25,12.0
+S11,model,GPT-4o,Fairness/Cheating,0,25,0.0
+S11,model,GPT-4o,Sanctity/Degradation,0,25,0.0
+S11,model,Gemini 3.1 Pro,Care/Harm,0,25,0.0
+S11,model,Gemini 3.1 Pro,Loyalty/Betrayal,21,25,84.0
+S11,model,Gemini 3.1 Pro,Authority/Subversion,4,25,16.0
+S11,model,Gemini 3.1 Pro,Fairness/Cheating,0,25,0.0
+S11,model,Gemini 3.1 Pro,Sanctity/Degradation,0,25,0.0
+S11,model,Gemini 3.5 Flash,Care/Harm,0,25,0.0
+S11,model,Gemini 3.5 Flash,Loyalty/Betrayal,23,25,92.0
+S11,model,Gemini 3.5 Flash,Authority/Subversion,2,25,8.0
+S11,model,Gemini 3.5 Flash,Fairness/Cheating,0,25,0.0
+S11,model,Gemini 3.5 Flash,Sanctity/Degradation,0,25,0.0
+S30,model,Claude Sonnet 4.6,Care/Harm,25,25,100.0
+S30,model,Claude Sonnet 4.6,Loyalty/Betrayal,0,25,0.0
+S30,model,Claude Sonnet 4.6,Authority/Subversion,0,25,0.0
+S30,model,Claude Sonnet 4.6,Fairness/Cheating,0,25,0.0
+S30,model,Claude Sonnet 4.6,Sanctity/Degradation,0,25,0.0
+S30,model,GPT-4o,Care/Harm,25,25,100.0
+S30,model,GPT-4o,Loyalty/Betrayal,0,25,0.0
+S30,model,GPT-4o,Authority/Subversion,0,25,0.0
+S30,model,GPT-4o,Fairness/Cheating,0,25,0.0
+S30,model,GPT-4o,Sanctity/Degradation,0,25,0.0
+S30,model,Gemini 3.1 Pro,Care/Harm,25,25,100.0
+S30,model,Gemini 3.1 Pro,Loyalty/Betrayal,0,25,0.0
+S30,model,Gemini 3.1 Pro,Authority/Subversion,0,25,0.0
+S30,model,Gemini 3.1 Pro,Fairness/Cheating,0,25,0.0
+S30,model,Gemini 3.1 Pro,Sanctity/Degradation,0,25,0.0
+S30,model,Gemini 3.5 Flash,Care/Harm,25,25,100.0
+S30,model,Gemini 3.5 Flash,Loyalty/Betrayal,0,25,0.0
+S30,model,Gemini 3.5 Flash,Authority/Subversion,0,25,0.0
+S30,model,Gemini 3.5 Flash,Fairness/Cheating,0,25,0.0
+S30,model,Gemini 3.5 Flash,Sanctity/Degradation,0,25,0.0
+S11,input_language,Arabic,Care/Harm,1,16,6.25
+S11,input_language,Arabic,Loyalty/Betrayal,11,16,68.75
+S11,input_language,Arabic,Authority/Subversion,4,16,25.0
+S11,input_language,Arabic,Fairness/Cheating,0,16,0.0
+S11,input_language,Arabic,Sanctity/Degradation,0,16,0.0
+S11,input_language,Bengali,Care/Harm,0,16,0.0
+S11,input_language,Bengali,Loyalty/Betrayal,15,16,93.75
+S11,input_language,Bengali,Authority/Subversion,1,16,6.25
+S11,input_language,Bengali,Fairness/Cheating,0,16,0.0
+S11,input_language,Bengali,Sanctity/Degradation,0,16,0.0
+S11,input_language,English,Care/Harm,0,4,0.0
+S11,input_language,English,Loyalty/Betrayal,4,4,100.0
+S11,input_language,English,Authority/Subversion,0,4,0.0
+S11,input_language,English,Fairness/Cheating,0,4,0.0
+S11,input_language,English,Sanctity/Degradation,0,4,0.0
+S11,input_language,Hindi,Care/Harm,0,16,0.0
+S11,input_language,Hindi,Loyalty/Betrayal,15,16,93.75
+S11,input_language,Hindi,Authority/Subversion,1,16,6.25
+S11,input_language,Hindi,Fairness/Cheating,0,16,0.0
+S11,input_language,Hindi,Sanctity/Degradation,0,16,0.0
+S11,input_language,Japanese,Care/Harm,0,16,0.0
+S11,input_language,Japanese,Loyalty/Betrayal,13,16,81.25
+S11,input_language,Japanese,Authority/Subversion,3,16,18.75
+S11,input_language,Japanese,Fairness/Cheating,0,16,0.0
+S11,input_language,Japanese,Sanctity/Degradation,0,16,0.0
+S11,input_language,Spanish,Care/Harm,0,16,0.0
+S11,input_language,Spanish,Loyalty/Betrayal,15,16,93.75
+S11,input_language,Spanish,Authority/Subversion,1,16,6.25
+S11,input_language,Spanish,Fairness/Cheating,0,16,0.0
+S11,input_language,Spanish,Sanctity/Degradation,0,16,0.0
+S11,input_language,Tamil,Care/Harm,0,16,0.0
+S11,input_language,Tamil,Loyalty/Betrayal,13,16,81.25
+S11,input_language,Tamil,Authority/Subversion,3,16,18.75
+S11,input_language,Tamil,Fairness/Cheating,0,16,0.0
+S11,input_language,Tamil,Sanctity/Degradation,0,16,0.0
+S30,input_language,Arabic,Care/Harm,16,16,100.0
+S30,input_language,Arabic,Loyalty/Betrayal,0,16,0.0
+S30,input_language,Arabic,Authority/Subversion,0,16,0.0
+S30,input_language,Arabic,Fairness/Cheating,0,16,0.0
+S30,input_language,Arabic,Sanctity/Degradation,0,16,0.0
+S30,input_language,Bengali,Care/Harm,16,16,100.0
+S30,input_language,Bengali,Loyalty/Betrayal,0,16,0.0
+S30,input_language,Bengali,Authority/Subversion,0,16,0.0
+S30,input_language,Bengali,Fairness/Cheating,0,16,0.0
+S30,input_language,Bengali,Sanctity/Degradation,0,16,0.0
+S30,input_language,English,Care/Harm,4,4,100.0
+S30,input_language,English,Loyalty/Betrayal,0,4,0.0
+S30,input_language,English,Authority/Subversion,0,4,0.0
+S30,input_language,English,Fairness/Cheating,0,4,0.0
+S30,input_language,English,Sanctity/Degradation,0,4,0.0
+S30,input_language,Hindi,Care/Harm,16,16,100.0
+S30,input_language,Hindi,Loyalty/Betrayal,0,16,0.0
+S30,input_language,Hindi,Authority/Subversion,0,16,0.0
+S30,input_language,Hindi,Fairness/Cheating,0,16,0.0
+S30,input_language,Hindi,Sanctity/Degradation,0,16,0.0
+S30,input_language,Japanese,Care/Harm,16,16,100.0
+S30,input_language,Japanese,Loyalty/Betrayal,0,16,0.0
+S30,input_language,Japanese,Authority/Subversion,0,16,0.0
+S30,input_language,Japanese,Fairness/Cheating,0,16,0.0
+S30,input_language,Japanese,Sanctity/Degradation,0,16,0.0
+S30,input_language,Spanish,Care/Harm,16,16,100.0
+S30,input_language,Spanish,Loyalty/Betrayal,0,16,0.0
+S30,input_language,Spanish,Authority/Subversion,0,16,0.0
+S30,input_language,Spanish,Fairness/Cheating,0,16,0.0
+S30,input_language,Spanish,Sanctity/Degradation,0,16,0.0
+S30,input_language,Tamil,Care/Harm,16,16,100.0
+S30,input_language,Tamil,Loyalty/Betrayal,0,16,0.0
+S30,input_language,Tamil,Authority/Subversion,0,16,0.0
+S30,input_language,Tamil,Fairness/Cheating,0,16,0.0
+S30,input_language,Tamil,Sanctity/Degradation,0,16,0.0
+S11,framing,Adapted,Care/Harm,0,48,0.0
+S11,framing,Adapted,Loyalty/Betrayal,41,48,85.41666666666666
+S11,framing,Adapted,Authority/Subversion,7,48,14.583333333333334
+S11,framing,Adapted,Fairness/Cheating,0,48,0.0
+S11,framing,Adapted,Sanctity/Degradation,0,48,0.0
+S11,framing,English baseline,Care/Harm,0,4,0.0
+S11,framing,English baseline,Loyalty/Betrayal,4,4,100.0
+S11,framing,English baseline,Authority/Subversion,0,4,0.0
+S11,framing,English baseline,Fairness/Cheating,0,4,0.0
+S11,framing,English baseline,Sanctity/Degradation,0,4,0.0
+S11,framing,Literal,Care/Harm,1,48,2.083333333333333
+S11,framing,Literal,Loyalty/Betrayal,41,48,85.41666666666666
+S11,framing,Literal,Authority/Subversion,6,48,12.5
+S11,framing,Literal,Fairness/Cheating,0,48,0.0
+S11,framing,Literal,Sanctity/Degradation,0,48,0.0
+S30,framing,Adapted,Care/Harm,48,48,100.0
+S30,framing,Adapted,Loyalty/Betrayal,0,48,0.0
+S30,framing,Adapted,Authority/Subversion,0,48,0.0
+S30,framing,Adapted,Fairness/Cheating,0,48,0.0
+S30,framing,Adapted,Sanctity/Degradation,0,48,0.0
+S30,framing,English baseline,Care/Harm,4,4,100.0
+S30,framing,English baseline,Loyalty/Betrayal,0,4,0.0
+S30,framing,English baseline,Authority/Subversion,0,4,0.0
+S30,framing,English baseline,Fairness/Cheating,0,4,0.0
+S30,framing,English baseline,Sanctity/Degradation,0,4,0.0
+S30,framing,Literal,Care/Harm,48,48,100.0
+S30,framing,Literal,Loyalty/Betrayal,0,48,0.0
+S30,framing,Literal,Authority/Subversion,0,48,0.0
+S30,framing,Literal,Fairness/Cheating,0,48,0.0
+S30,framing,Literal,Sanctity/Degradation,0,48,0.0
+S11,response_instruction,English baseline,Care/Harm,0,4,0.0
+S11,response_instruction,English baseline,Loyalty/Betrayal,4,4,100.0
+S11,response_instruction,English baseline,Authority/Subversion,0,4,0.0
+S11,response_instruction,English baseline,Fairness/Cheating,0,4,0.0
+S11,response_instruction,English baseline,Sanctity/Degradation,0,4,0.0
+S11,response_instruction,English response,Care/Harm,1,48,2.083333333333333
+S11,response_instruction,English response,Loyalty/Betrayal,39,48,81.25
+S11,response_instruction,English response,Authority/Subversion,8,48,16.666666666666664
+S11,response_instruction,English response,Fairness/Cheating,0,48,0.0
+S11,response_instruction,English response,Sanctity/Degradation,0,48,0.0
+S11,response_instruction,Same-language response,Care/Harm,0,48,0.0
+S11,response_instruction,Same-language response,Loyalty/Betrayal,43,48,89.58333333333334
+S11,response_instruction,Same-language response,Authority/Subversion,5,48,10.416666666666668
+S11,response_instruction,Same-language response,Fairness/Cheating,0,48,0.0
+S11,response_instruction,Same-language response,Sanctity/Degradation,0,48,0.0
+S30,response_instruction,English baseline,Care/Harm,4,4,100.0
+S30,response_instruction,English baseline,Loyalty/Betrayal,0,4,0.0
+S30,response_instruction,English baseline,Authority/Subversion,0,4,0.0
+S30,response_instruction,English baseline,Fairness/Cheating,0,4,0.0
+S30,response_instruction,English baseline,Sanctity/Degradation,0,4,0.0
+S30,response_instruction,English response,Care/Harm,48,48,100.0
+S30,response_instruction,English response,Loyalty/Betrayal,0,48,0.0
+S30,response_instruction,English response,Authority/Subversion,0,48,0.0
+S30,response_instruction,English response,Fairness/Cheating,0,48,0.0
+S30,response_instruction,English response,Sanctity/Degradation,0,48,0.0
+S30,response_instruction,Same-language response,Care/Harm,48,48,100.0
+S30,response_instruction,Same-language response,Loyalty/Betrayal,0,48,0.0
+S30,response_instruction,Same-language response,Authority/Subversion,0,48,0.0
+S30,response_instruction,Same-language response,Fairness/Cheating,0,48,0.0
+S30,response_instruction,Same-language response,Sanctity/Degradation,0,48,0.0
+S11,condition_type,"Adapted, English response",Care/Harm,0,24,0.0
+S11,condition_type,"Adapted, English response",Loyalty/Betrayal,20,24,83.33333333333334
+S11,condition_type,"Adapted, English response",Authority/Subversion,4,24,16.666666666666664
+S11,condition_type,"Adapted, English response",Fairness/Cheating,0,24,0.0
+S11,condition_type,"Adapted, English response",Sanctity/Degradation,0,24,0.0
+S11,condition_type,"Adapted, Same-language response",Care/Harm,0,24,0.0
+S11,condition_type,"Adapted, Same-language response",Loyalty/Betrayal,21,24,87.5
+S11,condition_type,"Adapted, Same-language response",Authority/Subversion,3,24,12.5
+S11,condition_type,"Adapted, Same-language response",Fairness/Cheating,0,24,0.0
+S11,condition_type,"Adapted, Same-language response",Sanctity/Degradation,0,24,0.0
+S11,condition_type,English baseline,Care/Harm,0,4,0.0
+S11,condition_type,English baseline,Loyalty/Betrayal,4,4,100.0
+S11,condition_type,English baseline,Authority/Subversion,0,4,0.0
+S11,condition_type,English baseline,Fairness/Cheating,0,4,0.0
+S11,condition_type,English baseline,Sanctity/Degradation,0,4,0.0
+S11,condition_type,"Literal, English response",Care/Harm,1,24,4.166666666666666
+S11,condition_type,"Literal, English response",Loyalty/Betrayal,19,24,79.16666666666666
+S11,condition_type,"Literal, English response",Authority/Subversion,4,24,16.666666666666664
+S11,condition_type,"Literal, English response",Fairness/Cheating,0,24,0.0
+S11,condition_type,"Literal, English response",Sanctity/Degradation,0,24,0.0
+S11,condition_type,"Literal, Same-language response",Care/Harm,0,24,0.0
+S11,condition_type,"Literal, Same-language response",Loyalty/Betrayal,22,24,91.66666666666666
+S11,condition_type,"Literal, Same-language response",Authority/Subversion,2,24,8.333333333333332
+S11,condition_type,"Literal, Same-language response",Fairness/Cheating,0,24,0.0
+S11,condition_type,"Literal, Same-language response",Sanctity/Degradation,0,24,0.0
+S30,condition_type,"Adapted, English response",Care/Harm,24,24,100.0
+S30,condition_type,"Adapted, English response",Loyalty/Betrayal,0,24,0.0
+S30,condition_type,"Adapted, English response",Authority/Subversion,0,24,0.0
+S30,condition_type,"Adapted, English response",Fairness/Cheating,0,24,0.0
+S30,condition_type,"Adapted, English response",Sanctity/Degradation,0,24,0.0
+S30,condition_type,"Adapted, Same-language response",Care/Harm,24,24,100.0
+S30,condition_type,"Adapted, Same-language response",Loyalty/Betrayal,0,24,0.0
+S30,condition_type,"Adapted, Same-language response",Authority/Subversion,0,24,0.0
+S30,condition_type,"Adapted, Same-language response",Fairness/Cheating,0,24,0.0
+S30,condition_type,"Adapted, Same-language response",Sanctity/Degradation,0,24,0.0
+S30,condition_type,English baseline,Care/Harm,4,4,100.0
+S30,condition_type,English baseline,Loyalty/Betrayal,0,4,0.0
+S30,condition_type,English baseline,Authority/Subversion,0,4,0.0
+S30,condition_type,English baseline,Fairness/Cheating,0,4,0.0
+S30,condition_type,English baseline,Sanctity/Degradation,0,4,0.0
+S30,condition_type,"Literal, English response",Care/Harm,24,24,100.0
+S30,condition_type,"Literal, English response",Loyalty/Betrayal,0,24,0.0
+S30,condition_type,"Literal, English response",Authority/Subversion,0,24,0.0
+S30,condition_type,"Literal, English response",Fairness/Cheating,0,24,0.0
+S30,condition_type,"Literal, English response",Sanctity/Degradation,0,24,0.0
+S30,condition_type,"Literal, Same-language response",Care/Harm,24,24,100.0
+S30,condition_type,"Literal, Same-language response",Loyalty/Betrayal,0,24,0.0
+S30,condition_type,"Literal, Same-language response",Authority/Subversion,0,24,0.0
+S30,condition_type,"Literal, Same-language response",Fairness/Cheating,0,24,0.0
+S30,condition_type,"Literal, Same-language response",Sanctity/Degradation,0,24,0.0
+S11,condition_id,ar_adapted_reason_ar,Care/Harm,0,4,0.0
+S11,condition_id,ar_adapted_reason_ar,Loyalty/Betrayal,2,4,50.0
+S11,condition_id,ar_adapted_reason_ar,Authority/Subversion,2,4,50.0
+S11,condition_id,ar_adapted_reason_ar,Fairness/Cheating,0,4,0.0
+S11,condition_id,ar_adapted_reason_ar,Sanctity/Degradation,0,4,0.0
+S11,condition_id,ar_adapted_reason_en,Care/Harm,0,4,0.0
+S11,condition_id,ar_adapted_reason_en,Loyalty/Betrayal,3,4,75.0
+S11,condition_id,ar_adapted_reason_en,Authority/Subversion,1,4,25.0
+S11,condition_id,ar_adapted_reason_en,Fairness/Cheating,0,4,0.0
+S11,condition_id,ar_adapted_reason_en,Sanctity/Degradation,0,4,0.0
+S11,condition_id,ar_translation_reason_ar,Care/Harm,0,4,0.0
+S11,condition_id,ar_translation_reason_ar,Loyalty/Betrayal,3,4,75.0
+S11,condition_id,ar_translation_reason_ar,Authority/Subversion,1,4,25.0
+S11,condition_id,ar_translation_reason_ar,Fairness/Cheating,0,4,0.0
+S11,condition_id,ar_translation_reason_ar,Sanctity/Degradation,0,4,0.0
+S11,condition_id,ar_translation_reason_en,Care/Harm,1,4,25.0
+S11,condition_id,ar_translation_reason_en,Loyalty/Betrayal,3,4,75.0
+S11,condition_id,ar_translation_reason_en,Authority/Subversion,0,4,0.0
+S11,condition_id,ar_translation_reason_en,Fairness/Cheating,0,4,0.0
+S11,condition_id,ar_translation_reason_en,Sanctity/Degradation,0,4,0.0
+S11,condition_id,bn_adapted_reason_bn,Care/Harm,0,4,0.0
+S11,condition_id,bn_adapted_reason_bn,Loyalty/Betrayal,4,4,100.0
+S11,condition_id,bn_adapted_reason_bn,Authority/Subversion,0,4,0.0
+S11,condition_id,bn_adapted_reason_bn,Fairness/Cheating,0,4,0.0
+S11,condition_id,bn_adapted_reason_bn,Sanctity/Degradation,0,4,0.0
+S11,condition_id,bn_adapted_reason_en,Care/Harm,0,4,0.0
+S11,condition_id,bn_adapted_reason_en,Loyalty/Betrayal,3,4,75.0
+S11,condition_id,bn_adapted_reason_en,Authority/Subversion,1,4,25.0
+S11,condition_id,bn_adapted_reason_en,Fairness/Cheating,0,4,0.0
+S11,condition_id,bn_adapted_reason_en,Sanctity/Degradation,0,4,0.0
+S11,condition_id,bn_translation_reason_bn,Care/Harm,0,4,0.0
+S11,condition_id,bn_translation_reason_bn,Loyalty/Betrayal,4,4,100.0
+S11,condition_id,bn_translation_reason_bn,Authority/Subversion,0,4,0.0
+S11,condition_id,bn_translation_reason_bn,Fairness/Cheating,0,4,0.0
+S11,condition_id,bn_translation_reason_bn,Sanctity/Degradation,0,4,0.0
+S11,condition_id,bn_translation_reason_en,Care/Harm,0,4,0.0
+S11,condition_id,bn_translation_reason_en,Loyalty/Betrayal,4,4,100.0
+S11,condition_id,bn_translation_reason_en,Authority/Subversion,0,4,0.0
+S11,condition_id,bn_translation_reason_en,Fairness/Cheating,0,4,0.0
+S11,condition_id,bn_translation_reason_en,Sanctity/Degradation,0,4,0.0
+S11,condition_id,en_en,Care/Harm,0,4,0.0
+S11,condition_id,en_en,Loyalty/Betrayal,4,4,100.0
+S11,condition_id,en_en,Authority/Subversion,0,4,0.0
+S11,condition_id,en_en,Fairness/Cheating,0,4,0.0
+S11,condition_id,en_en,Sanctity/Degradation,0,4,0.0
+S11,condition_id,es_adapted_reason_en,Care/Harm,0,4,0.0
+S11,condition_id,es_adapted_reason_en,Loyalty/Betrayal,4,4,100.0
+S11,condition_id,es_adapted_reason_en,Authority/Subversion,0,4,0.0
+S11,condition_id,es_adapted_reason_en,Fairness/Cheating,0,4,0.0
+S11,condition_id,es_adapted_reason_en,Sanctity/Degradation,0,4,0.0
+S11,condition_id,es_adapted_reason_es,Care/Harm,0,4,0.0
+S11,condition_id,es_adapted_reason_es,Loyalty/Betrayal,4,4,100.0
+S11,condition_id,es_adapted_reason_es,Authority/Subversion,0,4,0.0
+S11,condition_id,es_adapted_reason_es,Fairness/Cheating,0,4,0.0
+S11,condition_id,es_adapted_reason_es,Sanctity/Degradation,0,4,0.0
+S11,condition_id,es_translation_reason_en,Care/Harm,0,4,0.0
+S11,condition_id,es_translation_reason_en,Loyalty/Betrayal,3,4,75.0
+S11,condition_id,es_translation_reason_en,Authority/Subversion,1,4,25.0
+S11,condition_id,es_translation_reason_en,Fairness/Cheating,0,4,0.0
+S11,condition_id,es_translation_reason_en,Sanctity/Degradation,0,4,0.0
+S11,condition_id,es_translation_reason_es,Care/Harm,0,4,0.0
+S11,condition_id,es_translation_reason_es,Loyalty/Betrayal,4,4,100.0
+S11,condition_id,es_translation_reason_es,Authority/Subversion,0,4,0.0
+S11,condition_id,es_translation_reason_es,Fairness/Cheating,0,4,0.0
+S11,condition_id,es_translation_reason_es,Sanctity/Degradation,0,4,0.0
+S11,condition_id,hi_adapted_reason_en,Care/Harm,0,4,0.0
+S11,condition_id,hi_adapted_reason_en,Loyalty/Betrayal,4,4,100.0
+S11,condition_id,hi_adapted_reason_en,Authority/Subversion,0,4,0.0
+S11,condition_id,hi_adapted_reason_en,Fairness/Cheating,0,4,0.0
+S11,condition_id,hi_adapted_reason_en,Sanctity/Degradation,0,4,0.0
+S11,condition_id,hi_adapted_reason_hi,Care/Harm,0,4,0.0
+S11,condition_id,hi_adapted_reason_hi,Loyalty/Betrayal,4,4,100.0
+S11,condition_id,hi_adapted_reason_hi,Authority/Subversion,0,4,0.0
+S11,condition_id,hi_adapted_reason_hi,Fairness/Cheating,0,4,0.0
+S11,condition_id,hi_adapted_reason_hi,Sanctity/Degradation,0,4,0.0
+S11,condition_id,hi_translation_reason_en,Care/Harm,0,4,0.0
+S11,condition_id,hi_translation_reason_en,Loyalty/Betrayal,3,4,75.0
+S11,condition_id,hi_translation_reason_en,Authority/Subversion,1,4,25.0
+S11,condition_id,hi_translation_reason_en,Fairness/Cheating,0,4,0.0
+S11,condition_id,hi_translation_reason_en,Sanctity/Degradation,0,4,0.0
+S11,condition_id,hi_translation_reason_hi,Care/Harm,0,4,0.0
+S11,condition_id,hi_translation_reason_hi,Loyalty/Betrayal,4,4,100.0
+S11,condition_id,hi_translation_reason_hi,Authority/Subversion,0,4,0.0
+S11,condition_id,hi_translation_reason_hi,Fairness/Cheating,0,4,0.0
+S11,condition_id,hi_translation_reason_hi,Sanctity/Degradation,0,4,0.0
+S11,condition_id,ja_adapted_reason_en,Care/Harm,0,4,0.0
+S11,condition_id,ja_adapted_reason_en,Loyalty/Betrayal,3,4,75.0
+S11,condition_id,ja_adapted_reason_en,Authority/Subversion,1,4,25.0
+S11,condition_id,ja_adapted_reason_en,Fairness/Cheating,0,4,0.0
+S11,condition_id,ja_adapted_reason_en,Sanctity/Degradation,0,4,0.0
+S11,condition_id,ja_adapted_reason_ja,Care/Harm,0,4,0.0
+S11,condition_id,ja_adapted_reason_ja,Loyalty/Betrayal,4,4,100.0
+S11,condition_id,ja_adapted_reason_ja,Authority/Subversion,0,4,0.0
+S11,condition_id,ja_adapted_reason_ja,Fairness/Cheating,0,4,0.0
+S11,condition_id,ja_adapted_reason_ja,Sanctity/Degradation,0,4,0.0
+S11,condition_id,ja_translation_reason_en,Care/Harm,0,4,0.0
+S11,condition_id,ja_translation_reason_en,Loyalty/Betrayal,3,4,75.0
+S11,condition_id,ja_translation_reason_en,Authority/Subversion,1,4,25.0
+S11,condition_id,ja_translation_reason_en,Fairness/Cheating,0,4,0.0
+S11,condition_id,ja_translation_reason_en,Sanctity/Degradation,0,4,0.0
+S11,condition_id,ja_translation_reason_ja,Care/Harm,0,4,0.0
+S11,condition_id,ja_translation_reason_ja,Loyalty/Betrayal,3,4,75.0
+S11,condition_id,ja_translation_reason_ja,Authority/Subversion,1,4,25.0
+S11,condition_id,ja_translation_reason_ja,Fairness/Cheating,0,4,0.0
+S11,condition_id,ja_translation_reason_ja,Sanctity/Degradation,0,4,0.0
+S11,condition_id,ta_adapted_reason_en,Care/Harm,0,4,0.0
+S11,condition_id,ta_adapted_reason_en,Loyalty/Betrayal,3,4,75.0
+S11,condition_id,ta_adapted_reason_en,Authority/Subversion,1,4,25.0
+S11,condition_id,ta_adapted_reason_en,Fairness/Cheating,0,4,0.0
+S11,condition_id,ta_adapted_reason_en,Sanctity/Degradation,0,4,0.0
+S11,condition_id,ta_adapted_reason_ta,Care/Harm,0,4,0.0
+S11,condition_id,ta_adapted_reason_ta,Loyalty/Betrayal,3,4,75.0
+S11,condition_id,ta_adapted_reason_ta,Authority/Subversion,1,4,25.0
+S11,condition_id,ta_adapted_reason_ta,Fairness/Cheating,0,4,0.0
+S11,condition_id,ta_adapted_reason_ta,Sanctity/Degradation,0,4,0.0
+S11,condition_id,ta_translation_reason_en,Care/Harm,0,4,0.0
+S11,condition_id,ta_translation_reason_en,Loyalty/Betrayal,3,4,75.0
+S11,condition_id,ta_translation_reason_en,Authority/Subversion,1,4,25.0
+S11,condition_id,ta_translation_reason_en,Fairness/Cheating,0,4,0.0
+S11,condition_id,ta_translation_reason_en,Sanctity/Degradation,0,4,0.0
+S11,condition_id,ta_translation_reason_ta,Care/Harm,0,4,0.0
+S11,condition_id,ta_translation_reason_ta,Loyalty/Betrayal,4,4,100.0
+S11,condition_id,ta_translation_reason_ta,Authority/Subversion,0,4,0.0
+S11,condition_id,ta_translation_reason_ta,Fairness/Cheating,0,4,0.0
+S11,condition_id,ta_translation_reason_ta,Sanctity/Degradation,0,4,0.0
+S30,condition_id,ar_adapted_reason_ar,Care/Harm,4,4,100.0
+S30,condition_id,ar_adapted_reason_ar,Loyalty/Betrayal,0,4,0.0
+S30,condition_id,ar_adapted_reason_ar,Authority/Subversion,0,4,0.0
+S30,condition_id,ar_adapted_reason_ar,Fairness/Cheating,0,4,0.0
+S30,condition_id,ar_adapted_reason_ar,Sanctity/Degradation,0,4,0.0
+S30,condition_id,ar_adapted_reason_en,Care/Harm,4,4,100.0
+S30,condition_id,ar_adapted_reason_en,Loyalty/Betrayal,0,4,0.0
+S30,condition_id,ar_adapted_reason_en,Authority/Subversion,0,4,0.0
+S30,condition_id,ar_adapted_reason_en,Fairness/Cheating,0,4,0.0
+S30,condition_id,ar_adapted_reason_en,Sanctity/Degradation,0,4,0.0
+S30,condition_id,ar_translation_reason_ar,Care/Harm,4,4,100.0
+S30,condition_id,ar_translation_reason_ar,Loyalty/Betrayal,0,4,0.0
+S30,condition_id,ar_translation_reason_ar,Authority/Subversion,0,4,0.0
+S30,condition_id,ar_translation_reason_ar,Fairness/Cheating,0,4,0.0
+S30,condition_id,ar_translation_reason_ar,Sanctity/Degradation,0,4,0.0
+S30,condition_id,ar_translation_reason_en,Care/Harm,4,4,100.0
+S30,condition_id,ar_translation_reason_en,Loyalty/Betrayal,0,4,0.0
+S30,condition_id,ar_translation_reason_en,Authority/Subversion,0,4,0.0
+S30,condition_id,ar_translation_reason_en,Fairness/Cheating,0,4,0.0
+S30,condition_id,ar_translation_reason_en,Sanctity/Degradation,0,4,0.0
+S30,condition_id,bn_adapted_reason_bn,Care/Harm,4,4,100.0
+S30,condition_id,bn_adapted_reason_bn,Loyalty/Betrayal,0,4,0.0
+S30,condition_id,bn_adapted_reason_bn,Authority/Subversion,0,4,0.0
+S30,condition_id,bn_adapted_reason_bn,Fairness/Cheating,0,4,0.0
+S30,condition_id,bn_adapted_reason_bn,Sanctity/Degradation,0,4,0.0
+S30,condition_id,bn_adapted_reason_en,Care/Harm,4,4,100.0
+S30,condition_id,bn_adapted_reason_en,Loyalty/Betrayal,0,4,0.0
+S30,condition_id,bn_adapted_reason_en,Authority/Subversion,0,4,0.0
+S30,condition_id,bn_adapted_reason_en,Fairness/Cheating,0,4,0.0
+S30,condition_id,bn_adapted_reason_en,Sanctity/Degradation,0,4,0.0
+S30,condition_id,bn_translation_reason_bn,Care/Harm,4,4,100.0
+S30,condition_id,bn_translation_reason_bn,Loyalty/Betrayal,0,4,0.0
+S30,condition_id,bn_translation_reason_bn,Authority/Subversion,0,4,0.0
+S30,condition_id,bn_translation_reason_bn,Fairness/Cheating,0,4,0.0
+S30,condition_id,bn_translation_reason_bn,Sanctity/Degradation,0,4,0.0
+S30,condition_id,bn_translation_reason_en,Care/Harm,4,4,100.0
+S30,condition_id,bn_translation_reason_en,Loyalty/Betrayal,0,4,0.0
+S30,condition_id,bn_translation_reason_en,Authority/Subversion,0,4,0.0
+S30,condition_id,bn_translation_reason_en,Fairness/Cheating,0,4,0.0
+S30,condition_id,bn_translation_reason_en,Sanctity/Degradation,0,4,0.0
+S30,condition_id,en_en,Care/Harm,4,4,100.0
+S30,condition_id,en_en,Loyalty/Betrayal,0,4,0.0
+S30,condition_id,en_en,Authority/Subversion,0,4,0.0
+S30,condition_id,en_en,Fairness/Cheating,0,4,0.0
+S30,condition_id,en_en,Sanctity/Degradation,0,4,0.0
+S30,condition_id,es_adapted_reason_en,Care/Harm,4,4,100.0
+S30,condition_id,es_adapted_reason_en,Loyalty/Betrayal,0,4,0.0
+S30,condition_id,es_adapted_reason_en,Authority/Subversion,0,4,0.0
+S30,condition_id,es_adapted_reason_en,Fairness/Cheating,0,4,0.0
+S30,condition_id,es_adapted_reason_en,Sanctity/Degradation,0,4,0.0
+S30,condition_id,es_adapted_reason_es,Care/Harm,4,4,100.0
+S30,condition_id,es_adapted_reason_es,Loyalty/Betrayal,0,4,0.0
+S30,condition_id,es_adapted_reason_es,Authority/Subversion,0,4,0.0
+S30,condition_id,es_adapted_reason_es,Fairness/Cheating,0,4,0.0
+S30,condition_id,es_adapted_reason_es,Sanctity/Degradation,0,4,0.0
+S30,condition_id,es_translation_reason_en,Care/Harm,4,4,100.0
+S30,condition_id,es_translation_reason_en,Loyalty/Betrayal,0,4,0.0
+S30,condition_id,es_translation_reason_en,Authority/Subversion,0,4,0.0
+S30,condition_id,es_translation_reason_en,Fairness/Cheating,0,4,0.0
+S30,condition_id,es_translation_reason_en,Sanctity/Degradation,0,4,0.0
+S30,condition_id,es_translation_reason_es,Care/Harm,4,4,100.0
+S30,condition_id,es_translation_reason_es,Loyalty/Betrayal,0,4,0.0
+S30,condition_id,es_translation_reason_es,Authority/Subversion,0,4,0.0
+S30,condition_id,es_translation_reason_es,Fairness/Cheating,0,4,0.0
+S30,condition_id,es_translation_reason_es,Sanctity/Degradation,0,4,0.0
+S30,condition_id,hi_adapted_reason_en,Care/Harm,4,4,100.0
+S30,condition_id,hi_adapted_reason_en,Loyalty/Betrayal,0,4,0.0
+S30,condition_id,hi_adapted_reason_en,Authority/Subversion,0,4,0.0
+S30,condition_id,hi_adapted_reason_en,Fairness/Cheating,0,4,0.0
+S30,condition_id,hi_adapted_reason_en,Sanctity/Degradation,0,4,0.0
+S30,condition_id,hi_adapted_reason_hi,Care/Harm,4,4,100.0
+S30,condition_id,hi_adapted_reason_hi,Loyalty/Betrayal,0,4,0.0
+S30,condition_id,hi_adapted_reason_hi,Authority/Subversion,0,4,0.0
+S30,condition_id,hi_adapted_reason_hi,Fairness/Cheating,0,4,0.0
+S30,condition_id,hi_adapted_reason_hi,Sanctity/Degradation,0,4,0.0
+S30,condition_id,hi_translation_reason_en,Care/Harm,4,4,100.0
+S30,condition_id,hi_translation_reason_en,Loyalty/Betrayal,0,4,0.0
+S30,condition_id,hi_translation_reason_en,Authority/Subversion,0,4,0.0
+S30,condition_id,hi_translation_reason_en,Fairness/Cheating,0,4,0.0
+S30,condition_id,hi_translation_reason_en,Sanctity/Degradation,0,4,0.0
+S30,condition_id,hi_translation_reason_hi,Care/Harm,4,4,100.0
+S30,condition_id,hi_translation_reason_hi,Loyalty/Betrayal,0,4,0.0
+S30,condition_id,hi_translation_reason_hi,Authority/Subversion,0,4,0.0
+S30,condition_id,hi_translation_reason_hi,Fairness/Cheating,0,4,0.0
+S30,condition_id,hi_translation_reason_hi,Sanctity/Degradation,0,4,0.0
+S30,condition_id,ja_adapted_reason_en,Care/Harm,4,4,100.0
+S30,condition_id,ja_adapted_reason_en,Loyalty/Betrayal,0,4,0.0
+S30,condition_id,ja_adapted_reason_en,Authority/Subversion,0,4,0.0
+S30,condition_id,ja_adapted_reason_en,Fairness/Cheating,0,4,0.0
+S30,condition_id,ja_adapted_reason_en,Sanctity/Degradation,0,4,0.0
+S30,condition_id,ja_adapted_reason_ja,Care/Harm,4,4,100.0
+S30,condition_id,ja_adapted_reason_ja,Loyalty/Betrayal,0,4,0.0
+S30,condition_id,ja_adapted_reason_ja,Authority/Subversion,0,4,0.0
+S30,condition_id,ja_adapted_reason_ja,Fairness/Cheating,0,4,0.0
+S30,condition_id,ja_adapted_reason_ja,Sanctity/Degradation,0,4,0.0
+S30,condition_id,ja_translation_reason_en,Care/Harm,4,4,100.0
+S30,condition_id,ja_translation_reason_en,Loyalty/Betrayal,0,4,0.0
+S30,condition_id,ja_translation_reason_en,Authority/Subversion,0,4,0.0
+S30,condition_id,ja_translation_reason_en,Fairness/Cheating,0,4,0.0
+S30,condition_id,ja_translation_reason_en,Sanctity/Degradation,0,4,0.0
+S30,condition_id,ja_translation_reason_ja,Care/Harm,4,4,100.0
+S30,condition_id,ja_translation_reason_ja,Loyalty/Betrayal,0,4,0.0
+S30,condition_id,ja_translation_reason_ja,Authority/Subversion,0,4,0.0
+S30,condition_id,ja_translation_reason_ja,Fairness/Cheating,0,4,0.0
+S30,condition_id,ja_translation_reason_ja,Sanctity/Degradation,0,4,0.0
+S30,condition_id,ta_adapted_reason_en,Care/Harm,4,4,100.0
+S30,condition_id,ta_adapted_reason_en,Loyalty/Betrayal,0,4,0.0
+S30,condition_id,ta_adapted_reason_en,Authority/Subversion,0,4,0.0
+S30,condition_id,ta_adapted_reason_en,Fairness/Cheating,0,4,0.0
+S30,condition_id,ta_adapted_reason_en,Sanctity/Degradation,0,4,0.0
+S30,condition_id,ta_adapted_reason_ta,Care/Harm,4,4,100.0
+S30,condition_id,ta_adapted_reason_ta,Loyalty/Betrayal,0,4,0.0
+S30,condition_id,ta_adapted_reason_ta,Authority/Subversion,0,4,0.0
+S30,condition_id,ta_adapted_reason_ta,Fairness/Cheating,0,4,0.0
+S30,condition_id,ta_adapted_reason_ta,Sanctity/Degradation,0,4,0.0
+S30,condition_id,ta_translation_reason_en,Care/Harm,4,4,100.0
+S30,condition_id,ta_translation_reason_en,Loyalty/Betrayal,0,4,0.0
+S30,condition_id,ta_translation_reason_en,Authority/Subversion,0,4,0.0
+S30,condition_id,ta_translation_reason_en,Fairness/Cheating,0,4,0.0
+S30,condition_id,ta_translation_reason_en,Sanctity/Degradation,0,4,0.0
+S30,condition_id,ta_translation_reason_ta,Care/Harm,4,4,100.0
+S30,condition_id,ta_translation_reason_ta,Loyalty/Betrayal,0,4,0.0
+S30,condition_id,ta_translation_reason_ta,Authority/Subversion,0,4,0.0
+S30,condition_id,ta_translation_reason_ta,Fairness/Cheating,0,4,0.0
+S30,condition_id,ta_translation_reason_ta,Sanctity/Degradation,0,4,0.0

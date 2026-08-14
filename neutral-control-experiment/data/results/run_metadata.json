@@ -1,0 +1,196 @@
+{
+  "generated_at_utc": "2026-07-27T08:16:32.462746+00:00",
+  "run_started_at_utc": "2026-07-27T07:47:45.049341+00:00",
+  "run_finished_at_utc": "2026-07-27T08:05:27.472194+00:00",
+  "resumed_after_interruption": true,
+  "expected_condition_rows": 125,
+  "actual_condition_rows": 125,
+  "expected_work_units": 375,
+  "actual_unique_valid_rows": 375,
+  "active_attempt_rows": 378,
+  "retry_attempts": 3,
+  "malformed_attempt_outputs": 3,
+  "unresolved_failures": 0,
+  "duplicate_active_work_units": 0,
+  "active_output_contains_max_tokens": false,
+  "raw_output_stored_for_all_final_rows": true,
+  "token_metadata_rows": 375,
+  "cost_metadata_rows": 375,
+  "model_ids": {
+    "chatgpt": [
+      "openai/gpt-4o-2024-11-20"
+    ],
+    "claude": [
+      "anthropic/claude-sonnet-4.6"
+    ],
+    "gemini_flash": [
+      "google/gemini-3.5-flash"
+    ]
+  },
+  "request_parameters": {
+    "chatgpt": {
+      "temperature": [
+        0.0
+      ],
+      "max_tokens": [
+        16
+      ],
+      "reasoning_effort": [
+        null
+      ]
+    },
+    "claude": {
+      "temperature": [
+        0.0
+      ],
+      "max_tokens": [
+        16
+      ],
+      "reasoning_effort": [
+        null
+      ]
+    },
+    "gemini_flash": {
+      "temperature": [
+        0.0
+      ],
+      "max_tokens": [
+        16
+      ],
+      "reasoning_effort": [
+        "minimal"
+      ]
+    }
+  },
+  "attempt_request_parameters": {
+    "chatgpt": {
+      "temperature": [
+        0.0
+      ],
+      "max_tokens": [
+        16
+      ],
+      "reasoning_effort": [
+        null
+      ]
+    },
+    "claude": {
+      "temperature": [
+        0.0
+      ],
+      "max_tokens": [
+        16
+      ],
+      "reasoning_effort": [
+        null
+      ]
+    },
+    "gemini_flash": {
+      "temperature": [
+        0.0
+      ],
+      "max_tokens": [
+        16
+      ],
+      "reasoning_effort": [
+        "minimal"
+      ]
+    }
+  },
+  "verification_request_parameters": {
+    "chatgpt": {
+      "temperature": [
+        0.0
+      ],
+      "max_tokens": [
+        16
+      ],
+      "reasoning_effort": [
+        null
+      ]
+    },
+    "claude": {
+      "temperature": [
+        0.0
+      ],
+      "max_tokens": [
+        16
+      ],
+      "reasoning_effort": [
+        null
+      ]
+    },
+    "gemini_flash": {
+      "temperature": [
+        0.0
+      ],
+      "max_tokens": [
+        16
+      ],
+      "reasoning_effort": [
+        "minimal"
+      ]
+    }
+  },
+  "verification_attempts": 7,
+  "verification_runs": 2,
+  "costs_usd": {
+    "archived_first_smoke_responses": 0.0014010000000000001,
+    "archived_first_smoke_verification": 0.000702,
+    "archived_first_smoke_total": 0.0021030000000000003,
+    "successful_replacement_smoke": 0.001401,
+    "final_375_response_dataset_including_replacement_smoke": 0.2741105,
+    "full_experiment_post_smoke_responses": 0.2727095,
+    "corrected_full_run_verification": 0.0006345000000000001,
+    "full_experiment_after_smoke_including_verification": 0.273344,
+    "combined_total_all_paid_requests": 0.276848
+  },
+  "protocol_deviation": "Gemini 3.5 Flash was configured with minimal reasoning effort because its default reasoning process exhausted the original five-token completion limit before returning a rating. The completion limit was increased uniformly to 16 tokens across all evaluated models. No model, prompt, temperature, scenario, question, or rating-scale changes were made.",
+  "workbook": {
+    "approved_sha256": "2D21E8288E8D723CB8E3FEE73A05DA9476E1F26475AA9223575EE9A01CA79B13",
+    "preapproval_backup_sha256": "DF3B647483B3DF23CD60C40F89582E3E6C6A6A26198AD7CD0D1EAAE06A9D73B3",
+    "scenario_question_sha256": "10BB73E8391B83148EB75A0E5F8E8F295FF9D20063372AF2D08EDE74BAECC938",
+    "scenario_question_unchanged": true
+  },
+  "archive": {
+    "folder": "data\\results\\archive\\20260727T074504Z_precorrection_smoke",
+    "manifest_sha256": "48AEB4A08FF2302917331E59C92D2D9CD00E99E8670F91472CE87DC6E2512D7E",
+    "old_smoke_excluded_from_active_store": true
+  },
+  "commands": [
+    "py -3 -m src.validate_input",
+    "py -3 -m src.build_conditions",
+    "py -3 -m pytest",
+    "py -3 -m src.run_experiment --dry-run",
+    "py -3 -m src.run_experiment --smoke-test",
+    "py -3 -m src.run_experiment --full",
+    "py -3 -m src.run_experiment --resume",
+    "py -3 -m src.diagnostics",
+    "py -3 -m src.analyze_controls",
+    "py -3 -m src.make_figures",
+    "py -3 -m src.finalize_run_metadata"
+  ],
+  "output_files": [
+    "data/processed/neutral_control_conditions.csv",
+    "data/results/neutral_control_results.sqlite3",
+    "data/results/neutral_control_ratings_raw.csv",
+    "data/results/neutral_control_ratings_clean.csv",
+    "data/results/neutral_control_diagnostics.csv",
+    "data/results/neutral_control_summary.csv",
+    "data/results/neutral_control_contrasts.csv",
+    "data/results/neutral_control_summary.md",
+    "data/results/model_verification.json",
+    "data/results/run_metadata.json",
+    "data/results/cost_ledger.csv",
+    "figures/neutral_control_rating_distribution.png",
+    "figures/neutral_control_rating_distribution_plot_data.csv",
+    "figures/neutral_control_effects.png",
+    "figures/neutral_control_effects_plot_data.csv",
+    "reports/neutral_control_report.md"
+  ],
+  "limitations": [
+    "All 375 ratings were at the floor value of 1, limiting sensitivity to downward shifts.",
+    "Bootstrap contrasts contain only five controls per model-language cell.",
+    "The original moral-rating dataset was not used, so no moral-versus-neutral interaction was estimated."
+  ]
+}

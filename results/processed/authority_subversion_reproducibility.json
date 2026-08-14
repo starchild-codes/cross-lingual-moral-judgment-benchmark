@@ -1,0 +1,107 @@
+{
+  "status": "PASS",
+  "no_api_calls": true,
+  "diagnostics": {
+    "qualitative_rows": 200,
+    "scenario_counts": {
+      "S11": 100,
+      "S30": 100
+    },
+    "unique_response_ids": 200,
+    "models_per_scenario": {
+      "S11": {
+        "chatgpt": 25,
+        "claude": 25,
+        "gemini_flash": 25,
+        "gemini_pro": 25
+      },
+      "S30": {
+        "chatgpt": 25,
+        "claude": 25,
+        "gemini_flash": 25,
+        "gemini_pro": 25
+      }
+    },
+    "conditions_per_scenario": {
+      "S11": 25,
+      "S30": 25
+    },
+    "input_languages_per_scenario": {
+      "S11": {
+        "ar": 16,
+        "bn": 16,
+        "en": 4,
+        "es": 16,
+        "hi": 16,
+        "ja": 16,
+        "ta": 16
+      },
+      "S30": {
+        "ar": 16,
+        "bn": 16,
+        "en": 4,
+        "es": 16,
+        "hi": 16,
+        "ja": 16,
+        "ta": 16
+      }
+    },
+    "model_condition_cells_complete": {
+      "S11": true,
+      "S30": true
+    },
+    "label_distributions": {
+      "S11": {
+        "Loyalty/Betrayal": 86,
+        "Authority/Subversion": 13,
+        "Care/Harm": 1
+      },
+      "S30": {
+        "Care/Harm": 100
+      }
+    },
+    "authority_invocations": 13
+  },
+  "all_subgroup_denominators": {
+    "condition_breakdown_rows": 480,
+    "theme_audit_rows": 200,
+    "model_rows_per_scenario": 25,
+    "non_english_input_rows_per_language_per_scenario": 16,
+    "english_baseline_rows_per_scenario": 4,
+    "literal_rows_per_scenario": 48,
+    "adapted_rows_per_scenario": 48,
+    "english_response_rows_per_scenario_excluding_baseline": 48,
+    "same_language_response_rows_per_scenario": 48
+  },
+  "translated_text_dependence": "Original human coding used coder-facing English translations for five reasoning languages according to study provenance. Those translations are not a distinct repository artifact. This supplementary audit therefore uses raw explanations with language-specific dictionaries; it does not recode final foundations.",
+  "manual_thematic_decisions": "Dictionaries were conservatively separated into core authority, rule/obligation, care/harm, and loyalty/betrayal terms. Matched and unmatched cases were retained for manual review. Ambiguous factual mentions remain flagged as false-positive risks.",
+  "commands": [
+    "py -3 scripts\\authority_subversion_expansion.py",
+    "py -3 -m py_compile scripts\\authority_subversion_expansion.py"
+  ],
+  "source_hashes_sha256": {
+    "results\\processed\\full_merged_with_human_mft_codes.csv": "404b9cf67fa86cdf846db4ae53e26d38bbc844370c025ed81c4360794e195284",
+    "results\\processed\\scenario_validation_trial2\\scenario_validation_merged_3coders.csv": "dc0a250c61b645aaf3177dc7dbd660f40b4240b56b3ca078f85893d08f76e52c",
+    "PHASE1_FINAL_EVIDENCE_REPORT_CORRECTED.md": "350d27715e9cfb72c22a86d2b6924c7427f024465c8ef08c91eea74cf912b305",
+    "results\\processed\\phase1_final_evidence\\s11_s30_breakdowns.csv": "a5a0618272e58d14fc19ca2ae0d4de33f4cb44b730e576a3d6b8afe722e992ed"
+  },
+  "script_hash_sha256": "0876352936106298f3ebb3a32b9c0f70ecdfbfbb255154444c6a515b35251711",
+  "output_hashes_sha256": {
+    "results\\processed\\authority_s11_s30_breakdown.csv": "d22fa5fcdd7063a5dd3e8e66efd8ccf6533d57c7499fd3ec8c353adf95558c54",
+    "results\\processed\\authority_all_scenarios_validation.csv": "c73769b481e1c23bfa607541148cfdc9d138da265b2e5af716bbf8279d31a086",
+    "results\\processed\\authority_foundation_validation_context.csv": "e6dc12243508ac61df6ac080a2084bcc335deca985e1d8edb9fcea54c2733f3a",
+    "results\\processed\\authority_theme_audit.csv": "6eda08776e1aee8fff7eace51f102ae3795992c54599b08c9ff5944f958c7732",
+    "results\\processed\\authority_theme_counts.csv": "e012ac92895b3cdaccad5b5b5d39762ebe36add5982f8670acd7f2d39744fc25",
+    "results\\processed\\authority_theme_cooccurrence.csv": "b76138e58e017a8eb1a65185de732446f4796439c194253bc33e4020b6b8f1a2",
+    "results\\processed\\authority_condition_breakdowns.csv": "7ce24804d490021c6668e4146db631e96c95d9276c3c4a436a35ce0ed332a09b",
+    "results\\plotting_data\\authority_s11_s30_foundation_distribution.csv": "ae35a92e06a70c4bbbc49f8ba995c436f5947f3683bff9266cd85173b4ebd84b",
+    "results\\figures\\authority_s11_s30_foundation_distribution.png": "3221cbdc5d786a59d041fc84b34848b405d7aebd340d4d4c0c9ba1841ee0ddd1",
+    "reports\\authority_subversion_expansion_report.md": "73ffc1973afd935273ec3d4ca451b7a0cc8db46d1f0d1b0d2c00eca5bc403efd",
+    "reports\\authority_subversion_claim_audit.md": "ea7466afb97b8f3f4c616a692ae237c009f9bd57a7a10691b096a269642e51ca"
+  },
+  "package_versions": {
+    "python": "3.12.3",
+    "pandas": "3.0.2",
+    "matplotlib": "3.10.8"
+  }
+}

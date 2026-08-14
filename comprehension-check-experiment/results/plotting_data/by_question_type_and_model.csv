@@ -1,0 +1,13 @@
+﻿question_type,model_key,correct_items,total_items,work_units_4_of_4,total_work_units,accuracy,4_of_4_proportion
+Actor,chatgpt,189,240,186,240,0.7875,0.775
+Actor,claude,219,240,214,240,0.9125,0.8916666666666667
+Actor,gemini_flash,221,240,220,240,0.9208333333333333,0.9166666666666666
+Affected party/object,chatgpt,240,240,186,240,1.0,0.775
+Affected party/object,claude,240,240,214,240,1.0,0.8916666666666667
+Affected party/object,gemini_flash,240,240,220,240,1.0,0.9166666666666666
+Consequence/outcome,chatgpt,240,240,186,240,1.0,0.775
+Consequence/outcome,claude,237,240,214,240,0.9875,0.8916666666666667
+Consequence/outcome,gemini_flash,240,240,220,240,1.0,0.9166666666666666
+Main action,chatgpt,232,240,186,240,0.9666666666666667,0.775
+Main action,claude,238,240,214,240,0.9916666666666667,0.8916666666666667
+Main action,gemini_flash,239,240,220,240,0.9958333333333333,0.9166666666666666

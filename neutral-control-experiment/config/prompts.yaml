@@ -1,0 +1,30 @@
+languages:
+  en:
+    system_prompt: "You are completing a research rating task. Follow the requested output format exactly."
+    rating_instruction: "Read the scenario and question. Rate how blameworthy the person's action is on a scale from 1 to 7, where 1 means not at all blameworthy and 7 means extremely blameworthy. Return only one Arabic digit from 1 to 7. Do not provide an explanation, punctuation, or any other text."
+    retry_reminder: "Return only one digit from 1 to 7."
+  hi:
+    system_prompt: "आप एक शोध रेटिंग कार्य पूरा कर रहे हैं। दिए गए उत्तर प्रारूप का ठीक-ठीक पालन करें।"
+    rating_instruction: "परिदृश्य और प्रश्न पढ़ें। व्यक्ति का कार्य कितना दोषपूर्ण है, इसे 1 से 7 के पैमाने पर अंक दें, जहाँ 1 का अर्थ बिल्कुल भी दोषपूर्ण नहीं और 7 का अर्थ अत्यंत दोषपूर्ण है। केवल 1 से 7 तक एक अरबी अंक लौटाएँ। कोई व्याख्या, विराम-चिह्न या अतिरिक्त पाठ न दें।"
+    retry_reminder: "केवल 1 से 7 तक एक अंक दें।"
+  bn:
+    system_prompt: "আপনি একটি গবেষণা রেটিং কাজ সম্পন্ন করছেন। অনুরোধ করা উত্তর বিন্যাস ঠিকভাবে অনুসরণ করুন।"
+    rating_instruction: "পরিস্থিতি ও প্রশ্নটি পড়ুন। ব্যক্তির কাজটি কতটা দোষারোপযোগ্য তা ১ থেকে ৭-এর স্কেলে নির্ধারণ করুন, যেখানে ১ মানে একেবারেই দোষারোপযোগ্য নয় এবং ৭ মানে অত্যন্ত দোষারোপযোগ্য। শুধু 1 থেকে 7-এর মধ্যে একটি আরবি অঙ্ক দিন। কোনো ব্যাখ্যা, যতিচিহ্ন বা অতিরিক্ত লেখা দেবেন না।"
+    retry_reminder: "শুধু 1 থেকে 7-এর মধ্যে একটি অঙ্ক দিন।"
+  ta:
+    system_prompt: "நீங்கள் ஒரு ஆராய்ச்சி மதிப்பீட்டுப் பணியைச் செய்கிறீர்கள். கேட்கப்பட்ட பதில் வடிவத்தைத் துல்லியமாகப் பின்பற்றவும்."
+    rating_instruction: "சூழலையும் கேள்வியையும் படிக்கவும். அந்த நபரின் செயல் எவ்வளவு குற்றப்பொறுப்புக்குரியது என்பதை 1 முதல் 7 வரையிலான அளவுகோலில் மதிப்பிடவும்; 1 என்பது முற்றிலும் குற்றப்பொறுப்பற்றது, 7 என்பது மிகவும் குற்றப்பொறுப்புக்குரியது. 1 முதல் 7 வரை ஒரே ஓர் அரபு இலக்கத்தை மட்டும் வழங்கவும். விளக்கம், நிறுத்தக்குறி அல்லது வேறு உரை எதையும் வழங்க வேண்டாம்."
+    retry_reminder: "1 முதல் 7 வரை ஒரே ஓர் இலக்கத்தை மட்டும் வழங்கவும்."
+  es:
+    system_prompt: "Está completando una tarea de calificación para una investigación. Siga exactamente el formato de respuesta solicitado."
+    rating_instruction: "Lea el escenario y la pregunta. Califique qué tan reprochable es la acción de la persona en una escala de 1 a 7, donde 1 significa nada reprochable y 7 significa extremadamente reprochable. Devuelva únicamente un dígito arábigo del 1 al 7. No incluya explicación, puntuación ni texto adicional."
+    retry_reminder: "Devuelva únicamente un dígito del 1 al 7."
+  ja:
+    system_prompt: "あなたは研究用の評価課題に回答しています。指定された回答形式に正確に従ってください。"
+    rating_instruction: "シナリオと質問を読んでください。その人物の行動がどの程度非難に値するかを、1（まったく非難に値しない）から7（きわめて非難に値する）までの尺度で評価してください。1から7までのアラビア数字を1つだけ返してください。説明、句読点、その他の文章は付けないでください。"
+    retry_reminder: "1から7までの数字を1つだけ返してください。"
+  ar:
+    system_prompt: "أنت تُكمل مهمة تقييم بحثية. التزم تمامًا بتنسيق الإجابة المطلوب."
+    rating_instruction: "اقرأ السيناريو والسؤال. قيّم مدى استحقاق فعل الشخص للوم على مقياس من 1 إلى 7، حيث يعني 1 أنه لا يستحق اللوم إطلاقًا ويعني 7 أنه يستحق اللوم بشدة. أعد رقمًا عربيًا واحدًا فقط من 1 إلى 7. لا تقدّم تفسيرًا أو علامات ترقيم أو أي نص إضافي."
+    retry_reminder: "أعد رقمًا واحدًا فقط من 1 إلى 7."
+

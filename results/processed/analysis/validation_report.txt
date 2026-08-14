@@ -1,0 +1,81 @@
+Post-expansion validation report
+Total rows: 6000
+Rating rows: 5000
+Qualitative rows: 1000
+Evaluated-model rating rows: 3750
+Reference rating rows: 1250
+Null evaluated-model ratings: 0
+Scenario IDs: 50 (S01-S50)
+Condition coverage gaps: 0
+
+Notes:
+- Expected rating rows by design: 50 scenarios x 25 conditions x 4 models = 5,000 total ratings.
+- The prompt's 7,500 rating-row total is arithmetically inconsistent: Gemini Pro contributes 1,250 reference rows, not 3,750.
+- Qualitative scenarios present: S01, S06, S11, S16, S21, S26, S28, S29, S30, S34.
+- Qualitative rows are present for 10 designated qualitative targets, not for all 50 scenario IDs.
+
+Rows by task type:
+{
+  "qualitative": 1000,
+  "rating": 5000
+}
+Rows by model:
+{
+  "chatgpt": 1500,
+  "claude": 1500,
+  "gemini_flash": 1500,
+  "gemini_pro": 1500
+}
+Rows by scenario:
+{
+  "S01": 200,
+  "S02": 100,
+  "S03": 100,
+  "S04": 100,
+  "S05": 100,
+  "S06": 200,
+  "S07": 100,
+  "S08": 100,
+  "S09": 100,
+  "S10": 100,
+  "S11": 200,
+  "S12": 100,
+  "S13": 100,
+  "S14": 100,
+  "S15": 100,
+  "S16": 200,
+  "S17": 100,
+  "S18": 100,
+  "S19": 100,
+  "S20": 100,
+  "S21": 200,
+  "S22": 100,
+  "S23": 100,
+  "S24": 100,
+  "S25": 100,
+  "S26": 200,
+  "S27": 100,
+  "S28": 200,
+  "S29": 200,
+  "S30": 200,
+  "S31": 100,
+  "S32": 100,
+  "S33": 100,
+  "S34": 200,
+  "S35": 100,
+  "S36": 100,
+  "S37": 100,
+  "S38": 100,
+  "S39": 100,
+  "S40": 100,
+  "S41": 100,
+  "S42": 100,
+  "S43": 100,
+  "S44": 100,
+  "S45": 100,
+  "S46": 100,
+  "S47": 100,
+  "S48": 100,
+  "S49": 100,
+  "S50": 100
+}

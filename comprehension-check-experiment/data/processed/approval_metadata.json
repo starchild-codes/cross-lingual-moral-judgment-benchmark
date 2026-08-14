@@ -1,0 +1,29 @@
+{
+  "experiment": "multilingual_comprehension_check",
+  "approval_timestamp_utc": "20260727T095218Z",
+  "status": "approved_ready_for_live_validation",
+  "review_provenance": "All 960 multilingual MCQ rows were externally reviewed by speakers competent in the respective languages. Reviewers verified semantic fidelity, naturalness, preservation of the factual target, and the presence of exactly one correct answer. All rows were approved without requested revisions. Because reviewers provided categorical approval rather than numerical ratings, approved rows were conservatively encoded as 4/5 for semantic fidelity and naturalness.",
+  "reviewer_names_recorded": false,
+  "approved_multilingual_rows": 960,
+  "semantic_fidelity_encoding": 4,
+  "naturalness_encoding": 4,
+  "single_correct_answer": "Yes",
+  "native_review_status": "Approved",
+  "backup_directory": "C:\\Users\\anshi\\OneDrive\\เอกสาร\\AI researcher\\comprehension-check-experiment\\data\\input\\approval_backups\\20260727T095218Z",
+  "hashes": {
+    "untouched_original_workbook_sha256": "d1462380a5d335663a83ca62e69af98eec937cedf3c2079a93f257e65a5c8dbb",
+    "preapproval_completed_workbook_sha256": "c2a15e62821459c2d41d699fde686fda272268bdc064608785fbc98a395c298e",
+    "approved_workbook_sha256": "a45e60df32e3773dea3951e555eceeb721d7f8210ab905cadc5b026d10344285"
+  },
+  "models": [
+    "openai/gpt-4o-2024-11-20",
+    "anthropic/claude-sonnet-4.6",
+    "google/gemini-3.5-flash"
+  ],
+  "temperature": 0,
+  "max_tokens": 24,
+  "gemini_reasoning_effort": "minimal",
+  "expected_work_units": 720,
+  "expected_scored_answers": 2880,
+  "paid_api_requests_at_approval": 0
+}

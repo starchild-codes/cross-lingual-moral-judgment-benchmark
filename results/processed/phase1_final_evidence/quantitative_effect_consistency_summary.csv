@@ -1,0 +1,13 @@
+analysis_version,effect_type,tests,surviving_q_lt_05,surviving_q_lt_10
+v1_original_intended,language,35,11,11
+v1_original_intended,framing,35,14,16
+v1_original_intended,reasoning,35,12,12
+v2_validated_subset,language,35,7,8
+v2_validated_subset,framing,35,9,13
+v2_validated_subset,reasoning,35,7,10
+v3_human_majority,language,35,5,8
+v3_human_majority,framing,35,10,15
+v3_human_majority,reasoning,35,8,10
+all_three_versions,language,35,5,
+all_three_versions,framing,35,9,
+all_three_versions,reasoning,35,7,

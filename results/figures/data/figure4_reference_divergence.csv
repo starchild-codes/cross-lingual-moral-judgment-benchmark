@@ -1,0 +1,16 @@
+group_by,model_key,condition_type,n,mean_absolute_difference,largest_divergence_model,largest_specific_condition
+model_key+condition_type,chatgpt,en_en,50,0.86,chatgpt,chatgpt/S32/ta_translation_reason_ta/5
+model_key+condition_type,chatgpt,translation_reason_en,300,0.7,chatgpt,chatgpt/S32/ta_translation_reason_ta/5
+model_key+condition_type,chatgpt,translation_reason_l2,300,0.6,chatgpt,chatgpt/S32/ta_translation_reason_ta/5
+model_key+condition_type,chatgpt,adapted_reason_en,300,0.7033333333333334,chatgpt,chatgpt/S32/ta_translation_reason_ta/5
+model_key+condition_type,chatgpt,adapted_reason_l2,300,0.56,chatgpt,chatgpt/S32/ta_translation_reason_ta/5
+model_key+condition_type,claude,en_en,50,0.38,chatgpt,chatgpt/S32/ta_translation_reason_ta/5
+model_key+condition_type,claude,translation_reason_en,300,0.52,chatgpt,chatgpt/S32/ta_translation_reason_ta/5
+model_key+condition_type,claude,translation_reason_l2,300,0.46,chatgpt,chatgpt/S32/ta_translation_reason_ta/5
+model_key+condition_type,claude,adapted_reason_en,300,0.49,chatgpt,chatgpt/S32/ta_translation_reason_ta/5
+model_key+condition_type,claude,adapted_reason_l2,300,0.4266666666666667,chatgpt,chatgpt/S32/ta_translation_reason_ta/5
+model_key+condition_type,gemini_flash,en_en,50,0.5,chatgpt,chatgpt/S32/ta_translation_reason_ta/5
+model_key+condition_type,gemini_flash,translation_reason_en,300,0.4633333333333333,chatgpt,chatgpt/S32/ta_translation_reason_ta/5
+model_key+condition_type,gemini_flash,translation_reason_l2,300,0.43666666666666665,chatgpt,chatgpt/S32/ta_translation_reason_ta/5
+model_key+condition_type,gemini_flash,adapted_reason_en,300,0.43333333333333335,chatgpt,chatgpt/S32/ta_translation_reason_ta/5
+model_key+condition_type,gemini_flash,adapted_reason_l2,300,0.4066666666666667,chatgpt,chatgpt/S32/ta_translation_reason_ta/5

@@ -1,0 +1,721 @@
+﻿work_unit_id,scenario_id,foundation,shift_tier,model_key,model_id,input_language,scenario_version,action_correct,actor_correct,affected_correct,consequence_correct,correct_count_0_4,scenario_all_4_correct,raw_response,prompt_tokens,completion_tokens,total_tokens,cost_usd
+S02__hi__literal__chatgpt,S02,Care/Harm,low,chatgpt,openai/gpt-4o-2024-11-20,hi,literal,1,1,1,1,4,1,"D, A, B, C",508,7,515,0.00134
+S02__hi__literal__claude,S02,Care/Harm,low,claude,anthropic/claude-sonnet-4.6,hi,literal,1,1,1,1,4,1,"D, A, B, C",1043,10,1053,0.003279
+S02__hi__literal__gemini_flash,S02,Care/Harm,low,gemini_flash,google/gemini-3.5-flash,hi,literal,1,1,1,1,4,1,"D, A, B, C",437,7,444,0.0007185
+S02__hi__adapted__chatgpt,S02,Care/Harm,low,chatgpt,openai/gpt-4o-2024-11-20,hi,adapted,1,1,1,1,4,1,"D, A, B, C",518,7,525,0.001365
+S02__hi__adapted__claude,S02,Care/Harm,low,claude,anthropic/claude-sonnet-4.6,hi,adapted,1,1,1,1,4,1,"D, A, B, C",1063,10,1073,0.003339
+S02__hi__adapted__gemini_flash,S02,Care/Harm,low,gemini_flash,google/gemini-3.5-flash,hi,adapted,1,1,1,1,4,1,"D, A, B, C",450,7,457,0.000738
+S02__bn__literal__chatgpt,S02,Care/Harm,low,chatgpt,openai/gpt-4o-2024-11-20,bn,literal,1,1,1,1,4,1,"D, A, B, C",558,7,565,0.001465
+S02__bn__literal__claude,S02,Care/Harm,low,claude,anthropic/claude-sonnet-4.6,bn,literal,1,1,1,1,4,1,"D, A, B, C",1298,10,1308,0.004044
+S02__bn__literal__gemini_flash,S02,Care/Harm,low,gemini_flash,google/gemini-3.5-flash,bn,literal,1,1,1,1,4,1,"D, A, B, C",411,7,418,0.0006795
+S02__bn__adapted__chatgpt,S02,Care/Harm,low,chatgpt,openai/gpt-4o-2024-11-20,bn,adapted,1,1,1,1,4,1,"D, A, B, C",583,7,590,0.0015275
+S02__bn__adapted__claude,S02,Care/Harm,low,claude,anthropic/claude-sonnet-4.6,bn,adapted,1,1,1,1,4,1,"D, A, B, C",1396,10,1406,0.004338
+S02__bn__adapted__gemini_flash,S02,Care/Harm,low,gemini_flash,google/gemini-3.5-flash,bn,adapted,1,1,1,1,4,1,"D, A, B, C",429,7,436,0.0007065
+S02__ta__literal__chatgpt,S02,Care/Harm,low,chatgpt,openai/gpt-4o-2024-11-20,ta,literal,1,1,1,1,4,1,"D,A,B,C",662,4,666,0.001695
+S02__ta__adapted__chatgpt,S02,Care/Harm,low,chatgpt,openai/gpt-4o-2024-11-20,ta,adapted,1,1,1,1,4,1,"D,A,B,C",643,4,647,0.0016475
+S02__es__literal__chatgpt,S02,Care/Harm,low,chatgpt,openai/gpt-4o-2024-11-20,es,literal,1,1,1,1,4,1,"D,A,B,C",438,4,442,0.001135
+S02__ta__literal__gemini_flash,S02,Care/Harm,low,gemini_flash,google/gemini-3.5-flash,ta,literal,1,1,1,1,4,1,"D, A, B, C",477,7,484,0.0007785
+S02__ta__adapted__gemini_flash,S02,Care/Harm,low,gemini_flash,google/gemini-3.5-flash,ta,adapted,1,1,1,1,4,1,"D, A, B, C",479,7,486,0.0007815
+S02__ta__adapted__claude,S02,Care/Harm,low,claude,anthropic/claude-sonnet-4.6,ta,adapted,1,1,1,1,4,1,"D,A,B,C",1563,10,1573,0.004839
+S02__es__literal__gemini_flash,S02,Care/Harm,low,gemini_flash,google/gemini-3.5-flash,es,literal,1,1,1,1,4,1,"D, A, B, C",437,7,444,0.0007185
+S02__es__adapted__chatgpt,S02,Care/Harm,low,chatgpt,openai/gpt-4o-2024-11-20,es,adapted,1,1,1,1,4,1,"D,A,B,C",439,4,443,0.0011375
+S02__es__adapted__claude,S02,Care/Harm,low,claude,anthropic/claude-sonnet-4.6,es,adapted,1,1,1,1,4,1,"D,A,B,C",581,10,591,0.001893
+S02__es__literal__claude,S02,Care/Harm,low,claude,anthropic/claude-sonnet-4.6,es,literal,1,1,1,1,4,1,"D,A,B,C",579,10,589,0.001887
+S02__es__adapted__gemini_flash,S02,Care/Harm,low,gemini_flash,google/gemini-3.5-flash,es,adapted,1,1,1,1,4,1,"D, A, B, C",438,7,445,0.00072
+S02__ta__literal__claude,S02,Care/Harm,low,claude,anthropic/claude-sonnet-4.6,ta,literal,1,1,1,1,4,1,"D,A,B,C",1617,10,1627,0.005001
+S02__ja__literal__gemini_flash,S02,Care/Harm,low,gemini_flash,google/gemini-3.5-flash,ja,literal,1,1,1,1,4,1,"D, A, B, C",466,7,473,0.000762
+S02__ja__adapted__gemini_flash,S02,Care/Harm,low,gemini_flash,google/gemini-3.5-flash,ja,adapted,1,1,1,1,4,1,"D, A, B, C",444,7,451,0.000729
+S02__ar__adapted__chatgpt,S02,Care/Harm,low,chatgpt,openai/gpt-4o-2024-11-20,ar,adapted,1,0,1,1,3,0,"A, A, B, C",440,7,447,0.00117
+S02__ja__literal__chatgpt,S02,Care/Harm,low,chatgpt,openai/gpt-4o-2024-11-20,ja,literal,1,1,1,1,4,1,D、A、B、C,631,7,638,0.0016475
+S05__hi__literal__chatgpt,S05,Care/Harm,low,chatgpt,openai/gpt-4o-2024-11-20,hi,literal,1,1,1,1,4,1,"C, D, A, B",561,7,568,0.0014725
+S02__ja__adapted__chatgpt,S02,Care/Harm,low,chatgpt,openai/gpt-4o-2024-11-20,ja,adapted,1,1,1,1,4,1,"D, A, B, C",592,7,599,0.00155
+S02__ar__adapted__gemini_flash,S02,Care/Harm,low,gemini_flash,google/gemini-3.5-flash,ar,adapted,1,1,1,1,4,1,"D, A, B, C",449,7,456,0.0007365
+S02__ar__literal__gemini_flash,S02,Care/Harm,low,gemini_flash,google/gemini-3.5-flash,ar,literal,1,1,1,1,4,1,"D, A, B, C",482,7,489,0.000786
+S02__ja__literal__claude,S02,Care/Harm,low,claude,anthropic/claude-sonnet-4.6,ja,literal,1,1,1,1,4,1,D、A、B、C,738,10,748,0.002364
+S05__hi__literal__claude,S05,Care/Harm,low,claude,anthropic/claude-sonnet-4.6,hi,literal,1,1,1,1,4,1,"C, D, A, B",1251,10,1261,0.003903
+S02__ja__adapted__claude,S02,Care/Harm,low,claude,anthropic/claude-sonnet-4.6,ja,adapted,1,1,1,1,4,1,D、A、B、C,681,10,691,0.002193
+S05__bn__literal__chatgpt,S05,Care/Harm,low,chatgpt,openai/gpt-4o-2024-11-20,bn,literal,1,1,1,1,4,1,"C, D, A, B",626,7,633,0.001635
+S05__hi__adapted__chatgpt,S05,Care/Harm,low,chatgpt,openai/gpt-4o-2024-11-20,hi,adapted,1,1,1,1,4,1,"C, D, A, B",556,7,563,0.00146
+S05__bn__literal__gemini_flash,S05,Care/Harm,low,gemini_flash,google/gemini-3.5-flash,bn,literal,1,1,1,1,4,1,"C, D, A, B",456,7,463,0.000747
+S05__hi__literal__gemini_flash,S05,Care/Harm,low,gemini_flash,google/gemini-3.5-flash,hi,literal,1,1,1,1,4,1,"C, D, A, B",463,7,470,0.0007575
+S05__hi__adapted__gemini_flash,S05,Care/Harm,low,gemini_flash,google/gemini-3.5-flash,hi,adapted,1,1,1,1,4,1,"C, D, A, B",459,7,466,0.0007515
+S05__bn__adapted__chatgpt,S05,Care/Harm,low,chatgpt,openai/gpt-4o-2024-11-20,bn,adapted,1,1,1,1,4,1,"C, D, A, B",650,7,657,0.001695
+S02__ar__literal__chatgpt,S02,Care/Harm,low,chatgpt,openai/gpt-4o-2024-11-20,ar,literal,1,0,1,1,3,0,A، A، B، C,471,7,478,0.0012475
+S05__ta__literal__chatgpt,S05,Care/Harm,low,chatgpt,openai/gpt-4o-2024-11-20,ta,literal,1,1,1,1,4,1,"C,D,A,B",725,4,729,0.0018525
+S05__ta__adapted__chatgpt,S05,Care/Harm,low,chatgpt,openai/gpt-4o-2024-11-20,ta,adapted,1,1,1,1,4,1,"C,D,A,B",708,4,712,0.00181
+S05__bn__adapted__gemini_flash,S05,Care/Harm,low,gemini_flash,google/gemini-3.5-flash,bn,adapted,1,1,1,1,4,1,"C, D, A, B",475,7,482,0.0007755
+S05__hi__adapted__claude,S05,Care/Harm,low,claude,anthropic/claude-sonnet-4.6,hi,adapted,1,1,1,1,4,1,"C, D, A, B",1204,10,1214,0.003762
+S05__bn__literal__claude,S05,Care/Harm,low,claude,anthropic/claude-sonnet-4.6,bn,literal,1,1,1,1,4,1,"C, D, A, B",1574,10,1584,0.004872
+S05__ta__literal__gemini_flash,S05,Care/Harm,low,gemini_flash,google/gemini-3.5-flash,ta,literal,1,1,1,1,4,1,"C, D, A, B",546,7,553,0.000882
+S05__bn__adapted__claude,S05,Care/Harm,low,claude,anthropic/claude-sonnet-4.6,bn,adapted,1,1,1,1,4,1,"C, D, A, B",1669,10,1679,0.005157
+S05__ta__adapted__claude,S05,Care/Harm,low,claude,anthropic/claude-sonnet-4.6,ta,adapted,1,1,1,1,4,1,"C,D,A,B",1736,10,1746,0.005358
+S02__ar__literal__claude,S02,Care/Harm,low,claude,anthropic/claude-sonnet-4.6,ar,literal,1,1,1,1,4,1,D، A، B، C,891,10,901,0.002823
+S02__ar__adapted__claude,S02,Care/Harm,low,claude,anthropic/claude-sonnet-4.6,ar,adapted,1,0,1,1,3,0,A، A، B، C,832,10,842,0.002646
+S05__es__literal__chatgpt,S05,Care/Harm,low,chatgpt,openai/gpt-4o-2024-11-20,es,literal,1,1,1,1,4,1,"C,D,A,B",443,4,447,0.0011475
+S05__ta__adapted__gemini_flash,S05,Care/Harm,low,gemini_flash,google/gemini-3.5-flash,ta,adapted,1,1,1,1,4,1,"C, D, A, B",528,7,535,0.000855
+S05__es__adapted__chatgpt,S05,Care/Harm,low,chatgpt,openai/gpt-4o-2024-11-20,es,adapted,1,1,1,1,4,1,"C,D,A,B",425,4,429,0.0011025
+S05__ja__literal__chatgpt,S05,Care/Harm,low,chatgpt,openai/gpt-4o-2024-11-20,ja,literal,1,1,1,1,4,1,C、D、A、B,669,7,676,0.0017425
+S05__ta__literal__claude,S05,Care/Harm,low,claude,anthropic/claude-sonnet-4.6,ta,literal,1,1,1,1,4,1,"C,D,A,B",1820,10,1830,0.00561
+S05__es__literal__gemini_flash,S05,Care/Harm,low,gemini_flash,google/gemini-3.5-flash,es,literal,1,1,1,1,4,1,"C, D, A, B",442,7,449,0.000726
+S05__es__adapted__gemini_flash,S05,Care/Harm,low,gemini_flash,google/gemini-3.5-flash,es,adapted,1,1,1,1,4,1,"C, D, A, B",423,7,430,0.0006975
+S05__ja__literal__gemini_flash,S05,Care/Harm,low,gemini_flash,google/gemini-3.5-flash,ja,literal,1,1,1,1,4,1,"C, D, A, B",490,7,497,0.000798
+S05__ja__adapted__chatgpt,S05,Care/Harm,low,chatgpt,openai/gpt-4o-2024-11-20,ja,adapted,1,1,1,1,4,1,C、D、A、B,580,7,587,0.00152
+S05__es__adapted__claude,S05,Care/Harm,low,claude,anthropic/claude-sonnet-4.6,es,adapted,1,1,1,1,4,1,"C,D,A,B",572,10,582,0.001866
+S05__es__literal__claude,S05,Care/Harm,low,claude,anthropic/claude-sonnet-4.6,es,literal,1,1,1,1,4,1,"C,D,A,B",591,10,601,0.001923
+S05__ar__literal__chatgpt,S05,Care/Harm,low,chatgpt,openai/gpt-4o-2024-11-20,ar,literal,1,1,1,1,4,1,C، D، A، B,489,7,496,0.0012925
+S05__ar__adapted__chatgpt,S05,Care/Harm,low,chatgpt,openai/gpt-4o-2024-11-20,ar,adapted,1,1,1,1,4,1,C، D، A، B,421,7,428,0.0011225
+S05__ar__literal__claude,S05,Care/Harm,low,claude,anthropic/claude-sonnet-4.6,ar,literal,1,1,1,1,4,1,C، D، A، B,922,10,932,0.002916
+S05__ar__literal__gemini_flash,S05,Care/Harm,low,gemini_flash,google/gemini-3.5-flash,ar,literal,1,1,1,1,4,1,"C, D, A, B",502,7,509,0.000816
+S05__ja__literal__claude,S05,Care/Harm,low,claude,anthropic/claude-sonnet-4.6,ja,literal,1,1,1,1,4,1,C、D、A、B,791,10,801,0.002523
+S05__ja__adapted__gemini_flash,S05,Care/Harm,low,gemini_flash,google/gemini-3.5-flash,ja,adapted,1,1,1,1,4,1,"C, D, A, B",429,7,436,0.0007065
+S06__hi__literal__chatgpt,S06,Loyalty/Betrayal,low,chatgpt,openai/gpt-4o-2024-11-20,hi,literal,1,1,1,1,4,1,"C, D, A, B",562,7,569,0.001475
+S05__ar__adapted__claude,S05,Care/Harm,low,claude,anthropic/claude-sonnet-4.6,ar,adapted,1,1,1,1,4,1,C، D، A، B,783,10,793,0.002499
+S05__ar__adapted__gemini_flash,S05,Care/Harm,low,gemini_flash,google/gemini-3.5-flash,ar,adapted,1,1,1,1,4,1,"C, D, A, B",432,7,439,0.000711
+S05__ja__adapted__claude,S05,Care/Harm,low,claude,anthropic/claude-sonnet-4.6,ja,adapted,1,1,1,1,4,1,C、D、A、B,689,10,699,0.002217
+S06__hi__adapted__chatgpt,S06,Loyalty/Betrayal,low,chatgpt,openai/gpt-4o-2024-11-20,hi,adapted,1,1,1,1,4,1,"C, D, A, B",539,7,546,0.0014175
+S06__hi__literal__gemini_flash,S06,Loyalty/Betrayal,low,gemini_flash,google/gemini-3.5-flash,hi,literal,1,1,1,1,4,1,"C, D, A, B",466,7,473,0.000762
+S06__hi__literal__claude,S06,Loyalty/Betrayal,low,claude,anthropic/claude-sonnet-4.6,hi,literal,1,1,1,1,4,1,"C, D, A, B",1246,10,1256,0.003888
+S06__bn__literal__chatgpt,S06,Loyalty/Betrayal,low,chatgpt,openai/gpt-4o-2024-11-20,bn,literal,1,1,1,1,4,1,"C, D, A, B",568,7,575,0.00149
+S06__hi__adapted__gemini_flash,S06,Loyalty/Betrayal,low,gemini_flash,google/gemini-3.5-flash,hi,adapted,1,1,1,1,4,1,"C, D, A, B",440,7,447,0.000723
+S06__bn__adapted__chatgpt,S06,Loyalty/Betrayal,low,chatgpt,openai/gpt-4o-2024-11-20,bn,adapted,1,1,1,1,4,1,"C, D, A, B",598,7,605,0.001565
+S06__bn__literal__claude,S06,Loyalty/Betrayal,low,claude,anthropic/claude-sonnet-4.6,bn,literal,1,1,1,1,4,1,"C, D, A, B",1444,10,1454,0.004482
+S06__bn__literal__gemini_flash,S06,Loyalty/Betrayal,low,gemini_flash,google/gemini-3.5-flash,bn,literal,1,1,1,1,4,1,"C, D, A, B",414,7,421,0.000684
+S06__hi__adapted__claude,S06,Loyalty/Betrayal,low,claude,anthropic/claude-sonnet-4.6,hi,adapted,1,1,1,1,4,1,"C, D, A, B",1192,10,1202,0.003726
+S06__ta__literal__chatgpt,S06,Loyalty/Betrayal,low,chatgpt,openai/gpt-4o-2024-11-20,ta,literal,1,1,1,1,4,1,"C,D,A,B",693,4,697,0.0017725
+S06__bn__adapted__claude,S06,Loyalty/Betrayal,low,claude,anthropic/claude-sonnet-4.6,bn,adapted,1,1,1,1,4,1,"C, D, A, B",1508,10,1518,0.004674
+S06__ta__adapted__chatgpt,S06,Loyalty/Betrayal,low,chatgpt,openai/gpt-4o-2024-11-20,ta,adapted,1,1,1,1,4,1,"C,D,A,B",691,4,695,0.0017675
+S06__bn__adapted__gemini_flash,S06,Loyalty/Betrayal,low,gemini_flash,google/gemini-3.5-flash,bn,adapted,1,1,1,1,4,1,"C, D, A, B",433,7,440,0.0007125
+S06__ta__literal__gemini_flash,S06,Loyalty/Betrayal,low,gemini_flash,google/gemini-3.5-flash,ta,literal,1,1,1,1,4,1,"C, D, A, B",528,7,535,0.000855
+S06__es__literal__chatgpt,S06,Loyalty/Betrayal,low,chatgpt,openai/gpt-4o-2024-11-20,es,literal,1,1,1,1,4,1,"C,D,A,B",438,4,442,0.001135
+S06__ta__adapted__gemini_flash,S06,Loyalty/Betrayal,low,gemini_flash,google/gemini-3.5-flash,ta,adapted,1,1,1,1,4,1,"C, D, A, B",527,7,534,0.0008535
+S06__ta__literal__claude,S06,Loyalty/Betrayal,low,claude,anthropic/claude-sonnet-4.6,ta,literal,1,1,1,1,4,1,"C,D,A,B",1695,10,1705,0.005235
+S06__es__adapted__chatgpt,S06,Loyalty/Betrayal,low,chatgpt,openai/gpt-4o-2024-11-20,es,adapted,1,1,1,1,4,1,"C,D,A,B",413,4,417,0.0010725
+S06__ta__adapted__claude,S06,Loyalty/Betrayal,low,claude,anthropic/claude-sonnet-4.6,ta,adapted,1,1,1,1,4,1,"C,D,A,B",1683,10,1693,0.005199
+S06__es__adapted__claude,S06,Loyalty/Betrayal,low,claude,anthropic/claude-sonnet-4.6,es,adapted,1,1,1,1,4,1,"C,D,A,B",541,10,551,0.001773
+S06__ja__literal__chatgpt,S06,Loyalty/Betrayal,low,chatgpt,openai/gpt-4o-2024-11-20,ja,literal,1,1,1,1,4,1,C、D、A、B,661,7,668,0.0017225
+S06__es__literal__gemini_flash,S06,Loyalty/Betrayal,low,gemini_flash,google/gemini-3.5-flash,es,literal,1,1,1,1,4,1,"C, D, A, B",433,7,440,0.0007125
+S06__es__adapted__gemini_flash,S06,Loyalty/Betrayal,low,gemini_flash,google/gemini-3.5-flash,es,adapted,1,1,1,1,4,1,"C, D, A, B",411,7,418,0.0006795
+S06__es__literal__claude,S06,Loyalty/Betrayal,low,claude,anthropic/claude-sonnet-4.6,es,literal,1,1,1,1,4,1,"C,D,A,B",587,10,597,0.001911
+S06__ja__literal__gemini_flash,S06,Loyalty/Betrayal,low,gemini_flash,google/gemini-3.5-flash,ja,literal,1,1,1,1,4,1,"C, D, A, B",494,7,501,0.000804
+S06__ar__literal__chatgpt,S06,Loyalty/Betrayal,low,chatgpt,openai/gpt-4o-2024-11-20,ar,literal,1,1,1,1,4,1,"C, D, A, B",460,7,467,0.00122
+S06__ja__adapted__chatgpt,S06,Loyalty/Betrayal,low,chatgpt,openai/gpt-4o-2024-11-20,ja,adapted,1,1,1,1,4,1,C、D、A、B,579,7,586,0.0015175
+S06__ja__adapted__gemini_flash,S06,Loyalty/Betrayal,low,gemini_flash,google/gemini-3.5-flash,ja,adapted,1,1,1,1,4,1,"C, D, A, B",433,7,440,0.0007125
+S06__ar__adapted__chatgpt,S06,Loyalty/Betrayal,low,chatgpt,openai/gpt-4o-2024-11-20,ar,adapted,1,1,1,1,4,1,C، D، A، B,390,7,397,0.001045
+S06__ja__literal__claude,S06,Loyalty/Betrayal,low,claude,anthropic/claude-sonnet-4.6,ja,literal,1,1,1,1,4,1,C、D、A、B,769,10,779,0.002457
+S12__hi__literal__chatgpt,S12,Authority/Subversion,low,chatgpt,openai/gpt-4o-2024-11-20,hi,literal,1,1,1,1,4,1,"C, D, A, B",567,7,574,0.0014875
+S06__ar__literal__claude,S06,Loyalty/Betrayal,low,claude,anthropic/claude-sonnet-4.6,ar,literal,1,1,1,1,4,1,C، D، A، B,888,10,898,0.002814
+S06__ar__literal__gemini_flash,S06,Loyalty/Betrayal,low,gemini_flash,google/gemini-3.5-flash,ar,literal,1,1,1,1,4,1,"C, D, A, B",478,7,485,0.00078
+S06__ar__adapted__gemini_flash,S06,Loyalty/Betrayal,low,gemini_flash,google/gemini-3.5-flash,ar,adapted,1,1,1,1,4,1,"C, D, A, B",406,7,413,0.000672
+S06__ja__adapted__claude,S06,Loyalty/Betrayal,low,claude,anthropic/claude-sonnet-4.6,ja,adapted,1,1,1,1,4,1,C、D、A、B,675,10,685,0.002175
+S12__hi__literal__claude,S12,Authority/Subversion,low,claude,anthropic/claude-sonnet-4.6,hi,literal,1,1,1,1,4,1,"C, D, A, B",1329,10,1339,0.004137
+S12__hi__adapted__chatgpt,S12,Authority/Subversion,low,chatgpt,openai/gpt-4o-2024-11-20,hi,adapted,1,1,1,1,4,1,"C, D, A, B",568,7,575,0.00149
+S12__hi__literal__gemini_flash,S12,Authority/Subversion,low,gemini_flash,google/gemini-3.5-flash,hi,literal,1,1,1,1,4,1,"C, D, A, B",489,7,496,0.0007965
+S06__ar__adapted__claude,S06,Loyalty/Betrayal,low,claude,anthropic/claude-sonnet-4.6,ar,adapted,1,1,1,1,4,1,C، D، A، B,769,10,779,0.002457
+S12__hi__adapted__gemini_flash,S12,Authority/Subversion,low,gemini_flash,google/gemini-3.5-flash,hi,adapted,1,1,1,1,4,1,"C, D, A, B",482,7,489,0.000786
+S12__bn__adapted__chatgpt,S12,Authority/Subversion,low,chatgpt,openai/gpt-4o-2024-11-20,bn,adapted,1,0,1,1,3,0,"A, D, A, B",638,7,645,0.001665
+S12__bn__literal__claude,S12,Authority/Subversion,low,claude,anthropic/claude-sonnet-4.6,bn,literal,1,1,1,1,4,1,"C, D, A, B",1580,10,1590,0.00489
+S12__bn__literal__gemini_flash,S12,Authority/Subversion,low,gemini_flash,google/gemini-3.5-flash,bn,literal,1,1,1,1,4,1,"C, D, A, B",454,7,461,0.000744
+S12__hi__adapted__claude,S12,Authority/Subversion,low,claude,anthropic/claude-sonnet-4.6,hi,adapted,1,1,1,1,4,1,"C, D, A, B",1308,10,1318,0.004074
+S12__bn__literal__chatgpt,S12,Authority/Subversion,low,chatgpt,openai/gpt-4o-2024-11-20,bn,literal,1,0,1,1,3,0,"A, D, A, B",616,7,623,0.00161
+S12__ta__literal__chatgpt,S12,Authority/Subversion,low,chatgpt,openai/gpt-4o-2024-11-20,ta,literal,1,1,1,1,4,1,"C,D,A,B",727,4,731,0.0018575
+S12__bn__adapted__claude,S12,Authority/Subversion,low,claude,anthropic/claude-sonnet-4.6,bn,adapted,1,1,1,1,4,1,"C, D, A, B",1662,10,1672,0.005136
+S12__bn__adapted__gemini_flash,S12,Authority/Subversion,low,gemini_flash,google/gemini-3.5-flash,bn,adapted,1,1,1,1,4,1,"C, D, A, B",464,7,471,0.000759
+S12__ta__adapted__chatgpt,S12,Authority/Subversion,low,chatgpt,openai/gpt-4o-2024-11-20,ta,adapted,1,1,1,1,4,1,"C,D,A,B",694,4,698,0.001775
+S12__ta__literal__gemini_flash,S12,Authority/Subversion,low,gemini_flash,google/gemini-3.5-flash,ta,literal,1,1,1,1,4,1,"C, D, A, B",549,7,556,0.0008865
+S12__es__literal__chatgpt,S12,Authority/Subversion,low,chatgpt,openai/gpt-4o-2024-11-20,es,literal,1,1,1,1,4,1,"C,D,A,B",446,4,450,0.001155
+S12__ta__adapted__gemini_flash,S12,Authority/Subversion,low,gemini_flash,google/gemini-3.5-flash,ta,adapted,1,1,1,1,4,1,"C, D, A, B",526,7,533,0.000852
+S12__es__adapted__chatgpt,S12,Authority/Subversion,low,chatgpt,openai/gpt-4o-2024-11-20,es,adapted,1,1,1,1,4,1,"C,D,A,B",399,4,403,0.0010375
+S12__ta__literal__claude,S12,Authority/Subversion,low,claude,anthropic/claude-sonnet-4.6,ta,literal,1,1,1,1,4,1,"C,D,A,B",1772,10,1782,0.005466
+S12__ja__literal__chatgpt,S12,Authority/Subversion,low,chatgpt,openai/gpt-4o-2024-11-20,ja,literal,1,1,1,1,4,1,C、D、A、B,701,7,708,0.0018225
+S12__es__literal__gemini_flash,S12,Authority/Subversion,low,gemini_flash,google/gemini-3.5-flash,es,literal,1,1,1,1,4,1,"C, D, A, B",445,7,452,0.0007305
+S12__es__adapted__gemini_flash,S12,Authority/Subversion,low,gemini_flash,google/gemini-3.5-flash,es,adapted,1,1,1,1,4,1,"C, D, A, B",397,7,404,0.0006585
+S12__ta__adapted__claude,S12,Authority/Subversion,low,claude,anthropic/claude-sonnet-4.6,ta,adapted,1,1,1,1,4,1,"C,D,A,B",1691,10,1701,0.005223
+S12__ja__adapted__chatgpt,S12,Authority/Subversion,low,chatgpt,openai/gpt-4o-2024-11-20,ja,adapted,1,1,1,1,4,1,C、D、A、B,590,7,597,0.001545
+S12__es__literal__claude,S12,Authority/Subversion,low,claude,anthropic/claude-sonnet-4.6,es,literal,1,1,1,1,4,1,"C,D,A,B",592,10,602,0.001926
+S12__es__adapted__claude,S12,Authority/Subversion,low,claude,anthropic/claude-sonnet-4.6,es,adapted,1,1,1,1,4,1,"C,D,A,B",528,10,538,0.001734
+S12__ja__literal__gemini_flash,S12,Authority/Subversion,low,gemini_flash,google/gemini-3.5-flash,ja,literal,1,1,1,1,4,1,"C, D, A, B",511,7,518,0.0008295
+S12__ja__adapted__gemini_flash,S12,Authority/Subversion,low,gemini_flash,google/gemini-3.5-flash,ja,adapted,1,1,1,1,4,1,"C, D, A, B",424,7,431,0.000699
+S12__ar__literal__chatgpt,S12,Authority/Subversion,low,chatgpt,openai/gpt-4o-2024-11-20,ar,literal,1,1,1,1,4,1,C، D، A، B,486,7,493,0.001285
+S12__ja__literal__claude,S12,Authority/Subversion,low,claude,anthropic/claude-sonnet-4.6,ja,literal,1,1,1,1,4,1,C、D、A、B,823,10,833,0.002619
+S12__ar__literal__claude,S12,Authority/Subversion,low,claude,anthropic/claude-sonnet-4.6,ar,literal,1,1,1,1,4,1,C، D، A، B,954,10,964,0.003012
+S12__ar__adapted__chatgpt,S12,Authority/Subversion,low,chatgpt,openai/gpt-4o-2024-11-20,ar,adapted,1,1,1,1,4,1,C، D، A، B,385,7,392,0.0010325
+S12__ar__literal__gemini_flash,S12,Authority/Subversion,low,gemini_flash,google/gemini-3.5-flash,ar,literal,1,1,1,1,4,1,"C, D, A, B",498,7,505,0.00081
+S18__hi__literal__chatgpt,S18,Fairness/Cheating,low,chatgpt,openai/gpt-4o-2024-11-20,hi,literal,1,1,1,1,4,1,"C, D, A, B",599,7,606,0.0015675
+S12__ar__adapted__gemini_flash,S12,Authority/Subversion,low,gemini_flash,google/gemini-3.5-flash,ar,adapted,1,1,1,1,4,1,"C, D, A, B",390,7,397,0.000648
+S12__ja__adapted__claude,S12,Authority/Subversion,low,claude,anthropic/claude-sonnet-4.6,ja,adapted,1,1,1,1,4,1,C、D、A、B,673,10,683,0.002169
+S18__hi__literal__claude,S18,Fairness/Cheating,low,claude,anthropic/claude-sonnet-4.6,hi,literal,1,1,1,1,4,1,"C, D, A, B",1430,10,1440,0.00444
+S18__hi__adapted__chatgpt,S18,Fairness/Cheating,low,chatgpt,openai/gpt-4o-2024-11-20,hi,adapted,1,0,1,1,3,0,"A, D, A, B",571,7,578,0.0014975
+S18__hi__literal__gemini_flash,S18,Fairness/Cheating,low,gemini_flash,google/gemini-3.5-flash,hi,literal,1,1,1,1,4,1,"C, D, A, B",508,7,515,0.000825
+S18__bn__literal__chatgpt,S18,Fairness/Cheating,low,chatgpt,openai/gpt-4o-2024-11-20,bn,literal,1,0,1,1,3,0,"A, D, A, B",639,7,646,0.0016675
+S18__hi__adapted__gemini_flash,S18,Fairness/Cheating,low,gemini_flash,google/gemini-3.5-flash,hi,adapted,1,1,1,1,4,1,"C, D, A, B",478,7,485,0.00078
+S18__bn__literal__gemini_flash,S18,Fairness/Cheating,low,gemini_flash,google/gemini-3.5-flash,bn,literal,1,0,1,1,3,0,"A, D, A, B",453,7,460,0.0007425
+S12__ar__adapted__claude,S12,Authority/Subversion,low,claude,anthropic/claude-sonnet-4.6,ar,adapted,1,1,1,1,4,1,C، D، A، B,748,10,758,0.002394
+S18__bn__adapted__chatgpt,S18,Fairness/Cheating,low,chatgpt,openai/gpt-4o-2024-11-20,bn,adapted,1,0,1,1,3,0,"A, D, A, B",666,7,673,0.001735
+S18__hi__adapted__claude,S18,Fairness/Cheating,low,claude,anthropic/claude-sonnet-4.6,hi,adapted,1,1,1,1,4,1,"C, D, A, B",1362,10,1372,0.004236
+S18__bn__adapted__claude,S18,Fairness/Cheating,low,claude,anthropic/claude-sonnet-4.6,bn,adapted,1,0,1,1,3,0,"A, D, A, B",1746,10,1756,0.005388
+S18__bn__adapted__gemini_flash,S18,Fairness/Cheating,low,gemini_flash,google/gemini-3.5-flash,bn,adapted,1,1,1,1,4,1,"C, D, A, B",469,7,476,0.0007665
+S18__ta__literal__chatgpt,S18,Fairness/Cheating,low,chatgpt,openai/gpt-4o-2024-11-20,ta,literal,1,0,1,1,3,0,"A,D,A,B",778,4,782,0.001985
+S18__bn__literal__claude,S18,Fairness/Cheating,low,claude,anthropic/claude-sonnet-4.6,bn,literal,1,0,1,1,3,0,"A, D, A, B",1666,10,1676,0.005148
+S18__ta__literal__gemini_flash,S18,Fairness/Cheating,low,gemini_flash,google/gemini-3.5-flash,ta,literal,1,1,1,1,4,1,"C, D, A, B",560,7,567,0.000903
+S18__ta__literal__claude,S18,Fairness/Cheating,low,claude,anthropic/claude-sonnet-4.6,ta,literal,1,0,1,1,3,0,"A,D,A,B",1961,10,1971,0.006033
+S18__ta__adapted__chatgpt,S18,Fairness/Cheating,low,chatgpt,openai/gpt-4o-2024-11-20,ta,adapted,1,0,1,1,3,0,"A,D,A,B",738,4,742,0.001885
+S18__es__literal__chatgpt,S18,Fairness/Cheating,low,chatgpt,openai/gpt-4o-2024-11-20,es,literal,1,1,1,1,4,1,"C,D,A,B",501,4,505,0.0012925
+S18__ta__adapted__claude,S18,Fairness/Cheating,low,claude,anthropic/claude-sonnet-4.6,ta,adapted,1,1,1,1,4,1,"C,D,A,B",1871,10,1881,0.005763
+S18__ta__adapted__gemini_flash,S18,Fairness/Cheating,low,gemini_flash,google/gemini-3.5-flash,ta,adapted,1,1,1,1,4,1,"C, D, A, B",530,7,537,0.000858
+S18__es__adapted__chatgpt,S18,Fairness/Cheating,low,chatgpt,openai/gpt-4o-2024-11-20,es,adapted,1,0,1,1,3,0,"A,D,A,B",402,4,406,0.001045
+S18__es__literal__gemini_flash,S18,Fairness/Cheating,low,gemini_flash,google/gemini-3.5-flash,es,literal,1,1,1,1,4,1,"C, D, A, B",490,7,497,0.000798
+S18__es__literal__claude,S18,Fairness/Cheating,low,claude,anthropic/claude-sonnet-4.6,es,literal,1,1,1,1,4,1,"C,D,A,B",651,10,661,0.002103
+S18__ja__literal__chatgpt,S18,Fairness/Cheating,low,chatgpt,openai/gpt-4o-2024-11-20,ja,literal,1,1,1,1,4,1,C、D、A、B,713,7,720,0.0018525
+S18__es__adapted__gemini_flash,S18,Fairness/Cheating,low,gemini_flash,google/gemini-3.5-flash,es,adapted,1,1,1,1,4,1,"C, D, A, B",394,7,401,0.000654
+S18__es__adapted__claude,S18,Fairness/Cheating,low,claude,anthropic/claude-sonnet-4.6,es,adapted,1,1,1,1,4,1,"C,D,A,B",531,10,541,0.001743
+S18__ja__adapted__chatgpt,S18,Fairness/Cheating,low,chatgpt,openai/gpt-4o-2024-11-20,ja,adapted,1,0,1,1,3,0,"A, D, A, B",609,7,616,0.0015925
+S18__ja__literal__gemini_flash,S18,Fairness/Cheating,low,gemini_flash,google/gemini-3.5-flash,ja,literal,1,1,1,1,4,1,"C, D, A, B",500,7,507,0.000813
+S18__ja__adapted__gemini_flash,S18,Fairness/Cheating,low,gemini_flash,google/gemini-3.5-flash,ja,adapted,1,1,1,1,4,1,"C, D, A, B",430,7,437,0.000708
+S18__ar__adapted__chatgpt,S18,Fairness/Cheating,low,chatgpt,openai/gpt-4o-2024-11-20,ar,adapted,1,1,1,1,4,1,C، D، A، B,371,7,378,0.0009975
+S18__ja__literal__claude,S18,Fairness/Cheating,low,claude,anthropic/claude-sonnet-4.6,ja,literal,1,1,1,1,4,1,C、D、A、B,826,10,836,0.002628
+S18__ar__literal__gemini_flash,S18,Fairness/Cheating,low,gemini_flash,google/gemini-3.5-flash,ar,literal,1,1,1,1,4,1,"C, D, A, B",446,7,453,0.000732
+S18__ar__literal__claude,S18,Fairness/Cheating,low,claude,anthropic/claude-sonnet-4.6,ar,literal,1,1,1,1,4,1,C، D، A، B,870,10,880,0.00276
+S18__ar__literal__chatgpt,S18,Fairness/Cheating,low,chatgpt,openai/gpt-4o-2024-11-20,ar,literal,1,1,1,1,4,1,C، D، A، B,429,7,436,0.0011425
+S18__ja__adapted__claude,S18,Fairness/Cheating,low,claude,anthropic/claude-sonnet-4.6,ja,adapted,1,1,1,1,4,1,C、D、A、B,710,10,720,0.00228
+S18__ar__adapted__gemini_flash,S18,Fairness/Cheating,low,gemini_flash,google/gemini-3.5-flash,ar,adapted,1,1,1,1,4,1,"C, D, A, B",375,7,382,0.0006255
+S18__ar__adapted__claude,S18,Fairness/Cheating,low,claude,anthropic/claude-sonnet-4.6,ar,adapted,1,1,1,1,4,1,C، D، A، B,738,10,748,0.002364
+S20__hi__adapted__chatgpt,S20,Fairness/Cheating,high,chatgpt,openai/gpt-4o-2024-11-20,hi,adapted,1,0,1,1,3,0,"A, C, D, A",512,7,519,0.00135
+S20__hi__literal__gemini_flash,S20,Fairness/Cheating,high,gemini_flash,google/gemini-3.5-flash,hi,literal,1,1,1,1,4,1,"B, C, D, A",443,7,450,0.0007275
+S20__bn__adapted__chatgpt,S20,Fairness/Cheating,high,chatgpt,openai/gpt-4o-2024-11-20,bn,adapted,1,1,1,1,4,1,"B, C, D, A",599,7,606,0.0015675
+S20__hi__adapted__gemini_flash,S20,Fairness/Cheating,high,gemini_flash,google/gemini-3.5-flash,hi,adapted,1,1,1,1,4,1,"B, C, D, A",437,7,444,0.0007185
+S20__bn__literal__chatgpt,S20,Fairness/Cheating,high,chatgpt,openai/gpt-4o-2024-11-20,bn,literal,1,1,1,1,4,1,"B, C, D, A",573,7,580,0.0015025
+S20__bn__literal__claude,S20,Fairness/Cheating,high,claude,anthropic/claude-sonnet-4.6,bn,literal,1,1,1,1,4,1,"B, C, D, A",1522,10,1532,0.004716
+S20__bn__literal__gemini_flash,S20,Fairness/Cheating,high,gemini_flash,google/gemini-3.5-flash,bn,literal,1,1,1,1,4,1,"B, C, D, A",425,7,432,0.0007005
+S20__hi__adapted__claude,S20,Fairness/Cheating,high,claude,anthropic/claude-sonnet-4.6,hi,adapted,1,1,1,1,4,1,"B, C, D, A",1168,10,1178,0.003654
+S20__hi__literal__claude,S20,Fairness/Cheating,high,claude,anthropic/claude-sonnet-4.6,hi,literal,1,1,1,1,4,1,"B, C, D, A",1198,10,1208,0.003744
+S20__ta__literal__chatgpt,S20,Fairness/Cheating,high,chatgpt,openai/gpt-4o-2024-11-20,ta,literal,1,0,1,1,3,0,"A,C,D,A",740,4,744,0.00189
+S20__bn__adapted__gemini_flash,S20,Fairness/Cheating,high,gemini_flash,google/gemini-3.5-flash,bn,adapted,1,1,1,1,4,1,"B, C, D, A",449,7,456,0.0007365
+S20__bn__adapted__claude,S20,Fairness/Cheating,high,claude,anthropic/claude-sonnet-4.6,bn,adapted,1,1,1,1,4,1,"B, C, D, A",1611,10,1621,0.004983
+S20__ta__literal__gemini_flash,S20,Fairness/Cheating,high,gemini_flash,google/gemini-3.5-flash,ta,literal,1,1,1,1,4,1,"B, C, D, A",534,7,541,0.000864
+S20__ta__adapted__chatgpt,S20,Fairness/Cheating,high,chatgpt,openai/gpt-4o-2024-11-20,ta,adapted,1,0,1,1,3,0,"A,C,D,A",727,4,731,0.0018575
+S20__ta__adapted__gemini_flash,S20,Fairness/Cheating,high,gemini_flash,google/gemini-3.5-flash,ta,adapted,1,1,1,1,4,1,"B, C, D, A",532,7,539,0.000861
+S20__ja__literal__chatgpt,S20,Fairness/Cheating,high,chatgpt,openai/gpt-4o-2024-11-20,ja,literal,1,0,1,1,3,0,A、C、D、A,681,7,688,0.0017725
+S20__hi__literal__chatgpt,S20,Fairness/Cheating,high,chatgpt,openai/gpt-4o-2024-11-20,hi,literal,1,0,1,1,3,0,"ए, सी, डी, ए",523,7,530,0.0013775
+S20__es__adapted__chatgpt,S20,Fairness/Cheating,high,chatgpt,openai/gpt-4o-2024-11-20,es,adapted,1,0,1,1,3,0,"A,C,D,A",377,4,381,0.0009825
+S20__ja__literal__gemini_flash,S20,Fairness/Cheating,high,gemini_flash,google/gemini-3.5-flash,ja,literal,1,1,1,1,4,1,"B, C, D, A",490,7,497,0.000798
+S20__es__literal__chatgpt,S20,Fairness/Cheating,high,chatgpt,openai/gpt-4o-2024-11-20,es,literal,1,0,1,1,3,0,"A,C,D,A",444,4,448,0.00115
+S20__es__adapted__gemini_flash,S20,Fairness/Cheating,high,gemini_flash,google/gemini-3.5-flash,es,adapted,1,0,1,1,3,0,"A, C, D, A",380,7,387,0.000633
+S20__es__literal__gemini_flash,S20,Fairness/Cheating,high,gemini_flash,google/gemini-3.5-flash,es,literal,1,0,1,1,3,0,"A, C, D, A",447,7,454,0.0007335
+S20__ta__literal__claude,S20,Fairness/Cheating,high,claude,anthropic/claude-sonnet-4.6,ta,literal,1,0,1,1,3,0,"A,C,D,A",1810,10,1820,0.00558
+S20__es__literal__claude,S20,Fairness/Cheating,high,claude,anthropic/claude-sonnet-4.6,es,literal,1,0,1,1,3,0,"A,C,D,A",602,10,612,0.001956
+S20__ta__adapted__claude,S20,Fairness/Cheating,high,claude,anthropic/claude-sonnet-4.6,ta,adapted,1,0,1,1,3,0,"A,C,D,A",1769,10,1779,0.005457
+S20__es__adapted__claude,S20,Fairness/Cheating,high,claude,anthropic/claude-sonnet-4.6,es,adapted,1,0,1,1,3,0,"A,C,D,A",511,10,521,0.001683
+S20__ja__literal__claude,S20,Fairness/Cheating,high,claude,anthropic/claude-sonnet-4.6,ja,literal,1,0,1,1,3,0,A、C、D、A,770,10,780,0.00246
+S20__ja__adapted__chatgpt,S20,Fairness/Cheating,high,chatgpt,openai/gpt-4o-2024-11-20,ja,adapted,1,0,1,1,3,0,A、C、D、A,603,7,610,0.0015775
+S20__ja__adapted__gemini_flash,S20,Fairness/Cheating,high,gemini_flash,google/gemini-3.5-flash,ja,adapted,1,0,1,1,3,0,"A, C, D, A",432,7,439,0.000711
+S20__ja__adapted__claude,S20,Fairness/Cheating,high,claude,anthropic/claude-sonnet-4.6,ja,adapted,1,0,1,1,3,0,A、C、D、A,684,10,694,0.002202
+S20__ar__adapted__chatgpt,S20,Fairness/Cheating,high,chatgpt,openai/gpt-4o-2024-11-20,ar,adapted,1,1,1,1,4,1,B، C، D، A,367,7,374,0.0009875
+S20__ar__literal__gemini_flash,S20,Fairness/Cheating,high,gemini_flash,google/gemini-3.5-flash,ar,literal,1,1,1,1,4,1,"B, C, D, A",445,7,452,0.0007305
+S20__ar__literal__claude,S20,Fairness/Cheating,high,claude,anthropic/claude-sonnet-4.6,ar,literal,1,0,1,1,3,0,A، C، D، A,857,10,867,0.002721
+S20__ar__adapted__claude,S20,Fairness/Cheating,high,claude,anthropic/claude-sonnet-4.6,ar,adapted,1,0,1,1,3,0,A، C، D، A,715,10,725,0.002295
+S22__hi__literal__chatgpt,S22,Sanctity/Degradation,high,chatgpt,openai/gpt-4o-2024-11-20,hi,literal,1,1,1,1,4,1,"B, C, D, A",595,7,602,0.0015575
+S20__ar__literal__chatgpt,S20,Fairness/Cheating,high,chatgpt,openai/gpt-4o-2024-11-20,ar,literal,1,0,1,1,3,0,A، C، D، A,435,7,442,0.0011575
+S22__hi__literal__gemini_flash,S22,Sanctity/Degradation,high,gemini_flash,google/gemini-3.5-flash,hi,literal,1,1,1,1,4,1,"B, C, D, A",503,7,510,0.0008175
+S20__ar__adapted__gemini_flash,S20,Fairness/Cheating,high,gemini_flash,google/gemini-3.5-flash,ar,adapted,1,0,1,1,3,0,"A, C, D, A",374,7,381,0.000624
+S22__hi__adapted__chatgpt,S22,Sanctity/Degradation,high,chatgpt,openai/gpt-4o-2024-11-20,hi,adapted,1,0,1,1,3,0,"C, C, D, A",573,7,580,0.0015025
+S22__hi__literal__claude,S22,Sanctity/Degradation,high,claude,anthropic/claude-sonnet-4.6,hi,literal,1,1,1,1,4,1,"B, C, D, A",1366,10,1376,0.004248
+S22__bn__literal__chatgpt,S22,Sanctity/Degradation,high,chatgpt,openai/gpt-4o-2024-11-20,bn,literal,1,1,1,1,4,1,"B, C, D, A",621,7,628,0.0016225
+S22__hi__adapted__gemini_flash,S22,Sanctity/Degradation,high,gemini_flash,google/gemini-3.5-flash,hi,adapted,1,1,1,1,4,1,"B, C, D, A",492,7,499,0.000801
+S22__bn__literal__gemini_flash,S22,Sanctity/Degradation,high,gemini_flash,google/gemini-3.5-flash,bn,literal,1,1,1,1,4,1,"B, C, D, A",458,7,465,0.00075
+S22__bn__adapted__chatgpt,S22,Sanctity/Degradation,high,chatgpt,openai/gpt-4o-2024-11-20,bn,adapted,1,1,1,1,4,1,"B, C, D, A",608,7,615,0.00159
+S22__bn__literal__claude,S22,Sanctity/Degradation,high,claude,anthropic/claude-sonnet-4.6,bn,literal,1,1,1,1,4,1,"B, C, D, A",1613,10,1623,0.004989
+S22__hi__adapted__claude,S22,Sanctity/Degradation,high,claude,anthropic/claude-sonnet-4.6,hi,adapted,1,1,1,1,4,1,"B, C, D, A",1299,10,1309,0.004047
+S22__bn__adapted__claude,S22,Sanctity/Degradation,high,claude,anthropic/claude-sonnet-4.6,bn,adapted,1,1,1,1,4,1,"B, C, D, A",1584,10,1594,0.004902
+S22__bn__adapted__gemini_flash,S22,Sanctity/Degradation,high,gemini_flash,google/gemini-3.5-flash,bn,adapted,1,1,1,1,4,1,"B, C, D, A",456,7,463,0.000747
+S22__ta__adapted__chatgpt,S22,Sanctity/Degradation,high,chatgpt,openai/gpt-4o-2024-11-20,ta,adapted,1,1,1,1,4,1,"B,C,D,A",736,4,740,0.00188
+S22__ta__literal__gemini_flash,S22,Sanctity/Degradation,high,gemini_flash,google/gemini-3.5-flash,ta,literal,1,1,1,1,4,1,"B, C, D, A",560,7,567,0.000903
+S22__ta__literal__claude,S22,Sanctity/Degradation,high,claude,anthropic/claude-sonnet-4.6,ta,literal,1,1,1,1,4,1,"B,C,D,A",1894,10,1904,0.005832
+S22__es__literal__chatgpt,S22,Sanctity/Degradation,high,chatgpt,openai/gpt-4o-2024-11-20,es,literal,1,1,1,1,4,1,"B,C,D,A",454,4,458,0.001175
+S22__ta__adapted__gemini_flash,S22,Sanctity/Degradation,high,gemini_flash,google/gemini-3.5-flash,ta,adapted,1,1,1,1,4,1,"B, C, D, A",559,7,566,0.0009015
+S22__es__literal__claude,S22,Sanctity/Degradation,high,claude,anthropic/claude-sonnet-4.6,es,literal,1,1,1,1,4,1,"B,C,D,A",590,10,600,0.00192
+S22__ta__adapted__claude,S22,Sanctity/Degradation,high,claude,anthropic/claude-sonnet-4.6,ta,adapted,1,1,1,1,4,1,"B,C,D,A",1876,10,1886,0.005778
+S22__es__literal__gemini_flash,S22,Sanctity/Degradation,high,gemini_flash,google/gemini-3.5-flash,es,literal,1,1,1,1,4,1,"B, C, D, A",454,7,461,0.000744
+S22__es__adapted__chatgpt,S22,Sanctity/Degradation,high,chatgpt,openai/gpt-4o-2024-11-20,es,adapted,1,0,1,1,3,0,"C,C,D,A",381,4,385,0.0009925
+S22__ta__literal__chatgpt,S22,Sanctity/Degradation,high,chatgpt,openai/gpt-4o-2024-11-20,ta,literal,1,1,1,1,4,1,"B,C,D,A",737,4,741,0.0018825
+S22__es__adapted__claude,S22,Sanctity/Degradation,high,claude,anthropic/claude-sonnet-4.6,es,adapted,1,0,1,1,3,0,"C,C,D,A",493,10,503,0.001629
+S22__ja__literal__chatgpt,S22,Sanctity/Degradation,high,chatgpt,openai/gpt-4o-2024-11-20,ja,literal,1,0,1,1,3,0,D、C、D、A,672,7,679,0.00175
+S22__ja__adapted__chatgpt,S22,Sanctity/Degradation,high,chatgpt,openai/gpt-4o-2024-11-20,ja,adapted,1,1,1,1,4,1,B、C、D、A,588,7,595,0.00154
+S22__ja__literal__gemini_flash,S22,Sanctity/Degradation,high,gemini_flash,google/gemini-3.5-flash,ja,literal,1,1,1,1,4,1,"B, C, D, A",480,7,487,0.000783
+S22__ja__literal__claude,S22,Sanctity/Degradation,high,claude,anthropic/claude-sonnet-4.6,ja,literal,1,1,1,1,4,1,B、C、D、A,780,10,790,0.00249
+S22__ja__adapted__gemini_flash,S22,Sanctity/Degradation,high,gemini_flash,google/gemini-3.5-flash,ja,adapted,1,1,1,1,4,1,"B, C, D, A",424,7,431,0.000699
+S22__ja__adapted__claude,S22,Sanctity/Degradation,high,claude,anthropic/claude-sonnet-4.6,ja,adapted,1,1,1,1,4,1,B、C、D、A,678,10,688,0.002184
+S22__ar__literal__claude,S22,Sanctity/Degradation,high,claude,anthropic/claude-sonnet-4.6,ar,literal,1,1,1,1,4,1,B، C، D، A,870,10,880,0.00276
+S22__ar__literal__chatgpt,S22,Sanctity/Degradation,high,chatgpt,openai/gpt-4o-2024-11-20,ar,literal,1,1,1,1,4,1,B، C، D، A,443,7,450,0.0011775
+S22__ar__literal__gemini_flash,S22,Sanctity/Degradation,high,gemini_flash,google/gemini-3.5-flash,ar,literal,1,1,1,1,4,1,"B, C, D, A",453,7,460,0.0007425
+S22__ar__adapted__chatgpt,S22,Sanctity/Degradation,high,chatgpt,openai/gpt-4o-2024-11-20,ar,adapted,1,1,1,1,4,1,B، C، D، A,365,7,372,0.0009825
+S22__ar__adapted__gemini_flash,S22,Sanctity/Degradation,high,gemini_flash,google/gemini-3.5-flash,ar,adapted,1,1,1,1,4,1,"B, C, D, A",369,7,376,0.0006165
+S23__hi__literal__chatgpt,S23,Sanctity/Degradation,high,chatgpt,openai/gpt-4o-2024-11-20,hi,literal,1,1,1,1,4,1,"A, B, C, D",575,7,582,0.0015075
+S23__hi__literal__gemini_flash,S23,Sanctity/Degradation,high,gemini_flash,google/gemini-3.5-flash,hi,literal,1,1,1,1,4,1,"A, B, C, D",487,7,494,0.0007935
+S23__hi__literal__claude,S23,Sanctity/Degradation,high,claude,anthropic/claude-sonnet-4.6,hi,literal,1,1,1,1,4,1,"A, B, C, D",1265,10,1275,0.003945
+S23__hi__adapted__chatgpt,S23,Sanctity/Degradation,high,chatgpt,openai/gpt-4o-2024-11-20,hi,adapted,1,1,1,1,4,1,"A, B, C, D",584,7,591,0.00153
+S22__ar__adapted__claude,S22,Sanctity/Degradation,high,claude,anthropic/claude-sonnet-4.6,ar,adapted,1,1,1,1,4,1,B، C، D، A,698,10,708,0.002244
+S23__bn__literal__chatgpt,S23,Sanctity/Degradation,high,chatgpt,openai/gpt-4o-2024-11-20,bn,literal,1,1,1,1,4,1,"A, B, C, D",580,7,587,0.00152
+S23__hi__adapted__gemini_flash,S23,Sanctity/Degradation,high,gemini_flash,google/gemini-3.5-flash,hi,adapted,1,1,1,1,4,1,"A, B, C, D",486,7,493,0.000792
+S22__es__adapted__gemini_flash,S22,Sanctity/Degradation,high,gemini_flash,google/gemini-3.5-flash,es,adapted,1,1,1,1,4,1,"B, C, D, A",382,7,389,0.000636
+S23__hi__adapted__claude,S23,Sanctity/Degradation,high,claude,anthropic/claude-sonnet-4.6,hi,adapted,1,1,1,1,4,1,"A, B, C, D",1307,10,1317,0.004071
+S23__bn__literal__gemini_flash,S23,Sanctity/Degradation,high,gemini_flash,google/gemini-3.5-flash,bn,literal,1,1,1,1,4,1,"A, B, C, D",428,7,435,0.000705
+S23__bn__adapted__chatgpt,S23,Sanctity/Degradation,high,chatgpt,openai/gpt-4o-2024-11-20,bn,adapted,1,1,1,1,4,1,"A, B, C, D",623,7,630,0.0016275
+S23__ta__literal__chatgpt,S23,Sanctity/Degradation,high,chatgpt,openai/gpt-4o-2024-11-20,ta,literal,1,1,1,1,4,1,"A,B,C,D",740,4,744,0.00189
+S23__bn__literal__claude,S23,Sanctity/Degradation,high,claude,anthropic/claude-sonnet-4.6,bn,literal,1,1,1,1,4,1,"A, B, C, D",1518,10,1528,0.004704
+S23__ta__literal__claude,S23,Sanctity/Degradation,high,claude,anthropic/claude-sonnet-4.6,ta,literal,1,1,1,1,4,1,"A,B,C,D",1823,10,1833,0.005619
+S23__ta__literal__gemini_flash,S23,Sanctity/Degradation,high,gemini_flash,google/gemini-3.5-flash,ta,literal,1,1,1,1,4,1,"A, B, C, D",556,7,563,0.000897
+S23__bn__adapted__claude,S23,Sanctity/Degradation,high,claude,anthropic/claude-sonnet-4.6,bn,adapted,1,1,1,1,4,1,"A, B, C, D",1679,10,1689,0.005187
+S23__ta__adapted__chatgpt,S23,Sanctity/Degradation,high,chatgpt,openai/gpt-4o-2024-11-20,ta,adapted,1,1,1,1,4,1,"A,B,C,D",725,4,729,0.0018525
+S23__ta__adapted__claude,S23,Sanctity/Degradation,high,claude,anthropic/claude-sonnet-4.6,ta,adapted,1,1,1,1,4,1,"A,B,C,D",1813,10,1823,0.005589
+S23__es__literal__chatgpt,S23,Sanctity/Degradation,high,chatgpt,openai/gpt-4o-2024-11-20,es,literal,1,1,1,1,4,1,"A,B,C,D",461,4,465,0.0011925
+S23__ta__adapted__gemini_flash,S23,Sanctity/Degradation,high,gemini_flash,google/gemini-3.5-flash,ta,adapted,1,1,1,1,4,1,"A, B, C, D",548,7,555,0.000885
+S23__es__literal__gemini_flash,S23,Sanctity/Degradation,high,gemini_flash,google/gemini-3.5-flash,es,literal,1,1,1,1,4,1,"A, B, C, D",466,7,473,0.000762
+S23__es__literal__claude,S23,Sanctity/Degradation,high,claude,anthropic/claude-sonnet-4.6,es,literal,1,1,1,1,4,1,"A,B,C,D",601,10,611,0.001953
+S23__es__adapted__chatgpt,S23,Sanctity/Degradation,high,chatgpt,openai/gpt-4o-2024-11-20,es,adapted,1,1,1,1,4,1,"A,B,C,D",385,4,389,0.0010025
+S23__es__adapted__claude,S23,Sanctity/Degradation,high,claude,anthropic/claude-sonnet-4.6,es,adapted,1,1,1,1,4,1,"A,B,C,D",509,10,519,0.001677
+S23__es__adapted__gemini_flash,S23,Sanctity/Degradation,high,gemini_flash,google/gemini-3.5-flash,es,adapted,1,1,1,1,4,1,"A, B, C, D",388,7,395,0.000645
+S23__ja__literal__chatgpt,S23,Sanctity/Degradation,high,chatgpt,openai/gpt-4o-2024-11-20,ja,literal,1,1,1,1,4,1,A、B、C、D,677,7,684,0.0017625
+S23__bn__adapted__gemini_flash,S23,Sanctity/Degradation,high,gemini_flash,google/gemini-3.5-flash,bn,adapted,1,1,1,1,4,1,"A, B, C, D",445,7,452,0.0007305
+S23__ja__literal__gemini_flash,S23,Sanctity/Degradation,high,gemini_flash,google/gemini-3.5-flash,ja,literal,1,1,1,1,4,1,"A, B, C, D",491,7,498,0.0007995
+S23__ja__literal__claude,S23,Sanctity/Degradation,high,claude,anthropic/claude-sonnet-4.6,ja,literal,1,1,1,1,4,1,A、B、C、D,763,10,773,0.002439
+S23__ar__literal__chatgpt,S23,Sanctity/Degradation,high,chatgpt,openai/gpt-4o-2024-11-20,ar,literal,1,1,1,1,4,1,A، B، C، D,427,7,434,0.0011375
+S23__ja__adapted__chatgpt,S23,Sanctity/Degradation,high,chatgpt,openai/gpt-4o-2024-11-20,ja,adapted,1,1,1,1,4,1,A、B、C、D,591,7,598,0.0015475
+S23__ar__adapted__chatgpt,S23,Sanctity/Degradation,high,chatgpt,openai/gpt-4o-2024-11-20,ar,adapted,1,1,1,1,4,1,A، B، C، D,361,7,368,0.0009725
+S23__ja__adapted__claude,S23,Sanctity/Degradation,high,claude,anthropic/claude-sonnet-4.6,ja,adapted,1,1,1,1,4,1,A、B、C、D,667,10,677,0.002151
+S23__ar__literal__claude,S23,Sanctity/Degradation,high,claude,anthropic/claude-sonnet-4.6,ar,literal,1,1,1,1,4,1,A، B، C، D,824,10,834,0.002622
+S23__ar__literal__gemini_flash,S23,Sanctity/Degradation,high,gemini_flash,google/gemini-3.5-flash,ar,literal,1,1,1,1,4,1,"A, B, C, D",438,7,445,0.00072
+S24__hi__literal__chatgpt,S24,Sanctity/Degradation,low,chatgpt,openai/gpt-4o-2024-11-20,hi,literal,1,1,1,1,4,1,"डी, ए, बी, सी",603,7,610,0.0015775
+S23__ar__adapted__gemini_flash,S23,Sanctity/Degradation,high,gemini_flash,google/gemini-3.5-flash,ar,adapted,1,1,1,1,4,1,"A, B, C, D",370,7,377,0.000618
+S23__ar__adapted__claude,S23,Sanctity/Degradation,high,claude,anthropic/claude-sonnet-4.6,ar,adapted,1,1,1,1,4,1,A، B، C، D,697,10,707,0.002241
+S24__hi__literal__claude,S24,Sanctity/Degradation,low,claude,anthropic/claude-sonnet-4.6,hi,literal,1,1,1,1,4,1,"D, A, B, C",1301,10,1311,0.004053
+S23__ja__adapted__gemini_flash,S23,Sanctity/Degradation,high,gemini_flash,google/gemini-3.5-flash,ja,adapted,1,1,1,1,4,1,"A, B, C, D",429,7,436,0.0007065
+S24__hi__literal__gemini_flash,S24,Sanctity/Degradation,low,gemini_flash,google/gemini-3.5-flash,hi,literal,1,1,1,1,4,1,"D, A, B, C",510,7,517,0.000828
+S24__hi__adapted__chatgpt,S24,Sanctity/Degradation,low,chatgpt,openai/gpt-4o-2024-11-20,hi,adapted,1,1,1,1,4,1,"डी, ए, बी, सी",578,7,585,0.001515
+S24__hi__adapted__claude,S24,Sanctity/Degradation,low,claude,anthropic/claude-sonnet-4.6,hi,adapted,1,1,1,1,4,1,"D, A, B, C",1210,10,1220,0.00378
+S24__hi__adapted__gemini_flash,S24,Sanctity/Degradation,low,gemini_flash,google/gemini-3.5-flash,hi,adapted,1,1,1,1,4,1,"D, A, B, C",488,7,495,0.000795
+S24__bn__adapted__chatgpt,S24,Sanctity/Degradation,low,chatgpt,openai/gpt-4o-2024-11-20,bn,adapted,1,1,1,1,4,1,"D, A, B, C",688,7,695,0.00179
+S24__bn__literal__chatgpt,S24,Sanctity/Degradation,low,chatgpt,openai/gpt-4o-2024-11-20,bn,literal,1,1,1,1,4,1,"D, A, B, C",677,7,684,0.0017625
+S24__bn__literal__gemini_flash,S24,Sanctity/Degradation,low,gemini_flash,google/gemini-3.5-flash,bn,literal,1,1,1,1,4,1,"D, A, B, C",458,7,465,0.00075
+S24__bn__adapted__claude,S24,Sanctity/Degradation,low,claude,anthropic/claude-sonnet-4.6,bn,adapted,1,1,1,1,4,1,"D, A, B, C",1691,10,1701,0.005223
+S24__bn__adapted__gemini_flash,S24,Sanctity/Degradation,low,gemini_flash,google/gemini-3.5-flash,bn,adapted,1,1,1,1,4,1,"D, A, B, C",460,7,467,0.000753
+S24__ta__literal__chatgpt,S24,Sanctity/Degradation,low,chatgpt,openai/gpt-4o-2024-11-20,ta,literal,1,1,1,1,4,1,"D,A,B,C",783,4,787,0.0019975
+S24__bn__literal__claude,S24,Sanctity/Degradation,low,claude,anthropic/claude-sonnet-4.6,bn,literal,1,1,1,1,4,1,"D, A, B, C",1680,10,1690,0.00519
+S24__ta__adapted__chatgpt,S24,Sanctity/Degradation,low,chatgpt,openai/gpt-4o-2024-11-20,ta,adapted,1,1,1,1,4,1,"D,A,B,C",784,4,788,0.002
+S24__ta__literal__gemini_flash,S24,Sanctity/Degradation,low,gemini_flash,google/gemini-3.5-flash,ta,literal,1,1,1,1,4,1,"D, A, B, C",574,7,581,0.000924
+S24__es__literal__chatgpt,S24,Sanctity/Degradation,low,chatgpt,openai/gpt-4o-2024-11-20,es,literal,1,1,1,1,4,1,"D,A,B,C",474,4,478,0.001225
+S24__ta__literal__claude,S24,Sanctity/Degradation,low,claude,anthropic/claude-sonnet-4.6,ta,literal,1,1,1,1,4,1,"D,A,B,C",1883,10,1893,0.005799
+S24__ta__adapted__gemini_flash,S24,Sanctity/Degradation,low,gemini_flash,google/gemini-3.5-flash,ta,adapted,1,1,1,1,4,1,"D, A, B, C",575,7,582,0.0009255
+S24__es__adapted__chatgpt,S24,Sanctity/Degradation,low,chatgpt,openai/gpt-4o-2024-11-20,es,adapted,1,1,1,1,4,1,"D,A,B,C",393,4,397,0.0010225
+S24__es__literal__gemini_flash,S24,Sanctity/Degradation,low,gemini_flash,google/gemini-3.5-flash,es,literal,1,1,1,1,4,1,"D, A, B, C",474,7,481,0.000774
+S24__ja__literal__chatgpt,S24,Sanctity/Degradation,low,chatgpt,openai/gpt-4o-2024-11-20,ja,literal,1,1,1,1,4,1,D、A、B、C,686,7,693,0.001785
+S24__es__adapted__gemini_flash,S24,Sanctity/Degradation,low,gemini_flash,google/gemini-3.5-flash,es,adapted,1,1,1,1,4,1,"D, A, B, C",392,7,399,0.000651
+S24__es__adapted__claude,S24,Sanctity/Degradation,low,claude,anthropic/claude-sonnet-4.6,es,adapted,1,1,1,1,4,1,"D,A,B,C",503,10,513,0.001659
+S24__es__literal__claude,S24,Sanctity/Degradation,low,claude,anthropic/claude-sonnet-4.6,es,literal,1,1,1,1,4,1,"D,A,B,C",620,10,630,0.00201
+S24__ta__adapted__claude,S24,Sanctity/Degradation,low,claude,anthropic/claude-sonnet-4.6,ta,adapted,1,1,1,1,4,1,"D,A,B,C",1891,10,1901,0.005823
+S24__ja__literal__gemini_flash,S24,Sanctity/Degradation,low,gemini_flash,google/gemini-3.5-flash,ja,literal,1,1,1,1,4,1,"D, A, B, C",503,7,510,0.0008175
+S24__ja__adapted__chatgpt,S24,Sanctity/Degradation,low,chatgpt,openai/gpt-4o-2024-11-20,ja,adapted,1,1,1,1,4,1,"D, A, B, C",571,7,578,0.0014975
+S24__ja__adapted__gemini_flash,S24,Sanctity/Degradation,low,gemini_flash,google/gemini-3.5-flash,ja,adapted,1,1,1,1,4,1,"D, A, B, C",423,7,430,0.0006975
+S24__ja__adapted__claude,S24,Sanctity/Degradation,low,claude,anthropic/claude-sonnet-4.6,ja,adapted,1,1,1,1,4,1,D、A、B、C,665,10,675,0.002145
+S24__ar__literal__chatgpt,S24,Sanctity/Degradation,low,chatgpt,openai/gpt-4o-2024-11-20,ar,literal,1,1,1,1,4,1,D، A، B، C,435,7,442,0.0011575
+S24__ja__literal__claude,S24,Sanctity/Degradation,low,claude,anthropic/claude-sonnet-4.6,ja,literal,1,1,1,1,4,1,D、A、B、C,797,10,807,0.002541
+S24__ar__adapted__chatgpt,S24,Sanctity/Degradation,low,chatgpt,openai/gpt-4o-2024-11-20,ar,adapted,1,1,1,1,4,1,D، A، B، C,370,7,377,0.000995
+S24__ar__literal__claude,S24,Sanctity/Degradation,low,claude,anthropic/claude-sonnet-4.6,ar,literal,1,1,1,1,4,1,D، A، B، C,822,10,832,0.002616
+S24__ar__literal__gemini_flash,S24,Sanctity/Degradation,low,gemini_flash,google/gemini-3.5-flash,ar,literal,1,1,1,1,4,1,"D, A, B, C",450,7,457,0.000738
+S24__ar__adapted__claude,S24,Sanctity/Degradation,low,claude,anthropic/claude-sonnet-4.6,ar,adapted,1,1,1,1,4,1,"D, A, B, C",680,10,690,0.00219
+S26__hi__literal__chatgpt,S26,Care/Harm,high,chatgpt,openai/gpt-4o-2024-11-20,hi,literal,1,1,1,1,4,1,"A, B, C, D",486,7,493,0.001285
+S24__ar__adapted__gemini_flash,S24,Sanctity/Degradation,low,gemini_flash,google/gemini-3.5-flash,ar,adapted,1,1,1,1,4,1,"D, A, B, C",380,7,387,0.000633
+S26__hi__literal__claude,S26,Care/Harm,high,claude,anthropic/claude-sonnet-4.6,hi,literal,1,1,1,1,4,1,"A, B, C, D",1071,10,1081,0.003363
+S26__hi__adapted__chatgpt,S26,Care/Harm,high,chatgpt,openai/gpt-4o-2024-11-20,hi,adapted,1,1,1,1,4,1,"A, B, C, D",484,7,491,0.00128
+S26__hi__literal__gemini_flash,S26,Care/Harm,high,gemini_flash,google/gemini-3.5-flash,hi,literal,1,1,1,1,4,1,"A, B, C, D",402,7,409,0.000666
+S26__bn__literal__chatgpt,S26,Care/Harm,high,chatgpt,openai/gpt-4o-2024-11-20,bn,literal,0,0,1,1,2,0,"B, C, C, D",439,7,446,0.0011675
+S26__hi__adapted__gemini_flash,S26,Care/Harm,high,gemini_flash,google/gemini-3.5-flash,hi,adapted,1,0,1,1,3,0,"B, B, C, D",398,7,405,0.00066
+S26__hi__adapted__claude,S26,Care/Harm,high,claude,anthropic/claude-sonnet-4.6,hi,adapted,1,1,1,1,4,1,"A, B, C, D",1068,10,1078,0.003354
+S26__bn__literal__gemini_flash,S26,Care/Harm,high,gemini_flash,google/gemini-3.5-flash,bn,literal,1,1,1,1,4,1,"A, B, C, D",279,7,286,0.0004815
+S26__bn__adapted__chatgpt,S26,Care/Harm,high,chatgpt,openai/gpt-4o-2024-11-20,bn,adapted,0,1,1,1,3,0,"A, C, C, D",443,7,450,0.0011775
+S26__ta__literal__chatgpt,S26,Care/Harm,high,chatgpt,openai/gpt-4o-2024-11-20,ta,literal,0,0,1,1,2,0,"B,C,C,D",468,4,472,0.00121
+S26__bn__literal__claude,S26,Care/Harm,high,claude,anthropic/claude-sonnet-4.6,bn,literal,0,1,1,1,3,0,"A, C, C, D",1070,10,1080,0.00336
+S26__bn__adapted__claude,S26,Care/Harm,high,claude,anthropic/claude-sonnet-4.6,bn,adapted,0,1,1,1,3,0,"A, C, C, D",1082,10,1092,0.003396
+S26__ta__adapted__chatgpt,S26,Care/Harm,high,chatgpt,openai/gpt-4o-2024-11-20,ta,adapted,0,0,1,1,2,0,"B,C,C,D",475,4,479,0.0012275
+S26__ta__literal__claude,S26,Care/Harm,high,claude,anthropic/claude-sonnet-4.6,ta,literal,1,1,1,1,4,1,"A,B,C,D",1142,10,1152,0.003576
+S26__ta__literal__gemini_flash,S26,Care/Harm,high,gemini_flash,google/gemini-3.5-flash,ta,literal,1,1,1,1,4,1,"A, B, C, D",356,7,363,0.000597
+S26__es__literal__chatgpt,S26,Care/Harm,high,chatgpt,openai/gpt-4o-2024-11-20,es,literal,1,0,1,1,3,0,"B,B,C,D",330,4,334,0.000865
+S26__ta__adapted__gemini_flash,S26,Care/Harm,high,gemini_flash,google/gemini-3.5-flash,ta,adapted,1,1,1,1,4,1,"A, B, C, D",366,7,373,0.000612
+S26__ta__adapted__claude,S26,Care/Harm,high,claude,anthropic/claude-sonnet-4.6,ta,adapted,1,1,1,1,4,1,"A,B,C,D",1176,10,1186,0.003678
+S26__es__adapted__chatgpt,S26,Care/Harm,high,chatgpt,openai/gpt-4o-2024-11-20,es,adapted,1,1,1,1,4,1,"A,B,C,D",338,4,342,0.000885
+S26__es__literal__gemini_flash,S26,Care/Harm,high,gemini_flash,google/gemini-3.5-flash,es,literal,1,0,1,1,3,0,"B, B, C, D",327,7,334,0.0005535
+S26__bn__adapted__gemini_flash,S26,Care/Harm,high,gemini_flash,google/gemini-3.5-flash,bn,adapted,1,1,1,1,4,1,"A, B, C, D",283,7,290,0.0004875
+S26__es__literal__claude,S26,Care/Harm,high,claude,anthropic/claude-sonnet-4.6,es,literal,1,1,1,1,4,1,"A,B,C,D",451,10,461,0.001503
+S26__ja__literal__chatgpt,S26,Care/Harm,high,chatgpt,openai/gpt-4o-2024-11-20,ja,literal,0,0,1,1,2,0,B、C、C、D,482,7,489,0.001275
+S26__es__adapted__gemini_flash,S26,Care/Harm,high,gemini_flash,google/gemini-3.5-flash,es,adapted,1,1,1,1,4,1,"A, B, C, D",335,7,342,0.0005655
+S26__ja__adapted__chatgpt,S26,Care/Harm,high,chatgpt,openai/gpt-4o-2024-11-20,ja,adapted,0,0,1,1,2,0,B、C、C、D,490,7,497,0.001295
+S26__es__adapted__claude,S26,Care/Harm,high,claude,anthropic/claude-sonnet-4.6,es,adapted,1,1,1,1,4,1,"A,B,C,D",460,10,470,0.00153
+S26__ja__literal__gemini_flash,S26,Care/Harm,high,gemini_flash,google/gemini-3.5-flash,ja,literal,1,1,1,1,4,1,"A, B, C, D",353,7,360,0.0005925
+S26__ja__adapted__gemini_flash,S26,Care/Harm,high,gemini_flash,google/gemini-3.5-flash,ja,adapted,1,1,1,1,4,1,"A, B, C, D",358,7,365,0.0006
+S26__ja__literal__claude,S26,Care/Harm,high,claude,anthropic/claude-sonnet-4.6,ja,literal,1,1,1,1,4,1,A、B、C、D,565,10,575,0.001845
+S26__ar__literal__chatgpt,S26,Care/Harm,high,chatgpt,openai/gpt-4o-2024-11-20,ar,literal,1,0,1,1,3,0,B، B، C، D,360,7,367,0.00097
+S26__ar__literal__claude,S26,Care/Harm,high,claude,anthropic/claude-sonnet-4.6,ar,literal,1,1,1,1,4,1,A، B، C، D,700,10,710,0.00225
+S26__ar__adapted__chatgpt,S26,Care/Harm,high,chatgpt,openai/gpt-4o-2024-11-20,ar,adapted,0,1,1,1,3,0,A، C، C، D,360,7,367,0.00097
+S26__ja__adapted__claude,S26,Care/Harm,high,claude,anthropic/claude-sonnet-4.6,ja,adapted,1,1,1,1,4,1,A、B、C、D,579,10,589,0.001887
+S26__ar__literal__gemini_flash,S26,Care/Harm,high,gemini_flash,google/gemini-3.5-flash,ar,literal,1,0,1,1,3,0,"B, B, C, D",371,7,378,0.0006195
+S28__hi__literal__chatgpt,S28,Fairness/Cheating,high,chatgpt,openai/gpt-4o-2024-11-20,hi,literal,1,0,1,1,3,0,"B, B, C, D",369,7,376,0.0009925
+S26__ar__adapted__gemini_flash,S26,Care/Harm,high,gemini_flash,google/gemini-3.5-flash,ar,adapted,0,1,1,1,3,0,"A, C, C, D",370,7,377,0.000618
+S28__hi__literal__gemini_flash,S28,Fairness/Cheating,high,gemini_flash,google/gemini-3.5-flash,hi,literal,1,0,1,1,3,0,"B, B, C, D",304,7,311,0.000519
+S28__hi__adapted__chatgpt,S28,Fairness/Cheating,high,chatgpt,openai/gpt-4o-2024-11-20,hi,adapted,1,1,1,1,4,1,"A, B, C, D",373,7,380,0.0010025
+S26__ar__adapted__claude,S26,Care/Harm,high,claude,anthropic/claude-sonnet-4.6,ar,adapted,1,1,1,1,4,1,A، B، C، D,706,10,716,0.002268
+S28__hi__adapted__gemini_flash,S28,Fairness/Cheating,high,gemini_flash,google/gemini-3.5-flash,hi,adapted,1,0,1,1,3,0,"B, B, C, D",306,7,313,0.000522
+S28__bn__literal__chatgpt,S28,Fairness/Cheating,high,chatgpt,openai/gpt-4o-2024-11-20,bn,literal,1,0,1,1,3,0,"B, B, C, D",401,7,408,0.0010725
+S28__bn__adapted__chatgpt,S28,Fairness/Cheating,high,chatgpt,openai/gpt-4o-2024-11-20,bn,adapted,1,0,1,1,3,0,"B, B, C, D",403,7,410,0.0010775
+S28__bn__literal__gemini_flash,S28,Fairness/Cheating,high,gemini_flash,google/gemini-3.5-flash,bn,literal,1,0,1,1,3,0,"B, B, C, D",276,7,283,0.000477
+S28__hi__adapted__claude,S28,Fairness/Cheating,high,claude,anthropic/claude-sonnet-4.6,hi,adapted,1,1,1,1,4,1,"A, B, C, D",781,10,791,0.002493
+S28__hi__literal__claude,S28,Fairness/Cheating,high,claude,anthropic/claude-sonnet-4.6,hi,literal,1,0,1,1,3,0,"B, B, C, D",780,10,790,0.00249
+S28__bn__literal__claude,S28,Fairness/Cheating,high,claude,anthropic/claude-sonnet-4.6,bn,literal,1,0,1,1,3,0,"B, B, C, D",991,10,1001,0.003123
+S28__bn__adapted__gemini_flash,S28,Fairness/Cheating,high,gemini_flash,google/gemini-3.5-flash,bn,adapted,1,0,1,1,3,0,"B, B, C, D",278,7,285,0.00048
+S28__ta__literal__chatgpt,S28,Fairness/Cheating,high,chatgpt,openai/gpt-4o-2024-11-20,ta,literal,1,0,1,1,3,0,"B,B,C,D",456,4,460,0.00118
+S28__bn__adapted__claude,S28,Fairness/Cheating,high,claude,anthropic/claude-sonnet-4.6,bn,adapted,1,1,1,1,4,1,"A, B, C, D",985,10,995,0.003105
+S28__ta__literal__gemini_flash,S28,Fairness/Cheating,high,gemini_flash,google/gemini-3.5-flash,ta,literal,1,0,1,1,3,0,"B, B, C, D",359,7,366,0.0006015
+S28__ta__adapted__chatgpt,S28,Fairness/Cheating,high,chatgpt,openai/gpt-4o-2024-11-20,ta,adapted,1,0,1,1,3,0,"B,B,C,D",454,4,458,0.001175
+S28__ta__literal__claude,S28,Fairness/Cheating,high,claude,anthropic/claude-sonnet-4.6,ta,literal,1,0,1,1,3,0,"B,B,C,D",1071,10,1081,0.003363
+S28__ta__adapted__claude,S28,Fairness/Cheating,high,claude,anthropic/claude-sonnet-4.6,ta,adapted,1,1,1,1,4,1,"A,B,C,D",1065,10,1075,0.003345
+S28__es__literal__chatgpt,S28,Fairness/Cheating,high,chatgpt,openai/gpt-4o-2024-11-20,es,literal,1,0,1,1,3,0,"B,B,C,D",312,4,316,0.00082
+S28__ta__adapted__gemini_flash,S28,Fairness/Cheating,high,gemini_flash,google/gemini-3.5-flash,ta,adapted,1,1,1,1,4,1,"A, B, C, D",358,7,365,0.0006
+S28__es__literal__gemini_flash,S28,Fairness/Cheating,high,gemini_flash,google/gemini-3.5-flash,es,literal,1,0,1,1,3,0,"B, B, C, D",309,7,316,0.0005265
+S28__es__adapted__chatgpt,S28,Fairness/Cheating,high,chatgpt,openai/gpt-4o-2024-11-20,es,adapted,1,0,1,1,3,0,"B,B,C,D",313,4,317,0.0008225
+S28__es__literal__claude,S28,Fairness/Cheating,high,claude,anthropic/claude-sonnet-4.6,es,literal,1,0,1,1,3,0,"B,B,C,D",395,10,405,0.001335
+S28__es__adapted__claude,S28,Fairness/Cheating,high,claude,anthropic/claude-sonnet-4.6,es,adapted,1,0,1,1,3,0,"B,B,C,D",395,10,405,0.001335
+S28__es__adapted__gemini_flash,S28,Fairness/Cheating,high,gemini_flash,google/gemini-3.5-flash,es,adapted,1,0,1,1,3,0,"B, B, C, D",310,7,317,0.000528
+S28__ja__literal__chatgpt,S28,Fairness/Cheating,high,chatgpt,openai/gpt-4o-2024-11-20,ja,literal,1,0,1,1,3,0,B、B、C、D,429,7,436,0.0011425
+S28__ja__adapted__chatgpt,S28,Fairness/Cheating,high,chatgpt,openai/gpt-4o-2024-11-20,ja,adapted,1,1,1,1,4,1,A、B、C、D,424,7,431,0.00113
+S28__ja__literal__gemini_flash,S28,Fairness/Cheating,high,gemini_flash,google/gemini-3.5-flash,ja,literal,1,0,1,1,3,0,"B, B, C, D",309,7,316,0.0005265
+S28__ja__literal__claude,S28,Fairness/Cheating,high,claude,anthropic/claude-sonnet-4.6,ja,literal,1,0,1,1,3,0,B、B、C、D,487,10,497,0.001611
+S28__ja__adapted__claude,S28,Fairness/Cheating,high,claude,anthropic/claude-sonnet-4.6,ja,adapted,1,1,1,1,4,1,A、B、C、D,479,10,489,0.001587
+S28__ar__literal__chatgpt,S28,Fairness/Cheating,high,chatgpt,openai/gpt-4o-2024-11-20,ar,literal,1,0,1,1,3,0,B، B، C، D,346,7,353,0.000935
+S28__ja__adapted__gemini_flash,S28,Fairness/Cheating,high,gemini_flash,google/gemini-3.5-flash,ja,adapted,1,1,1,1,4,1,"A, B, C, D",305,7,312,0.0005205
+S28__ar__adapted__chatgpt,S28,Fairness/Cheating,high,chatgpt,openai/gpt-4o-2024-11-20,ar,adapted,1,0,1,1,3,0,B، B، C، D,346,7,353,0.000935
+S28__ar__literal__gemini_flash,S28,Fairness/Cheating,high,gemini_flash,google/gemini-3.5-flash,ar,literal,1,0,1,1,3,0,"B, B, C, D",360,7,367,0.000603
+S28__ar__literal__claude,S28,Fairness/Cheating,high,claude,anthropic/claude-sonnet-4.6,ar,literal,1,0,1,1,3,0,B، B، C، D,667,10,677,0.002151
+S28__ar__adapted__gemini_flash,S28,Fairness/Cheating,high,gemini_flash,google/gemini-3.5-flash,ar,adapted,1,1,1,1,4,1,"A, B, C, D",361,7,368,0.0006045
+S33__hi__literal__chatgpt,S33,Authority/Subversion,low,chatgpt,openai/gpt-4o-2024-11-20,hi,literal,1,1,1,1,4,1,"D, A, B, C",376,7,383,0.00101
+S33__hi__adapted__chatgpt,S33,Authority/Subversion,low,chatgpt,openai/gpt-4o-2024-11-20,hi,adapted,1,1,1,1,4,1,"D, A, B, C",379,7,386,0.0010175
+S33__hi__literal__gemini_flash,S33,Authority/Subversion,low,gemini_flash,google/gemini-3.5-flash,hi,literal,1,1,1,1,4,1,"D, A, B, C",303,7,310,0.0005175
+S33__hi__literal__claude,S33,Authority/Subversion,low,claude,anthropic/claude-sonnet-4.6,hi,literal,1,1,1,1,4,1,"D, A, B, C",844,10,854,0.002682
+S33__bn__literal__chatgpt,S33,Authority/Subversion,low,chatgpt,openai/gpt-4o-2024-11-20,bn,literal,1,0,1,1,3,0,"A, A, B, C",393,7,400,0.0010525
+S28__ar__adapted__claude,S28,Fairness/Cheating,high,claude,anthropic/claude-sonnet-4.6,ar,adapted,1,0,1,1,3,0,B، B، C، D,666,10,676,0.002148
+S33__hi__adapted__gemini_flash,S33,Authority/Subversion,low,gemini_flash,google/gemini-3.5-flash,hi,adapted,1,1,1,1,4,1,"D, A, B, C",307,7,314,0.0005235
+S33__bn__adapted__chatgpt,S33,Authority/Subversion,low,chatgpt,openai/gpt-4o-2024-11-20,bn,adapted,1,1,1,1,4,1,"D, A, B, C",391,7,398,0.0010475
+S33__bn__literal__gemini_flash,S33,Authority/Subversion,low,gemini_flash,google/gemini-3.5-flash,bn,literal,1,1,1,1,4,1,"D, A, B, C",284,7,291,0.000489
+S33__hi__adapted__claude,S33,Authority/Subversion,low,claude,anthropic/claude-sonnet-4.6,hi,adapted,1,1,1,1,4,1,"D, A, B, C",859,10,869,0.002727
+S33__bn__adapted__gemini_flash,S33,Authority/Subversion,low,gemini_flash,google/gemini-3.5-flash,bn,adapted,1,1,1,1,4,1,"D, A, B, C",285,7,292,0.0004905
+S33__ta__literal__chatgpt,S33,Authority/Subversion,low,chatgpt,openai/gpt-4o-2024-11-20,ta,literal,1,1,1,1,4,1,"D,A,B,C",460,4,464,0.00119
+S33__ta__adapted__chatgpt,S33,Authority/Subversion,low,chatgpt,openai/gpt-4o-2024-11-20,ta,adapted,1,1,1,1,4,1,"D,A,B,C",457,4,461,0.0011825
+S33__bn__literal__claude,S33,Authority/Subversion,low,claude,anthropic/claude-sonnet-4.6,bn,literal,1,1,1,0,3,0,"D, A, B, A",992,10,1002,0.003126
+S33__ta__literal__gemini_flash,S33,Authority/Subversion,low,gemini_flash,google/gemini-3.5-flash,ta,literal,1,1,1,1,4,1,"D, A, B, C",339,7,346,0.0005715
+S33__bn__adapted__claude,S33,Authority/Subversion,low,claude,anthropic/claude-sonnet-4.6,bn,adapted,1,1,1,1,4,1,"D, A, B, C",1000,10,1010,0.00315
+S33__es__literal__chatgpt,S33,Authority/Subversion,low,chatgpt,openai/gpt-4o-2024-11-20,es,literal,1,1,1,1,4,1,"D,A,B,C",288,4,292,0.00076
+S33__ta__adapted__gemini_flash,S33,Authority/Subversion,low,gemini_flash,google/gemini-3.5-flash,ta,adapted,1,1,1,1,4,1,"D, A, B, C",339,7,346,0.0005715
+S33__ta__literal__claude,S33,Authority/Subversion,low,claude,anthropic/claude-sonnet-4.6,ta,literal,1,1,1,0,3,0,"D,A,B,B",1104,10,1114,0.003462
+S33__es__literal__gemini_flash,S33,Authority/Subversion,low,gemini_flash,google/gemini-3.5-flash,es,literal,1,1,1,1,4,1,"D,A,B,C",285,7,292,0.0004905
+S33__ta__adapted__claude,S33,Authority/Subversion,low,claude,anthropic/claude-sonnet-4.6,ta,adapted,1,1,1,1,4,1,"D,A,B,C",1104,10,1114,0.003462
+S33__es__literal__claude,S33,Authority/Subversion,low,claude,anthropic/claude-sonnet-4.6,es,literal,1,1,1,1,4,1,"D,A,B,C",390,10,400,0.00132
+S33__es__adapted__gemini_flash,S33,Authority/Subversion,low,gemini_flash,google/gemini-3.5-flash,es,adapted,1,1,1,1,4,1,"D, A, B, C",288,7,295,0.000495
+S33__ja__literal__chatgpt,S33,Authority/Subversion,low,chatgpt,openai/gpt-4o-2024-11-20,ja,literal,1,1,1,1,4,1,D、A、B、C,409,7,416,0.0010925
+S33__es__adapted__chatgpt,S33,Authority/Subversion,low,chatgpt,openai/gpt-4o-2024-11-20,es,adapted,1,1,1,1,4,1,"D,A,B,C",292,4,296,0.00077
+S33__ja__adapted__chatgpt,S33,Authority/Subversion,low,chatgpt,openai/gpt-4o-2024-11-20,ja,adapted,1,1,1,1,4,1,D、A、B、C,409,7,416,0.0010925
+S33__ja__literal__gemini_flash,S33,Authority/Subversion,low,gemini_flash,google/gemini-3.5-flash,ja,literal,1,1,1,1,4,1,"D, A, B, C",291,7,298,0.0004995
+S33__es__adapted__claude,S33,Authority/Subversion,low,claude,anthropic/claude-sonnet-4.6,es,adapted,1,1,1,1,4,1,"D,A,B,C",393,10,403,0.001329
+S33__ja__adapted__gemini_flash,S33,Authority/Subversion,low,gemini_flash,google/gemini-3.5-flash,ja,adapted,1,1,1,1,4,1,"D, A, B, C",292,7,299,0.000501
+S33__ja__literal__claude,S33,Authority/Subversion,low,claude,anthropic/claude-sonnet-4.6,ja,literal,1,1,1,1,4,1,D、A、B、C,459,10,469,0.001527
+S33__ar__literal__chatgpt,S33,Authority/Subversion,low,chatgpt,openai/gpt-4o-2024-11-20,ar,literal,1,1,1,1,4,1,D، A، B، C,314,7,321,0.000855
+S33__ar__adapted__chatgpt,S33,Authority/Subversion,low,chatgpt,openai/gpt-4o-2024-11-20,ar,adapted,1,1,1,1,4,1,"D, A, B, C",315,7,322,0.0008575
+S33__ar__literal__gemini_flash,S33,Authority/Subversion,low,gemini_flash,google/gemini-3.5-flash,ar,literal,1,1,1,1,4,1,"D, A, B, C",316,7,323,0.000537
+S33__ar__literal__claude,S33,Authority/Subversion,low,claude,anthropic/claude-sonnet-4.6,ar,literal,1,1,1,1,4,1,D، A، B، C,605,10,615,0.001965
+S33__ja__adapted__claude,S33,Authority/Subversion,low,claude,anthropic/claude-sonnet-4.6,ja,adapted,1,1,1,1,4,1,D、A、B、C,460,10,470,0.00153
+S36__hi__literal__chatgpt,S36,Fairness/Cheating,low,chatgpt,openai/gpt-4o-2024-11-20,hi,literal,1,1,1,1,4,1,"D, A, B, C",361,7,368,0.0009725
+S33__ar__adapted__gemini_flash,S33,Authority/Subversion,low,gemini_flash,google/gemini-3.5-flash,ar,adapted,1,1,1,1,4,1,"D, A, B, C",321,7,328,0.0005445
+S36__hi__literal__gemini_flash,S36,Fairness/Cheating,low,gemini_flash,google/gemini-3.5-flash,hi,literal,1,1,1,1,4,1,"D, A, B, C",309,7,316,0.0005265
+S36__hi__adapted__chatgpt,S36,Fairness/Cheating,low,chatgpt,openai/gpt-4o-2024-11-20,hi,adapted,1,1,1,1,4,1,"D, A, B, C",361,7,368,0.0009725
+S33__ar__adapted__claude,S33,Authority/Subversion,low,claude,anthropic/claude-sonnet-4.6,ar,adapted,1,1,1,1,4,1,D، A، B، C,616,10,626,0.001998
+S36__hi__literal__claude,S36,Fairness/Cheating,low,claude,anthropic/claude-sonnet-4.6,hi,literal,1,1,1,1,4,1,"D, A, B, C",810,10,820,0.00258
+S36__hi__adapted__gemini_flash,S36,Fairness/Cheating,low,gemini_flash,google/gemini-3.5-flash,hi,adapted,1,1,1,1,4,1,"D, A, B, C",306,7,313,0.000522
+S36__bn__literal__chatgpt,S36,Fairness/Cheating,low,chatgpt,openai/gpt-4o-2024-11-20,bn,literal,1,1,1,1,4,1,"D, A, B, C",398,7,405,0.001065
+S36__hi__adapted__claude,S36,Fairness/Cheating,low,claude,anthropic/claude-sonnet-4.6,hi,adapted,1,1,1,1,4,1,"D, A, B, C",803,10,813,0.002559
+S36__bn__literal__gemini_flash,S36,Fairness/Cheating,low,gemini_flash,google/gemini-3.5-flash,bn,literal,1,1,1,1,4,1,"D, A, B, C",271,7,278,0.0004695
+S36__bn__adapted__chatgpt,S36,Fairness/Cheating,low,chatgpt,openai/gpt-4o-2024-11-20,bn,adapted,1,1,1,1,4,1,"D, A, B, C",398,7,405,0.001065
+S36__bn__literal__claude,S36,Fairness/Cheating,low,claude,anthropic/claude-sonnet-4.6,bn,literal,1,1,1,1,4,1,"D, A, B, C",974,10,984,0.003072
+S36__bn__adapted__gemini_flash,S36,Fairness/Cheating,low,gemini_flash,google/gemini-3.5-flash,bn,adapted,1,1,1,1,4,1,"D, A, B, C",270,7,277,0.000468
+S36__ta__literal__chatgpt,S36,Fairness/Cheating,low,chatgpt,openai/gpt-4o-2024-11-20,ta,literal,1,1,1,1,4,1,"D,A,B,C",438,4,442,0.001135
+S36__ta__literal__claude,S36,Fairness/Cheating,low,claude,anthropic/claude-sonnet-4.6,ta,literal,1,1,1,1,4,1,"D,A,B,C",1002,10,1012,0.003156
+S36__bn__adapted__claude,S36,Fairness/Cheating,low,claude,anthropic/claude-sonnet-4.6,bn,adapted,1,1,1,1,4,1,"D, A, B, C",971,10,981,0.003063
+S36__ta__literal__gemini_flash,S36,Fairness/Cheating,low,gemini_flash,google/gemini-3.5-flash,ta,literal,1,1,1,1,4,1,"D, A, B, C",341,7,348,0.0005745
+S36__ta__adapted__chatgpt,S36,Fairness/Cheating,low,chatgpt,openai/gpt-4o-2024-11-20,ta,adapted,1,1,1,1,4,1,"D,A,B,C",432,4,436,0.00112
+S36__es__literal__chatgpt,S36,Fairness/Cheating,low,chatgpt,openai/gpt-4o-2024-11-20,es,literal,1,1,1,1,4,1,"D,A,B,C",301,4,305,0.0007925
+S36__ta__adapted__gemini_flash,S36,Fairness/Cheating,low,gemini_flash,google/gemini-3.5-flash,ta,adapted,1,1,1,1,4,1,"D, A, B, C",340,7,347,0.000573
+S36__ta__adapted__claude,S36,Fairness/Cheating,low,claude,anthropic/claude-sonnet-4.6,ta,adapted,1,1,1,1,4,1,"D,A,B,C",996,10,1006,0.003138
+S36__es__adapted__chatgpt,S36,Fairness/Cheating,low,chatgpt,openai/gpt-4o-2024-11-20,es,adapted,1,1,1,1,4,1,"D,A,B,C",300,4,304,0.00079
+S36__es__literal__gemini_flash,S36,Fairness/Cheating,low,gemini_flash,google/gemini-3.5-flash,es,literal,1,1,1,1,4,1,"D, A, B, C",297,7,304,0.0005085
+S36__ja__literal__chatgpt,S36,Fairness/Cheating,low,chatgpt,openai/gpt-4o-2024-11-20,ja,literal,1,1,1,1,4,1,D、A、B、C,475,7,482,0.0012575
+S36__es__adapted__gemini_flash,S36,Fairness/Cheating,low,gemini_flash,google/gemini-3.5-flash,es,adapted,1,1,1,1,4,1,"D,A,B,C",296,7,303,0.000507
+S36__es__literal__claude,S36,Fairness/Cheating,low,claude,anthropic/claude-sonnet-4.6,es,literal,1,1,1,1,4,1,"D,A,B,C",403,10,413,0.001359
+S36__es__adapted__claude,S36,Fairness/Cheating,low,claude,anthropic/claude-sonnet-4.6,es,adapted,1,1,1,1,4,1,"D,A,B,C",403,10,413,0.001359
+S36__ja__literal__gemini_flash,S36,Fairness/Cheating,low,gemini_flash,google/gemini-3.5-flash,ja,literal,1,1,1,1,4,1,"D, A, B, C",342,7,349,0.000576
+S36__ja__adapted__chatgpt,S36,Fairness/Cheating,low,chatgpt,openai/gpt-4o-2024-11-20,ja,adapted,1,1,1,1,4,1,D、A、B、C,473,7,480,0.0012525
+S36__ar__literal__chatgpt,S36,Fairness/Cheating,low,chatgpt,openai/gpt-4o-2024-11-20,ar,literal,1,1,1,1,4,1,"D, A, B, C",334,7,341,0.000905
+S36__ja__adapted__gemini_flash,S36,Fairness/Cheating,low,gemini_flash,google/gemini-3.5-flash,ja,adapted,1,1,1,1,4,1,"D, A, B, C",342,7,349,0.000576
+S36__ja__literal__claude,S36,Fairness/Cheating,low,claude,anthropic/claude-sonnet-4.6,ja,literal,1,1,1,1,4,1,D、A、B、C,513,10,523,0.001689
+S36__ar__literal__claude,S36,Fairness/Cheating,low,claude,anthropic/claude-sonnet-4.6,ar,literal,1,1,1,1,4,1,D، A، B، C,636,10,646,0.002058
+S36__ja__adapted__claude,S36,Fairness/Cheating,low,claude,anthropic/claude-sonnet-4.6,ja,adapted,1,1,1,1,4,1,D、A、B、C,507,10,517,0.001671
+S36__ar__literal__gemini_flash,S36,Fairness/Cheating,low,gemini_flash,google/gemini-3.5-flash,ar,literal,1,1,1,1,4,1,"D, A, B, C",344,7,351,0.000579
+S37__hi__literal__chatgpt,S37,Loyalty/Betrayal,high,chatgpt,openai/gpt-4o-2024-11-20,hi,literal,1,1,1,1,4,1,"A, B, C, D",364,7,371,0.00098
+S36__ar__adapted__chatgpt,S36,Fairness/Cheating,low,chatgpt,openai/gpt-4o-2024-11-20,ar,adapted,1,1,1,1,4,1,D، A، B، C,331,7,338,0.0008975
+S36__ar__adapted__gemini_flash,S36,Fairness/Cheating,low,gemini_flash,google/gemini-3.5-flash,ar,adapted,1,1,1,1,4,1,"D, A, B, C",339,7,346,0.0005715
+S37__hi__adapted__chatgpt,S37,Loyalty/Betrayal,high,chatgpt,openai/gpt-4o-2024-11-20,hi,adapted,1,1,1,1,4,1,"A, B, C, D",363,7,370,0.0009775
+S37__hi__literal__gemini_flash,S37,Loyalty/Betrayal,high,gemini_flash,google/gemini-3.5-flash,hi,literal,1,1,1,1,4,1,"A, B, C, D",306,7,313,0.000522
+S37__hi__literal__claude,S37,Loyalty/Betrayal,high,claude,anthropic/claude-sonnet-4.6,hi,literal,1,1,1,1,4,1,"A, B, C, D",858,10,868,0.002724
+S37__bn__literal__chatgpt,S37,Loyalty/Betrayal,high,chatgpt,openai/gpt-4o-2024-11-20,bn,literal,1,1,1,1,4,1,"A, B, C, D",374,7,381,0.001005
+S36__ar__adapted__claude,S36,Fairness/Cheating,low,claude,anthropic/claude-sonnet-4.6,ar,adapted,1,1,1,1,4,1,D، A، B، C,624,10,634,0.002022
+S37__hi__adapted__claude,S37,Loyalty/Betrayal,high,claude,anthropic/claude-sonnet-4.6,hi,adapted,1,1,1,1,4,1,"A, B, C, D",846,10,856,0.002688
+S37__hi__adapted__gemini_flash,S37,Loyalty/Betrayal,high,gemini_flash,google/gemini-3.5-flash,hi,adapted,1,1,1,1,4,1,"A, B, C, D",303,7,310,0.0005175
+S37__bn__literal__claude,S37,Loyalty/Betrayal,high,claude,anthropic/claude-sonnet-4.6,bn,literal,1,1,1,1,4,1,"A, B, C, D",957,10,967,0.003021
+S37__bn__literal__gemini_flash,S37,Loyalty/Betrayal,high,gemini_flash,google/gemini-3.5-flash,bn,literal,1,1,1,1,4,1,"A, B, C, D",262,7,269,0.000456
+S37__bn__adapted__chatgpt,S37,Loyalty/Betrayal,high,chatgpt,openai/gpt-4o-2024-11-20,bn,adapted,1,1,1,1,4,1,"A, B, C, D",379,7,386,0.0010175
+S37__ta__literal__chatgpt,S37,Loyalty/Betrayal,high,chatgpt,openai/gpt-4o-2024-11-20,ta,literal,1,1,1,1,4,1,"A,B,C,D",439,4,443,0.0011375
+S37__bn__adapted__gemini_flash,S37,Loyalty/Betrayal,high,gemini_flash,google/gemini-3.5-flash,bn,adapted,1,1,1,1,4,1,"A, B, C, D",266,7,273,0.000462
+S37__bn__adapted__claude,S37,Loyalty/Betrayal,high,claude,anthropic/claude-sonnet-4.6,bn,adapted,1,1,1,1,4,1,"A, B, C, D",961,10,971,0.003033
+S37__ta__adapted__chatgpt,S37,Loyalty/Betrayal,high,chatgpt,openai/gpt-4o-2024-11-20,ta,adapted,1,1,1,1,4,1,"A,B,C,D",442,4,446,0.001145
+S37__es__literal__chatgpt,S37,Loyalty/Betrayal,high,chatgpt,openai/gpt-4o-2024-11-20,es,literal,1,1,1,1,4,1,"A,B,C,D",311,4,315,0.0008175
+S37__ta__adapted__gemini_flash,S37,Loyalty/Betrayal,high,gemini_flash,google/gemini-3.5-flash,ta,adapted,1,1,1,1,4,1,"A, B, C, D",352,7,359,0.000591
+S37__es__literal__claude,S37,Loyalty/Betrayal,high,claude,anthropic/claude-sonnet-4.6,es,literal,1,1,1,1,4,1,"A,B,C,D",395,10,405,0.001335
+S37__ta__literal__claude,S37,Loyalty/Betrayal,high,claude,anthropic/claude-sonnet-4.6,ta,literal,1,1,1,1,4,1,"A,B,C,D",1058,10,1068,0.003324
+S37__es__adapted__chatgpt,S37,Loyalty/Betrayal,high,chatgpt,openai/gpt-4o-2024-11-20,es,adapted,1,1,1,1,4,1,"A,B,C,D",309,4,313,0.0008125
+S37__ta__adapted__claude,S37,Loyalty/Betrayal,high,claude,anthropic/claude-sonnet-4.6,ta,adapted,1,1,1,1,4,1,"A,B,C,D",1056,10,1066,0.003318
+S37__es__adapted__gemini_flash,S37,Loyalty/Betrayal,high,gemini_flash,google/gemini-3.5-flash,es,adapted,1,1,1,1,4,1,"A, B, C, D",304,7,311,0.000519
+S37__es__adapted__claude,S37,Loyalty/Betrayal,high,claude,anthropic/claude-sonnet-4.6,es,adapted,1,1,1,1,4,1,"A,B,C,D",393,10,403,0.001329
+S37__ja__literal__chatgpt,S37,Loyalty/Betrayal,high,chatgpt,openai/gpt-4o-2024-11-20,ja,literal,1,1,1,1,4,1,A、B、C、D,396,7,403,0.00106
+S37__ta__literal__gemini_flash,S37,Loyalty/Betrayal,high,gemini_flash,google/gemini-3.5-flash,ta,literal,1,1,1,1,4,1,"A, B, C, D",351,7,358,0.0005895
+S37__ja__literal__claude,S37,Loyalty/Betrayal,high,claude,anthropic/claude-sonnet-4.6,ja,literal,1,1,1,1,4,1,A、B、C、D,466,10,476,0.001548
+S37__ja__adapted__chatgpt,S37,Loyalty/Betrayal,high,chatgpt,openai/gpt-4o-2024-11-20,ja,adapted,1,1,1,1,4,1,A、B、C、D,396,7,403,0.00106
+S37__ja__literal__gemini_flash,S37,Loyalty/Betrayal,high,gemini_flash,google/gemini-3.5-flash,ja,literal,1,1,1,1,4,1,"A, B, C, D",309,7,316,0.0005265
+S37__ar__literal__chatgpt,S37,Loyalty/Betrayal,high,chatgpt,openai/gpt-4o-2024-11-20,ar,literal,1,1,1,1,4,1,"A, B, C, D",327,7,334,0.0008875
+S37__ja__adapted__gemini_flash,S37,Loyalty/Betrayal,high,gemini_flash,google/gemini-3.5-flash,ja,adapted,1,1,1,1,4,1,"A, B, C, D",309,7,316,0.0005265
+S37__ja__adapted__claude,S37,Loyalty/Betrayal,high,claude,anthropic/claude-sonnet-4.6,ja,adapted,1,1,1,1,4,1,A、B、C、D,465,10,475,0.001545
+S37__ar__literal__gemini_flash,S37,Loyalty/Betrayal,high,gemini_flash,google/gemini-3.5-flash,ar,literal,1,1,1,1,4,1,"A, B, C, D",346,7,353,0.000582
+S37__ar__adapted__chatgpt,S37,Loyalty/Betrayal,high,chatgpt,openai/gpt-4o-2024-11-20,ar,adapted,1,1,1,1,4,1,A، B، C، D,327,7,334,0.0008875
+S37__ar__literal__claude,S37,Loyalty/Betrayal,high,claude,anthropic/claude-sonnet-4.6,ar,literal,1,1,1,1,4,1,A، B، C، D,663,10,673,0.002139
+S40__hi__literal__chatgpt,S40,Care/Harm,high,chatgpt,openai/gpt-4o-2024-11-20,hi,literal,1,1,1,1,4,1,"B, C, D, A",334,7,341,0.000905
+S37__ar__adapted__gemini_flash,S37,Loyalty/Betrayal,high,gemini_flash,google/gemini-3.5-flash,ar,adapted,1,1,1,1,4,1,"A, B, C, D",346,7,353,0.000582
+S37__ar__adapted__claude,S37,Loyalty/Betrayal,high,claude,anthropic/claude-sonnet-4.6,ar,adapted,1,1,1,1,4,1,A، B، C، D,664,10,674,0.002142
+S40__hi__adapted__chatgpt,S40,Care/Harm,high,chatgpt,openai/gpt-4o-2024-11-20,hi,adapted,1,1,1,1,4,1,"B, C, D, A",331,7,338,0.0008975
+S40__hi__literal__gemini_flash,S40,Care/Harm,high,gemini_flash,google/gemini-3.5-flash,hi,literal,1,1,1,1,4,1,"B, C, D, A",287,7,294,0.0004935
+S37__es__literal__gemini_flash,S37,Loyalty/Betrayal,high,gemini_flash,google/gemini-3.5-flash,es,literal,1,1,1,1,4,1,"A, B, C, D",306,7,313,0.000522
+S40__hi__adapted__gemini_flash,S40,Care/Harm,high,gemini_flash,google/gemini-3.5-flash,hi,adapted,1,1,1,1,4,1,"B, C, D, A",282,7,289,0.000486
+S40__bn__literal__chatgpt,S40,Care/Harm,high,chatgpt,openai/gpt-4o-2024-11-20,bn,literal,1,1,1,1,4,1,"B, C, D, A",358,7,365,0.000965
+S40__hi__literal__claude,S40,Care/Harm,high,claude,anthropic/claude-sonnet-4.6,hi,literal,1,1,1,1,4,1,"B, C, D, A",735,10,745,0.002355
+S40__bn__literal__gemini_flash,S40,Care/Harm,high,gemini_flash,google/gemini-3.5-flash,bn,literal,1,1,1,1,4,1,"B, C, D, A",270,7,277,0.000468
+S40__hi__adapted__claude,S40,Care/Harm,high,claude,anthropic/claude-sonnet-4.6,hi,adapted,1,1,1,1,4,1,"B, C, D, A",728,10,738,0.002334
+S40__bn__literal__claude,S40,Care/Harm,high,claude,anthropic/claude-sonnet-4.6,bn,literal,1,1,1,1,4,1,"B, C, D, A",835,10,845,0.002655
+S40__bn__adapted__chatgpt,S40,Care/Harm,high,chatgpt,openai/gpt-4o-2024-11-20,bn,adapted,1,1,1,1,4,1,"B, C, D, A",358,7,365,0.000965
+S40__ta__literal__chatgpt,S40,Care/Harm,high,chatgpt,openai/gpt-4o-2024-11-20,ta,literal,0,1,1,1,3,0,"B,A,D,A",416,4,420,0.00108
+S40__bn__adapted__gemini_flash,S40,Care/Harm,high,gemini_flash,google/gemini-3.5-flash,bn,adapted,1,1,1,1,4,1,"B, C, D, A",269,7,276,0.0004665
+S40__ta__literal__claude,S40,Care/Harm,high,claude,anthropic/claude-sonnet-4.6,ta,literal,1,1,1,1,4,1,"B,C,D,A",982,10,992,0.003096
+S40__ta__adapted__chatgpt,S40,Care/Harm,high,chatgpt,openai/gpt-4o-2024-11-20,ta,adapted,1,1,1,1,4,1,"B,C,D,A",417,4,421,0.0010825
+S40__ta__adapted__claude,S40,Care/Harm,high,claude,anthropic/claude-sonnet-4.6,ta,adapted,1,1,1,1,4,1,"B,C,D,A",990,10,1000,0.00312
+S40__ta__literal__gemini_flash,S40,Care/Harm,high,gemini_flash,google/gemini-3.5-flash,ta,literal,1,1,1,1,4,1,"B, C, D, A",313,7,320,0.0005325
+S40__es__literal__chatgpt,S40,Care/Harm,high,chatgpt,openai/gpt-4o-2024-11-20,es,literal,1,1,1,1,4,1,"B,C,D,A",314,4,318,0.000825
+S40__ta__adapted__gemini_flash,S40,Care/Harm,high,gemini_flash,google/gemini-3.5-flash,ta,adapted,1,1,1,1,4,1,"B, C, D, A",312,7,319,0.000531
+S40__es__literal__gemini_flash,S40,Care/Harm,high,gemini_flash,google/gemini-3.5-flash,es,literal,1,1,1,1,4,1,"B, C, D, A",306,7,313,0.000522
+S40__es__literal__claude,S40,Care/Harm,high,claude,anthropic/claude-sonnet-4.6,es,literal,1,1,1,1,4,1,"B,C,D,A",408,10,418,0.001374
+S40__es__adapted__chatgpt,S40,Care/Harm,high,chatgpt,openai/gpt-4o-2024-11-20,es,adapted,1,1,1,1,4,1,"B,C,D,A",314,4,318,0.000825
+S40__bn__adapted__claude,S40,Care/Harm,high,claude,anthropic/claude-sonnet-4.6,bn,adapted,1,1,1,1,4,1,"B, C, D, A",835,10,845,0.002655
+S40__es__adapted__claude,S40,Care/Harm,high,claude,anthropic/claude-sonnet-4.6,es,adapted,1,1,1,1,4,1,"B,C,D,A",410,10,420,0.00138
+S40__ja__literal__chatgpt,S40,Care/Harm,high,chatgpt,openai/gpt-4o-2024-11-20,ja,literal,1,1,1,1,4,1,B、C、D、A,423,7,430,0.0011275
+S40__es__adapted__gemini_flash,S40,Care/Harm,high,gemini_flash,google/gemini-3.5-flash,es,adapted,1,1,1,1,4,1,"B, C, D, A",306,7,313,0.000522
+S40__ja__adapted__chatgpt,S40,Care/Harm,high,chatgpt,openai/gpt-4o-2024-11-20,ja,adapted,1,1,1,1,4,1,B、C、D、A,422,7,429,0.001125
+S40__ja__literal__gemini_flash,S40,Care/Harm,high,gemini_flash,google/gemini-3.5-flash,ja,literal,1,1,1,1,4,1,"B, C, D, A",299,7,306,0.0005115
+S40__ja__adapted__gemini_flash,S40,Care/Harm,high,gemini_flash,google/gemini-3.5-flash,ja,adapted,1,1,1,1,4,1,"B, C, D, A",299,7,306,0.0005115
+S40__ar__literal__chatgpt,S40,Care/Harm,high,chatgpt,openai/gpt-4o-2024-11-20,ar,literal,1,1,1,1,4,1,B، C، D، A,329,7,336,0.0008925
+S40__ar__literal__claude,S40,Care/Harm,high,claude,anthropic/claude-sonnet-4.6,ar,literal,1,1,1,1,4,1,B، C، D، A,602,10,612,0.001956
+S40__ar__adapted__chatgpt,S40,Care/Harm,high,chatgpt,openai/gpt-4o-2024-11-20,ar,adapted,1,1,1,1,4,1,"B, C, D, A",330,7,337,0.000895
+S42__hi__literal__chatgpt,S42,Loyalty/Betrayal,high,chatgpt,openai/gpt-4o-2024-11-20,hi,literal,1,1,1,1,4,1,"B, C, D, A",371,7,378,0.0009975
+S40__ar__adapted__gemini_flash,S40,Care/Harm,high,gemini_flash,google/gemini-3.5-flash,ar,adapted,1,1,1,1,4,1,"B, C, D, A",327,7,334,0.0005535
+S40__ar__literal__gemini_flash,S40,Care/Harm,high,gemini_flash,google/gemini-3.5-flash,ar,literal,1,1,1,1,4,1,"B, C, D, A",328,7,335,0.000555
+S42__hi__adapted__chatgpt,S42,Loyalty/Betrayal,high,chatgpt,openai/gpt-4o-2024-11-20,hi,adapted,1,1,1,1,4,1,"B, C, D, A",378,7,385,0.001015
+S42__hi__literal__gemini_flash,S42,Loyalty/Betrayal,high,gemini_flash,google/gemini-3.5-flash,hi,literal,1,1,1,1,4,1,"B, C, D, A",309,7,316,0.0005265
+S42__hi__adapted__claude,S42,Loyalty/Betrayal,high,claude,anthropic/claude-sonnet-4.6,hi,adapted,1,1,1,1,4,1,"B, C, D, A",874,10,884,0.002772
+S42__bn__literal__chatgpt,S42,Loyalty/Betrayal,high,chatgpt,openai/gpt-4o-2024-11-20,bn,literal,1,1,1,1,4,1,"B, C, D, A",419,7,426,0.0011175
+S42__hi__adapted__gemini_flash,S42,Loyalty/Betrayal,high,gemini_flash,google/gemini-3.5-flash,hi,adapted,1,1,1,1,4,1,"B, C, D, A",311,7,318,0.0005295
+S40__ja__literal__claude,S40,Care/Harm,high,claude,anthropic/claude-sonnet-4.6,ja,literal,1,1,1,1,4,1,B、C、D、A,462,10,472,0.001536
+S40__ja__adapted__claude,S40,Care/Harm,high,claude,anthropic/claude-sonnet-4.6,ja,adapted,1,1,1,1,4,1,B、C、D、A,462,10,472,0.001536
+S42__hi__literal__claude,S42,Loyalty/Betrayal,high,claude,anthropic/claude-sonnet-4.6,hi,literal,1,1,1,1,4,1,"B, C, D, A",862,10,872,0.002736
+S40__ar__adapted__claude,S40,Care/Harm,high,claude,anthropic/claude-sonnet-4.6,ar,adapted,1,1,1,1,4,1,B، C، D، A,604,10,614,0.001962
+S42__bn__literal__gemini_flash,S42,Loyalty/Betrayal,high,gemini_flash,google/gemini-3.5-flash,bn,literal,1,1,1,1,4,1,"B, C, D, A",290,7,297,0.000498
+S42__bn__adapted__chatgpt,S42,Loyalty/Betrayal,high,chatgpt,openai/gpt-4o-2024-11-20,bn,adapted,1,1,1,1,4,1,"B, C, D, A",416,7,423,0.00111
+S42__bn__adapted__gemini_flash,S42,Loyalty/Betrayal,high,gemini_flash,google/gemini-3.5-flash,bn,adapted,1,1,1,1,4,1,"B, C, D, A",290,7,297,0.000498
+S42__ta__literal__chatgpt,S42,Loyalty/Betrayal,high,chatgpt,openai/gpt-4o-2024-11-20,ta,literal,1,1,1,1,4,1,"B,C,D,A",458,4,462,0.001185
+S42__bn__literal__claude,S42,Loyalty/Betrayal,high,claude,anthropic/claude-sonnet-4.6,bn,literal,1,1,1,1,4,1,"B, C, D, A",1042,10,1052,0.003276
+S42__ta__adapted__chatgpt,S42,Loyalty/Betrayal,high,chatgpt,openai/gpt-4o-2024-11-20,ta,adapted,1,1,1,1,4,1,"B,C,D,A",461,4,465,0.0011925
+S42__bn__adapted__claude,S42,Loyalty/Betrayal,high,claude,anthropic/claude-sonnet-4.6,bn,adapted,1,1,1,1,4,1,"B, C, D, A",1036,10,1046,0.003258
+S42__ta__literal__gemini_flash,S42,Loyalty/Betrayal,high,gemini_flash,google/gemini-3.5-flash,ta,literal,1,1,1,1,4,1,"B, C, D, A",352,7,359,0.000591
+S42__es__literal__chatgpt,S42,Loyalty/Betrayal,high,chatgpt,openai/gpt-4o-2024-11-20,es,literal,1,1,1,1,4,1,"B,C,D,A",311,4,315,0.0008175
+S42__ta__adapted__claude,S42,Loyalty/Betrayal,high,claude,anthropic/claude-sonnet-4.6,ta,adapted,1,1,1,1,4,1,"B,C,D,A",1117,10,1127,0.003501
+S42__ta__literal__claude,S42,Loyalty/Betrayal,high,claude,anthropic/claude-sonnet-4.6,ta,literal,1,1,1,1,4,1,"B,C,D,A",1113,10,1123,0.003489
+S42__ta__adapted__gemini_flash,S42,Loyalty/Betrayal,high,gemini_flash,google/gemini-3.5-flash,ta,adapted,1,1,1,1,4,1,"B, C, D, A",355,7,362,0.0005955
+S42__es__literal__claude,S42,Loyalty/Betrayal,high,claude,anthropic/claude-sonnet-4.6,es,literal,1,1,1,1,4,1,"B,C,D,A",423,10,433,0.001419
+S42__es__literal__gemini_flash,S42,Loyalty/Betrayal,high,gemini_flash,google/gemini-3.5-flash,es,literal,1,1,1,1,4,1,"B, C, D, A",313,7,320,0.0005325
+S42__es__adapted__chatgpt,S42,Loyalty/Betrayal,high,chatgpt,openai/gpt-4o-2024-11-20,es,adapted,1,1,1,1,4,1,"B,C,D,A",310,4,314,0.000815
+S42__ja__literal__chatgpt,S42,Loyalty/Betrayal,high,chatgpt,openai/gpt-4o-2024-11-20,ja,literal,1,1,1,1,4,1,B、C、D、A,462,7,469,0.001225
+S42__es__adapted__claude,S42,Loyalty/Betrayal,high,claude,anthropic/claude-sonnet-4.6,es,adapted,1,1,1,1,4,1,"B,C,D,A",423,10,433,0.001419
+S42__ar__literal__chatgpt,S42,Loyalty/Betrayal,high,chatgpt,openai/gpt-4o-2024-11-20,ar,literal,1,1,1,1,4,1,"B, C, D, A",335,7,342,0.0009075
+S42__ja__adapted__chatgpt,S42,Loyalty/Betrayal,high,chatgpt,openai/gpt-4o-2024-11-20,ja,adapted,1,1,1,1,4,1,B、C、D、A,462,7,469,0.001225
+S42__es__adapted__gemini_flash,S42,Loyalty/Betrayal,high,gemini_flash,google/gemini-3.5-flash,es,adapted,1,1,1,1,4,1,"B, C, D, A",312,7,319,0.000531
+S42__ja__literal__gemini_flash,S42,Loyalty/Betrayal,high,gemini_flash,google/gemini-3.5-flash,ja,literal,1,1,1,1,4,1,"B, C, D, A",335,7,342,0.0005655
+S42__ja__adapted__gemini_flash,S42,Loyalty/Betrayal,high,gemini_flash,google/gemini-3.5-flash,ja,adapted,1,1,1,1,4,1,"B, C, D, A",338,7,345,0.00057
+S42__ja__literal__claude,S42,Loyalty/Betrayal,high,claude,anthropic/claude-sonnet-4.6,ja,literal,1,1,1,1,4,1,B、C、D、A,516,10,526,0.001698
+S42__ja__adapted__claude,S42,Loyalty/Betrayal,high,claude,anthropic/claude-sonnet-4.6,ja,adapted,1,1,1,1,4,1,B、C、D、A,516,10,526,0.001698
+S42__ar__literal__claude,S42,Loyalty/Betrayal,high,claude,anthropic/claude-sonnet-4.6,ar,literal,1,1,1,1,4,1,B، C، D، A,636,10,646,0.002058
+S42__ar__literal__gemini_flash,S42,Loyalty/Betrayal,high,gemini_flash,google/gemini-3.5-flash,ar,literal,1,1,1,1,4,1,"B, C, D, A",337,7,344,0.0005685
+S42__ar__adapted__chatgpt,S42,Loyalty/Betrayal,high,chatgpt,openai/gpt-4o-2024-11-20,ar,adapted,1,1,1,1,4,1,"B, C, D, A",333,7,340,0.0009025
+S42__ar__adapted__claude,S42,Loyalty/Betrayal,high,claude,anthropic/claude-sonnet-4.6,ar,adapted,1,1,1,1,4,1,B، C، D، A,637,10,647,0.002061
+S43__hi__literal__chatgpt,S43,Authority/Subversion,high,chatgpt,openai/gpt-4o-2024-11-20,hi,literal,1,0,1,1,3,0,"ए, सी, डी, ए",371,7,378,0.0009975
+S43__hi__adapted__chatgpt,S43,Authority/Subversion,high,chatgpt,openai/gpt-4o-2024-11-20,hi,adapted,1,0,1,1,3,0,"A, C, D, A",367,7,374,0.0009875
+S43__hi__literal__gemini_flash,S43,Authority/Subversion,high,gemini_flash,google/gemini-3.5-flash,hi,literal,1,1,1,1,4,1,"B, C, D, A",316,7,323,0.000537
+S42__ar__adapted__gemini_flash,S42,Loyalty/Betrayal,high,gemini_flash,google/gemini-3.5-flash,ar,adapted,1,1,1,1,4,1,"B, C, D, A",336,7,343,0.000567
+S43__bn__literal__chatgpt,S43,Authority/Subversion,high,chatgpt,openai/gpt-4o-2024-11-20,bn,literal,1,1,1,1,4,1,"B, C, D, A",409,7,416,0.0010925
+S43__hi__literal__claude,S43,Authority/Subversion,high,claude,anthropic/claude-sonnet-4.6,hi,literal,1,1,1,1,4,1,"B, C, D, A",803,10,813,0.002559
+S43__hi__adapted__gemini_flash,S43,Authority/Subversion,high,gemini_flash,google/gemini-3.5-flash,hi,adapted,1,1,1,1,4,1,"B, C, D, A",313,7,320,0.0005325
+S43__bn__adapted__chatgpt,S43,Authority/Subversion,high,chatgpt,openai/gpt-4o-2024-11-20,bn,adapted,1,0,1,1,3,0,"A, C, D, A",404,7,411,0.00108
+S43__bn__literal__gemini_flash,S43,Authority/Subversion,high,gemini_flash,google/gemini-3.5-flash,bn,literal,1,1,1,1,4,1,"B, C, D, A",279,7,286,0.0004815
+S43__ta__literal__chatgpt,S43,Authority/Subversion,high,chatgpt,openai/gpt-4o-2024-11-20,ta,literal,1,0,1,1,3,0,"A,C,D,A",469,4,473,0.0012125
+S43__hi__adapted__claude,S43,Authority/Subversion,high,claude,anthropic/claude-sonnet-4.6,hi,adapted,1,1,1,1,4,1,"B, C, D, A",805,10,815,0.002565
+S43__bn__adapted__gemini_flash,S43,Authority/Subversion,high,gemini_flash,google/gemini-3.5-flash,bn,adapted,1,1,1,1,4,1,"B, C, D, A",282,7,289,0.000486
+S43__ta__adapted__chatgpt,S43,Authority/Subversion,high,chatgpt,openai/gpt-4o-2024-11-20,ta,adapted,1,0,1,1,3,0,"A,C,D,A",463,4,467,0.0011975
+S43__ta__literal__claude,S43,Authority/Subversion,high,claude,anthropic/claude-sonnet-4.6,ta,literal,1,1,1,1,4,1,"B,C,D,A",1048,10,1058,0.003294
+S43__ta__literal__gemini_flash,S43,Authority/Subversion,high,gemini_flash,google/gemini-3.5-flash,ta,literal,1,1,1,1,4,1,"B, C, D, A",338,7,345,0.00057
+S43__es__literal__chatgpt,S43,Authority/Subversion,high,chatgpt,openai/gpt-4o-2024-11-20,es,literal,1,1,1,1,4,1,"B,C,D,A",306,4,310,0.000805
+S43__bn__literal__claude,S43,Authority/Subversion,high,claude,anthropic/claude-sonnet-4.6,bn,literal,1,1,1,1,4,1,"B, C, D, A",1006,10,1016,0.003168
+S43__bn__adapted__claude,S43,Authority/Subversion,high,claude,anthropic/claude-sonnet-4.6,bn,adapted,1,1,1,1,4,1,"B, C, D, A",1004,10,1014,0.003162
+S43__ta__adapted__gemini_flash,S43,Authority/Subversion,high,gemini_flash,google/gemini-3.5-flash,ta,adapted,1,1,1,1,4,1,"B, C, D, A",337,7,344,0.0005685
+S43__es__adapted__chatgpt,S43,Authority/Subversion,high,chatgpt,openai/gpt-4o-2024-11-20,es,adapted,1,1,1,1,4,1,"B,C,D,A",304,4,308,0.0008
+S43__es__literal__gemini_flash,S43,Authority/Subversion,high,gemini_flash,google/gemini-3.5-flash,es,literal,1,1,1,1,4,1,"B, C, D, A",308,7,315,0.000525
+S43__es__literal__claude,S43,Authority/Subversion,high,claude,anthropic/claude-sonnet-4.6,es,literal,1,1,1,1,4,1,"B,C,D,A",400,10,410,0.00135
+S43__ja__adapted__chatgpt,S43,Authority/Subversion,high,chatgpt,openai/gpt-4o-2024-11-20,ja,adapted,1,1,1,1,4,1,B、C、D、A,417,7,424,0.0011125
+S43__ja__literal__chatgpt,S43,Authority/Subversion,high,chatgpt,openai/gpt-4o-2024-11-20,ja,literal,1,1,1,1,4,1,B、C、D、A,420,7,427,0.00112
+S43__ta__adapted__claude,S43,Authority/Subversion,high,claude,anthropic/claude-sonnet-4.6,ta,adapted,1,1,1,1,4,1,"B,C,D,A",1039,10,1049,0.003267
+S43__es__adapted__gemini_flash,S43,Authority/Subversion,high,gemini_flash,google/gemini-3.5-flash,es,adapted,1,1,1,1,4,1,"B, C, D, A",306,7,313,0.000522
+S43__ja__literal__gemini_flash,S43,Authority/Subversion,high,gemini_flash,google/gemini-3.5-flash,ja,literal,1,1,1,1,4,1,"B, C, D, A",305,7,312,0.0005205
+S43__ja__literal__claude,S43,Authority/Subversion,high,claude,anthropic/claude-sonnet-4.6,ja,literal,1,1,1,1,4,1,B、C、D、A,470,10,480,0.00156
+S43__ar__literal__chatgpt,S43,Authority/Subversion,high,chatgpt,openai/gpt-4o-2024-11-20,ar,literal,1,0,1,1,3,0,A، C، D، A,340,7,347,0.00092
+S43__ja__adapted__gemini_flash,S43,Authority/Subversion,high,gemini_flash,google/gemini-3.5-flash,ja,adapted,1,1,1,1,4,1,"B, C, D, A",306,7,313,0.000522
+S43__ja__adapted__claude,S43,Authority/Subversion,high,claude,anthropic/claude-sonnet-4.6,ja,adapted,1,1,1,1,4,1,B、C、D、A,468,10,478,0.001554
+S43__ar__adapted__chatgpt,S43,Authority/Subversion,high,chatgpt,openai/gpt-4o-2024-11-20,ar,adapted,1,1,1,1,4,1,"B, C, D, A",339,7,346,0.0009175
+S43__ar__literal__gemini_flash,S43,Authority/Subversion,high,gemini_flash,google/gemini-3.5-flash,ar,literal,1,1,1,1,4,1,"B, C, D, A",343,7,350,0.0005775
+S47__hi__literal__chatgpt,S47,Loyalty/Betrayal,low,chatgpt,openai/gpt-4o-2024-11-20,hi,literal,1,1,1,1,4,1,"D, A, B, C",372,7,379,0.001
+S43__es__adapted__claude,S43,Authority/Subversion,high,claude,anthropic/claude-sonnet-4.6,es,adapted,1,1,1,1,4,1,"B,C,D,A",396,10,406,0.001338
+S43__ar__adapted__gemini_flash,S43,Authority/Subversion,high,gemini_flash,google/gemini-3.5-flash,ar,adapted,1,1,1,1,4,1,"B, C, D, A",342,7,349,0.000576
+S47__hi__literal__claude,S47,Loyalty/Betrayal,low,claude,anthropic/claude-sonnet-4.6,hi,literal,1,1,1,1,4,1,"D, A, B, C",888,10,898,0.002814
+S47__hi__adapted__chatgpt,S47,Loyalty/Betrayal,low,chatgpt,openai/gpt-4o-2024-11-20,hi,adapted,1,1,1,1,4,1,"D, A, B, C",371,7,378,0.0009975
+S47__hi__literal__gemini_flash,S47,Loyalty/Betrayal,low,gemini_flash,google/gemini-3.5-flash,hi,literal,1,1,1,1,4,1,"D, A, B, C",307,7,314,0.0005235
+S47__bn__literal__chatgpt,S47,Loyalty/Betrayal,low,chatgpt,openai/gpt-4o-2024-11-20,bn,literal,1,1,1,1,4,1,"D, A, B, C",379,7,386,0.0010175
+S47__hi__adapted__claude,S47,Loyalty/Betrayal,low,claude,anthropic/claude-sonnet-4.6,hi,adapted,1,1,1,1,4,1,"D, A, B, C",885,10,895,0.002805
+S43__ar__adapted__claude,S43,Authority/Subversion,high,claude,anthropic/claude-sonnet-4.6,ar,adapted,1,1,1,1,4,1,B، C، D، A,661,10,671,0.002133
+S47__hi__adapted__gemini_flash,S47,Loyalty/Betrayal,low,gemini_flash,google/gemini-3.5-flash,hi,adapted,1,1,1,1,4,1,"D, A, B, C",307,7,314,0.0005235
+S47__bn__adapted__chatgpt,S47,Loyalty/Betrayal,low,chatgpt,openai/gpt-4o-2024-11-20,bn,adapted,1,1,1,1,4,1,"D, A, B, C",377,7,384,0.0010125
+S43__ar__literal__claude,S43,Authority/Subversion,high,claude,anthropic/claude-sonnet-4.6,ar,literal,1,1,1,1,4,1,B، C، D، A,665,10,675,0.002145
+S47__bn__literal__claude,S47,Loyalty/Betrayal,low,claude,anthropic/claude-sonnet-4.6,bn,literal,1,1,1,1,4,1,"D, A, B, C",985,10,995,0.003105
+S47__bn__literal__gemini_flash,S47,Loyalty/Betrayal,low,gemini_flash,google/gemini-3.5-flash,bn,literal,1,1,1,1,4,1,"D, A, B, C",255,7,262,0.0004455
+S47__ta__literal__chatgpt,S47,Loyalty/Betrayal,low,chatgpt,openai/gpt-4o-2024-11-20,ta,literal,1,1,1,1,4,1,"D,A,B,C",426,4,430,0.001105
+S47__bn__adapted__claude,S47,Loyalty/Betrayal,low,claude,anthropic/claude-sonnet-4.6,bn,adapted,1,1,1,1,4,1,"D, A, B, C",971,10,981,0.003063
+S47__bn__adapted__gemini_flash,S47,Loyalty/Betrayal,low,gemini_flash,google/gemini-3.5-flash,bn,adapted,1,1,1,1,4,1,"D, A, B, C",255,7,262,0.0004455
+S47__ta__adapted__chatgpt,S47,Loyalty/Betrayal,low,chatgpt,openai/gpt-4o-2024-11-20,ta,adapted,1,1,1,1,4,1,"D,A,B,C",427,4,431,0.0011075
+S47__ta__literal__claude,S47,Loyalty/Betrayal,low,claude,anthropic/claude-sonnet-4.6,ta,literal,1,1,1,1,4,1,"D,A,B,C",1102,10,1112,0.003456
+S47__ta__literal__gemini_flash,S47,Loyalty/Betrayal,low,gemini_flash,google/gemini-3.5-flash,ta,literal,1,1,1,1,4,1,"D, A, B, C",334,7,341,0.000564
+S47__es__literal__chatgpt,S47,Loyalty/Betrayal,low,chatgpt,openai/gpt-4o-2024-11-20,es,literal,1,1,1,1,4,1,"D,A,B,C",295,4,299,0.0007775
+S47__ta__adapted__claude,S47,Loyalty/Betrayal,low,claude,anthropic/claude-sonnet-4.6,ta,adapted,1,1,1,1,4,1,"D,A,B,C",1096,10,1106,0.003438
+S47__es__adapted__chatgpt,S47,Loyalty/Betrayal,low,chatgpt,openai/gpt-4o-2024-11-20,es,adapted,1,1,1,1,4,1,"D,A,B,C",294,4,298,0.000775
+S47__es__literal__gemini_flash,S47,Loyalty/Betrayal,low,gemini_flash,google/gemini-3.5-flash,es,literal,1,1,1,1,4,1,"D, A, B, C",296,7,303,0.000507
+S47__es__literal__claude,S47,Loyalty/Betrayal,low,claude,anthropic/claude-sonnet-4.6,es,literal,1,1,1,1,4,1,"D,A,B,C",374,10,384,0.001272
+S47__ja__literal__chatgpt,S47,Loyalty/Betrayal,low,chatgpt,openai/gpt-4o-2024-11-20,ja,literal,1,1,1,1,4,1,D、A、B、C,424,7,431,0.00113
+S47__ta__adapted__gemini_flash,S47,Loyalty/Betrayal,low,gemini_flash,google/gemini-3.5-flash,ta,adapted,1,1,1,1,4,1,"D, A, B, C",336,7,343,0.000567
+S47__es__adapted__claude,S47,Loyalty/Betrayal,low,claude,anthropic/claude-sonnet-4.6,es,adapted,1,1,1,1,4,1,"D,A,B,C",372,10,382,0.001266
+S47__es__adapted__gemini_flash,S47,Loyalty/Betrayal,low,gemini_flash,google/gemini-3.5-flash,es,adapted,1,1,1,1,4,1,"D, A, B, C",295,7,302,0.0005055
+S47__ja__adapted__chatgpt,S47,Loyalty/Betrayal,low,chatgpt,openai/gpt-4o-2024-11-20,ja,adapted,1,1,1,1,4,1,D、A、B、C,425,7,432,0.0011325
+S47__ja__literal__gemini_flash,S47,Loyalty/Betrayal,low,gemini_flash,google/gemini-3.5-flash,ja,literal,1,1,1,1,4,1,"D, A, B, C",323,7,330,0.0005475
+S47__ja__literal__claude,S47,Loyalty/Betrayal,low,claude,anthropic/claude-sonnet-4.6,ja,literal,1,1,1,0,3,0,D、A、B、A,472,10,482,0.001566
+S47__ar__literal__chatgpt,S47,Loyalty/Betrayal,low,chatgpt,openai/gpt-4o-2024-11-20,ar,literal,1,1,1,1,4,1,D، A، B، C,323,7,330,0.0008775
+S47__ar__adapted__chatgpt,S47,Loyalty/Betrayal,low,chatgpt,openai/gpt-4o-2024-11-20,ar,adapted,1,1,1,1,4,1,"D, A, B, C",322,7,329,0.000875
+S47__ja__adapted__gemini_flash,S47,Loyalty/Betrayal,low,gemini_flash,google/gemini-3.5-flash,ja,adapted,1,1,1,1,4,1,"D, A, B, C",320,7,327,0.000543
+S47__ar__literal__gemini_flash,S47,Loyalty/Betrayal,low,gemini_flash,google/gemini-3.5-flash,ar,literal,1,1,1,1,4,1,"D, A, B, C",333,7,340,0.0005625
+S47__ar__adapted__claude,S47,Loyalty/Betrayal,low,claude,anthropic/claude-sonnet-4.6,ar,adapted,1,1,1,1,4,1,D، A، B، C,602,10,612,0.001956
+S48__hi__literal__chatgpt,S48,Authority/Subversion,high,chatgpt,openai/gpt-4o-2024-11-20,hi,literal,1,1,1,1,4,1,"A, B, C, D",350,7,357,0.000945
+S47__ar__literal__claude,S47,Loyalty/Betrayal,low,claude,anthropic/claude-sonnet-4.6,ar,literal,1,1,1,1,4,1,D، A، B، C,598,10,608,0.001944
+S47__ja__adapted__claude,S47,Loyalty/Betrayal,low,claude,anthropic/claude-sonnet-4.6,ja,adapted,1,1,1,1,4,1,D、A、B、C,475,10,485,0.001575
+S47__ar__adapted__gemini_flash,S47,Loyalty/Betrayal,low,gemini_flash,google/gemini-3.5-flash,ar,adapted,1,1,1,1,4,1,"D, A, B, C",335,7,342,0.0005655
+S48__hi__adapted__chatgpt,S48,Authority/Subversion,high,chatgpt,openai/gpt-4o-2024-11-20,hi,adapted,1,1,1,1,4,1,"A, B, C, D",351,7,358,0.0009475
+S48__hi__literal__claude,S48,Authority/Subversion,high,claude,anthropic/claude-sonnet-4.6,hi,literal,1,1,1,1,4,1,"A, B, C, D",855,10,865,0.002715
+S48__bn__literal__chatgpt,S48,Authority/Subversion,high,chatgpt,openai/gpt-4o-2024-11-20,bn,literal,1,1,1,1,4,1,"A, B, C, D",400,7,407,0.00107
+S48__bn__adapted__chatgpt,S48,Authority/Subversion,high,chatgpt,openai/gpt-4o-2024-11-20,bn,adapted,1,1,1,1,4,1,"A, B, C, D",399,7,406,0.0010675
+S48__hi__adapted__claude,S48,Authority/Subversion,high,claude,anthropic/claude-sonnet-4.6,hi,adapted,1,1,1,1,4,1,"A, B, C, D",855,10,865,0.002715
+S48__bn__literal__gemini_flash,S48,Authority/Subversion,high,gemini_flash,google/gemini-3.5-flash,bn,literal,1,0,1,1,3,0,"B, B, C, D",272,7,279,0.000471
+S48__ta__literal__chatgpt,S48,Authority/Subversion,high,chatgpt,openai/gpt-4o-2024-11-20,ta,literal,1,0,1,1,3,0,"B,B,C,D",465,4,469,0.0012025
+S48__ta__literal__gemini_flash,S48,Authority/Subversion,high,gemini_flash,google/gemini-3.5-flash,ta,literal,1,1,1,1,4,1,"A, B, C, D",341,7,348,0.0005745
+S48__bn__literal__claude,S48,Authority/Subversion,high,claude,anthropic/claude-sonnet-4.6,bn,literal,1,1,1,1,4,1,"A, B, C, D",1006,10,1016,0.003168
+S48__bn__adapted__claude,S48,Authority/Subversion,high,claude,anthropic/claude-sonnet-4.6,bn,adapted,1,1,1,1,4,1,"A, B, C, D",1004,10,1014,0.003162
+S48__hi__literal__gemini_flash,S48,Authority/Subversion,high,gemini_flash,google/gemini-3.5-flash,hi,literal,1,1,1,1,4,1,"A, B, C, D",310,7,317,0.000528
+S48__ta__adapted__chatgpt,S48,Authority/Subversion,high,chatgpt,openai/gpt-4o-2024-11-20,ta,adapted,1,1,1,1,4,1,"A,B,C,D",465,4,469,0.0012025
+S48__hi__adapted__gemini_flash,S48,Authority/Subversion,high,gemini_flash,google/gemini-3.5-flash,hi,adapted,1,1,1,1,4,1,"A, B, C, D",309,7,316,0.0005265
+S48__ta__literal__claude,S48,Authority/Subversion,high,claude,anthropic/claude-sonnet-4.6,ta,literal,1,1,1,1,4,1,"A,B,C,D",1122,10,1132,0.003516
+S48__es__literal__chatgpt,S48,Authority/Subversion,high,chatgpt,openai/gpt-4o-2024-11-20,es,literal,1,1,1,1,4,1,"A,B,C,D",297,4,301,0.0007825
+S48__ta__adapted__claude,S48,Authority/Subversion,high,claude,anthropic/claude-sonnet-4.6,ta,adapted,1,1,1,1,4,1,"A,B,C,D",1111,10,1121,0.003483
+S48__ta__adapted__gemini_flash,S48,Authority/Subversion,high,gemini_flash,google/gemini-3.5-flash,ta,adapted,1,0,1,1,3,0,"B, B, C, D",343,7,350,0.0005775
+S48__es__adapted__chatgpt,S48,Authority/Subversion,high,chatgpt,openai/gpt-4o-2024-11-20,es,adapted,1,1,1,1,4,1,"A,B,C,D",296,4,300,0.00078
+S48__bn__adapted__gemini_flash,S48,Authority/Subversion,high,gemini_flash,google/gemini-3.5-flash,bn,adapted,1,1,1,1,4,1,"A, B, C, D",276,7,283,0.000477
+S48__ja__literal__chatgpt,S48,Authority/Subversion,high,chatgpt,openai/gpt-4o-2024-11-20,ja,literal,1,1,1,1,4,1,A、B、C、D,424,7,431,0.00113
+S48__es__adapted__gemini_flash,S48,Authority/Subversion,high,gemini_flash,google/gemini-3.5-flash,es,adapted,1,1,1,1,4,1,"A, B, C, D",294,7,301,0.000504
+S48__es__literal__claude,S48,Authority/Subversion,high,claude,anthropic/claude-sonnet-4.6,es,literal,1,1,1,1,4,1,"A,B,C,D",380,10,390,0.00129
+S48__ja__adapted__chatgpt,S48,Authority/Subversion,high,chatgpt,openai/gpt-4o-2024-11-20,ja,adapted,1,1,1,1,4,1,A、B、C、D,423,7,430,0.0011275
+S48__ja__literal__claude,S48,Authority/Subversion,high,claude,anthropic/claude-sonnet-4.6,ja,literal,1,1,1,1,4,1,A、B、C、D,471,10,481,0.001563
+S48__ja__literal__gemini_flash,S48,Authority/Subversion,high,gemini_flash,google/gemini-3.5-flash,ja,literal,1,1,1,1,4,1,"A, B, C, D",309,7,316,0.0005265
+S48__ar__literal__chatgpt,S48,Authority/Subversion,high,chatgpt,openai/gpt-4o-2024-11-20,ar,literal,1,1,1,1,4,1,A، B، C، D,313,7,320,0.0008525
+S48__ja__adapted__gemini_flash,S48,Authority/Subversion,high,gemini_flash,google/gemini-3.5-flash,ja,adapted,1,1,1,1,4,1,"A, B, C, D",310,7,317,0.000528
+S48__es__adapted__claude,S48,Authority/Subversion,high,claude,anthropic/claude-sonnet-4.6,es,adapted,1,1,1,1,4,1,"A,B,C,D",378,10,388,0.001284
+S48__ar__literal__gemini_flash,S48,Authority/Subversion,high,gemini_flash,google/gemini-3.5-flash,ar,literal,1,1,1,1,4,1,"A, B, C, D",319,7,326,0.0005415
+S48__es__literal__gemini_flash,S48,Authority/Subversion,high,gemini_flash,google/gemini-3.5-flash,es,literal,1,1,1,1,4,1,"A, B, C, D",295,7,302,0.0005055
+S49__hi__literal__chatgpt,S49,Sanctity/Degradation,low,chatgpt,openai/gpt-4o-2024-11-20,hi,literal,1,1,1,1,4,1,"C, D, A, B",385,7,392,0.0010325
+S48__ar__adapted__chatgpt,S48,Authority/Subversion,high,chatgpt,openai/gpt-4o-2024-11-20,ar,adapted,1,1,1,1,4,1,A، B، C، D,311,7,318,0.0008475
+S48__ar__adapted__gemini_flash,S48,Authority/Subversion,high,gemini_flash,google/gemini-3.5-flash,ar,adapted,1,1,1,1,4,1,"A, B, C, D",317,7,324,0.0005385
+S49__hi__adapted__chatgpt,S49,Sanctity/Degradation,low,chatgpt,openai/gpt-4o-2024-11-20,hi,adapted,1,1,1,1,4,1,"C, D, A, B",391,7,398,0.0010475
+S49__hi__literal__claude,S49,Sanctity/Degradation,low,claude,anthropic/claude-sonnet-4.6,hi,literal,1,1,1,1,4,1,"C, D, A, B",841,10,851,0.002673
+S48__ja__adapted__claude,S48,Authority/Subversion,high,claude,anthropic/claude-sonnet-4.6,ja,adapted,1,1,1,1,4,1,A、B、C、D,470,10,480,0.00156
+S49__hi__literal__gemini_flash,S49,Sanctity/Degradation,low,gemini_flash,google/gemini-3.5-flash,hi,literal,1,1,1,1,4,1,"C, D, A, B",306,7,313,0.000522
+S48__ar__adapted__claude,S48,Authority/Subversion,high,claude,anthropic/claude-sonnet-4.6,ar,adapted,1,1,1,1,4,1,A، B، C، D,635,10,645,0.002055
+S49__bn__literal__chatgpt,S49,Sanctity/Degradation,low,chatgpt,openai/gpt-4o-2024-11-20,bn,literal,1,0,1,1,3,0,"B, D, A, B",420,7,427,0.00112
+S49__hi__adapted__gemini_flash,S49,Sanctity/Degradation,low,gemini_flash,google/gemini-3.5-flash,hi,adapted,1,1,1,1,4,1,"C, D, A, B",312,7,319,0.000531
+S49__hi__adapted__claude,S49,Sanctity/Degradation,low,claude,anthropic/claude-sonnet-4.6,hi,adapted,1,1,1,1,4,1,"C, D, A, B",852,10,862,0.002706
+S48__ar__literal__claude,S48,Authority/Subversion,high,claude,anthropic/claude-sonnet-4.6,ar,literal,1,1,1,1,4,1,A، B، C، D,639,10,649,0.002067
+S49__bn__literal__claude,S49,Sanctity/Degradation,low,claude,anthropic/claude-sonnet-4.6,bn,literal,1,1,1,1,4,1,"C, D, A, B",1037,10,1047,0.003261
+S49__bn__adapted__chatgpt,S49,Sanctity/Degradation,low,chatgpt,openai/gpt-4o-2024-11-20,bn,adapted,1,0,1,1,3,0,"B, D, A, B",415,7,422,0.0011075
+S49__bn__literal__gemini_flash,S49,Sanctity/Degradation,low,gemini_flash,google/gemini-3.5-flash,bn,literal,1,1,1,1,4,1,"C, D, A, B",299,7,306,0.0005115
+S49__ta__literal__chatgpt,S49,Sanctity/Degradation,low,chatgpt,openai/gpt-4o-2024-11-20,ta,literal,1,1,1,1,4,1,"C,D,A,B",453,4,457,0.0011725
+S49__bn__adapted__gemini_flash,S49,Sanctity/Degradation,low,gemini_flash,google/gemini-3.5-flash,bn,adapted,1,1,1,1,4,1,"C, D, A, B",294,7,301,0.000504
+S49__ta__adapted__chatgpt,S49,Sanctity/Degradation,low,chatgpt,openai/gpt-4o-2024-11-20,ta,adapted,1,0,1,1,3,0,"B,D,A,B",453,4,457,0.0011725
+S49__bn__adapted__claude,S49,Sanctity/Degradation,low,claude,anthropic/claude-sonnet-4.6,bn,adapted,1,1,1,1,4,1,"C, D, A, B",1021,10,1031,0.003213
+S49__ta__literal__claude,S49,Sanctity/Degradation,low,claude,anthropic/claude-sonnet-4.6,ta,literal,1,1,1,1,4,1,"C,D,A,B",1086,10,1096,0.003408
+S49__ta__literal__gemini_flash,S49,Sanctity/Degradation,low,gemini_flash,google/gemini-3.5-flash,ta,literal,1,1,1,1,4,1,"C, D, A, B",330,7,337,0.000558
+S49__es__literal__chatgpt,S49,Sanctity/Degradation,low,chatgpt,openai/gpt-4o-2024-11-20,es,literal,1,1,1,1,4,1,"C,D,A,B",305,4,309,0.0008025
+S49__ta__adapted__gemini_flash,S49,Sanctity/Degradation,low,gemini_flash,google/gemini-3.5-flash,ta,adapted,1,1,1,1,4,1,"C, D, A, B",332,7,339,0.000561
+S49__ta__adapted__claude,S49,Sanctity/Degradation,low,claude,anthropic/claude-sonnet-4.6,ta,adapted,1,1,1,1,4,1,"C,D,A,B",1094,10,1104,0.003432
+S49__es__adapted__chatgpt,S49,Sanctity/Degradation,low,chatgpt,openai/gpt-4o-2024-11-20,es,adapted,1,1,1,1,4,1,"C,D,A,B",305,4,309,0.0008025
+S49__es__literal__gemini_flash,S49,Sanctity/Degradation,low,gemini_flash,google/gemini-3.5-flash,es,literal,1,1,1,1,4,1,"C,D,A,B",306,7,313,0.000522
+S49__ja__literal__chatgpt,S49,Sanctity/Degradation,low,chatgpt,openai/gpt-4o-2024-11-20,ja,literal,1,1,1,1,4,1,C、D、A、B,418,7,425,0.001115
+S49__es__adapted__claude,S49,Sanctity/Degradation,low,claude,anthropic/claude-sonnet-4.6,es,adapted,1,1,1,1,4,1,"C,D,A,B",400,10,410,0.00135
+S49__es__literal__claude,S49,Sanctity/Degradation,low,claude,anthropic/claude-sonnet-4.6,es,literal,1,1,1,1,4,1,"C,D,A,B",402,10,412,0.001356
+S49__es__adapted__gemini_flash,S49,Sanctity/Degradation,low,gemini_flash,google/gemini-3.5-flash,es,adapted,1,1,1,1,4,1,"C, D, A, B",306,7,313,0.000522
+S49__ja__adapted__chatgpt,S49,Sanctity/Degradation,low,chatgpt,openai/gpt-4o-2024-11-20,ja,adapted,1,1,1,1,4,1,C、D、A、B,419,7,426,0.0011175
+S49__ja__literal__gemini_flash,S49,Sanctity/Degradation,low,gemini_flash,google/gemini-3.5-flash,ja,literal,1,1,1,1,4,1,"C, D, A, B",311,7,318,0.0005295
+S49__ja__literal__claude,S49,Sanctity/Degradation,low,claude,anthropic/claude-sonnet-4.6,ja,literal,1,1,1,1,4,1,C、D、A、B,471,10,481,0.001563
+S49__ar__literal__chatgpt,S49,Sanctity/Degradation,low,chatgpt,openai/gpt-4o-2024-11-20,ar,literal,1,1,1,1,4,1,C، D، A، B,350,7,357,0.000945
+S49__ja__adapted__claude,S49,Sanctity/Degradation,low,claude,anthropic/claude-sonnet-4.6,ja,adapted,1,1,1,1,4,1,C、D、A、B,473,10,483,0.001569
+S49__ja__adapted__gemini_flash,S49,Sanctity/Degradation,low,gemini_flash,google/gemini-3.5-flash,ja,adapted,1,1,1,1,4,1,"C, D, A, B",311,7,318,0.0005295
+S49__ar__adapted__chatgpt,S49,Sanctity/Degradation,low,chatgpt,openai/gpt-4o-2024-11-20,ar,adapted,1,1,1,1,4,1,C، D، A، B,349,7,356,0.0009425
+S49__ar__literal__claude,S49,Sanctity/Degradation,low,claude,anthropic/claude-sonnet-4.6,ar,literal,1,1,1,1,4,1,C، D، A، B,669,10,679,0.002157
+S49__ar__literal__gemini_flash,S49,Sanctity/Degradation,low,gemini_flash,google/gemini-3.5-flash,ar,literal,1,1,1,1,4,1,"C, D, A, B",362,7,369,0.000606
+S49__ar__adapted__gemini_flash,S49,Sanctity/Degradation,low,gemini_flash,google/gemini-3.5-flash,ar,adapted,1,1,1,1,4,1,"C, D, A, B",360,7,367,0.000603
+S49__ar__adapted__claude,S49,Sanctity/Degradation,low,claude,anthropic/claude-sonnet-4.6,ar,adapted,1,1,1,1,4,1,C، D، A، B,668,10,678,0.002154

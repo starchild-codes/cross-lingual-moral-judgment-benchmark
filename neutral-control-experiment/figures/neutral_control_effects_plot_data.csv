@@ -1,0 +1,10 @@
+row_type,contrast,aggregation_level,model_key,input_language,control_id,left_condition,right_condition,left_rating,right_rating,paired_difference,n,mean_paired_difference,median_paired_difference,standard_deviation,minimum,maximum,ci_lower,ci_upper,contrast_label,model_label
+aggregate,cultural_adaptation_primary,model,chatgpt,,,adapted_response_en,literal_response_en,,,,30,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Cultural adaptation,GPT-4o
+aggregate,cultural_adaptation_primary,model,claude,,,adapted_response_en,literal_response_en,,,,30,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Cultural adaptation,Claude Sonnet 4.6
+aggregate,cultural_adaptation_primary,model,gemini_flash,,,adapted_response_en,literal_response_en,,,,30,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Cultural adaptation,Gemini 3.5 Flash
+aggregate,input_language,model,chatgpt,,,literal_response_en,en_en,,,,30,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Input language,GPT-4o
+aggregate,input_language,model,claude,,,literal_response_en,en_en,,,,30,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Input language,Claude Sonnet 4.6
+aggregate,input_language,model,gemini_flash,,,literal_response_en,en_en,,,,30,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Input language,Gemini 3.5 Flash
+aggregate,response_language_primary,model,chatgpt,,,literal_response_same_language,literal_response_en,,,,30,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Response language,GPT-4o
+aggregate,response_language_primary,model,claude,,,literal_response_same_language,literal_response_en,,,,30,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Response language,Claude Sonnet 4.6
+aggregate,response_language_primary,model,gemini_flash,,,literal_response_same_language,literal_response_en,,,,30,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Response language,Gemini 3.5 Flash

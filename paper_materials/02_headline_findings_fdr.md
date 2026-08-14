@@ -1,0 +1,16 @@
+# Headline Findings With FDR Correction
+
+Benjamini-Hochberg correction was applied separately within the four primary FDR families: language_effect, framing_effect, reasoning_effect, and foundation_breakdown. `model_comparison` is excluded here to avoid double-counting duplicated model-specific effects. Reference-divergence summaries are descriptive and do not enter this p-value FDR family.
+
+Ranked by FDR survival first, then absolute Cohen's d. Effect sizes and confidence intervals are retained so raw magnitude remains visible.
+
+1. foundation_breakdown, effect=language, model=pooled, language=ta, foundation=Loyalty/Betrayal showed mean_diff=-0.43333333333333335, 95% CI=[-0.6573668557291751, -0.20929981093749164], p=0.0007032822603121325, q_BH=0.02461487911092464, Cohen's d=-0.6921568708897166, n=30; survives q < .05.
+2. foundation_breakdown, effect=framing, model=pooled, language=ar, foundation=Sanctity/Degradation showed mean_diff=-0.5925925925925926, 95% CI=[-0.9276818581174688, -0.2575033270677163], p=0.0018481730204056301, q_BH=0.02798138646491588, Cohen's d=-0.6670676692091927, n=27; survives q < .05.
+3. framing_effect, effect=framing, model=claude, language=es showed mean_diff=-0.42, 95% CI=[-0.6064892490198832, -0.2335107509801168], p=0.00005571086608058273, q_BH=0.0005199680834187722, Cohen's d=-0.6242615114083112, n=50; survives q < .05.
+4. foundation_breakdown, effect=reasoning, model=pooled, language=ja, foundation=Fairness/Cheating showed mean_diff=0.3333333333333333, 95% CI=[0.1377091726053282, 0.5289574940613384], p=0.0023162287902018797, q_BH=0.02798138646491588, Cohen's d=0.6097498436202111, n=30; survives q < .05.
+5. foundation_breakdown, effect=framing, model=pooled, language=es, foundation=Sanctity/Degradation showed mean_diff=-0.48148148148148145, 95% CI=[-0.7841552963694655, -0.17880766659349745], p=0.004412390189922011, q_BH=0.03862953873956909, Cohen's d=-0.6000382376103702, n=27; survives q < .05.
+6. foundation_breakdown, effect=framing, model=pooled, language=es, foundation=Authority/Subversion showed mean_diff=-0.4666666666666667, 95% CI=[-0.7598520002813332, -0.17348133305200014], p=0.0040697030147966995, q_BH=0.03862953873956909, Cohen's d=-0.5695868886695797, n=30; survives q < .05.
+7. foundation_breakdown, effect=language, model=pooled, language=ar, foundation=Authority/Subversion showed mean_diff=0.43333333333333335, 95% CI=[0.15641310608271092, 0.7102535605839557], p=0.004648510749234003, q_BH=0.03862953873956909, Cohen's d=0.5599675523000586, n=30; survives q < .05.
+8. foundation_breakdown, effect=language, model=pooled, language=bn, foundation=Authority/Subversion showed mean_diff=0.4, 95% CI=[0.14092933551750347, 0.6590706644824966], p=0.005150605165275879, q_BH=0.03862953873956909, Cohen's d=0.5525062514530825, n=30; survives q < .05.
+9. foundation_breakdown, effect=reasoning, model=pooled, language=ar, foundation=Fairness/Cheating showed mean_diff=0.4, 95% CI=[0.14092933551750347, 0.6590706644824966], p=0.005150605165275879, q_BH=0.03862953873956909, Cohen's d=0.5525062514530825, n=30; survives q < .05.
+10. reasoning_effect, effect=reasoning, model=gemini_flash, language=es showed mean_diff=-0.34, 95% CI=[-0.5136000000000001, -0.16640000000000002], p=0.00035498487386376176, q_BH=0.004969788234092665, Cohen's d=-0.54287552878193, n=50; survives q < .05.

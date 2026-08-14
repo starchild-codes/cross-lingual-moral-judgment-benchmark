@@ -1,0 +1,11 @@
+{
+  "original_workbook_sha256": "d1462380a5d335663a83ca62e69af98eec937cedf3c2079a93f257e65a5c8dbb",
+  "completed_workbook_sha256": "c2a15e62821459c2d41d699fde686fda272268bdc064608785fbc98a395c298e",
+  "completed_workbook_readable": true,
+  "expected_sheets_present": true,
+  "selected_scenarios": 20,
+  "english_mcq_rows": 80,
+  "multilingual_mcq_rows": 960,
+  "unique_manifest_rows": 720,
+  "paid_api_requests": 0
+}

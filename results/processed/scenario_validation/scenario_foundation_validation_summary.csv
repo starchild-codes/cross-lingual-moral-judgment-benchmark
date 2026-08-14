@@ -1,0 +1,10 @@
+metric,value,percent
+scenario_rows,50,
+coder_a_b_raw_agreement,0.76,76.00%
+coder_a_b_cohens_kappa,0.697428,
+coder_a_intended_agreement,0.72,72.00%
+coder_b_intended_agreement,0.82,82.00%
+average_coder_intended_agreement,0.77,77.00%
+both_coders_match_intended_rate,0.66,66.00%
+at_least_one_coder_matches_intended_rate,0.88,88.00%
+needs_adjudication_rows,12,

@@ -1,0 +1,7 @@
+﻿shift_tier_manuscript,model_key,correct_items,total_items,work_units_4_of_4,total_work_units,accuracy,4_of_4_proportion
+Higher-shift,chatgpt,436,480,81,120,0.9083333333333333,0.675
+Higher-shift,claude,461,480,101,120,0.9604166666666667,0.8416666666666667
+Higher-shift,gemini_flash,461,480,101,120,0.9604166666666667,0.8416666666666667
+Lower-shift,chatgpt,465,480,105,120,0.96875,0.875
+Lower-shift,claude,473,480,113,120,0.9854166666666667,0.9416666666666667
+Lower-shift,gemini_flash,479,480,119,120,0.9979166666666667,0.9916666666666667

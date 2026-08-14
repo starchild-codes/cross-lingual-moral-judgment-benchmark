@@ -1,0 +1,22 @@
+Human MFT coding summary
+Coder 1: independent human coder
+Coder 2: independent human coder
+Rows coded by human coder 1: 1000
+Rows coded by human coder 2: 1000
+Total paired responses coded: 1000
+Invalid outputs: 4
+Valid paired rows for reliability: 996
+Human raw agreement percentage: 96.2%
+Human Cohen's kappa: 0.948
+
+Provenance note: This file is stored in a historically named directory. Historical
+filenames and fields containing ai_mft, llama, or deepseek do not accurately describe
+the final coding process. Final labels were produced through independent human coding
+and human adjudication; they are not AI-assisted or LLM-generated labels.
+
+Per-foundation disagreement counts:
+Care/Harm: 1
+Loyalty/Betrayal: 0
+Authority/Subversion: 12
+Fairness/Cheating: 0
+Sanctity/Degradation: 24

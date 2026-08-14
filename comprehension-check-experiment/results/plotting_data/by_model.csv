@@ -1,0 +1,4 @@
+﻿model_key,correct_items,total_items,work_units_4_of_4,total_work_units,accuracy,4_of_4_proportion
+chatgpt,901,960,186,240,0.9385416666666667,0.775
+claude,934,960,214,240,0.9729166666666667,0.8916666666666667
+gemini_flash,940,960,220,240,0.9791666666666666,0.9166666666666666

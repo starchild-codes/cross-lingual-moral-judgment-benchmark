@@ -1,0 +1,266 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="1080" viewBox="0 0 1500 1080">
+<rect x="0" y="0" width="1500" height="1080" fill="#FFFFFF"/>
+<text x="60" y="46" text-anchor="start" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#111827">Figure 5. Designed-to-invoked moral foundation transitions by source model.</text>
+<text x="60" y="78" text-anchor="start" font-family="Arial, sans-serif" font-size="15" fill="#374151">Rows are designed foundations; columns are coded foundations. Cell shade is row percentage; numbers are counts.</text>
+<text x="72" y="121" text-anchor="start" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#111827">chatgpt</text>
+<text x="382" y="159" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#4B5563">Invoked foundation</text>
+<text x="76" y="392" text-anchor="start" font-family="Arial, sans-serif" font-size="13" fill="#4B5563">Designed</text>
+<text x="258" y="203" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">Care</text>
+<text x="320" y="203" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">Loyalty</text>
+<text x="382" y="203" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">Authority</text>
+<text x="444" y="203" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">Fairness</text>
+<text x="506" y="203" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">Sanctity</text>
+<text x="215" y="272" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#111827">Care</text>
+<rect x="227" y="237" width="59" height="59" fill="#1e40af" stroke="#FFFFFF"/>
+<text x="258" y="273" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">50</text>
+<rect x="289" y="237" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="320" y="273" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<rect x="351" y="237" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="382" y="273" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<rect x="413" y="237" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="444" y="273" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<rect x="475" y="237" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="506" y="273" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<text x="215" y="334" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#111827">Loyalty</text>
+<rect x="227" y="299" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="258" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<rect x="289" y="299" width="59" height="59" fill="#1e40af" stroke="#FFFFFF"/>
+<text x="320" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">50</text>
+<rect x="351" y="299" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="382" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<rect x="413" y="299" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="444" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<rect x="475" y="299" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="506" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<text x="215" y="396" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#111827">Authority</text>
+<rect x="227" y="361" width="59" height="59" fill="#8297d5" stroke="#FFFFFF"/>
+<text x="258" y="397" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">26</text>
+<rect x="289" y="361" width="59" height="59" fill="#97aadd" stroke="#FFFFFF"/>
+<text x="320" y="397" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">21</text>
+<rect x="351" y="361" width="59" height="59" fill="#e2ebfa" stroke="#FFFFFF"/>
+<text x="382" y="397" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">3</text>
+<rect x="413" y="361" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="444" y="397" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<rect x="475" y="361" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="506" y="397" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<text x="215" y="458" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#111827">Fairness</text>
+<rect x="227" y="423" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="258" y="459" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<rect x="289" y="423" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="320" y="459" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<rect x="351" y="423" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="382" y="459" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<rect x="413" y="423" width="59" height="59" fill="#1e40af" stroke="#FFFFFF"/>
+<text x="444" y="459" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">50</text>
+<rect x="475" y="423" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="506" y="459" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<text x="215" y="520" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#111827">Sanctity</text>
+<rect x="227" y="485" width="59" height="59" fill="#8fa2da" stroke="#FFFFFF"/>
+<text x="258" y="521" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">23</text>
+<rect x="289" y="485" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="320" y="521" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<rect x="351" y="485" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="382" y="521" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<rect x="413" y="485" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="444" y="521" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<rect x="475" y="485" width="59" height="59" fill="#7e94d4" stroke="#FFFFFF"/>
+<text x="506" y="521" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">27</text>
+<text x="790" y="121" text-anchor="start" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#111827">claude</text>
+<text x="1100" y="159" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#4B5563">Invoked foundation</text>
+<text x="794" y="392" text-anchor="start" font-family="Arial, sans-serif" font-size="13" fill="#4B5563">Designed</text>
+<text x="976" y="203" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">Care</text>
+<text x="1038" y="203" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">Loyalty</text>
+<text x="1100" y="203" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">Authority</text>
+<text x="1162" y="203" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">Fairness</text>
+<text x="1224" y="203" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">Sanctity</text>
+<text x="933" y="272" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#111827">Care</text>
+<rect x="945" y="237" width="59" height="59" fill="#1e40af" stroke="#FFFFFF"/>
+<text x="976" y="273" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">50</text>
+<rect x="1007" y="237" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="1038" y="273" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<rect x="1069" y="237" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="1100" y="273" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<rect x="1131" y="237" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="1162" y="273" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<rect x="1193" y="237" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="1224" y="273" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<text x="933" y="334" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#111827">Loyalty</text>
+<rect x="945" y="299" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="976" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<rect x="1007" y="299" width="59" height="59" fill="#1e40af" stroke="#FFFFFF"/>
+<text x="1038" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">50</text>
+<rect x="1069" y="299" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="1100" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<rect x="1131" y="299" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="1162" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<rect x="1193" y="299" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="1224" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<text x="933" y="396" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#111827">Authority</text>
+<rect x="945" y="361" width="59" height="59" fill="#879bd7" stroke="#FFFFFF"/>
+<text x="976" y="397" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">25</text>
+<rect x="1007" y="361" width="59" height="59" fill="#97aadd" stroke="#FFFFFF"/>
+<text x="1038" y="397" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">21</text>
+<rect x="1069" y="361" width="59" height="59" fill="#dee7f9" stroke="#FFFFFF"/>
+<text x="1100" y="397" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">4</text>
+<rect x="1131" y="361" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="1162" y="397" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<rect x="1193" y="361" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="1224" y="397" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<text x="933" y="458" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#111827">Fairness</text>
+<rect x="945" y="423" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="976" y="459" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<rect x="1007" y="423" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="1038" y="459" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<rect x="1069" y="423" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="1100" y="459" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<rect x="1131" y="423" width="59" height="59" fill="#1e40af" stroke="#FFFFFF"/>
+<text x="1162" y="459" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">50</text>
+<rect x="1193" y="423" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="1224" y="459" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<text x="933" y="520" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#111827">Sanctity</text>
+<rect x="945" y="485" width="59" height="59" fill="#93a6dc" stroke="#FFFFFF"/>
+<text x="976" y="521" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">22</text>
+<rect x="1007" y="485" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="1038" y="521" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<rect x="1069" y="485" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="1100" y="521" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<rect x="1131" y="485" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="1162" y="521" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<rect x="1193" y="485" width="59" height="59" fill="#7a90d2" stroke="#FFFFFF"/>
+<text x="1224" y="521" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">28</text>
+<text x="72" y="596" text-anchor="start" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#111827">gemini_flash</text>
+<text x="382" y="634" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#4B5563">Invoked foundation</text>
+<text x="76" y="867" text-anchor="start" font-family="Arial, sans-serif" font-size="13" fill="#4B5563">Designed</text>
+<text x="258" y="678" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">Care</text>
+<text x="320" y="678" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">Loyalty</text>
+<text x="382" y="678" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">Authority</text>
+<text x="444" y="678" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">Fairness</text>
+<text x="506" y="678" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">Sanctity</text>
+<text x="215" y="747" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#111827">Care</text>
+<rect x="227" y="712" width="59" height="59" fill="#1e40af" stroke="#FFFFFF"/>
+<text x="258" y="748" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">50</text>
+<rect x="289" y="712" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="320" y="748" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<rect x="351" y="712" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="382" y="748" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<rect x="413" y="712" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="444" y="748" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<rect x="475" y="712" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="506" y="748" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<text x="215" y="809" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#111827">Loyalty</text>
+<rect x="227" y="774" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="258" y="810" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<rect x="289" y="774" width="59" height="59" fill="#1e40af" stroke="#FFFFFF"/>
+<text x="320" y="810" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">50</text>
+<rect x="351" y="774" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="382" y="810" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<rect x="413" y="774" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="444" y="810" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<rect x="475" y="774" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="506" y="810" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<text x="215" y="871" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#111827">Authority</text>
+<rect x="227" y="836" width="59" height="59" fill="#879bd7" stroke="#FFFFFF"/>
+<text x="258" y="872" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">25</text>
+<rect x="289" y="836" width="59" height="59" fill="#8fa2da" stroke="#FFFFFF"/>
+<text x="320" y="872" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">23</text>
+<rect x="351" y="836" width="59" height="59" fill="#e7effc" stroke="#FFFFFF"/>
+<text x="382" y="872" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">2</text>
+<rect x="413" y="836" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="444" y="872" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<rect x="475" y="836" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="506" y="872" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<text x="215" y="933" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#111827">Fairness</text>
+<rect x="227" y="898" width="59" height="59" fill="#ebf2fd" stroke="#FFFFFF"/>
+<text x="258" y="934" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">1</text>
+<rect x="289" y="898" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="320" y="934" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<rect x="351" y="898" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="382" y="934" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<rect x="413" y="898" width="59" height="59" fill="#2244b1" stroke="#FFFFFF"/>
+<text x="444" y="934" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">49</text>
+<rect x="475" y="898" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="506" y="934" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<text x="215" y="995" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#111827">Sanctity</text>
+<rect x="227" y="960" width="59" height="59" fill="#9baddf" stroke="#FFFFFF"/>
+<text x="258" y="996" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">20</text>
+<rect x="289" y="960" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="320" y="996" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<rect x="351" y="960" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="382" y="996" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<rect x="413" y="960" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="444" y="996" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<rect x="475" y="960" width="59" height="59" fill="#7289cf" stroke="#FFFFFF"/>
+<text x="506" y="996" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">30</text>
+<text x="790" y="596" text-anchor="start" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#111827">gemini_pro</text>
+<text x="1100" y="634" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#4B5563">Invoked foundation</text>
+<text x="794" y="867" text-anchor="start" font-family="Arial, sans-serif" font-size="13" fill="#4B5563">Designed</text>
+<text x="976" y="678" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">Care</text>
+<text x="1038" y="678" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">Loyalty</text>
+<text x="1100" y="678" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">Authority</text>
+<text x="1162" y="678" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">Fairness</text>
+<text x="1224" y="678" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">Sanctity</text>
+<text x="933" y="747" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#111827">Care</text>
+<rect x="945" y="712" width="59" height="59" fill="#1e40af" stroke="#FFFFFF"/>
+<text x="976" y="748" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">50</text>
+<rect x="1007" y="712" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="1038" y="748" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<rect x="1069" y="712" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="1100" y="748" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<rect x="1131" y="712" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="1162" y="748" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<rect x="1193" y="712" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="1224" y="748" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<text x="933" y="809" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#111827">Loyalty</text>
+<rect x="945" y="774" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="976" y="810" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<rect x="1007" y="774" width="59" height="59" fill="#1e40af" stroke="#FFFFFF"/>
+<text x="1038" y="810" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">50</text>
+<rect x="1069" y="774" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="1100" y="810" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<rect x="1131" y="774" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="1162" y="810" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<rect x="1193" y="774" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="1224" y="810" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<text x="933" y="871" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#111827">Authority</text>
+<rect x="945" y="836" width="59" height="59" fill="#879bd7" stroke="#FFFFFF"/>
+<text x="976" y="872" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">25</text>
+<rect x="1007" y="836" width="59" height="59" fill="#97aadd" stroke="#FFFFFF"/>
+<text x="1038" y="872" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">21</text>
+<rect x="1069" y="836" width="59" height="59" fill="#dee7f9" stroke="#FFFFFF"/>
+<text x="1100" y="872" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">4</text>
+<rect x="1131" y="836" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="1162" y="872" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<rect x="1193" y="836" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="1224" y="872" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<text x="933" y="933" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#111827">Fairness</text>
+<rect x="945" y="898" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="976" y="934" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<rect x="1007" y="898" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="1038" y="934" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<rect x="1069" y="898" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="1100" y="934" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<rect x="1131" y="898" width="59" height="59" fill="#1e40af" stroke="#FFFFFF"/>
+<text x="1162" y="934" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">50</text>
+<rect x="1193" y="898" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="1224" y="934" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<text x="933" y="995" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#111827">Sanctity</text>
+<rect x="945" y="960" width="59" height="59" fill="#a0b1e1" stroke="#FFFFFF"/>
+<text x="976" y="996" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">19</text>
+<rect x="1007" y="960" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="1038" y="996" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<rect x="1069" y="960" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="1100" y="996" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<rect x="1131" y="960" width="59" height="59" fill="#eff6ff" stroke="#FFFFFF"/>
+<text x="1162" y="996" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#111827">0</text>
+<rect x="1193" y="960" width="59" height="59" fill="#6d85cd" stroke="#FFFFFF"/>
+<text x="1224" y="996" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">31</text>
+<text x="1240" y="66" text-anchor="start" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#111827">Row %</text>
+<rect x="1240" y="82" width="32" height="16" fill="#eff6ff"/>
+<rect x="1272" y="82" width="32" height="16" fill="#c5d2ef"/>
+<rect x="1304" y="82" width="32" height="16" fill="#9baddf"/>
+<rect x="1336" y="82" width="32" height="16" fill="#7289cf"/>
+<rect x="1368" y="82" width="32" height="16" fill="#4864bf"/>
+<rect x="1400" y="82" width="32" height="16" fill="#1e40af"/>
+<text x="1240" y="116" text-anchor="start" font-family="Arial, sans-serif" font-size="11" fill="#111827">0%</text>
+<text x="1432" y="116" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#111827">100%</text>
+</svg>

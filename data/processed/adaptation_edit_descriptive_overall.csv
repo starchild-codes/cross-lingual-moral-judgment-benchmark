@@ -1,0 +1,2 @@
+﻿scope,pairs,mean,median,standard_deviation,interquartile_range,minimum,maximum,scenario_cluster_bootstrap_mean_ci_lower_95,scenario_cluster_bootstrap_mean_ci_upper_95
+Overall,300,0.5145444226559815,0.5373288787483703,0.1626858128195405,0.20464507434557871,0.012658227848101266,0.88,0.49623573427238776,0.5327897819106137

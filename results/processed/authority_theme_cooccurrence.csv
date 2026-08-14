@@ -1,0 +1,10 @@
+﻿scenario_id,theme_cooccurrence,count,denominator,percentage
+S11,Authority/Subversion + Care/Harm,7,100,7.000000000000001
+S11,Authority/Subversion + Care/Harm + Loyalty/Betrayal,8,100,8.0
+S11,Authority/Subversion + Loyalty/Betrayal,2,100,2.0
+S11,Care/Harm,14,100,14.000000000000002
+S11,Care/Harm + Loyalty/Betrayal,38,100,38.0
+S11,Loyalty/Betrayal,27,100,27.0
+S11,No dictionary match,4,100,4.0
+S30,Authority/Subversion + Care/Harm,73,100,73.0
+S30,Authority/Subversion + Care/Harm + Loyalty/Betrayal,27,100,27.0

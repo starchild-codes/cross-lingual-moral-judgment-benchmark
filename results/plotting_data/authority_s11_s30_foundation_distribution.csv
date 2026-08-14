@@ -1,0 +1,11 @@
+﻿scenario_id,foundation,count,denominator,percentage
+S11,Care/Harm,1,100,1
+S11,Loyalty/Betrayal,86,100,86
+S11,Authority/Subversion,13,100,13
+S11,Fairness/Cheating,0,100,0
+S11,Sanctity/Degradation,0,100,0
+S30,Care/Harm,100,100,100
+S30,Loyalty/Betrayal,0,100,0
+S30,Authority/Subversion,0,100,0
+S30,Fairness/Cheating,0,100,0
+S30,Sanctity/Degradation,0,100,0

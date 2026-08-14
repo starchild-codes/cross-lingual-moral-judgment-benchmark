@@ -1,0 +1,48 @@
+# Dependencies and build output
+node_modules/
+.next/
+dist/
+.pnpm-store/
+*.tsbuildinfo
+
+# Secrets and deployment state
+.env
+.env.*
+!.env.example
+!.env.local.example
+.vercel/
+
+# Raw model/API stores are not publication artifacts
+results/raw/*
+!results/raw/.gitkeep
+**/results/archive/
+**/data/results/archive/
+**/results/active/*
+!**/results/active/.gitkeep
+**/*.sqlite
+**/*.sqlite3
+**/*ratings_raw.csv
+**/*results_raw.csv
+**/run_failure.json
+
+# Superseded review workbooks and local approval snapshots
+**/approval_backups/
+**/*_preapproval.xlsx
+
+# Private administration exports
+**/*admin_key*
+**/*browser_backup*
+**/*coder_backup*
+
+# Local caches and temporary rendering output
+.pytest_cache/
+**/__pycache__/
+*.py[cod]
+tmp/
+.agents/
+paper_materials.zip
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+desktop.ini

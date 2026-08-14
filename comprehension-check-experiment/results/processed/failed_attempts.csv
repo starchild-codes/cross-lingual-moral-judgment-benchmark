@@ -1,0 +1,30 @@
+﻿work_unit_id,attempt_number,status,model_id,temperature,max_tokens,reasoning_effort,raw_response,error_note,prompt_tokens,completion_tokens,total_tokens,cost_usd,created_at
+S02__ar__literal__chatgpt,1,failed,openai/gpt-4o-2024-11-20,0.0,24,,D، A، B، C,Response must contain exactly four comma-separated letters A-D,471,7,478,0.0012475,2026-07-27 10:37:40
+S02__ar__literal__chatgpt,2,failed,openai/gpt-4o-2024-11-20,0.0,24,,A، A، B، C,Response must contain exactly four comma-separated letters A-D,471,7,478,0.0012475,2026-07-27 10:37:40
+S02__ar__literal__chatgpt,3,failed,openai/gpt-4o-2024-11-20,0.0,24,,A، A، B، C,Response must contain exactly four comma-separated letters A-D,471,7,478,0.0012475,2026-07-27 10:37:40
+S02__hi__literal__chatgpt,1,failed,openai/gpt-4o-2024-11-20,0.0,24,,,Response must contain exactly four comma-separated letters A-D,,,,,2026-07-27 09:55:43
+S02__hi__literal__chatgpt,2,failed,openai/gpt-4o-2024-11-20,0.0,24,,,Response must contain exactly four comma-separated letters A-D,,,,,2026-07-27 09:55:46
+S02__ja__literal__chatgpt,1,failed,openai/gpt-4o-2024-11-20,0.0,24,,,Response must contain exactly four comma-separated letters A-D,,,,,2026-07-27 09:58:26
+S02__ja__literal__chatgpt,2,failed,openai/gpt-4o-2024-11-20,0.0,24,,,Response must contain exactly four comma-separated letters A-D,,,,,2026-07-27 09:58:26
+S02__ja__literal__chatgpt,3,failed,openai/gpt-4o-2024-11-20,0.0,24,,,Response must contain exactly four comma-separated letters A-D,,,,,2026-07-27 09:58:26
+S20__hi__literal__chatgpt,1,failed,openai/gpt-4o-2024-11-20,0.0,24,,"ए, सी, डी, ए",Response must contain exactly four comma-separated letters A-D,523,7,530,0.0013775,2026-07-27 10:39:16
+S20__hi__literal__chatgpt,2,failed,openai/gpt-4o-2024-11-20,0.0,24,,"ए, सी, डी, ए",Response must contain exactly four comma-separated letters A-D,523,7,530,0.0013775,2026-07-27 10:39:16
+S20__hi__literal__chatgpt,3,failed,openai/gpt-4o-2024-11-20,0.0,24,,"ए, सी, डी, ए",Response must contain exactly four comma-separated letters A-D,523,7,530,0.0013775,2026-07-27 10:39:16
+S22__es__adapted__gemini_flash,1,failed,google/gemini-3.5-flash,0.0,24,minimal,"Para responder a las preguntas basándonos en el texto proporcionado:
+
+1. La acción central",Response must contain exactly four comma-separated letters A-D,382,20,402,0.000753,2026-07-27 10:40:24
+S22__es__adapted__gemini_flash,2,failed,google/gemini-3.5-flash,0.0,24,minimal,"Para responder a las preguntas basándonos en el texto proporcionado:
+
+1. La acción central",Response must contain exactly four comma-separated letters A-D,382,20,402,0.000753,2026-07-27 10:40:24
+S23__bn__adapted__gemini_flash,1,failed,google/gemini-3.5-flash,0.0,24,minimal,"A, B, C, Dof_thought
+A, B, C, D_",Response must contain exactly four comma-separated letters A-D,445,19,464,0.0008385,2026-07-27 10:40:33
+S23__ja__adapted__gemini_flash,1,failed,google/gemini-3.5-flash,0.0,24,minimal,"A, B, C, D_",Response must contain exactly four comma-separated letters A-D,429,9,438,0.0007245,2026-07-27 10:40:41
+S26__bn__adapted__gemini_flash,1,failed,google/gemini-3.5-flash,0.0,24,minimal,"A, B, C, Dof_thought
+A, B, C, D",Response must contain exactly four comma-separated letters A-D,283,18,301,0.0005865,2026-07-27 10:41:12
+S37__es__literal__gemini_flash,1,failed,google/gemini-3.5-flash,0.0,24,minimal,"A, B, C, Dof",Response must contain exactly four comma-separated letters A-D,306,8,314,0.000531,2026-07-27 10:42:37
+S37__es__literal__gemini_flash,2,failed,google/gemini-3.5-flash,0.0,24,minimal,"A, B, C, Dof",Response must contain exactly four comma-separated letters A-D,306,8,314,0.000531,2026-07-27 10:42:37
+S37__ta__literal__gemini_flash,1,failed,google/gemini-3.5-flash,0.0,24,minimal,"A, B, C, Dof |",Response must contain exactly four comma-separated letters A-D,351,10,361,0.0006165,2026-07-27 10:42:27
+S48__bn__adapted__gemini_flash,1,failed,google/gemini-3.5-flash,0.0,24,minimal,"B, B, C, Dof_thought",Response must contain exactly four comma-separated letters A-D,276,11,287,0.000513,2026-07-27 10:43:40
+S48__es__literal__gemini_flash,1,failed,google/gemini-3.5-flash,0.0,24,minimal,"A, B, C, Dof_thought",Response must contain exactly four comma-separated letters A-D,295,11,306,0.0005415,2026-07-27 10:43:44
+S48__hi__adapted__gemini_flash,1,failed,google/gemini-3.5-flash,0.0,24,minimal,"A, B, C, D_of_the_options_translated_to_Hindi_",Response must contain exactly four comma-separated letters A-D,309,20,329,0.0006435,2026-07-27 10:43:38
+S48__hi__literal__gemini_flash,1,failed,google/gemini-3.5-flash,0.0,24,minimal,"A, B, C, D_",Response must contain exactly four comma-separated letters A-D,310,9,319,0.000546,2026-07-27 10:43:37

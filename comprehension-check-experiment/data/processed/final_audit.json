@@ -1,0 +1,30 @@
+{
+  "status": "PASS",
+  "original_workbook_unchanged": true,
+  "completed_workbook_readable": true,
+  "original_sheet_structures_preserved": true,
+  "source_scenario_texts_exact": true,
+  "selected_scenarios": 20,
+  "english_mcq_rows": 80,
+  "multilingual_mcq_rows": 960,
+  "approved_multilingual_rows": 960,
+  "rows_per_language": {
+    "hi": 160,
+    "bn": 160,
+    "ta": 160,
+    "es": 160,
+    "ja": 160,
+    "ar": 160
+  },
+  "literal_rows": 480,
+  "adapted_rows": 480,
+  "unique_manifest_rows": 720,
+  "expected_scored_answers": 2880,
+  "missing_required_mcq_fields": 0,
+  "critical_validation_flags": 0,
+  "pending_native_review_rows": 0,
+  "paid_api_requests": 0,
+  "original_workbook_sha256": "d1462380a5d335663a83ca62e69af98eec937cedf3c2079a93f257e65a5c8dbb",
+  "preapproval_completed_workbook_sha256": "c2a15e62821459c2d41d699fde686fda272268bdc064608785fbc98a395c298e",
+  "completed_workbook_sha256": "a45e60df32e3773dea3951e555eceeb721d7f8210ab905cadc5b026d10344285"
+}

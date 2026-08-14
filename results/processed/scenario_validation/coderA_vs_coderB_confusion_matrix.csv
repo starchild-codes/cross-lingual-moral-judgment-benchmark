@@ -1,0 +1,6 @@
+label,Care/Harm,Fairness/Cheating,Loyalty/Betrayal,Authority/Subversion,Sanctity/Degradation
+Care/Harm,9,0,0,1,0
+Fairness/Cheating,1,10,0,3,0
+Loyalty/Betrayal,1,2,9,0,0
+Authority/Subversion,0,1,0,3,1
+Sanctity/Degradation,0,0,0,2,7

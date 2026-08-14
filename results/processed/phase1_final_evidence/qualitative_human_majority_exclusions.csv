@@ -1,0 +1,11 @@
+scenario_id,human_majority_label,majority_resolved,qualitative_rows,excluded_from_human_majority_analysis,exclusion_reason
+S01,Care/Harm,true,100,false,
+S06,Loyalty/Betrayal,true,100,false,
+S11,Care/Harm,true,100,false,
+S16,Fairness/Cheating,true,100,false,
+S21,Sanctity/Degradation,true,100,false,
+S26,Care/Harm,true,100,false,
+S28,Fairness/Cheating,true,100,false,
+S29,Loyalty/Betrayal,true,100,false,
+S30,Authority/Subversion,true,100,false,
+S34,Sanctity/Degradation,true,100,false,

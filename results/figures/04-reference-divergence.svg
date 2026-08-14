@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="440" viewBox="0 0 920 440">
+    <rect width="100%" height="100%" fill="#FFFFFF"/>
+    <text x="170" y="36" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#17252A">Divergence from Gemini Pro</text>
+    <text x="170" y="62" font-family="Arial, sans-serif" font-size="14" fill="#546E7A">Mean absolute rating difference on identical scenario-condition pairs</text>
+    <g font-family="Arial, sans-serif"><text x="152" y="140" text-anchor="end" font-size="15" fill="#263238">chatgpt</text>
+        <rect x="170" y="109" width="582.608695652174" height="48" fill="#16697A"/>
+        <text x="764.608695652174" y="140" font-size="14" fill="#263238">0.534 (n=625)</text><text x="152" y="233.33333333333331" text-anchor="end" font-size="15" fill="#263238">claude</text>
+        <rect x="170" y="202.33333333333331" width="533.7672481124708" height="48" fill="#D1495B"/>
+        <text x="715.7672481124708" y="233.33333333333331" font-size="14" fill="#263238">0.490 (n=625)</text><text x="152" y="326.66666666666663" text-anchor="end" font-size="15" fill="#263238">gemini_flash</text>
+        <rect x="170" y="295.66666666666663" width="394.2202551418902" height="48" fill="#2A9D8F"/>
+        <text x="576.2202551418902" y="326.66666666666663" font-size="14" fill="#263238">0.362 (n=625)</text></g>
+    <line x1="170" y1="375" x2="840" y2="375" stroke="#263238"/>
+    <text x="505" y="422" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#263238">Mean absolute difference</text>
+  </svg>

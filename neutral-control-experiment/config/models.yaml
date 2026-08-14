@@ -1,0 +1,19 @@
+models:
+  chatgpt:
+    display_name: GPT-4o
+    model: openai/gpt-4o-2024-11-20
+  claude:
+    display_name: Claude Sonnet 4.6
+    model: anthropic/claude-sonnet-4.6
+  gemini_flash:
+    display_name: Gemini 3.5 Flash
+    model: google/gemini-3.5-flash
+    reasoning_effort: minimal
+
+request:
+  temperature: 0
+  max_tokens: 16
+  timeout_seconds: 60
+  delay_seconds: 1.0
+  maximum_attempts: 3
+  backoff_seconds: 2.0

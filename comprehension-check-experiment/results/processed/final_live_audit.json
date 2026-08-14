@@ -1,0 +1,68 @@
+{
+  "status": "PASS",
+  "unique_work_units": 720,
+  "model_rows": {
+    "chatgpt": 240,
+    "claude": 240,
+    "gemini_flash": 240
+  },
+  "scored_answers": 2880,
+  "missed_items": 105,
+  "duplicate_final_rows": 0,
+  "raw_outputs_complete": true,
+  "usage_metadata_complete": true,
+  "figures": [
+    "absolute_rating_shift_by_comprehension_group.png",
+    "absolute_rating_shift_by_comprehension_score.png",
+    "comprehension_accuracy_by_language.png",
+    "comprehension_accuracy_by_model.png",
+    "comprehension_accuracy_by_question_type.png",
+    "comprehension_accuracy_by_shift_tier.png",
+    "comprehension_accuracy_by_version.png",
+    "comprehension_score_distribution.png"
+  ],
+  "plotting_data": [
+    "absolute_rating_shift_by_comprehension_group.csv",
+    "absolute_rating_shift_by_comprehension_score.csv",
+    "by_language_and_model.csv",
+    "by_model.csv",
+    "by_question_type_and_model.csv",
+    "by_shift_tier_and_model.csv",
+    "by_version_and_model.csv",
+    "comprehension_score_distribution.csv"
+  ],
+  "costs": [
+    {
+      "cost_component": "archived_unauthorized_smoke",
+      "cost_usd": 0.0
+    },
+    {
+      "cost_component": "successful_replacement_smoke",
+      "cost_usd": 0.0053375
+    },
+    {
+      "cost_component": "successful_full_collection_excluding_smoke",
+      "cost_usd": 1.133078
+    },
+    {
+      "cost_component": "parse_or_request_failed_responses_with_usage",
+      "cost_usd": 0.015453000000000001
+    },
+    {
+      "cost_component": "locally_observed_combined_total",
+      "cost_usd": 1.1538685
+    }
+  ],
+  "hashes": {
+    "approved_workbook": "a45e60df32e3773dea3951e555eceeb721d7f8210ab905cadc5b026d10344285",
+    "manifest": "50fbe02919dfe6e7083ed2e576fdd09473a4d26b815ca14460978b9042e7e5e3",
+    "results_database": "d56b470a2f292e5fe99abb6cbf46129b1780b6fa4107c5de5db89fa598fe6b9f"
+  },
+  "association_analysis": {
+    "status": "PASS",
+    "one_to_one_rating_shift_matches": 720,
+    "scenario_clusters": 20,
+    "normalized_output_integrity_rows": 150,
+    "no_additional_api_requests": true
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "experiment": "multilingual_comprehension_check",
+  "approval_timestamp_utc": "20260727T095218Z",
+  "status": "complete",
+  "review_provenance": "All 960 multilingual MCQ rows were externally reviewed by speakers competent in the respective languages. Reviewers verified semantic fidelity, naturalness, preservation of the factual target, and the presence of exactly one correct answer. All rows were approved without requested revisions. Because reviewers provided categorical approval rather than numerical ratings, approved rows were conservatively encoded as 4/5 for semantic fidelity and naturalness.",
+  "reviewer_names_recorded": false,
+  "approved_multilingual_rows": 960,
+  "semantic_fidelity_encoding": 4,
+  "naturalness_encoding": 4,
+  "single_correct_answer": "Yes",
+  "native_review_status": "Approved",
+  "backup_directory": "C:\\Users\\anshi\\OneDrive\\เอกสาร\\AI researcher\\comprehension-check-experiment\\data\\input\\approval_backups\\20260727T095218Z",
+  "hashes": {
+    "untouched_original_workbook_sha256": "d1462380a5d335663a83ca62e69af98eec937cedf3c2079a93f257e65a5c8dbb",
+    "preapproval_completed_workbook_sha256": "c2a15e62821459c2d41d699fde686fda272268bdc064608785fbc98a395c298e",
+    "approved_workbook_sha256": "a45e60df32e3773dea3951e555eceeb721d7f8210ab905cadc5b026d10344285"
+  },
+  "models": [
+    "openai/gpt-4o-2024-11-20",
+    "anthropic/claude-sonnet-4.6",
+    "google/gemini-3.5-flash"
+  ],
+  "temperature": 0,
+  "max_tokens": 24,
+  "gemini_reasoning_effort": "minimal",
+  "expected_work_units": 720,
+  "expected_scored_answers": 2880,
+  "paid_api_requests_at_approval": 0,
+  "live_run": {
+    "status": "complete",
+    "unique_work_units": 720,
+    "scored_answers": 2880,
+    "models_verified": 3,
+    "model_rows": {
+      "chatgpt": 240,
+      "claude": 240,
+      "gemini_flash": 240
+    },
+    "duplicate_final_results": 0,
+    "raw_outputs_complete": true,
+    "usage_metadata_complete": true,
+    "full_analysis_generated": true,
+    "archived_evidence_excluded_from_final_dataset": true
+  },
+  "continuation_protocol": {
+    "authorization": "User instructed continuation and to do what is needed quickly.",
+    "parser_change": "Normalize Japanese ideographic comma (?) and full-width comma (?) to ASCII comma before applying the unchanged exact four-letter A-D pattern. Arabic comma (?) is also normalized after preserved failure evidence showed the same unambiguous four-choice format.",
+    "answer_content_rules_changed": false,
+    "models_or_prompts_changed": false,
+    "temperature_or_token_limit_changed": false,
+    "prior_failed_attempts_preserved": true,
+    "replacement_attempt_numbering": "Starts at attempt 4 for the previously failed work unit.",
+    "parallel_workers": 12,
+    "localized_option_aliases": "Exact A-D option-name aliases added for Hindi, Bengali, Tamil, and Japanese; parser still requires exactly four recognized choices and preserves their order."
+  },
+  "completed_at_utc": "2026-07-27T10:49:27.029853+00:00",
+  "final_results": {
+    "unique_work_units": 720,
+    "scored_answers": 2880,
+    "missed_items": 105,
+    "overall_item_accuracy": 0.9635416666666666,
+    "scenario_4_of_4_accuracy": 0.8611111111111112,
+    "normalization_rows": 150,
+    "attempt_rows": 743,
+    "failed_attempt_rows": 23,
+    "costs": [
+      {
+        "cost_component": "archived_unauthorized_smoke",
+        "cost_usd": 0.0
+      },
+      {
+        "cost_component": "successful_replacement_smoke",
+        "cost_usd": 0.0053375
+      },
+      {
+        "cost_component": "successful_full_collection_excluding_smoke",
+        "cost_usd": 1.133078
+      },
+      {
+        "cost_component": "parse_or_request_failed_responses_with_usage",
+        "cost_usd": 0.015453000000000001
+      },
+      {
+        "cost_component": "locally_observed_combined_total",
+        "cost_usd": 1.1538685
+      }
+    ],
+    "results_database_sha256": "d56b470a2f292e5fe99abb6cbf46129b1780b6fa4107c5de5db89fa598fe6b9f"
+  },
+  "archived_stop_evidence": {
+    "status": "stopped_on_configured_parse_failure",
+    "stopped_at_utc": "20260727T100053Z",
+    "failed_work_unit_id": "S02__ja__literal__chatgpt",
+    "failure_reason": "Response must contain exactly four comma-separated letters A-D",
+    "retry_limit": 3,
+    "failed_target_attempts": 3,
+    "failed_target_raw_responses_stored": 0,
+    "failure_capture_limitation": "The runner version active for these attempts discarded response payloads when strict parsing failed. The failure path has been corrected prospectively, but no fourth request was made and the missing response bodies were not reconstructed.",
+    "successful_unique_results": 26,
+    "successful_results_by_model": {
+      "openai/gpt-4o-2024-11-20": 8,
+      "anthropic/claude-sonnet-4.6": 8,
+      "google/gemini-3.5-flash": 10
+    },
+    "attempt_rows": 31,
+    "failed_attempt_rows": 5,
+    "duplicate_final_results": 0,
+    "parameter_consistency_by_model": {
+      "openai/gpt-4o-2024-11-20": true,
+      "anthropic/claude-sonnet-4.6": true,
+      "google/gemini-3.5-flash": true
+    },
+    "exact_model_ids_observed": [
+      "anthropic/claude-sonnet-4.6",
+      "google/gemini-3.5-flash",
+      "openai/gpt-4o-2024-11-20"
+    ],
+    "smoke_test": {
+      "status": "passed_3_of_3",
+      "unique_results": 3,
+      "observed_cost_usd": 0.0053375
+    },
+    "costs": {
+      "archived_unauthorized_smoke_usd": 0.0,
+      "successful_replacement_smoke_usd": 0.0053375,
+      "observed_successful_post_smoke_collection_usd": 0.041927,
+      "observed_successful_total_usd": 0.0472645,
+      "unobserved_cost_note": "Provider charges for parse-failed responses and requests running when the parallel executor stopped are not available in the local database; therefore a precise combined billed total cannot be claimed from local evidence."
+    },
+    "snapshot_directory": "C:\\Users\\anshi\\OneDrive\\เอกสาร\\AI researcher\\comprehension-check-experiment\\results\\archive\\full_stopped_20260727T100053Z",
+    "snapshot_files": {
+      "comprehension_results.sqlite": "9f06b1723174f9365a71e5d7f643f46972192d5644e878f7acd667dbc784569b",
+      "model_verification.json": "b9eaa25966db0b8dd95b8c98dc66f0a2c2093764177002ff3213419922dcdd17"
+    },
+    "approved_workbook_sha256": "a45e60df32e3773dea3951e555eceeb721d7f8210ab905cadc5b026d10344285",
+    "manifest_sha256": "50fbe02919dfe6e7083ed2e576fdd09473a4d26b815ca14460978b9042e7e5e3",
+    "multilingual_items_sha256": "e09c0bf75c5d0700589d706f0d0a9ebe4a504a84a996f641df4d5cb0673b5c25",
+    "full_analysis_generated": false,
+    "reason_analysis_not_generated": "The final dataset did not reach 720 unique valid rows, so final tables, figures, and inferential summaries would be incomplete and potentially misleading."
+  },
+  "association_analysis": {
+    "status": "complete",
+    "work_unit_shift_matches": 720,
+    "statistical_results_file": "results/processed/comprehension_shift_analysis.json",
+    "merged_file": "results/processed/work_unit_results_with_rating_shift.csv",
+    "bootstrap_repetitions": 10000,
+    "bootstrap_seed": 20260727,
+    "no_additional_api_requests": true
+  }
+}

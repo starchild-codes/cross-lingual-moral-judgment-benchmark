@@ -1,0 +1,7 @@
+cost_component,reported_cost_usd,included_in_combined_total,note
+archived_first_smoke_responses,0.001401000,True,Three archived pre-correction smoke responses.
+archived_first_smoke_verification,0.000702000,True,Archived pre-correction model-verification requests.
+successful_replacement_smoke,0.001401000,True,Three valid smoke rows retained as part of the final 375-row dataset.
+full_experiment_post_smoke_responses,0.272709500,True,The remaining 372 valid response rows.
+corrected_full_run_verification,0.000634500,True,"Exact-ID verification requests, including the resume verification."
+combined_total,0.276848000,False,Sum of all paid requests above; no component is counted twice.
