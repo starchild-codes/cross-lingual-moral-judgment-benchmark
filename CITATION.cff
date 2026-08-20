@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated research paper and the archived release when available."
+type: software
+title: "Beyond English-Centric Alignment: Multilingual and Cultural Variation in LLM Moral Judgment"
+version: "0.1.0"
+date-released: 2026-08-14
+authors:
+  - family-names: "Srivastava"
+    given-names: "Anshima"
+repository-code: "https://github.com/starchild-codes/cross-lingual-moral-judgment-benchmark"
+license: MIT
+keywords:
+  - multilingual evaluation
+  - moral judgment
+  - large language models
+  - cultural framing
+  - computational social science
+abstract: >
+  Reproducibility repository for the benchmark, data-processing code,
+  statistical analyses, validation materials, and figures associated with
+  Beyond English-Centric Alignment: Multilingual and Cultural Variation in
+  LLM Moral Judgment.
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Srivastava"
+      given-names: "Anshima"
+  title: "Beyond English-Centric Alignment: Multilingual and Cultural Variation in LLM Moral Judgment"

@@ -49,6 +49,11 @@ py -3 -m pip install -r requirements.txt
 $env:PYTHONPATH = "$PWD\src"
 ```
 
+The project uses the tracked workbook at
+`data/input/multilingual_comprehension_check.xlsx` by default. To validate a
+separate historical source workbook, set `COMPREHENSION_SOURCE_WORKBOOK` to
+its path before running `scripts\build_project.py`.
+
 ## Validation
 
 ```powershell

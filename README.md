@@ -44,15 +44,19 @@ The 1,000 explanations were coded independently by two human coders, with 96.2% 
 
 Raw active result stores, credentials, coder access tokens, private administration links, and browser backups are intentionally excluded.
 
-## Reproduce
+## Reproduce the released analyses
 
-Requirements: Node.js 20+, pnpm 9.15.4, and Python 3. The static analyses can be run without API credentials; do not invoke collection commands without explicitly configuring an approved environment.
+Requirements: Node.js 20+, pnpm 9.15.4, and Python 3. The released static analyses can be run without API credentials. The original model-collection commands require provider access and an approved environment; they are not needed to reproduce the released analysis tables.
 
 ```bash
 corepack prepare pnpm@9.15.4 --activate
 corepack pnpm install
 corepack pnpm test
 ```
+
+The standalone experiment packages have their own dependency files, validators,
+dry-run commands, and test suites. Run those commands from the relevant package
+directory rather than from the repository root.
 
 Focused reproducibility commands are documented with their reports. Examples:
 
@@ -61,7 +65,8 @@ py -3 scripts/authority_subversion_expansion.py
 py -3 scripts/adaptation_edit_audit.py
 ```
 
-The standalone experiment packages contain their own validators, dry-run commands, and test suites.
+See [DATA_CODE_AVAILABILITY.md](DATA_CODE_AVAILABILITY.md) for the boundary
+between released analysis reproduction and API-dependent data collection.
 
 ## Validation and Interpretation
 
@@ -77,6 +82,14 @@ Never commit API keys, Supabase service-role keys, coder tokens, private adminis
 
 Previously exposed scenario-validation credentials were removed from the current tracked tree. Any credential that was ever committed must be rotated/revoked by the repository owner.
 
-## Citation and License
+## Citation, license, and data policy
 
-Formal citation metadata and a software/data license will be added when the manuscript record is finalized. Until then, reuse requires permission from the study authors.
+Citation metadata are provided in [CITATION.cff](CITATION.cff). The analysis
+code is released under the [MIT License](LICENSE). Data reuse remains subject
+to the source materials and study-specific permissions described in
+[DATA_CODE_AVAILABILITY.md](DATA_CODE_AVAILABILITY.md) and
+[DATA_LICENSE.md](DATA_LICENSE.md).
+
+For publication, cite an immutable release or commit rather than the moving
+`main` branch. Add the archival DOI to `CITATION.cff` once the repository has
+been deposited.

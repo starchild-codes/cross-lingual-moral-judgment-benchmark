@@ -42,7 +42,7 @@ except ImportError:
     textstat = None
 
 
-# ── CONFIG ────────────────────────────────────────────────────────────────────
+# Configuration.
 
 BASE_PATH = r"C:\Users\anshi\OneDrive\Desktop"
 ENRICHED_CSV_PATH = os.path.join(BASE_PATH, "reddit_data_clean_with_acronyms.csv")
@@ -86,7 +86,7 @@ ACRONYM_METRICS = [
 ALL_METRICS = MAIN_METRICS + ACRONYM_METRICS
 
 
-# ── HELPERS ───────────────────────────────────────────────────────────────────
+# Helpers.
 
 def bh_fdr(p_values, alpha=0.05):
     """
@@ -332,7 +332,7 @@ def partial_corr_for_metric(df, metric, covariates):
         return np.nan, np.nan
 
 
-# ── MAIN ──────────────────────────────────────────────────────────────────────
+# Main analysis.
 
 print("=" * 80)
 print("FDR CORRECTION ANALYSIS")
@@ -369,7 +369,7 @@ if missing_metrics:
         print(f"  - {m}")
 
 
-# ── 1. KRUSKAL-WALLIS OMNIBUS FDR ─────────────────────────────────────────────
+# Kruskal-Wallis omnibus FDR.
 
 print("\nRunning Kruskal-Wallis omnibus tests...")
 
@@ -408,7 +408,7 @@ kruskal_path = os.path.join(OUTPUT_DIR, "fdr_kruskal_omnibus.csv")
 kruskal_df.to_csv(kruskal_path, index=False)
 
 
-# ── 2. DUNN PAIRWISE FDR ──────────────────────────────────────────────────────
+# Dunn pairwise FDR.
 
 print("Running Dunn pairwise tests...")
 
@@ -437,7 +437,7 @@ dunn_path = os.path.join(OUTPUT_DIR, "fdr_dunn_pairwise.csv")
 dunn_df.to_csv(dunn_path, index=False)
 
 
-# ── 3. PARTIAL CORRELATION FDR ────────────────────────────────────────────────
+# Partial correlation FDR.
 
 print("Running partial correlations...")
 
@@ -491,7 +491,7 @@ partial_path = os.path.join(OUTPUT_DIR, "fdr_partial_correlations.csv")
 partial_df.to_csv(partial_path, index=False)
 
 
-# ── 4. PRINT SUMMARY ──────────────────────────────────────────────────────────
+# Print summary.
 
 print("\n" + "=" * 80)
 print("KRUSKAL-WALLIS OMNIBUS FDR SUMMARY")
@@ -562,7 +562,7 @@ else:
     )
 
 
-# ── 5. SHORT INTERPRETIVE SUMMARY FILE ────────────────────────────────────────
+# Write the short interpretive summary.
 
 summary_path = os.path.join(OUTPUT_DIR, "fdr_summary.txt")
 

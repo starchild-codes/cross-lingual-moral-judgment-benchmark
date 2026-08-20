@@ -4,6 +4,7 @@ import csv
 import hashlib
 import json
 import math
+import os
 import re
 import shutil
 import sys
@@ -22,7 +23,12 @@ from openpyxl.styles import Alignment, Font, PatternFill
 
 PROJECT = Path(__file__).resolve().parents[1]
 REPO = PROJECT.parent
-SOURCE_WORKBOOK = Path(r"C:\Users\anshi\Downloads\multilingual_comprehension_check.xlsx")
+SOURCE_WORKBOOK = Path(
+    os.environ.get(
+        "COMPREHENSION_SOURCE_WORKBOOK",
+        str(PROJECT / "data" / "input" / "multilingual_comprehension_check.xlsx"),
+    )
+)
 ORIGINAL_COPY = PROJECT / "data" / "input" / SOURCE_WORKBOOK.name
 COMPLETED_WORKBOOK = PROJECT / "multilingual_comprehension_check_completed.xlsx"
 LANGUAGES = {
