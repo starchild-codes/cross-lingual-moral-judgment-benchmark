@@ -20,12 +20,14 @@ The authoritative design is [FINAL_STUDY_SPECIFICATION.md](paper_materials/FINAL
 | Resource | Canonical path | Notes |
 | --- | --- | --- |
 | Final scenario dataset | `data/scenarios_final_50.csv` | Exactly 50 scenarios, `S01`-`S50`; see `data/SCENARIO_DATA_PROVENANCE.md`. |
-| Human-adjudicated qualitative labels | `data/processed/qualitative_human_adjudicated_final.csv` | Exactly 1,000 explanations; see `data/processed/QUALITATIVE_DATA_PROVENANCE.md`. |
+| Released qualitative label extract | `data/processed/qualitative_human_adjudicated_final.csv` | 1,000 explanation rows; see [source and verification limits](data/processed/QUALITATIVE_DATA_PROVENANCE.md). |
 | Rating results | `results/processed/full_merged.csv` | 5,000 rating observations. |
 | Scenario validation | `results/processed/scenario_validation_trial2/` | Three blinded external human coders assessed the 50 English scenarios. |
 | Statistical policy | `reports/statistical_policy_reconciliation.md` | The manuscript reports paired-t inference as the primary analysis, with exact-Wilcoxon and cluster-bootstrap analyses retained as robustness checks. |
 
-The 1,000 explanations were coded independently by two human coders, with 96.2% raw agreement and Cohen's kappa = 0.948, then human-adjudicated. Historical filenames and fields containing `ai_mft`, `llama`, or `deepseek` do not describe the final coding process. They are retained only for traceability.
+The study team reports independent coding of all 1,000 explanations by two human coders, with 96.2% raw agreement and Cohen's kappa = 0.948. Their original independent response-level human label exports are not included in this public snapshot, so this reliability result cannot yet be recomputed from the repository. An earlier automated-coding workflow is also preserved. See the [qualitative provenance note](data/processed/QUALITATIVE_DATA_PROVENANCE.md). The three-coder scenario validation is a distinct human-coded dataset, with separate individual labels publicly archived.
+
+For a quick evidence map, begin with [REVIEWER_START_HERE.md](REVIEWER_START_HERE.md).
 
 ## Repository Layout
 

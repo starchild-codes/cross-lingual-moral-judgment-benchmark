@@ -1,12 +1,7 @@
-# Final Evidence Lock Provenance Resolution
+# Remaining Qualitative Provenance Verification
 
-## Resolved Provenance Gate
+The study team reports two independent human explanation coders (96.2% agreement; Cohen's kappa = 0.948). The public repository does not currently contain the individual human response-level exports or the human adjudication log needed to recompute those results. Its current final-label extract has a separately documented earlier automated-coding lineage.
 
-The 1,000 qualitative explanations were coded independently by two human coders. Human inter-rater reliability was 96.2% raw agreement with Cohen's kappa = 0.948. Disagreements and invalid or uncertain cases were resolved through human adjudication, and the final labels are human-adjudicated labels.
+**Required to close:** original independent human Coder A/Coder B label files keyed by `response_id`; recomputation of their agreement and kappa; the corresponding human-adjudicated labels; and a row-by-row reconciliation with the released qualitative labels. If those final labels differ, update only the affected analyses and plots using verified human decisions. Preserve the historical automated artifacts for transparency.
 
-Provenance clarification:
-
-- Historical files and fields containing `ai_mft`, `llama`, or `deepseek` in their names are retained for traceability.
-- Those historical names do not accurately describe the final coding process and must not be used to infer AI-assisted or LLM-generated labels.
-- `results/processed/full_merged_with_human_mft_codes.csv` is the clearly named source for future scripts and documentation.
-- No labels, statistics, match rates, transition matrices, or sensitivity results were changed by this documentation correction.
+The separate 50-scenario, three-human validity study is already publicly archived and must not be substituted for the two-human 1,000-explanation coding process. This outstanding public-evidence check does not imply that independent human coding did not happen.

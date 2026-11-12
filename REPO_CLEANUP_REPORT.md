@@ -1,5 +1,7 @@
 # Repository Cleanup Report
 
+> **Historical packaging report:** The earlier 'PASS' status below refers to tests, released-file counts, and packaging. It does not independently verify the original two-human explanation-coding label sheets, which are not present in this public snapshot. The historical automated coding source is documented in `data/processed/QUALITATIVE_DATA_PROVENANCE.md`.
+
 ## Scope
 
 The public-release cleanup canonicalized paths and documentation without rerunning experiments, making API calls, changing scenario text, altering model outputs, qualitative labels, or numerical results. A pre-cleanup Git branch remains available as `backup/pre-public-release-cleanup-20260814`.
@@ -14,7 +16,7 @@ The public-release cleanup canonicalized paths and documentation without rerunni
 
 ## Historical Evidence Preserved
 
-No historical data or reports were deleted. Historical `ai_mft`, `llama`, and `deepseek` paths remain for traceability but do not describe the final human coding process.
+No historical data or reports were deleted. Historical `ai_mft`, `llama`, and `deepseek` paths preserve a real earlier automated-coding pipeline. The separate study-team-reported human coding cannot be independently attributed to final response-level labels without the original human coding exports.
 
 ## Source Reconciliation
 
@@ -32,7 +34,7 @@ Previously exposed scenario-validation credentials were removed from the current
 
 - Canonical scenario dataset: 50 ordered IDs (`S01`-`S50`), with nonempty English scenario text.
 - Canonical qualitative dataset: 1,000 qualitative rows; every explicit human-adjudicated label matches the preserved final-label value.
-- Historical `full_merged_with_ai_mft_codes.csv` and clearly named `full_merged_with_human_mft_codes.csv` are byte-identical, confirming a provenance naming correction rather than a data revision.
+- Historical `full_merged_with_ai_mft_codes.csv` and `full_merged_with_human_mft_codes.csv` are byte-identical. This confirms a copy, not independent human label origin. The original human coder files need separate verification.
 
 ## Final Publication-Readiness Pass
 

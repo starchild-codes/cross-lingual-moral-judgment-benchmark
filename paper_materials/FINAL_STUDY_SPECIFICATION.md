@@ -14,7 +14,7 @@ Gemini 3.1 Pro Preview is a fixed high-capability reference comparator. It is no
 
 ## Qualitative Explanations and Validation
 
-The qualitative dataset contains 1,000 explanations from 10 scenarios x 25 conditions x 4 models. Two independent human coders coded the explanations while blind to model, input language, condition, and intended foundation. Raw agreement was 96.2% and Cohen's kappa was 0.948. Final foundation labels are human-adjudicated labels; see `data/processed/qualitative_human_adjudicated_final.csv` and its provenance note.
+The qualitative dataset contains 1,000 explanations from 10 scenarios x 25 conditions x 4 models. The study team reports that two independent humans coded the explanations without displayed model, language, or condition metadata (reported agreement 96.2%; Cohen's kappa = 0.948). The first author designed the scenarios and thus could not be fully blind to their intended foundations. The original independent human response-level label exports and adjudication log are absent from the public snapshot, so human agreement and the attribution of the currently archived final labels cannot be independently verified here. The released qualitative label field also has a separate historical automated-coding lineage; see `data/processed/QUALITATIVE_DATA_PROVENANCE.md`.
 
 Scenario-foundation validation was separate: three external blinded human coders assessed all 50 English scenarios. This validation retained 5 of 10 intended Authority/Subversion scenarios under the human-majority criterion.
 

@@ -9,7 +9,7 @@ Alignment: Multilingual and Cultural Variation in LLM Moral Judgment*.
 The repository includes:
 
 - the canonical 50-scenario benchmark and its provenance documentation;
-- the human-adjudicated qualitative coding extract;
+- the released 1,000-row qualitative label extract and its source-provenance note;
 - processed rating tables, validation tables, plotting data, and figures;
 - analysis, validation, and figure-generation scripts;
 - statistical reports, integrity hashes, and reproducibility metadata; and
@@ -25,8 +25,16 @@ this repository.
 
 ## Reproduction boundary
 
-The released processed files support reproduction of the reported descriptive
-and statistical analyses without API credentials. A clean checkout can install
+The released processed files support reproduction of descriptive and
+statistical analyses *conditional on the archived qualitative labels*, without
+API credentials. The study team also reports a separate two-human coding of
+the 1,000 model explanations. However, the original independent human label
+sheets and adjudication log are not in this public snapshot. Accordingly,
+the reported human 96.2% agreement and Cohen's kappa of 0.948 cannot yet be
+independently recomputed from it. Historical automated Llama/DeepSeek coding
+files remain available and must not be mistaken for human inter-rater
+agreement. The independent three-human validation of 50 scenario texts has
+its own individual label exports in `results/processed/scenario_validation_trial2/`. A clean checkout can install
 the JavaScript dependencies with pnpm and run the documented tests. The
 standalone Python packages have separate requirements files and validation
 instructions in their local READMEs and reports.

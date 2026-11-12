@@ -1,5 +1,7 @@
 # Final Claim-Evidence Matrix
 
+> **Qualitative provenance qualification:** Historical table rows characterizing two-human explanation coding as independently 'Supported' record the study team's reported process, not a complete human source-file audit. The original two human label sheets and their adjudication log are not included in this snapshot. See `QUALITATIVE_HUMAN_PROVENANCE_AUDIT.md`. Descriptive counts remain conditional on the released labels.
+
 > **ROBUSTNESS-TRACK NOTE:** This file uses the later exact-Wilcoxon robustness policy. The final manuscript's declared primary inferential framework is the manuscript-era paired-t analysis documented in `reports/statistical_policy_reconciliation.md`.
 
 Verdicts use only **Supported**, **Supported with qualification**, and **Not supported**.
